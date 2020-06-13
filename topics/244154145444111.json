@@ -1,0 +1,283 @@
+{
+    "topic_id": 244154145444111,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "脏活、累活出奇迹。\n\n运营上有时候讲求“大力出奇迹”，别跟我讲什么“转化率”、“诱导裂变”、“AB test”、“漏斗分析”，双11半价一把梭，GMV直接封顶。\n\n同样的，脏活、累活出奇迹。\n\n特别是整理数据这样的脏活、累活，很多产品或者文章其实就是数据换个维度呈现，谁把数据整理的干净、清爽、有结构，谁就提供了更高一层纬度的价值。\n\n企信宝、企查查这些app里面的数据，绝大部分是政府网站里面的公开数据，只不过这些数据散乱在各个地方，通过抓取数据、清洗数据、整理数据、呈现数据，它就有了额外的价值，就有很多人愿意付费。\n\n昨天有人发了知乎引流的一个案例，同样的，把散落在几千个回答里面的推荐书籍，整理成一份清晰的Excel表格，你问我喜不喜欢，我当然喜欢。\n\n前几年，双11天猫五折商品清单，机灵的淘客整理成一份excel表格，加上自己的佣金链接，四处传播，不明真相的吃瓜群众帮着传播，最后淘客赚的盆满钵溢。\n\n如果没有生产数据的能力，那么不如考虑考虑做数据的搬运工。",
+        "images": [
+            {
+                "image_id": 422224542482518,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ft5WfKJeeo-mCU2y7KiQ6lGrH57Z?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yimB7WtJLorASD6hYAYOD75dyvI=",
+                    "width": 540,
+                    "height": 327
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ft5WfKJeeo-mCU2y7KiQ6lGrH57Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lTFQTALsn6YtlrgIXFK0C0r1JZc=",
+                    "width": 546,
+                    "height": 331
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-13T15:13:45.018+0800",
+            "owner": {
+                "user_id": 118552824414222,
+                "name": "微光",
+                "avatar_url": "https://images.zsxq.com/FlfBIAlo8MlFjTpmeO_XsCHG-Xku?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ywmOZKJLxma5TFPf8Oa3CO9WUbA=",
+                "number": 6676
+            }
+        },
+        {
+            "create_time": "2020-03-11T14:09:49.081+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2020-01-30T00:40:53.286+0800",
+            "owner": {
+                "user_id": 28824858112251,
+                "name": "唐葫芦",
+                "avatar_url": "https://images.zsxq.com/FlkS_rOyPrqiHVUpgYpGEzmK9K9t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j0RGGUPmGrB31SoLnEp5YrreHDA=",
+                "number": 6208
+            }
+        },
+        {
+            "create_time": "2019-10-09T01:09:44.341+0800",
+            "owner": {
+                "user_id": 15515111212242,
+                "name": "月明呐",
+                "avatar_url": "https://images.zsxq.com/FmvW9YoIQEQVJ77XAHBINu6Uvnpa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:klRN5wC02h1xPOG-8rZaAI-PG2c=",
+                "number": 2669
+            }
+        },
+        {
+            "create_time": "2019-07-15T09:23:38.295+0800",
+            "owner": {
+                "user_id": 15451842488152,
+                "name": "梁勇",
+                "avatar_url": "https://images.zsxq.com/Fr_u3V6NE4K1dZFHHrbaJWy67Oa7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fmfSXgEZ-371KvoJNpzllFpXKNM=",
+                "number": 2760
+            }
+        },
+        {
+            "create_time": "2019-07-14T19:24:04.006+0800",
+            "owner": {
+                "user_id": 822582181252,
+                "name": "灵风",
+                "avatar_url": "https://images.zsxq.com/FqnMi_7htae6aT3Bu8s4kEwe1Kdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MEo8ScYXpr-Qf0AhCzL3YFPSRNY=",
+                "number": 730
+            }
+        },
+        {
+            "create_time": "2019-07-14T18:34:06.188+0800",
+            "owner": {
+                "user_id": 281185522451,
+                "name": "曜石头",
+                "avatar_url": "https://images.zsxq.com/Fol1uxM7rOUxapu7GdJbU_0UVf5s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D62XSggkCjsmDMLIzv1LLTTv6ig=",
+                "number": 3849
+            }
+        },
+        {
+            "create_time": "2019-07-14T00:16:36.231+0800",
+            "owner": {
+                "user_id": 145481584452,
+                "name": "Tim",
+                "avatar_url": "https://images.zsxq.com/Fn5Xou8sMrKjeFfm6i5BuIH9TYid?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4Wg2cXEBU8AEqzx4bzsXy2c5Xpo=",
+                "number": 3826
+            }
+        },
+        {
+            "create_time": "2019-07-13T11:18:33.952+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-07-12T15:32:50.256+0800",
+            "owner": {
+                "user_id": 88845545888242,
+                "name": "拯直",
+                "avatar_url": "https://images.zsxq.com/FqHgNUKpXn4rmYtTk2MCw1WRppgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:id9Mv6d2ESA24IC4p1OJ15bTVPA=",
+                "number": 2588
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-08T04:54:17.453+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ="
+            },
+            "amount": 1800
+        },
+        {
+            "create_time": "2019-06-18T22:45:29.641+0800",
+            "owner": {
+                "user_id": 28844541521441,
+                "name": "洋洋",
+                "avatar_url": "https://images.zsxq.com/FspoLAbCl_KMTue2YkYuu-QFH2Di?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4r__TmN6GAdulKQo9LsWKWrrY3Y="
+            },
+            "amount": 900
+        },
+        {
+            "create_time": "2019-05-10T17:12:36.544+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-05-07T23:15:37.013+0800",
+            "owner": {
+                "user_id": 15284111454852,
+                "name": "五点六十",
+                "avatar_url": "https://images.zsxq.com/FjFgt0oNVT_Brbj0fsQevHDDiGAB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q0gfNqS9muIDyrey4AicclHia5k="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-05-07T12:46:48.362+0800",
+            "owner": {
+                "user_id": 511255414,
+                "name": "小白- 厦门",
+                "avatar_url": "https://images.zsxq.com/FqYlTcBvyQwXIsuVTEWovddLCiEY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e_1sa_NCZUrQf0NoCTy2NU67rMU="
+            },
+            "amount": 588
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841588424211152,
+            "create_time": "2019-05-07T11:00:13.951+0800",
+            "owner": {
+                "user_id": 48811555481248,
+                "name": "成克帅",
+                "avatar_url": "https://images.zsxq.com/Fq0zCl-dZ3iHMIze0egyqfBvLG4x?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zZqs-_EQFjSOg090K9OSe5fPVkc="
+            },
+            "text": "执行到位，结果不会太差",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118255141151282,
+            "create_time": "2019-05-07T11:10:12.309+0800",
+            "owner": {
+                "user_id": 15515111212242,
+                "name": "月明呐",
+                "avatar_url": "https://images.zsxq.com/FmvW9YoIQEQVJ77XAHBINu6Uvnpa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:klRN5wC02h1xPOG-8rZaAI-PG2c="
+            },
+            "text": "这些都有用，但是排名第一的就是先把脏话累活给做完了，最近在实操项目的时候发现，那些所谓的方法有用，但是要先从最底层的做起，就是脏话累活执行力，让他们产生对你的信任，后面才可以做这些听起来比较高端的东西",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241588424122221,
+            "create_time": "2019-05-07T11:31:29.354+0800",
+            "owner": {
+                "user_id": 5418452224,
+                "name": "stormzhang",
+                "avatar_url": "https://images.zsxq.com/FnwjmtDzAV9HoCo4daGKo2mdHBRr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P4qqsa-ltqJ2AIZbbWpuwdtzhHU="
+            },
+            "text": "大力出奇迹，干就完了！",
+            "likes_count": 4,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241588448854421,
+            "create_time": "2019-05-07T12:50:30.198+0800",
+            "owner": {
+                "user_id": 511255414,
+                "name": "小白- 厦门",
+                "avatar_url": "https://images.zsxq.com/FqYlTcBvyQwXIsuVTEWovddLCiEY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e_1sa_NCZUrQf0NoCTy2NU67rMU="
+            },
+            "text": "干就完了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841588448851182,
+            "create_time": "2019-05-07T12:51:35.582+0800",
+            "owner": {
+                "user_id": 5822841114,
+                "name": "企鹅哥哥",
+                "avatar_url": "https://images.zsxq.com/FiThBBg9d_CXLVQpvDQtPI3GLuh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cklGEexNGqCJ3fDSgFV2JO3yC9o="
+            },
+            "text": "干就完了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548211445115524,
+            "create_time": "2019-05-07T14:54:08.575+0800",
+            "owner": {
+                "user_id": 88448282211222,
+                "name": "vince",
+                "avatar_url": "https://images.zsxq.com/FrG-eUBRnKIbqgBracbJcUYoloVN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZM8amBR5-8L5soxrbzaJCsU9k7g="
+            },
+            "text": "不是给老夫说技朮，老夫的技术只有一个，刷！刷！刷！[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548211445444224,
+            "create_time": "2019-05-07T15:49:09.267+0800",
+            "owner": {
+                "user_id": 1114511112,
+                "name": "顺泽",
+                "avatar_url": "https://images.zsxq.com/FtIVgDwo5eKKGY7T5LO4zFolU8h5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D5RKLrlwxDKqansAZBWjZxPNc8M="
+            },
+            "text": "其实和2B服务一样，不停的跪舔客户，脏活累活都给自己做，让客户只需出钱，其他都不用做，完全从用户角度把事情做完，才能大概率赚到钱",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421488214288528,
+            "create_time": "2019-05-07T19:21:59.584+0800",
+            "owner": {
+                "user_id": 488415418,
+                "name": "CaptainAm",
+                "avatar_url": "https://images.zsxq.com/Fq0u13XiT6z_1ggjymjlfB-suZ3G?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GzCZBBJwPql-qYMYbQqAEXRwQtY="
+            },
+            "text": "聚合数据  信息差",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 136,
+    "rewards_count": 5,
+    "comments_count": 12,
+    "reading_count": 10896,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-07T10:44:37.243+0800",
+    "modify_time": "2019-05-07T15:20:52.959+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "topic_id": 15484855418252,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 142184228282,
+            "name": "elya妞",
+            "avatar_url": "https://images.zsxq.com/Ftyz6jw-DoYBpbHs4PjX-CpPFTaT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:enJeU1bPu3_mUyQ45TVeb2O29AQ="
+        },
+        "text": "#多抓鱼#  #小程序# #二手电商#\n周末多抓鱼的分享，绝对是心水产品的良心分享\n\n图1-2 是CTO讲怎么验证MVP，当时他们请周围的朋友拉了一个你周围最爱书的十个人，验证了最开始几个问题\n\n图3-4 是怎么解决一个用户\"抢一本书\"vs“一本书发货浪费物流的问题” 锁定购物车\n\n图5-7 是怎么把一个二手电商做成和用户“军民鱼水情”的一个温情社区，（通过用户头像）营造用户知道从哪买的书，书卖給了谁的氛围，“谁谁买了你的书，你想和ta说点什么”\n\n图8-9 是多抓鱼的邀请好友裂变，互利模式\n\n朋友推荐了一本书《数字生命密码》，因为是不常见的旧书，随手在多抓鱼搜了一下，发现多抓鱼二手书真的挺便宜的，才几块钱。\n然后发现可以分享邀请好友，好友下单得15，我得30。\n然后得了30的券后忍不住又下了一单。\n然后发现多抓鱼下单用余额支付打88折，又回家把不需要的书提交了一个出售单，共计十多本。\n然后发现多抓鱼的卖书流程非常简单，扫个码就行，啥也不用干。\n然后没多久收到一个通知，我订阅的缺货书上架了，正犹豫不超过30分钟，这个书就被抢走了，瞬间悔恨，决定下次一定果断下单。\n好像我被这个良好的体验给循环消费了。",
+        "images": [
+            {
+                "image_id": 48551412511488,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fndadq31rgfmdKaCb2iTzXf2opr6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qe7jt7CdRlu7Uifr3mOHe1duivI=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fndadq31rgfmdKaCb2iTzXf2opr6?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pdGlNYI9qcVWCYiLWRmla9JHdec=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fndadq31rgfmdKaCb2iTzXf2opr6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WJZucTl6EGbNBOZZEbhN27NvJow=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 189241
+                }
+            },
+            {
+                "image_id": 88221514211582,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvZGTwDbRo2YUiLUsF08qCd-2fXD?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DD2pW_Mqz6dtMEsesn5jv4nB-ww=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvZGTwDbRo2YUiLUsF08qCd-2fXD?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nfp4rirsfhVrAkqwqQRhkctIwbE=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvZGTwDbRo2YUiLUsF08qCd-2fXD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WqF7W7s6qjBn4KWM98IbM0g7m-w=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 178614
+                }
+            },
+            {
+                "image_id": 28221514211521,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvpC2X2H2BbAvhPzXnggSxL_NosQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xIulJkgaHc6CdlzYSIah_Q8lhvk=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvpC2X2H2BbAvhPzXnggSxL_NosQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mXxtkjXhcgPyMs9mzqtVQyAs_Yw=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvpC2X2H2BbAvhPzXnggSxL_NosQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JnFeb1K5AqvcLChwTuzjQuDJhR0=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 113624
+                }
+            },
+            {
+                "image_id": 15448281488212,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ft_M_n5y8Z6uQZjx1g3o2wurUm6N?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ulORGa-X_q8zL744BFDuvCfp1TU=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ft_M_n5y8Z6uQZjx1g3o2wurUm6N?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YoqoUVxIWju56Nkq8HFprfXUbYg=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Ft_M_n5y8Z6uQZjx1g3o2wurUm6N?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wt5DY9wnVzSlWH6wOAmiyRiCX4k=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 160519
+                }
+            },
+            {
+                "image_id": 48551412511428,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fj98YI1MIGC6VP9NbVzoIeVtpUd6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VyieDmp1Jxe53KH3E7TGNc0S1Rs=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fj98YI1MIGC6VP9NbVzoIeVtpUd6?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:l_cFmqOnEWCx9SWV-ZhDIX0Hb-U=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fj98YI1MIGC6VP9NbVzoIeVtpUd6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MgLCovrj8EtBrCQMktb5_Ku0628=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 155526
+                }
+            },
+            {
+                "image_id": 88221514211542,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fq9ue7DjV3XvkCI3CKnb_wYofM4d?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b82pVeZ-34qp5nFODgpkyQKFWqk=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fq9ue7DjV3XvkCI3CKnb_wYofM4d?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bpunZn_dNnO8CqmcBt-r2-6Q0ho=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fq9ue7DjV3XvkCI3CKnb_wYofM4d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cgCfS0xN8Jb7gWW51WL3B1pVpDM=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 173847
+                }
+            },
+            {
+                "image_id": 28221514211541,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ftm6A3xtSaSt2ApIqcMKO21Dseyu?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EsJ4Bl0cfYbXvY3SmGIosJb9AIA=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ftm6A3xtSaSt2ApIqcMKO21Dseyu?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Vde4D2Zvzfm-uAhJwAM-eg0_2I=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Ftm6A3xtSaSt2ApIqcMKO21Dseyu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VhcZlH5FpXac7TrpJBxw-119ZT8=",
+                    "width": 1080,
+                    "height": 810,
+                    "size": 198090
+                }
+            },
+            {
+                "image_id": 15448281488282,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fp-f0OOmGnt6SZ_6AT3y2iUXE1m_?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0MKvH61S2LGqVupf18beNghG0D0=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fp-f0OOmGnt6SZ_6AT3y2iUXE1m_?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WU3KeB9Dup3wKdiYwS_cshPgdj0=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fp-f0OOmGnt6SZ_6AT3y2iUXE1m_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I_QNxxlReI9XH50AN-vhVciCJdc=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 225106
+                }
+            },
+            {
+                "image_id": 48551412511418,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fodxehyo77RsmO8jBDBTwBCgHaeT?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Di5Uj3GPHitUxFqSF3kzF7t6Kvo=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fodxehyo77RsmO8jBDBTwBCgHaeT?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OpBjnU1XlGDhwDhC4tzljjOyeVA=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fodxehyo77RsmO8jBDBTwBCgHaeT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7QzWFB8Z78DKa0UCZMVtzNu3_P4=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 274646
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-15T01:49:02.640+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-08-08T18:19:09.201+0800",
+            "owner": {
+                "user_id": 555522285284,
+                "name": "Anna",
+                "avatar_url": "https://images.zsxq.com/Fiehls6BOlCRJE1a_ZB-mOZEZg3Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n6F1GaoKBNTqK2zhvhjz5GWlF8s=",
+                "number": 4265
+            }
+        },
+        {
+            "create_time": "2019-06-03T08:33:52.371+0800",
+            "owner": {
+                "user_id": 2481825151,
+                "name": "Ugly",
+                "avatar_url": "https://images.zsxq.com/Fh1UOlkmvIhN7k7jjfiSdkvl2RNJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OsHtOC-gz4DeEMAi1KLXaGy3CiM=",
+                "number": 3150
+            }
+        },
+        {
+            "create_time": "2019-05-09T23:09:51.480+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T23:40:19.273+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-20T13:26:06.302+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-11-10T12:15:09.515+0800",
+            "owner": {
+                "user_id": 458155884548,
+                "name": "friree",
+                "avatar_url": "https://images.zsxq.com/Flai0ROLOJdRYxXhUgBNDYxeHpgV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hin3h3W-BuM-1eAXn9oLzbUnmmM=",
+                "number": 539
+            }
+        },
+        {
+            "create_time": "2018-08-16T16:52:23.613+0800",
+            "owner": {
+                "user_id": 144242481142,
+                "name": "94",
+                "avatar_url": "https://images.zsxq.com/Fv1fWZAPJhyjwo62UNAZn7jaDPrq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BNPjUsrdX8P-Opqlp8ExrcEK8ZI=",
+                "number": 1200
+            }
+        },
+        {
+            "create_time": "2018-08-06T12:08:37.807+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0=",
+                "number": 1659
+            }
+        },
+        {
+            "create_time": "2018-08-06T00:16:57.845+0800",
+            "owner": {
+                "user_id": 458552218828,
+                "name": "應",
+                "avatar_url": "https://images.zsxq.com/Fg3oGRKmlkjOGyAfhicYVTWE_Awu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNQSbZ7VoiF8WFxM99LB_ZwdOhM=",
+                "number": 1864
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 15114241222142,
+            "create_time": "2018-07-30T23:00:58.997+0800",
+            "owner": {
+                "user_id": 552184288284,
+                "name": "黄亮",
+                "avatar_url": "https://images.zsxq.com/FtRQ4E4zocdkjCR2UoV5M3YS8Cef?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oOUvZvMdg9WDbMbhq96biTFUNFs=",
+                "description": "全能跨界，供应链专家，创业者"
+            },
+            "text": "多抓鱼牛逼",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88442524852242,
+            "create_time": "2018-07-30T23:24:43.071+0800",
+            "owner": {
+                "user_id": 552184288284,
+                "name": "黄亮",
+                "avatar_url": "https://images.zsxq.com/FtRQ4E4zocdkjCR2UoV5M3YS8Cef?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oOUvZvMdg9WDbMbhq96biTFUNFs=",
+                "description": "全能跨界，供应链专家，创业者"
+            },
+            "text": "有PPT么 ，可否能分享一下",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51445245521824,
+            "create_time": "2018-07-31T12:31:11.205+0800",
+            "owner": {
+                "user_id": 142812242822,
+                "name": "空音见性",
+                "avatar_url": "https://images.zsxq.com/FurSkoilC4l05qjt6ChJC6XkTk7r?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BooXcrz2gnzagqoAbgYjC3pXuhk="
+            },
+            "text": "提出的那几个问题想看看是怎么解决的！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51444584811124,
+            "create_time": "2018-08-11T10:53:34.083+0800",
+            "owner": {
+                "user_id": 4515544288,
+                "name": "南山大叔",
+                "avatar_url": "https://images.zsxq.com/FrHROqQ9ZOhseTmnn1txKUiJaasv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:q5XIt37blj6aH5-FzL1BUTnwDf8="
+            },
+            "text": "有PPT不？",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421451211542888,
+            "create_time": "2019-06-08T13:10:49.702+0800",
+            "owner": {
+                "user_id": 2458522111,
+                "name": "龙东平",
+                "alias": "龙东平@蘑菇租房",
+                "avatar_url": "https://images.zsxq.com/Frm3tPcBLZt8RhWYMrggu52Z8S8u?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fvDiE8T84dPlj3JB3SvUeKLNKpA="
+            },
+            "text": "求深扒",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 34,
+    "rewards_count": 0,
+    "comments_count": 5,
+    "reading_count": 15851,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-07-30T22:38:08.513+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

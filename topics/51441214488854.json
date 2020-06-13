@@ -1,0 +1,171 @@
+{
+    "topic_id": 51441214488854,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8214158422,
+            "name": "钱钰",
+            "avatar_url": "https://images.zsxq.com/FsGW9ZnKn188G6GlQeMFz7QYwNqM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w4vMkFlaBBxamyfYHkzfApiogDk=",
+            "description": "化龙巷创始人，区域互联网领军人物"
+        },
+        "text": "互联网看似让信息对称了，其实加剧了信息不对称。信息茧房已经形成，每个人看到的世界只是你一直在看的，以及你以为的那个世界。\n\n在这个全新的逻辑里，商品本身到底是什么不重要，成本到底占多少比例不重要，怎么让人心动很重要，怎么满足情绪诉求很重要，怎么满足身份认同很重要。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T07:26:44.056+0800",
+            "owner": {
+                "user_id": 118552824414222,
+                "name": "微光",
+                "avatar_url": "https://images.zsxq.com/FlfBIAlo8MlFjTpmeO_XsCHG-Xku?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ywmOZKJLxma5TFPf8Oa3CO9WUbA=",
+                "number": 6676
+            }
+        },
+        {
+            "create_time": "2019-11-06T22:59:52.474+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2019-09-25T15:33:26.233+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-26T18:24:43.738+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T22:59:35.418+0800",
+            "owner": {
+                "user_id": 2421518251,
+                "name": "小晕",
+                "avatar_url": "https://images.zsxq.com/FkcrDL9oplR7QN6PXUOpHRyQMjJx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4r0H3ZJDpFW525oxML3HpJKYeqE=",
+                "number": 5261
+            }
+        },
+        {
+            "create_time": "2019-04-23T16:39:52.925+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-22T23:48:45.221+0800",
+            "owner": {
+                "user_id": 15284825525512,
+                "name": "翰林",
+                "avatar_url": "https://images.zsxq.com/FhFElpiCjvJTK_8WXy-ZCtw7JmVB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jOdhpeqXxGb8rCZBeyZuD5g-d4Q=",
+                "number": 3674
+            }
+        },
+        {
+            "create_time": "2019-04-19T03:16:01.215+0800",
+            "owner": {
+                "user_id": 15488812252252,
+                "name": "王小潘",
+                "avatar_url": "https://images.zsxq.com/FpJoWUATkyRpExDK3_u49W8AMQIH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8MYOUWKEdJrPgqeg4pDEV3TYkYE=",
+                "number": 3979
+            }
+        },
+        {
+            "create_time": "2019-04-19T02:36:46.755+0800",
+            "owner": {
+                "user_id": 144454158822,
+                "name": "Bleu",
+                "avatar_url": "https://images.zsxq.com/FnysxRbRBjkf4X7o8PRCy6v9v7T4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IZHpls6_WsDSrkRpBMNshFvYeZM=",
+                "number": 5083
+            }
+        },
+        {
+            "create_time": "2019-04-11T08:49:07.377+0800",
+            "owner": {
+                "user_id": 824454555482,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/FkP9Zm83Rjnx_P2qfJm6ewdfNut9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XaMCseQs54xTlW0vWtDbXkfzXMw=",
+                "number": 1776
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 244151854514121,
+            "create_time": "2018-12-06T02:06:15.854+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "信息不对称才有利差，而利差只要规模化，即可大规模获利。后入者是否会极大的降低原本获利者的利润，主要取决于信息的门槛，以及规模化后的管理。但是信息再有效，无法做持续的有效的管理，也没啥用，就是噪音。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 844151854511552,
+            "create_time": "2018-12-06T02:07:47.117+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "而全新的逻辑下，让用户用场景下，故事下消费，不是一个长久的双赢的方法，一味的想着提高arpu值真的是好吗？还是只是临死前的狂欢呢？",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 422141842844418,
+            "create_time": "2018-12-06T02:18:45.100+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "1.水果的品类说明与美味场景渲染唤醒味蕾\n\n  2.现实中的好产品稀缺，消费者需求得不到满足\n\n  3.于是走访原产地寻找真美味，遇见贫困伤残大爷\n\n  4.大爷的困境与村集体证明作信任状\n\n  5.天灾无情人间有爱，你们该出手了\n\n  6.以购代捐吧，赠人玫瑰难免扎伤\n\n  7.引导入购物群作扶贫志愿者持续买",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 844151828528282,
+            "create_time": "2018-12-06T19:18:25.921+0800",
+            "owner": {
+                "user_id": 551885185814,
+                "name": "社会我强哥",
+                "avatar_url": "https://images.zsxq.com/FiJJVirRpJ_6NREfQxbkMkQ7rhgT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zJOv97L5QpLAiiWvhRps0A3CDzw="
+            },
+            "text": "水果扶贫，厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 46,
+    "rewards_count": 0,
+    "comments_count": 4,
+    "reading_count": 10256,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-05T16:22:06.551+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

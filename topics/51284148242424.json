@@ -1,0 +1,263 @@
+{
+    "topic_id": 51284148242424,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454151148288,
+            "name": "定投哥@区块链定投",
+            "alias": "头号玩家",
+            "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+        },
+        "text": "最近悄悄也更大家学习了一下区块链，把圈内的资料也整合了一下，共享给大家。",
+        "files": [
+            {
+                "file_id": 51284285815144,
+                "name": "生财有术区域链问题汇总.pdf",
+                "hash": "df73527e11d71941b59a8b07cab80b715c98a702253c997b8e773a170e330bd1",
+                "size": 550773,
+                "download_count": 253,
+                "create_time": "2017-06-04T21:50:37.794+0800"
+            },
+            {
+                "file_id": 28514512182841,
+                "name": "老猫一块听听.pdf",
+                "hash": "2d7e76710b180a81a799f45d479e7a85ff74eae260308cbc446ea1dc8e5b5514",
+                "size": 447234,
+                "download_count": 242,
+                "create_time": "2017-06-04T21:50:42.412+0800"
+            },
+            {
+                "file_id": 15281284854582,
+                "name": "老猫 区域链配置.pdf",
+                "hash": "f935ad49d71e0d1399688e495fcc2b326e927b08fa123ee9a12bacef6a6402cb",
+                "size": 374689,
+                "download_count": 243,
+                "create_time": "2017-06-04T21:50:45.419+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-08-01T00:07:14.210+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-05T12:43:19.049+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2018-03-07T08:00:17.473+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ=",
+                "number": 347
+            }
+        },
+        {
+            "create_time": "2017-06-11T20:59:42.829+0800",
+            "owner": {
+                "user_id": 152822452,
+                "name": "beta",
+                "avatar_url": "https://images.zsxq.com/FnNDKvp4B_7tOwuFh_vLRqIR9Ub6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2bbaK8HEW1zlHNNQ1Fmtul9DGPk=",
+                "number": 235
+            }
+        },
+        {
+            "create_time": "2017-06-11T16:54:20.130+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs=",
+                "number": 1104
+            }
+        },
+        {
+            "create_time": "2017-06-06T15:52:27.705+0800",
+            "owner": {
+                "user_id": 458521254558,
+                "name": "PaulXU",
+                "avatar_url": "https://images.zsxq.com/Fl6SPSx0Y-YuhzxT12P1Q7xL4ajd?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x391fzbrG8pRIz_ApvS83o9rZD4=",
+                "number": 472
+            }
+        },
+        {
+            "create_time": "2017-06-05T16:42:43.906+0800",
+            "owner": {
+                "user_id": 748544487,
+                "name": "风笛",
+                "avatar_url": "https://images.zsxq.com/Fqxv2faRz5_Vel8f5PXUOTTusYX9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MfE6_IOU_My1-aLO0WD5G9SXOYI=",
+                "number": 888
+            }
+        },
+        {
+            "create_time": "2017-06-05T11:06:35.097+0800",
+            "owner": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w=",
+                "number": 131
+            }
+        },
+        {
+            "create_time": "2017-06-05T08:34:25.116+0800",
+            "owner": {
+                "user_id": 4281541428,
+                "name": "子沫",
+                "alias": "木龙江流",
+                "avatar_url": "https://images.zsxq.com/Ft9pUOxeLEPypLhlTLjdI70tDAaK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AsWBFiLhPR4ESShJtEt7KCqwBfM=",
+                "number": 63
+            }
+        },
+        {
+            "create_time": "2017-06-05T07:25:59.232+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34=",
+                "number": 301
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-05T00:28:57.099+0800",
+            "owner": {
+                "user_id": 142428458842,
+                "name": "寂寞火山",
+                "alias": "寂寞火山",
+                "avatar_url": "https://images.zsxq.com/FvonlW7nNTaXT9ONdiNVq3uFshst?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k1jwx65wvz73Kz6xbw6FPPtJp7A="
+            },
+            "amount": 388
+        },
+        {
+            "create_time": "2017-06-04T22:47:03.200+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "amount": 121
+        },
+        {
+            "create_time": "2017-06-04T22:12:13.444+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 588
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 51284825544524,
+            "create_time": "2017-06-04T22:12:39.749+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "实用贴，我也要学习学习咯",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51284825452214,
+            "create_time": "2017-06-04T22:47:48.965+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "最欣赏这样积极主动，为大家服务的人了，来个，赏了，1.21😉",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 28514154815241,
+            "parent_comment_id": 51284825452214,
+            "create_time": "2017-06-05T02:41:40.150+0800",
+            "owner": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            },
+            "text": "所以是，121，齐步走的意思吗😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            }
+        },
+        {
+            "comment_id": 28514151511481,
+            "parent_comment_id": 51284825452214,
+            "create_time": "2017-06-05T10:45:51.149+0800",
+            "owner": {
+                "user_id": 481125415828,
+                "name": "欧奈尔的琴弦",
+                "avatar_url": "https://images.zsxq.com/FsGtZpMwzcBFUQA1_13Wu0i8-joF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWGWg8h6Fe4kOx3WRRsU8G_LrNY="
+            },
+            "text": "这么喜欢打赏。。。多给我打点",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            }
+        },
+        {
+            "comment_id": 88514151858142,
+            "parent_comment_id": 51284825452214,
+            "create_time": "2017-06-05T10:52:50.074+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "你这么有钱😏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481125415828,
+                "name": "欧奈尔的琴弦",
+                "avatar_url": "https://images.zsxq.com/FsGtZpMwzcBFUQA1_13Wu0i8-joF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWGWg8h6Fe4kOx3WRRsU8G_LrNY="
+            }
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 3,
+    "comments_count": 5,
+    "reading_count": 1946,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-04T21:50:47.573+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

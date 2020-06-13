@@ -1,0 +1,220 @@
+{
+    "topic_id": 88512188881822,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 825812512282,
+            "name": "immrb",
+            "avatar_url": "https://images.zsxq.com/FmoqvPYQ5zwahFMmQ481NKjpdkhJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2VZ5Fb4X3lSKkwRL-RWfWe5zzyA="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> 端午节病毒式h5代码解读\n\n每个节假日都是微信流量获取的一次好机会，端午将至，今天把之前在《人民的名义》案例中进行裂变的h5端午节版本代码给分享一下，如果你的行动力够强，就可以立刻用来生财了。\n\n注意事项写在开头：\n1.准备一个垃圾域名，因为这就是诱导分享，玩一波流的，量起来后该域名大概率会被微信封掉。\n\n2.不要直接导流到微信公众号，原因同上。\n\n代码原理：\n通过JS代码，让页面在微信里打开后，用户如果想关闭页面，按了返回键就会自动跳转到指定外链，相当于实现一种强制性的广告点击，配合首页的诱导分享内容，实现流量的裂变。\n\n用法解析：\n1.单页广告模式\n直接在跳转里加淘客页，色流产品等等直接做转化，可以参考资源包里的原版页面。\n\n2.群裂变导流模式\n如果是想公众号之类导流，上面说了直接公号二维码会有风险，那一般就可以制作一个赠品海报页之类，然后加微信群，再引导关注公众号，比如：关注公众号送XX免费菜谱之类。\n\n资源包：\n我把这个端午H5的代码放到百度盘上了，不需要后端，直接改一下跳转网址，放到服务器上就能用。\n1.duanwu_source.html  这个是本次分析的原版代码，可以浏览器打开，参考里面的单页广告。\n2.duanwu_custom.html 这个是我筛减过代码后的版本，在145行，改一下跳转网址就能使用。\n网盘地址：\n<e type=\"web\" href=\"http%3A%2F%2Fpan.baidu.com%2Fs%2F1hrNk0AC\" title=\"http%3A%2F%2Fpan.baidu.com%2Fs%2F1hrNk0AC\" />\n\n这是来自《阅有所获》圈子的第二篇分享，关于病毒式h5广告的解读。昨天正式开圈后，虽然我只是一个NOBODY，虽然圈子里还没有任何内容，但还是有三位圈友愿意付费入圈，为了这份信任，在此表示感谢。\n\n还要感谢曹大和亦仁提供了我发起这个项目的机会。作为一名30有2的连续创业者，曾经历过无数个失败项目，本次冷启动的结果已经好过了我的预期。我觉得一件事，不管结果成功与否，只要能产生用户认可的价值，那就是值得去做的。\n\n与每一位在努力中的人共勉。",
+        "images": [
+            {
+                "image_id": 28512428584141,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvtqJrKDHKuhKCKl6jNDSgKNNwUW?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AikxxasPjaFv_LLtJeYm666mpgw=",
+                    "width": 320,
+                    "height": 398
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvtqJrKDHKuhKCKl6jNDSgKNNwUW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bLH3bXhVh5ezwbitQ_Mo2EtJ9Zc=",
+                    "width": 543,
+                    "height": 675
+                }
+            },
+            {
+                "image_id": 15284145251882,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvHIMGzHXJt482kZV_XEwywstU08?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R7zXpnvwmBusapvsS3jMtsczQrI=",
+                    "width": 320,
+                    "height": 390
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvHIMGzHXJt482kZV_XEwywstU08?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RoEbNLff5aaGtTezZ-db90z1x-w=",
+                    "width": 538,
+                    "height": 655
+                }
+            },
+            {
+                "image_id": 48415258482118,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fvyx9zph1gnUWQJEuJu1XPF6z-ft?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7BdyL7SQRfIgMDVInDL8q4RgWeo=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fvyx9zph1gnUWQJEuJu1XPF6z-ft?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:89UpkZfQjcNDv7oY85G4Jf8zgro=",
+                    "width": 720,
+                    "height": 1280
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-31T23:00:20.291+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-04T23:20:27.087+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-29T16:54:25.875+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-06-11T17:35:20.965+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs=",
+                "number": 1104
+            }
+        },
+        {
+            "create_time": "2017-05-30T10:29:25.190+0800",
+            "owner": {
+                "user_id": 142455481242,
+                "name": "黄立强",
+                "alias": "Richie",
+                "avatar_url": "https://images.zsxq.com/FoR_Tgy3oOiyXpZME_AUUqQZ0ebh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H2MnX6VYs4ajRlZ5KwGrNJJCeF8=",
+                "number": 627
+            }
+        },
+        {
+            "create_time": "2017-05-28T20:59:36.721+0800",
+            "owner": {
+                "user_id": 454152845888,
+                "name": "羊羊羊",
+                "alias": "羊羊羊（实体商业街运营招商）",
+                "avatar_url": "https://images.zsxq.com/Fm_UyjoYrCXFc8onJ0onEO1dbkrD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Rmw33Tn0oidnlBFDVGGEKbBiOr0=",
+                "number": 649
+            }
+        },
+        {
+            "create_time": "2017-05-28T20:39:54.547+0800",
+            "owner": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s=",
+                "number": 238
+            }
+        },
+        {
+            "create_time": "2017-05-28T20:01:22.702+0800",
+            "owner": {
+                "user_id": 1145214542,
+                "name": "花生",
+                "avatar_url": "https://images.zsxq.com/FtwPhln5P_PLs1-bwIs2OiP41d6Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SzphRfab155gV1n_S1f10YtAFQE=",
+                "number": 708
+            }
+        },
+        {
+            "create_time": "2017-05-28T17:19:18.317+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo=",
+                "number": 138
+            }
+        },
+        {
+            "create_time": "2017-05-28T15:53:14.411+0800",
+            "owner": {
+                "user_id": 5425525814,
+                "name": "南璋",
+                "alias": "南璋",
+                "avatar_url": "https://images.zsxq.com/FoeCw26JsNLz9NMoYkdoVhUh2qoV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TmMw8sstRnEbxbzySiMos4TrNOQ=",
+                "number": 447
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-28T09:32:02.669+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 2888
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28514888818141,
+            "create_time": "2017-05-28T17:19:49.350+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "谢谢分享，加油加油。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15281555448842,
+            "create_time": "2017-05-28T17:43:05.615+0800",
+            "owner": {
+                "user_id": 4184528188,
+                "name": "fly",
+                "avatar_url": "https://images.zsxq.com/Fi9HCaDtUVxB8rWopaxrAK0BUSCX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GGC3UdNKifOcYy1iPxKYFUdAgBc="
+            },
+            "text": "一个域名能撑多久？",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88514888221112,
+            "create_time": "2017-05-28T17:44:02.316+0800",
+            "owner": {
+                "user_id": 4184528188,
+                "name": "fly",
+                "avatar_url": "https://images.zsxq.com/Fi9HCaDtUVxB8rWopaxrAK0BUSCX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GGC3UdNKifOcYy1iPxKYFUdAgBc="
+            },
+            "text": "一个域名能撑多久被封？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 1,
+    "comments_count": 3,
+    "reading_count": 1964,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-28T01:39:23.912+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

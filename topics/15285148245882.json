@@ -1,0 +1,264 @@
+{
+    "topic_id": 15285148245882,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 458188281448,
+            "name": "扬扬扬",
+            "avatar_url": "https://images.zsxq.com/FlEiXOCOCUN2QEzr50yJYN-NjPR7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b_qDH9fPB9G1YLBZOFR87NGWVMk="
+        },
+        "text": "昨天的分享整理成文档，方便大家查阅😁",
+        "files": [
+            {
+                "file_id": 15285485215112,
+                "name": "[生财有术]竞价+虚拟产品玩法.pdf",
+                "hash": "4dd664a9756b4c32347fce230018123bb2b4289f43c303ed4faae92d98303bf0",
+                "size": 1425124,
+                "download_count": 623,
+                "create_time": "2017-05-11T09:48:43.232+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T16:48:30.812+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-01-04T01:31:11.219+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q=",
+                "number": 6312
+            }
+        },
+        {
+            "create_time": "2019-10-07T01:36:48.742+0800",
+            "owner": {
+                "user_id": 222545184541,
+                "name": "reed92deer",
+                "avatar_url": "https://images.zsxq.com/FtH6_gJVAU-CxixNHE9ygAHMzMfa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L3Q25XUEO49vS0l12xf3JMixVaM=",
+                "number": 6228
+            }
+        },
+        {
+            "create_time": "2019-09-29T01:33:34.837+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-09-16T09:58:10.953+0800",
+            "owner": {
+                "user_id": 544888242255484,
+                "name": "姜维",
+                "avatar_url": "https://images.zsxq.com/FtLxl9nNhgHyt4XTIS6gGfOJnDqK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-DAcqrZSTQnU92LtRZVouP5GHRk=",
+                "number": 6157
+            }
+        },
+        {
+            "create_time": "2019-08-10T11:45:01.659+0800",
+            "owner": {
+                "user_id": 51141558541444,
+                "name": "Andy大嘴师迪",
+                "avatar_url": "https://images.zsxq.com/FvRe9Gcz4IhgT_pm5EUxFJvQFIww?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9e7fn1P9XPVxLfqhnlfMiyYPPN8=",
+                "number": 3831
+            }
+        },
+        {
+            "create_time": "2019-07-31T16:16:17.435+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-17T14:32:09.847+0800",
+            "owner": {
+                "user_id": 2418228511,
+                "name": "in",
+                "avatar_url": "https://images.zsxq.com/Fit8G3KegcWN5wUo7vHTkp7tF6Jc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CvugGVycK6VTolCtTmiTWJgBqTk=",
+                "number": 970
+            }
+        },
+        {
+            "create_time": "2019-06-10T18:28:16.014+0800",
+            "owner": {
+                "user_id": 1152821252,
+                "name": "申虎",
+                "avatar_url": "https://images.zsxq.com/FqGSLHZ5Ve_1DyKH7e-3SgPgrhuC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:13VZujFGjUT9baSI5b8Oi3hLq6I=",
+                "number": 5520
+            }
+        },
+        {
+            "create_time": "2019-06-01T18:53:20.427+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-11T09:53:06.147+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 8888
+        },
+        {
+            "create_time": "2017-05-12T12:05:29.597+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2017-05-12T00:03:41.510+0800",
+            "owner": {
+                "user_id": 8488521482,
+                "name": "蓝海游龙",
+                "avatar_url": "https://images.zsxq.com/Fm-DJDW08IrK3M7l9RG6i9clsHmI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j6UWOUsPRIbmTykAHbj8D_TtuUo="
+            },
+            "amount": 268
+        },
+        {
+            "create_time": "2017-05-11T17:14:34.483+0800",
+            "owner": {
+                "user_id": 142428458842,
+                "name": "寂寞火山",
+                "alias": "寂寞火山",
+                "avatar_url": "https://images.zsxq.com/FvonlW7nNTaXT9ONdiNVq3uFshst?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k1jwx65wvz73Kz6xbw6FPPtJp7A="
+            },
+            "amount": 268
+        },
+        {
+            "create_time": "2017-05-11T15:05:13.336+0800",
+            "owner": {
+                "user_id": 1152125482,
+                "name": "Allen张",
+                "avatar_url": "https://images.zsxq.com/Fug7gKFdTzyjuocckEH4wDtZAVZO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:081PjhuNwZXb0GC671dDHvfuWIE="
+            },
+            "amount": 600
+        },
+        {
+            "create_time": "2017-05-11T13:36:19.573+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2017-05-11T10:38:08.820+0800",
+            "owner": {
+                "user_id": 2414145181,
+                "name": "孙岩",
+                "avatar_url": "https://images.zsxq.com/FjHDAePmdUobUKA3SCBy2RU2K5Wu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cwope0iAOvlugyocF34oleDN_7w="
+            },
+            "amount": 118
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 48418284848458,
+            "create_time": "2017-05-11T09:53:48.382+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "很棒的分享，给现在的知识付费推广有很多启发。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15285155541222,
+            "create_time": "2017-05-11T13:36:56.902+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "很棒的分享，整理出来这么多内容呢",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51281414452244,
+            "create_time": "2017-05-11T16:43:35.118+0800",
+            "owner": {
+                "user_id": 458512415228,
+                "name": "心竺公考齐老师",
+                "avatar_url": "https://images.zsxq.com/Frw5xGm8EjGJFb09SqyAOEz3wo5u?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AxFMyT19VeSQmJi1EMmQey7nqTY="
+            },
+            "text": "学习了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15285142425522,
+            "create_time": "2017-05-11T22:20:51.116+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E="
+            },
+            "text": "学习了，谢谢分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28855554521251,
+            "create_time": "2017-06-17T17:17:53.704+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs="
+            },
+            "text": "非常有价值，用手机版再来打赏",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 36,
+    "rewards_count": 7,
+    "comments_count": 5,
+    "reading_count": 1947,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-11T09:49:16.945+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "topic_id": 555251185114,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5412812124,
+            "name": "陈俊强",
+            "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+        },
+        "text": "关于这个在这个行当，要注意一下问题，什么叫赚钱，什么叫值钱，赚钱的话，能够赚多久，值钱的话，大概啥时候可以赚钱，大概得预期是多少。切记切记"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-24T16:16:29.893+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-06T10:11:17.726+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-10-29T02:17:37.191+0800",
+            "owner": {
+                "user_id": 8188845422,
+                "name": "Light微光",
+                "avatar_url": "https://images.zsxq.com/FhU77pbHjijA2a0sh5BroCUjoXHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfu5nVncAT9Y8gdh0FDCQoazVTw=",
+                "number": 967
+            }
+        },
+        {
+            "create_time": "2019-10-13T04:57:59.201+0800",
+            "owner": {
+                "user_id": 48811428548188,
+                "name": "大象帮主",
+                "avatar_url": "https://images.zsxq.com/FumDsxq52rqM4czaGv_5NQEvtWv7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1U67KVASkRTNsEqph0tGCQtS3mE=",
+                "number": 5414
+            }
+        },
+        {
+            "create_time": "2019-08-05T12:15:49.141+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T09:52:36.916+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-28T02:03:33.545+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-23T16:12:36.223+0800",
+            "owner": {
+                "user_id": 144485242852,
+                "name": "子昂",
+                "avatar_url": "https://images.zsxq.com/FtUQUEYk4z4SgrJ5l6lzU8s9lk45?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tzkjMD5wcDz8MKYZGzi8ZxmiabE=",
+                "number": 4942
+            }
+        },
+        {
+            "create_time": "2019-05-22T12:51:41.696+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-01T15:00:39.073+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-28T19:56:31.699+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 999
+        },
+        {
+            "create_time": "2017-03-28T20:54:17.171+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            },
+            "amount": 168
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 551544841114,
+            "create_time": "2017-03-28T19:41:33.895+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "每个你所做的赚钱的东西，都有周期",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828244148282,
+            "create_time": "2017-03-28T19:43:09.708+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我跟员工也这么说，要不做赚钱的大家分分钱，要不做值钱的赌赌未来，别做无谓的搬运工，赚不到钱又不值钱，我们现在就是。（捂脸）",
+            "likes_count": 4,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 551544845544,
+            "parent_comment_id": 828244148282,
+            "create_time": "2017-03-28T19:47:18.749+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "是的，身边不乏每日吸粉50万的人员，一万多个百家号的人，赚钱，而不值钱。也有反向做直播，很赚钱，也很值钱的人。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            }
+        },
+        {
+            "comment_id": 828244115552,
+            "create_time": "2017-03-28T20:06:57.968+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "我觉得得分阶段。\n\n又赚钱又值钱的事情，对于兼职、自由职业者、小团队，几乎是可遇不可求的。 就算遇到了，也很快被打趴。 \n\n而不赚钱却值钱的事情，拿到融资还好说，拿不到就是坑自己，坑团队了。  \n\n对于大多数普通人，做点赚钱但不那么值钱的事情，积累了初步的资本，才能去考虑一些不赚钱却值钱的事情，现在生存都是问题，未来的值钱又有什么意义呢？\n\n圈子里面很多大牛，做事情，不管赚不赚钱，值钱是必要条件，因为有资本了。 但大多数普通人，先解决生存压力，再考虑做的事情是否值钱，可能是更好的选择。",
+            "likes_count": 5,
+            "rewards_count": 0,
+            "replies_count": 10
+        },
+        {
+            "comment_id": 228244118251,
+            "parent_comment_id": 828244115552,
+            "create_time": "2017-03-28T20:14:19.892+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "还是你牛逼。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 145411884442,
+            "parent_comment_id": 828244115552,
+            "create_time": "2017-03-28T20:27:10.769+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            },
+            "text": "你那篇google实战案例最吸引我的除了可以赚钱之外，我倒觉得更有价值的是：\n\n一个人可以完整经历市场调研、盈利模式规划、市场需求验证、做出用户体验好的真正能解决特定人群的需求的产品、冷启动、SEO和growthhacker等各种推广方式的实战、根据市场反馈迭代全套。\n\n如果一个人真的可以做起来这样全套（尽管这个过程中也会发现自己的薄弱和擅长点，目标也不是面面俱到），除了赚钱之外，也是值钱的吧？就算做出来的东西谈不上很有前景和空间，这个过程对于自身的增值还是很显然的。\n\n我判断值钱赚钱的对象最终不是落于项目，而是落于人本身，在过程中这个人掌握的东西具有的可迁移性足够强，或者可以应用于“值钱”的项目，尤其是自学解决各种问题的能力突飞猛进，那我觉得就肯定是值钱的。\n\n这个就是你的文章和你这里这里比起某些暴富思路真正吸引我的地方。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 145411881122,
+            "parent_comment_id": 828244115552,
+            "create_time": "2017-03-28T20:29:23.008+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            },
+            "text": "虽然你最初可能没有期望读者去做全套，但我觉得如果要真正做起来做好，就是要很小的点切入，做透，那肯定是要全套的，不可能有个点子就等钱来。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 551544888554,
+            "parent_comment_id": 828244115552,
+            "create_time": "2017-03-28T20:38:08.921+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            },
+            "text": "我说这么多。。其实我的观点就是，就算是我们这种没有什么初始资本的人，也可以做既值钱又赚钱的事，只不过判断标准回归到人而不是项目上。然后我认为这里的很多点子根据不同人的执行力就完全可能发展出这样的效果😂",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 2,
+    "comments_count": 19,
+    "reading_count": 2633,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-28T19:40:58.030+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

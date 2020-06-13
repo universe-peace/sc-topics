@@ -1,0 +1,233 @@
+{
+    "topic_id": 88514841255512,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481184182888,
+            "name": "祥子",
+            "avatar_url": "https://images.zsxq.com/FtUBoD_EAmKS32-n1O5jfM5Ti60r?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nA3DygSeI4Y-3TFaKf8_3GGI83w="
+        },
+        "text": "分享一本电子书，这本书的内容和亦仁的公众号前几篇文章的内容很像，讲如何发现需求，并把产品落地，推向市场。不过作者讲的更偏宏观一些。大概翻了一下，还不错。正在亚马逊限时免费，感兴趣的可以去下载。",
+        "images": [
+            {
+                "image_id": 88514514515452,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fn4HCx5dVukiETzWT6XFjMxBolIV?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4hIIjLY-bUhPSaYiC2YtQzyiva8=",
+                    "width": 540,
+                    "height": 960
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fn4HCx5dVukiETzWT6XFjMxBolIV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XR0Nk7PT4fglf5A5-lHaaTl2IgU=",
+                    "width": 750,
+                    "height": 1334
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-17T17:39:22.641+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-08-01T00:09:34.321+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-05T19:06:11.114+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-29T15:08:14.194+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-06-07T19:45:07.407+0800",
+            "owner": {
+                "user_id": 225812854881,
+                "name": "黑头羊",
+                "avatar_url": "https://images.zsxq.com/FkHlk5UB164b-qJTJeRSqKGxWDWA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pk_LQZC4mlruFTrB1-Hu51BCZxc=",
+                "number": 612
+            }
+        },
+        {
+            "create_time": "2017-06-05T08:19:51.816+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-06-05T07:45:08.517+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E=",
+                "number": 451
+            }
+        },
+        {
+            "create_time": "2017-06-05T07:25:44.230+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34=",
+                "number": 301
+            }
+        },
+        {
+            "create_time": "2017-06-05T05:24:21.920+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4=",
+                "number": 221
+            }
+        },
+        {
+            "create_time": "2017-06-05T01:31:32.297+0800",
+            "owner": {
+                "user_id": 28512521882151,
+                "name": "段",
+                "avatar_url": "https://images.zsxq.com/Fj6g5F0ZF3dMJivVH5VGulm7HkER?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SiA7FJ2HMtoc7_Pj5R1-iLZezBc=",
+                "number": 1020
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-04T23:10:15.480+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 168
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28514154528881,
+            "create_time": "2017-06-04T23:44:39.442+0800",
+            "owner": {
+                "user_id": 2428845121,
+                "name": "Turing",
+                "avatar_url": "https://images.zsxq.com/FqpPi_oZQ7WXVU-eB2b61ZA_Tp-y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OJQfkERxHKh0A4ktY7qeFtBQOLY="
+            },
+            "text": "美亚搜不到啊",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 88514154811882,
+            "parent_comment_id": 28514154528881,
+            "create_time": "2017-06-05T05:46:16.309+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "可以搜到啊，不过不是免费哦",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2428845121,
+                "name": "Turing",
+                "avatar_url": "https://images.zsxq.com/FqpPi_oZQ7WXVU-eB2b61ZA_Tp-y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OJQfkERxHKh0A4ktY7qeFtBQOLY="
+            }
+        },
+        {
+            "comment_id": 51284811155154,
+            "parent_comment_id": 28514154528881,
+            "create_time": "2017-06-05T12:53:47.398+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "我也搜不到，发个链接",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            }
+        },
+        {
+            "comment_id": 15281855512112,
+            "create_time": "2017-06-05T13:02:02.514+0800",
+            "owner": {
+                "user_id": 481184182888,
+                "name": "祥子",
+                "avatar_url": "https://images.zsxq.com/FtUBoD_EAmKS32-n1O5jfM5Ti60r?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nA3DygSeI4Y-3TFaKf8_3GGI83w="
+            },
+            "text": "刚看了下，现在收费7刀，<e type=\"web\" href=\"https%3A%2F%2Fwww.amazon.com%2FInternet-MBA-Software-Business-Without-ebook%2Fdp%2FB07238DN5C%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1496638752%26sr%3D8-1%26keywords%3DInternet%2BMBA%253A%2BHow%2BTo%2BStart%2BA%2BSoftware%2BBusiness%2B%2528Without%2BWriting%2BA%2BLine%2BOf%2BCode%2529%2BTom%2BHunt\" title=\"Amazon.com%3A+Internet+MBA%3A+How+To+Start+A+Software+...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2Fa7d2e587c8e3e0b5d66f71865b793b9d7ebae4a63cd5f126850d74a7708be0c6\" />",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48412188215418,
+            "parent_comment_id": 28514154528881,
+            "create_time": "2017-06-05T14:53:08.792+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "<e type=\"web\" href=\"https%3A%2F%2Fwww.amazon.com%2FInternet-MBA-Software-Business-Without-ebook%2Fdp%2FB07238DN5C%2Fref%3Dsr_1_1%3Fie%3DUTF8%26qid%3D1496645472%26sr%3D8-1%26keywords%3Dtom%2Bhunt\" title=\"Amazon.com%3A+Internet+MBA%3A+How+To+Start+A+Software+...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F2a32ab04f1a323c22876985bfe0ae2aee17c7a60c373c66b1f4f464bf0fc2972\" />，这个链接，我搜作者名字tom hunt，第一个就是，要先翻墙",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        }
+    ],
+    "likes_count": 13,
+    "rewards_count": 1,
+    "comments_count": 5,
+    "reading_count": 2126,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-04T22:58:12.773+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "topic_id": 48848454844448,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 825812841542,
+            "name": "夜息",
+            "avatar_url": "https://images.zsxq.com/FvELUMsl_waKEOVTsVQQPFvUTjKQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M-6GDCxz4KQV5JvGjvnGVnxDvs8="
+        },
+        "text": "从caoz那边发现了这个圈子，觉得这边各路大神很多，昨晚和亦仁聊了一下，亦仁建议我分享一下自己的网站运营经验，特来献丑。😅\n\n本人之前做seo出身，在途牛干了4年，从16年开始做jiankang.com这个项目，目前运营1年多，从忽略不计，到如今100多万ip每日，无广告投放，无烧钱买量刷量，公司稳定盈利，也算回顾一下过去一年的工作总结。\n\n整个项目其实并非一帆风顺，流量也一直涨涨跌跌，流量构成也有很大变化，踩得坑无数，可能真的是我太菜了😰\n\n1. 做流量要视野开阔一些，不要只盯着seo(可能是很多seo出身人的通病)，不烧钱也有很多办法，合作，换量，分成，都可以拿很多量，目前搜索引擎对于商业量控制很死，都在打造闭环，目前想靠seo成就一个帝国几乎不可能了。这个看自身的公关和网站硬实力，每个大网站都是从小网站做起来的，不要因为自己网站小，就可以瞎搞内容产品。\n\n2.技术最重要的不是能开发什么牛逼的功能，而是监控和debug，尤其尤其你网站还要靠seo的话，特别要小心，一次长时间的宕机，就会导致网站被搜索屏蔽。一个没优化的查询，会导致网站打不开。虽然很多人喜欢骂百度抽风，但是我可以非常负责任的讲，网站降权9成原因是自身问题，技术知识的匮乏和无责任心。比如我们做了spider和访客流量分离，蜘蛛服务器挂了没人发现。又比如不小心把测试环境的robots.txt更新到正式服。再比如被入侵后，删除的违规页面url重新上线导致网页一直不收录。负责人，技术团队一定要会分析定位原因，对症下药，而不是一味的去加硬件，骂搜索。\n\n3. 其实我们开始做的很多都是垃圾站做法，内容采集采集改编下，靠量取胜，这样带来的结果就是人均pv的及其低下，这样做是有瓶颈的。做一些优质吸睛内容，不要光盯着ip，想办法优化人均pv。提升用户粘度和广告效果。此外也会产生和搜索合作的机会\n\n4. 每个做内容产品的人都要会分析关键词，数据从5118拉就行了，然后一行一行看，总结规律，虽然很枯燥，但是很实用，毕竟不是每个人都是乔布斯，这样做知道用户的需求点在哪儿，而不是闭着眼睛瞎想。\n\n关于流量部分先讲这么多，而且有些商业机密也没办法讲，但是相信我，我讲的每一句话都是有含义的😄。后面可以再谈谈转化，内容制作，seo。有些眼尖的小伙伴会觉得这些貌似caoz在他以前的文章中讲过，或许这就是共鸣吧😂"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-30T16:44:54.509+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-03T08:26:33.924+0800",
+            "owner": {
+                "user_id": 51514112411414,
+                "name": "谷木",
+                "avatar_url": "https://images.zsxq.com/Fmp5Gcmvbz5KWVD5p8rMBmnetvQY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zir6dd0RW1CiqtkAmSjnj0WbUAI=",
+                "number": 3272
+            }
+        },
+        {
+            "create_time": "2019-08-11T23:49:44.596+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-18T00:46:24.985+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-23T00:24:07.597+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-15T11:36:28.664+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-28T16:38:54.836+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-11-24T16:11:47.118+0800",
+            "owner": {
+                "user_id": 4245558458,
+                "name": "Elsa W",
+                "avatar_url": "https://images.zsxq.com/FqeRqOqplmX61oCK9NLOn8_uN3pD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B1LvvYxap4aTbeO1MbVGo7lgNTA=",
+                "number": 778
+            }
+        },
+        {
+            "create_time": "2017-08-16T20:54:03.216+0800",
+            "owner": {
+                "user_id": 48415415181228,
+                "name": "西蒙陈",
+                "avatar_url": "https://images.zsxq.com/FhQdKICrcZQz31BBCHZMcHt0ze3Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f2IWp3jDcrOJ6xinruywb4J3rwc=",
+                "number": 1016
+            }
+        },
+        {
+            "create_time": "2017-07-25T10:56:14.748+0800",
+            "owner": {
+                "user_id": 145848851412,
+                "name": "慕壹",
+                "avatar_url": "https://images.zsxq.com/FrQskzpoIbVeYuaXLBFOZuBLZBnm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aod0QXkQ1H27HwVw0KDa53HagAE=",
+                "number": 568
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-07-11T17:32:49.019+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 19000
+        },
+        {
+            "create_time": "2017-07-11T13:08:27.678+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "amount": 401
+        },
+        {
+            "create_time": "2017-07-11T11:22:07.780+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "amount": 664
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 51111115855154,
+            "create_time": "2017-07-11T10:03:13.874+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "欢迎大神，很干货。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28888882124211,
+            "parent_comment_id": 51111115855154,
+            "create_time": "2017-07-11T10:04:34.063+0800",
+            "owner": {
+                "user_id": 825812841542,
+                "name": "夜息",
+                "avatar_url": "https://images.zsxq.com/FvELUMsl_waKEOVTsVQQPFvUTjKQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M-6GDCxz4KQV5JvGjvnGVnxDvs8="
+            },
+            "text": "谢谢老板。😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 28888882142481,
+            "create_time": "2017-07-11T10:11:47.921+0800",
+            "owner": {
+                "user_id": 512824114,
+                "name": "Trevor",
+                "avatar_url": "https://images.zsxq.com/FnISayVkW22ZVBGu6gGJ4iQCLV7-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gTYAdZm4Ld4q_ynqUgqZoND4vPA="
+            },
+            "text": "干货满满，欢迎大神！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28888884885511,
+            "create_time": "2017-07-11T10:52:15.524+0800",
+            "owner": {
+                "user_id": 828241444422,
+                "name": "焦广民",
+                "alias": "焦广民",
+                "avatar_url": "https://images.zsxq.com/Fmsh-QRGzmnX06cGAi04eoWAuVJY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:csCYIn8rcSm4OynDuKiazhw7g54="
+            },
+            "text": "大神分享一下网站，参观学学。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88888884148522,
+            "create_time": "2017-07-11T12:07:35.756+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "又来大神了，能不能说说垃圾站启动具体怎么做的吗？😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88888881842422,
+            "create_time": "2017-07-11T13:08:08.309+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "大神啊！我之前查了一下，看中国谁是靠百度免费流量赚的最大的。一下子就查到了健康网，用几个工具分析了一下，道行太浅，没太弄清楚，没想到大神就在此处！\n有点不太明白的是为什么有数百万的外链，而且很多都是相关找到质量较高的dofollow链接！是不是就是您说的\"换量\"? 如果方便的话，烦请大神解答！多谢！👍👍",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 88888881228542,
+            "create_time": "2017-07-11T13:18:33.792+0800",
+            "owner": {
+                "user_id": 458111528548,
+                "name": "小星云",
+                "avatar_url": "https://images.zsxq.com/Fgk3wW2atpn3ttWsXnlbXws5u0WD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:O7ZS34B2daeEIMeakFa8Thw3Ovs="
+            },
+            "text": "很早就看过你的网站",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88888881222242,
+            "parent_comment_id": 88888881842422,
+            "create_time": "2017-07-11T13:20:33.815+0800",
+            "owner": {
+                "user_id": 825812841542,
+                "name": "夜息",
+                "avatar_url": "https://images.zsxq.com/FvELUMsl_waKEOVTsVQQPFvUTjKQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M-6GDCxz4KQV5JvGjvnGVnxDvs8="
+            },
+            "text": "链接不用刻意去做。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            }
+        }
+    ],
+    "likes_count": 53,
+    "rewards_count": 3,
+    "comments_count": 23,
+    "reading_count": 2866,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-07-11T09:47:36.247+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

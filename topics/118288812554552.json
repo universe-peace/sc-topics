@@ -1,0 +1,218 @@
+{
+    "topic_id": 118288812554552,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n大家好，又到周五啦！每周五，鱼丸带来一篇赚美元的案例，带大家开眼看世界如何“生财有术”~\r\n\r\n今天分享的案例是一款建站插件—TranslatePress，目前每月收入超过 10,000 美元，有3万多个活跃网站在使用。\r\n\r\n从细分需求入手，研发产品，有很多团队都做的不错，作者又是如何推动整个产品的呢，请看下文。\r\n\r\n一、你是如何想到做TranslatePress的？\r\n\r\n我们是从WordPress定制开始的，从最初只有几个页面的简单站点到需要持续开发和维护的复杂多语言站。\r\n\r\n虽然有很多WordPress多语言解决方案，但都太复杂，翻译也不是及时可视的。对于开发人员如此，对于客户就更不用说，常常会带来各种问题。 我们不断地收到客户关于如何修改某些内容的电子邮件，而这本应该能轻松解决。\r\n\r\n我们之前有一段时间考虑过翻译插件，现在似乎是开始的最佳时机。\r\n\r\n二、最初的产品是怎样的？\r\n\r\n团队构建了所看即所得的翻译界面，只需要点击网页上的任意字符就可以替换翻译，不需要修改代码然后再部署，更新一系列繁琐的步骤。\r\n\r\n另外在技术上增加了一些其他产品没有的特性，如使用任何WordPress插件或主题都能使TranslatePress开箱即用，不需要配置插件支持。\r\n\r\n但开发周期和预估相差甚远。原本计划3个月内完成，实际花了将近8个月的时间才发布了第一个版本。团队共有四人参与，三个开发（一人全职），一个运营。\r\n\r\n三、你是如何吸引用户和推广的？\r\n\r\nTranslatePress开始是纯免费版本，在此基础上我们做了以下宣传：\r\n\r\n1. 给现有客服发邮件，用Facebook广告收集了测试版本申请，获得了大约160个注册\r\n2. 在wp.org上免费发布核心插件，并针对翻译和多语言等关键字进行了优化\r\n3. 寻找在我们现有产品中交叉推广的方法\r\n4. 在Cozmoslabs的所有客户的帐户页面中添加了免费下载，并发出信息推送\r\n5. 赞助了一个WordCamp，与主题商店和代理机构讨论，加入插件推荐列表\r\n6. 外联，联系合作网站推文\r\n7. 在我们的博客上发布与产品相关的教程、速度测试和使用报告\r\n\r\n这帮助免费版本获得了最初用户，近1000个安装和活跃使用。\r\n\r\n四、你的商业模式是什么?你是如何增加收入的?\r\n\r\n收入来自付费版本，每个插件包是一个自动更新的年订阅，可以在任何时候取消。\r\n\r\n订阅后可访问所有的pro附加组件(加上我们发布的新包)，定期更新(新功能，bug修复，WP兼容性)，以及访问高级支持。大多数pro插件都来自免费插件用户不断提出的需求。\r\n\r\n这个插件的核心是免费的，允许用户将整个WordPress网站翻译成另一种语言，而不受任何限制(如字数、主题/插件兼容性等)，还集成了谷歌翻译。\r\n\r\n然而，如果有人想要添加诸如自动用户语言检测、翻译帐户或使他们的站点可用于多种语言，这类高级功能，就可能选择付费版本。\r\n\r\n图二是去年收入的详细图表：\r\n\r\n我认为收入的增长主要是由于免费用户数量的增加和他们的好评，加上插件已经存在了一段时间(大约一年半)，多数人认为它是现有解决方案的可行和更容易的选择。\r\n\r\n以上就是今天一起赚美元的分享啦，大家在日常看到不错的海外案例，也可以分享给我，微信yuwan830。\r\n\r\n越分享越有价值，觉得不错记得给鱼丸一个赞哦~\r\n\r\n原文链接<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fgenerating-10-000-per-month-from-a-freemium-business-model-16dd43e3ef\" title=\"Generating+%2410%2C000+Per+Month+from+a+Freemium+Busin...\" />",
+        "images": [
+            {
+                "image_id": 421452445224588,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtKPfr1IDrzRJgzxJeCd2WwZ5hS7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6tCeg1sz2EnsOKS1fDBzeQd2CSs=",
+                    "width": 320,
+                    "height": 166
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtKPfr1IDrzRJgzxJeCd2WwZ5hS7?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yun9f8ZAZlDRcitILUTPzb-f2c0=",
+                    "width": 800,
+                    "height": 416
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FtKPfr1IDrzRJgzxJeCd2WwZ5hS7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mkmzWW-w4cndKW12U_9YH7Fy6lo=",
+                    "width": 1080,
+                    "height": 561,
+                    "size": 184746
+                }
+            },
+            {
+                "image_id": 241524552445811,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FjZiLAYQ6ZcxIHKZg9a4UD6cmh7F?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bwGOODBSJ-bna755naXjAtuNbzI=",
+                    "width": 320,
+                    "height": 148
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FjZiLAYQ6ZcxIHKZg9a4UD6cmh7F?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I7anxAIjAWToIIxksCLcTuKONH0=",
+                    "width": 800,
+                    "height": 370
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FjZiLAYQ6ZcxIHKZg9a4UD6cmh7F?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ThKPBcdF58qO1PWmhriInCD-sqg=",
+                    "width": 1052,
+                    "height": 487,
+                    "size": 59140
+                }
+            },
+            {
+                "image_id": 841524552445282,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FkEluSK6F7qt9c5_OGzGjC4dPE8Z?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TL8JpLXDbClBJ5ZuMq8LXjugWIg=",
+                    "width": 320,
+                    "height": 98
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FkEluSK6F7qt9c5_OGzGjC4dPE8Z?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s9Yk93Jv8H18_VqWXrWDoB59seM=",
+                    "width": 800,
+                    "height": 246
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FkEluSK6F7qt9c5_OGzGjC4dPE8Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:q5kU7-SDe7QLaZGeLwfEA4hmltg=",
+                    "width": 1928,
+                    "height": 592,
+                    "size": 178469
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-07T17:08:23.475+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s=",
+                "number": 6034
+            }
+        },
+        {
+            "create_time": "2020-02-07T21:07:06.637+0800",
+            "owner": {
+                "user_id": 88811544412412,
+                "name": "郑小焦",
+                "avatar_url": "https://images.zsxq.com/Fktqhv5AatapuiviVACXtcpLziYV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kD0PGNrpac3wA9BFOVvSqc3ubpo=",
+                "number": 6048
+            }
+        },
+        {
+            "create_time": "2020-01-23T21:58:39.022+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow=",
+                "number": 2827
+            }
+        },
+        {
+            "create_time": "2020-01-20T10:52:14.552+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic=",
+                "number": 153
+            }
+        },
+        {
+            "create_time": "2020-01-18T15:19:30.668+0800",
+            "owner": {
+                "user_id": 244418181282821,
+                "name": "安宁",
+                "avatar_url": "https://images.zsxq.com/FlLcoKYe5lhml7_m8RBztobYYguc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAgJbEcJ8GcWBEl5eprOpEd9aoE=",
+                "number": 6193
+            }
+        },
+        {
+            "create_time": "2020-01-18T13:35:54.292+0800",
+            "owner": {
+                "user_id": 225158514441,
+                "name": "⑦",
+                "avatar_url": "https://images.zsxq.com/FlPIkpH8ici9pQqDrkfszL78Pbzu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jj_aoVicBCEYmzJcfRjmgW5urv8=",
+                "number": 6269
+            }
+        },
+        {
+            "create_time": "2020-01-18T13:06:01.651+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q=",
+                "number": 6312
+            }
+        },
+        {
+            "create_time": "2020-01-18T11:42:05.933+0800",
+            "owner": {
+                "user_id": 244114514152211,
+                "name": "Bonny. P",
+                "alias": "邦尼小姐1206",
+                "avatar_url": "https://images.zsxq.com/Fh5K_cLDaczXLyRr1DJ38pWNRpE1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:a4d2OUeY1swCnXceqjf4j_DbNQM=",
+                "number": 4304
+            }
+        },
+        {
+            "create_time": "2020-01-18T11:15:12.816+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2020-01-18T10:31:45.650+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ=",
+                "number": 347
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-01-20T11:15:11.050+0800",
+            "owner": {
+                "user_id": 15284848244822,
+                "name": "克里斯说",
+                "avatar_url": "https://images.zsxq.com/FkMPor6OeZSfo-QVrNZ7Tow93HL1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C-_6EGNI7e6l95WxzjrxjKqmrdw="
+            },
+            "amount": 150
+        },
+        {
+            "create_time": "2020-01-17T20:41:28.433+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841128115212482,
+            "create_time": "2020-01-17T22:01:25.383+0800",
+            "owner": {
+                "user_id": 841411224245842,
+                "name": "枫哥leaves",
+                "avatar_url": "https://images.zsxq.com/FgQPRAqHmEj0FvirPBufCwQQcNtf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fflR4pB04J1nQCl6M7I5OrPPsI8="
+            },
+            "text": "确实是，谷歌能翻译整个到对应语言，但是客户想更改还是要代码，这个直接在前端改了。\n之前还见过一个类似插件，也不错",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 27,
+    "rewards_count": 2,
+    "comments_count": 1,
+    "reading_count": 12788,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-01-17T19:35:12.707+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

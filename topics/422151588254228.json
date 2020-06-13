@@ -1,0 +1,287 @@
+{
+    "topic_id": 422151588254228,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481222584128,
+            "name": "花腔书生",
+            "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+        },
+        "text": "#思路分享# \n从Excel的功能，细分用户和场景，获得创业机会。\n引申出从其他应用例如Word\\PowerPoint中拆分出新的机会。\n引申出从大而全的产品和服务中，分析场景和用户行为，拆分出细分市场。",
+        "images": [
+            {
+                "image_id": 111188154854142,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FmkETkaq8g5Tj6RCKthYXYUvi-QP?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0-qcOQmwIpkR208GmNJPfrSQ_w0=",
+                    "width": 540,
+                    "height": 408
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FmkETkaq8g5Tj6RCKthYXYUvi-QP?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SF3SpBNCZwNiK_z0ggwo9i_d2RM=",
+                    "width": 800,
+                    "height": 605
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FmkETkaq8g5Tj6RCKthYXYUvi-QP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:czyRq64d7-8N4qXaQtgvuNYXmpU=",
+                    "width": 1996,
+                    "height": 1510,
+                    "size": 735817
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-10T20:53:28.372+0800",
+            "owner": {
+                "user_id": 228818141121,
+                "name": "乔礼",
+                "avatar_url": "https://images.zsxq.com/FgtcQFW3h1gwmVtFO6tyJdvav3Nz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gfHvOvAXNjEcTDrK-euHZ9ypgUY=",
+                "number": 6902
+            }
+        },
+        {
+            "create_time": "2020-04-07T22:20:24.259+0800",
+            "owner": {
+                "user_id": 15554852824512,
+                "name": "Richard.颜过",
+                "avatar_url": "https://images.zsxq.com/FvCMBDYrVBFHPYFzpRDDXsg223KX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:173yjKqD6VOQ_LSTfzd_Z6lEXtI=",
+                "number": 1718
+            }
+        },
+        {
+            "create_time": "2020-04-07T22:19:51.207+0800",
+            "owner": {
+                "user_id": 552185112114,
+                "name": "尹晓静",
+                "avatar_url": "https://images.zsxq.com/Ft3nDsk91LJDzjCokt9J1lPXQxSv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sUAeaGqf3nCmeeUO7lMqmckQKEs=",
+                "number": 3788
+            }
+        },
+        {
+            "create_time": "2019-08-03T11:17:25.609+0800",
+            "owner": {
+                "user_id": 15584241888542,
+                "name": "璟扬",
+                "avatar_url": "https://images.zsxq.com/FoevK8ZVc1GYO0usDbiX9OfSW6Qh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64vAuxVXU512sedQ6eMKNuOc7kk=",
+                "number": 3137
+            }
+        },
+        {
+            "create_time": "2019-07-19T17:40:35.688+0800",
+            "owner": {
+                "user_id": 15554445222842,
+                "name": "莫一多",
+                "avatar_url": "https://images.zsxq.com/FkM-QeupYW74zDZ5SBACYOBa6Q8g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rBhvtL5e5ln6LW4ay38O6G0iip0=",
+                "number": 3538
+            }
+        },
+        {
+            "create_time": "2019-07-10T10:47:52.078+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-07-09T13:03:41.052+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-07-07T18:32:00.904+0800",
+            "owner": {
+                "user_id": 48852888228818,
+                "name": "Shane",
+                "alias": "ShaneLan",
+                "avatar_url": "https://images.zsxq.com/FgcAPHa55MbRgt-ggonvtJjGzjx7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zK5qtyKfkp2wEZ6RXYOYAnxY6oU=",
+                "number": 1388
+            }
+        },
+        {
+            "create_time": "2019-07-07T09:45:18.365+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-07-07T02:34:44.210+0800",
+            "owner": {
+                "user_id": 422125451825818,
+                "name": "小乔",
+                "avatar_url": "https://images.zsxq.com/FnSa1s3qM61dEm07S3I8Uep_oxo_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DrM7qWT_GYDM1f1vD9sBtBPZj2g=",
+                "number": 5457
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-07-07T09:47:40.356+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw="
+            },
+            "amount": 2000
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 118284542251442,
+            "create_time": "2019-07-04T22:07:07.972+0800",
+            "owner": {
+                "user_id": 28818151522151,
+                "name": "孔方兄",
+                "avatar_url": "https://images.zsxq.com/FrFj2HqDbcpiqRb82qbZKxIN_Fut?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fqiQffiMOxEQinogPs1mTGW13hs="
+            },
+            "text": "wtf",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241512825888541,
+            "create_time": "2019-07-04T22:21:27.032+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "这个图赞",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 841512822525152,
+            "create_time": "2019-07-04T22:54:38.964+0800",
+            "owner": {
+                "user_id": 244411521485881,
+                "name": "青松",
+                "avatar_url": "https://images.zsxq.com/FipU_LyQcIj-nBq_5m1r0H-p0--Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_O0cgjjF0trVok2NHk7abm0NanA="
+            },
+            "text": "都是围绕EXCEL开展业务的？国内有类似案例没？谢谢",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 241512822522281,
+            "parent_comment_id": 241512825888541,
+            "create_time": "2019-07-04T22:57:19.255+0800",
+            "owner": {
+                "user_id": 481222584128,
+                "name": "花腔书生",
+                "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+            },
+            "text": "里头好多公司也不赖。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 118284544241552,
+            "parent_comment_id": 841512822525152,
+            "create_time": "2019-07-04T22:58:51.086+0800",
+            "owner": {
+                "user_id": 481222584128,
+                "name": "花腔书生",
+                "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+            },
+            "text": "围绕类似的功能，订制需求场景。国内也有很多做saas的公司，很多好的项目。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 244411521485881,
+                "name": "青松",
+                "avatar_url": "https://images.zsxq.com/FipU_LyQcIj-nBq_5m1r0H-p0--Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_O0cgjjF0trVok2NHk7abm0NanA="
+            }
+        },
+        {
+            "comment_id": 118284544214252,
+            "parent_comment_id": 841512822525152,
+            "create_time": "2019-07-04T23:04:03.994+0800",
+            "owner": {
+                "user_id": 244411521485881,
+                "name": "青松",
+                "avatar_url": "https://images.zsxq.com/FipU_LyQcIj-nBq_5m1r0H-p0--Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_O0cgjjF0trVok2NHk7abm0NanA="
+            },
+            "text": "谢谢，一直想围绕三件套做点东西，方便的话还请分享几个案例学习学习，我VX86398320，望能多交流，谢谢！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481222584128,
+                "name": "花腔书生",
+                "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+            }
+        },
+        {
+            "comment_id": 548285155158814,
+            "parent_comment_id": 841512822525152,
+            "create_time": "2019-07-04T23:20:20.631+0800",
+            "owner": {
+                "user_id": 481222584128,
+                "name": "花腔书生",
+                "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+            },
+            "text": "有道云笔记，朝夕日历，幕布，石墨文档等等",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 244411521485881,
+                "name": "青松",
+                "avatar_url": "https://images.zsxq.com/FipU_LyQcIj-nBq_5m1r0H-p0--Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_O0cgjjF0trVok2NHk7abm0NanA="
+            }
+        },
+        {
+            "comment_id": 421415855815518,
+            "parent_comment_id": 841512822525152,
+            "create_time": "2019-07-04T23:31:18.236+0800",
+            "owner": {
+                "user_id": 244411521485881,
+                "name": "青松",
+                "avatar_url": "https://images.zsxq.com/FipU_LyQcIj-nBq_5m1r0H-p0--Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_O0cgjjF0trVok2NHk7abm0NanA="
+            },
+            "text": "好的，多谢！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481222584128,
+                "name": "花腔书生",
+                "avatar_url": "https://images.zsxq.com/FtDQZ9wMP266rI96nsk0BjmdYlnJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yPo3mfrvjQq8PNEwj-1d34P5vR4="
+            }
+        }
+    ],
+    "likes_count": 39,
+    "rewards_count": 1,
+    "comments_count": 15,
+    "reading_count": 9690,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-07-04T22:03:10.494+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

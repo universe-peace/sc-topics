@@ -1,0 +1,312 @@
+{
+    "topic_id": 111188221214212,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n分享一个快速验证的案例。\n\n百度文库，大家都知道，百度将绝大多数的搜索文档、协议、合同的流量都导给了百度文库，而且，我相信，星球里面不少人，在百度文库充过值，买过会员，此为背景一。\n\n微信搜一搜的流量越来越大，做公众号或者做小程序的感受可能会比较明显，包括我，使用习惯上也在发生很强烈的改变，有事搜一搜，没事看一看， 基本都在微信上完成，此为背景二。\n\n基于上面两个背景，我们团队有次脑暴的时候， 谈到微信生态内是否存在“文库”的机会。\n\n第一思考点： 如何变现。 \n\n小程序内的流量变现我们很擅长，基本能做到同类竞品的10倍以上，甚至有些产品，我们算过，单个用户的回报，我们能做到竞争对手的100倍。  有流量来，根据流量的特点制定合适的付费方案，并找到合适的场景下，出现合适的付费方案。\n\n变现有信心，没问题，不需要太多验证。\n\n第二思考点：如何引流。\n\n协议、合同的需求是典型的低频、搜索场景下的需求，与通用的场景需求不同，不像小游戏、娱乐等类型的产品，满足这种需求的产品完全裂变不开，就算加上各种引导，来的用户也完全不是目标受众，来了留不住，留住不付费。 从出发点来看，最终能商业化的流量才有价值。\n\n排除了裂变的流量，只能是微信内的自然流量，也就是来自于“搜一搜”的流量，那么现在大家有没有在微信搜一搜里面找文档、找协议的需求？量有多大？\n\n这是要验证的点。\n\n第三个思考点：如何做产品。\n\n这种工具类产品，小程序是最好的交付形式，可以检索、可以编辑、可以沉淀、可以分享、可以支付。\n\n但，在验证阶段，开发一个小程序还是有些重，我们要做一个最轻的产品来验证。\n\n要验证微信搜一搜的流量有两种方式\n\n1. 通过小程序的服务直达，接入我们自己的数据库，等待数据反馈；\n\n2. 弄一个公众号，发布一些协议、文档、合同类型的文章，看有没有搜索流量进来。\n\n显然，第二种方式，更轻更快更直接。\n\n于是，请一个实习生，注册一个公众号，不主动引流，花了半个月，每天发布7篇不同的协议、合同等，看微信搜一搜来多少流量。\n\n下面两张图是结果，每天大概有几十到几百的阅读，完全来自于搜一搜，结合我们的预期，判断这件事情不值得投入，最终放弃。\n\n以上，便是我们在精益试错上面的一个案例，至少避免了产品开发设计团队半个月时间的投入，希望对大家有启发。",
+        "images": [
+            {
+                "image_id": 244424188851251,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FoazFzXtNJO4Db31OrRkWNwiLlBo?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t56NFMJhIE-3B7FvgclZy5UApWQ=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FoazFzXtNJO4Db31OrRkWNwiLlBo?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zcOw4iE4Y6DzYiqFtyyfLrkDb-A=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FoazFzXtNJO4Db31OrRkWNwiLlBo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZVVCGiyMHbc9nPjGNNLguMBC4sU=",
+                    "width": 1242,
+                    "height": 2208,
+                    "size": 292085
+                }
+            },
+            {
+                "image_id": 111141855528452,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FouNkttQxSkAzoEqU76ncnJGLTga?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lV_ygb0q-rk43-q5OqT1_JGd_MI=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FouNkttQxSkAzoEqU76ncnJGLTga?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UWLYfQ77VjBGy2DR9r1mMr2cYO8=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FouNkttQxSkAzoEqU76ncnJGLTga?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JL5XjoajM-gJsr_Y5Bz2U2XWjeM=",
+                    "width": 1242,
+                    "height": 2208,
+                    "size": 280249
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T15:39:04.123+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2020-03-04T15:29:02.119+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2020-02-16T16:48:33.341+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-12-21T14:18:08.805+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-09-30T09:48:06.069+0800",
+            "owner": {
+                "user_id": 144845522882,
+                "name": "Amy大米",
+                "avatar_url": "https://images.zsxq.com/FuNzxVhkpp6OSFEkpeOpXHg-MoOx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FO_IXySOzDtEMnb6p20Q7nlr4UI=",
+                "number": 6173
+            }
+        },
+        {
+            "create_time": "2019-08-18T09:59:28.204+0800",
+            "owner": {
+                "user_id": 48882151221228,
+                "name": "东向",
+                "alias": "东向",
+                "avatar_url": "https://images.zsxq.com/FhUG87jnSXLBcj8SxZHX1RjwKodN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3yWRj1aI2dbFIle9Fd8_gzrX_RQ=",
+                "number": 5953
+            }
+        },
+        {
+            "create_time": "2019-05-30T00:14:05.885+0800",
+            "owner": {
+                "user_id": 5422818514,
+                "name": "耳朵菌Studio",
+                "avatar_url": "https://images.zsxq.com/FmlHd4s1MuxcMcsrWh01KyscIjO5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mH3VighHuJqeWDBC20H-lckI0Ko=",
+                "number": 2976
+            }
+        },
+        {
+            "create_time": "2019-05-09T13:48:49.969+0800",
+            "owner": {
+                "user_id": 481128188448,
+                "name": "四爷",
+                "alias": "四爷(Joseph)",
+                "avatar_url": "https://images.zsxq.com/FhnOgPcQYEcpBaXOxR_xbvsZ65oJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TQ-DmYFoXu7oDXVH94dBt8CAWqg=",
+                "number": 2021
+            }
+        },
+        {
+            "create_time": "2019-04-26T07:27:27.543+0800",
+            "owner": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M=",
+                "number": 4085
+            }
+        },
+        {
+            "create_time": "2019-04-25T20:49:43.246+0800",
+            "owner": {
+                "user_id": 1158421822,
+                "name": "我是董较瘦",
+                "avatar_url": "https://images.zsxq.com/Fh_V-wo36yKZAVyMT1h39utLbMlz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WHYx9Aw1WpFW_ci5tt3BpbGR6Ak=",
+                "number": 3146
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-04-21T15:34:19.216+0800",
+            "owner": {
+                "user_id": 824454555482,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/FkP9Zm83Rjnx_P2qfJm6ewdfNut9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XaMCseQs54xTlW0vWtDbXkfzXMw="
+            },
+            "amount": 288
+        },
+        {
+            "create_time": "2019-04-21T15:04:47.147+0800",
+            "owner": {
+                "user_id": 1112524522,
+                "name": "⭐️伟哥",
+                "avatar_url": "https://images.zsxq.com/Fk0yVPzCUqfzvTTTWpq0u4PiBD6Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XCsrcw6nGL_vULSL77ljTrAqKgM="
+            },
+            "amount": 6600
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841551215442182,
+            "create_time": "2019-04-21T14:45:21.462+0800",
+            "owner": {
+                "user_id": 885224152,
+                "name": "黄大发",
+                "avatar_url": "https://images.zsxq.com/FvEO3XqEexeBjiPPBD5QAaZ3QGFv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IMTr0rhQItFsvsWQKlemosYl8ak="
+            },
+            "text": "最小MVP",
+            "likes_count": 2,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118228482118212,
+            "create_time": "2019-04-21T14:48:00.543+0800",
+            "owner": {
+                "user_id": 281851221121,
+                "name": "C",
+                "alias": "C",
+                "avatar_url": "https://images.zsxq.com/FsL98OJDuQE3UeKGjU6Q719cXir5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oJ0OGGdfKf_qYrAbXNpCRI-9FGg="
+            },
+            "text": "这些协议、合同的使用场景主要还是商务用途，修改的地方有时还是挺多的，手机上起草多有不便；邮箱传递或许是一个方式，类似查阅文献，点击传递模板，即可发送到用户指定邮箱",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241551215418511,
+            "create_time": "2019-04-21T14:54:53.479+0800",
+            "owner": {
+                "user_id": 555428285244,
+                "name": "clamphacke*",
+                "avatar_url": "https://images.zsxq.com/FqBWAFAvmNdl21cFG5yv5EM-evs7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:d8-dto89LmzQsEYPPXmZy-tr5Eg="
+            },
+            "text": "我们有内部群吗？才加进来",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421441514218858,
+            "parent_comment_id": 241551215418511,
+            "create_time": "2019-04-21T14:55:16.900+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "目前没有，后面会有。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 555428285244,
+                "name": "clamphacke*",
+                "avatar_url": "https://images.zsxq.com/FqBWAFAvmNdl21cFG5yv5EM-evs7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:d8-dto89LmzQsEYPPXmZy-tr5Eg="
+            }
+        },
+        {
+            "comment_id": 421441515585558,
+            "create_time": "2019-04-21T14:59:52.261+0800",
+            "owner": {
+                "user_id": 518154515884,
+                "name": "阿pong",
+                "avatar_url": "https://images.zsxq.com/FpdPRqZK_uw6g-Vss1sVpKYuuEbJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3xaVtq5uVgcJ_Cf6-n6dX1SqVio="
+            },
+            "text": "有分析自然搜索的排名吗 是排在很前面都没有流量？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118228484454842,
+            "parent_comment_id": 421441515585558,
+            "create_time": "2019-04-21T15:01:22.842+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "看过，排名一般，不是很靠前。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 518154515884,
+                "name": "阿pong",
+                "avatar_url": "https://images.zsxq.com/FpdPRqZK_uw6g-Vss1sVpKYuuEbJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3xaVtq5uVgcJ_Cf6-n6dX1SqVio="
+            }
+        },
+        {
+            "comment_id": 421441515581258,
+            "create_time": "2019-04-21T15:05:20.349+0800",
+            "owner": {
+                "user_id": 51111552548554,
+                "name": "茶觉",
+                "avatar_url": "https://images.zsxq.com/Fvd_U7exGUdClPYEQd6d6T2hVJAU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hnR3WKEqwcXOquU2f5KxqPBY7gI="
+            },
+            "text": "微信的群体很大，一部分人还是有这方面的需求的，长期还是很看好的，只能说目前还不太适合这么做，或者说做成这事另有其他方法也不一定[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 548228585555124,
+            "parent_comment_id": 421441515581258,
+            "create_time": "2019-04-21T15:13:13.133+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "是这样的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 51111552548554,
+                "name": "茶觉",
+                "avatar_url": "https://images.zsxq.com/Fvd_U7exGUdClPYEQd6d6T2hVJAU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hnR3WKEqwcXOquU2f5KxqPBY7gI="
+            }
+        }
+    ],
+    "likes_count": 89,
+    "rewards_count": 2,
+    "comments_count": 21,
+    "reading_count": 9581,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-04-21T14:37:55.907+0800",
+    "modify_time": "2019-04-21T14:41:19.908+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

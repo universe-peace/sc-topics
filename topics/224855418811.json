@@ -1,0 +1,67 @@
+{
+    "topic_id": 224855418811,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454151148288,
+            "name": "定投哥@区块链定投",
+            "alias": "头号玩家",
+            "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+        },
+        "text": "我把文档发一下，之前有个哥们发了链接，看起来不方便。",
+        "files": [
+            {
+                "file_id": 555848144884,
+                "name": "2017互联网+指数经济报告.pdf",
+                "hash": "43ed38364ba6bc2356d8889f400baddb2aba3aa4cd15feecfbc13a3766e0ac85",
+                "size": 9838485,
+                "download_count": 279,
+                "create_time": "2017-06-28T10:05:13.462+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-29T02:01:13.330+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-30T12:38:41.925+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-04-25T09:09:29.896+0800",
+            "owner": {
+                "user_id": 2441254211,
+                "name": "何校长 | 九州资本",
+                "avatar_url": "https://images.zsxq.com/FnelTU1QvEms4VxVJgRXmJQKrQli?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Parr1dYJm0xU3Mf98R5CEKgp8gg=",
+                "number": 145
+            }
+        }
+    ],
+    "likes_count": 3,
+    "rewards_count": 0,
+    "comments_count": 0,
+    "reading_count": 1984,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-20T13:26:30.737+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

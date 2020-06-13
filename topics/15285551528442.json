@@ -1,0 +1,296 @@
+{
+    "topic_id": 15285551528442,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "q&a",
+    "question": {
+        "owner": {
+            "user_id": 827828127,
+            "name": "wulujia",
+            "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+            "description": "知识星球创始人"
+        },
+        "questionee": {
+            "user_id": 225151188841,
+            "name": "iamsujie",
+            "avatar_url": "https://images.zsxq.com/Ftl-WHgt7565zeQODyfrZRDqzMMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u2GDWR4RAWbGrVxF-efwwWTnMxI=",
+            "description": "《人人都是产品经理》苏杰"
+        },
+        "text": "苏老师好，欢迎小密圈。我有个困惑：贴吧可以做到全是免费内容，但是仍然有很多有价值的信息。但小密圈如果免费圈子，似乎圈主经营起来动力有限。免费圈、吧、群，要做成，要素有哪些？",
+        "fee": {
+            "amount": 2800
+        },
+        "expired": true,
+        "anonymous": false
+    },
+    "answer": {
+        "owner": {
+            "user_id": 225151188841,
+            "name": "iamsujie",
+            "avatar_url": "https://images.zsxq.com/Ftl-WHgt7565zeQODyfrZRDqzMMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u2GDWR4RAWbGrVxF-efwwWTnMxI=",
+            "description": "《人人都是产品经理》苏杰"
+        },
+        "text": "原来是小密圈的老大，不敢班门弄斧，说点我的感受：\n1. 免费圈子更扁平，付费圈子更中心化；\n2. 免费圈子内容更浅（信息），付费圈子可以深度交流（知识）；\n3. 免费圈主是管理员心态，付费圈主是Owner心态；\n4. 免费圈子经营是手段（做流量啥的，一定要有后招才可持续），付费圈子经营本身就可以是目的。\n5. 继续想……"
+    },
+    "answered": true,
+    "latest_likes": [
+        {
+            "create_time": "2019-07-31T00:10:45.296+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-31T23:30:08.199+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-05-17T00:28:25.830+0800",
+            "owner": {
+                "user_id": 51285412815544,
+                "name": "夏寒",
+                "avatar_url": "https://images.zsxq.com/FqSpXqWuK9eOTRRtU1ZV1l4iIwhw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WFFcx5_7TuAIYURpOpXMSOREb10=",
+                "number": 1025
+            }
+        },
+        {
+            "create_time": "2017-05-11T03:38:26.210+0800",
+            "owner": {
+                "user_id": 142114542282,
+                "name": "迦楼罗",
+                "avatar_url": "https://images.zsxq.com/Fi-3K7vhfxDC5rnBhspSsos8dbqg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:85WLrA0vzzSHNr323DGqWbZ6LAg=",
+                "number": 879
+            }
+        },
+        {
+            "create_time": "2017-05-10T21:46:03.146+0800",
+            "owner": {
+                "user_id": 48415415181228,
+                "name": "西蒙陈",
+                "avatar_url": "https://images.zsxq.com/FhQdKICrcZQz31BBCHZMcHt0ze3Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f2IWp3jDcrOJ6xinruywb4J3rwc=",
+                "number": 1016
+            }
+        },
+        {
+            "create_time": "2017-05-07T21:46:50.347+0800",
+            "owner": {
+                "user_id": 4252224458,
+                "name": "刘锐",
+                "avatar_url": "https://images.zsxq.com/FuWjPR0qgglk_7ScMiUwQ1Lphh3h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ySkMbdq14UWslvS8koctzZ5ejpQ=",
+                "number": 62
+            }
+        },
+        {
+            "create_time": "2017-05-07T07:37:47.365+0800",
+            "owner": {
+                "user_id": 8445512222,
+                "name": "弧线99",
+                "avatar_url": "https://images.zsxq.com/FrvwszizYYQtzkVdJza90yafB_nC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JtWFCb3RNMReogjIyEZ_FYth1-E=",
+                "number": 858
+            }
+        },
+        {
+            "create_time": "2017-05-07T01:54:23.988+0800",
+            "owner": {
+                "user_id": 552185285514,
+                "name": "吴泰龙咔兜",
+                "avatar_url": "https://images.zsxq.com/Fu-ZwjdJQO5lrQS5raRrWNzIrLLk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ls1ggKKtZBWRDnMCKWuVwOEq2rM=",
+                "number": 430
+            }
+        },
+        {
+            "create_time": "2017-05-06T20:55:08.315+0800",
+            "owner": {
+                "user_id": 551552488824,
+                "name": "乘务长",
+                "avatar_url": "https://images.zsxq.com/FjRSbsvpUYCNQRkq5ZfbV_aRWBHS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zhPvi5sEyJHlKzLIDZ3kb36-x54="
+            }
+        },
+        {
+            "create_time": "2017-05-06T20:09:38.604+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA=",
+                "number": 626
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-06T12:41:25.320+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        },
+        {
+            "create_time": "2017-05-06T12:05:49.024+0800",
+            "owner": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2017-05-06T12:49:12.147+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "amount": 5200
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88518542145852,
+            "create_time": "2017-05-06T12:07:06.379+0800",
+            "owner": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            },
+            "text": "我其实有在想，小密圈是不是可以砍掉免费圈子？如果不砍，有没有可能做大？\n\n决定多体验把玩贴吧感受一下。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 88518544551582,
+            "create_time": "2017-05-06T12:11:54.054+0800",
+            "owner": {
+                "user_id": 225151188841,
+                "name": "iamsujie",
+                "avatar_url": "https://images.zsxq.com/Ftl-WHgt7565zeQODyfrZRDqzMMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u2GDWR4RAWbGrVxF-efwwWTnMxI=",
+                "description": "《人人都是产品经理》苏杰"
+            },
+            "text": "用户对社区的认知很奇妙，矛点定了就难改了，作为一个新用户，我支持只有付费圈子（反正以后可以再打开免费的嘛😂）",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51281244242844,
+            "create_time": "2017-05-06T12:54:07.946+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "感谢苏杰老师，我学产品管理就是先看您的书，影响很大。\n\n关于圈子是收费与免费，是不是取决于平台方的主要目标用户对象。 \n\n收费的圈子相当于圈主的自领地？苏杰老师是会倾向于建立自己的领地吗？如果是，您现在会用什么方式呢？是否可以方便透露一下呢😍",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 88518544485582,
+            "parent_comment_id": 51281244242844,
+            "create_time": "2017-05-06T15:31:20.401+0800",
+            "owner": {
+                "user_id": 225151188841,
+                "name": "iamsujie",
+                "avatar_url": "https://images.zsxq.com/Ftl-WHgt7565zeQODyfrZRDqzMMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u2GDWR4RAWbGrVxF-efwwWTnMxI=",
+                "description": "《人人都是产品经理》苏杰"
+            },
+            "text": "刚开始尝试，还不知道",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            }
+        },
+        {
+            "comment_id": 88518515282542,
+            "parent_comment_id": 51281244242844,
+            "create_time": "2017-05-06T16:47:00.039+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "是小密圈吗😍",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 225151188841,
+                "name": "iamsujie",
+                "avatar_url": "https://images.zsxq.com/Ftl-WHgt7565zeQODyfrZRDqzMMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u2GDWR4RAWbGrVxF-efwwWTnMxI=",
+                "description": "《人人都是产品经理》苏杰"
+            }
+        },
+        {
+            "comment_id": 48418418411148,
+            "create_time": "2017-05-06T20:09:18.937+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "text": "对于圈主，免费圈子还在路上，付费圈子已经商业化。抢夺头部KOL是关键，名和利的激励。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15285285114582,
+            "parent_comment_id": 88518542145852,
+            "create_time": "2017-05-06T22:19:48.295+0800",
+            "owner": {
+                "user_id": 145824442522,
+                "name": "Damon",
+                "avatar_url": "https://images.zsxq.com/Fhvs1YAF6oR1GKu7RODnCGvjtxCP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ITHppwtgh5G5eXyX13ysWvjkoC8="
+            },
+            "text": "贴吧是有巨大的基于兴趣的自有流量，形成的兴趣圈内有些人逐渐建立自己的影响力，成为圈的管理者。\n小密圈是圈主在圈外有自己的影响力，来到小密圈建立自己的圈子。\n小密圈和贴吧差别很大的点是能否给免费圈带来足够大的流量，流量大，之前影响力不大的人就能建立自己的影响，到时圈子纯免费或转付费都可以了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            }
+        },
+        {
+            "comment_id": 48418415144448,
+            "create_time": "2017-05-07T09:12:11.619+0800",
+            "owner": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            },
+            "text": "贴吧有百度导流，优质的搜索流量带给贴吧，也是一个原因",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 17,
+    "rewards_count": 3,
+    "comments_count": 11,
+    "reading_count": 1986,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-06T12:04:56.767+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

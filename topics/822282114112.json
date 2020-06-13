@@ -1,0 +1,266 @@
+{
+    "topic_id": 822282114112,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 555148855454,
+            "name": "他叫呼噜噜",
+            "avatar_url": "https://images.zsxq.com/FpLgDCGJ5yZF7FeC8BWU4TqN9eOy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ooc7XEXVRf6GnJDT092dLXA195o="
+        },
+        "text": "分享一个自己的案例\n时间2013年底，背景比特币正处在爆发阶段，无数韭菜蜂拥而至\n成绩是依靠一个没有什么技术含量的脚本，用五万成本盈利了70万\n\n当时各交易所都能提供全部的挂单数据，并且提供了比较完善的API，于是我在这些数据里发现了一些小规律\n思路是这样的：根据网站提供的挂单数据(深度数据)，可以计算出价格上涨或下跌的理论概率，比如说当前价格100元，挂在95-99.9元的买单有10万元，挂在100.1-105的卖单有20万，那理论上，涨五块的可能性要比跌五块低一倍(纯理论值)。实际上，仅仅根据这个数据，在当时也是完全可以很好盈利的，但我又加入了历史成交数据的统计，打个比方，最近成交的十万元里，有8万是主动发起的买单，2万是主动卖单。这个数据可以判断短期内的市场情绪。\n\n再往下的事情就简单了，结合两部分数据，做一次回测，拟合出几个参数。甚至都没有用到ML这种高大上的手段，只是手动改参数来拍脑门决定就已经够用了。\n\n这种方式属于很偶然的机会，当前几乎不可复制。这个机会成立的前提，我事后分析一下有以下几点：\n1 需要有完整的挂单数据(深度数据)\n2 需要有绝大多数的韭菜玩家，也就是追涨杀跌那伙人\n3 没有大规模的做市玩家，他们会降低市场波动率\n\n最后，可能有人会说，那阵子如果一直持有也会有不错的收益，但实际上我是在7000+高位进入，在mtgox事件后退出，这期间市场跌了70%"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-28T21:21:06.167+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-25T16:39:05.341+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-04-08T01:08:45.236+0800",
+            "owner": {
+                "user_id": 228214485841,
+                "name": "Jason",
+                "alias": "JasonLee",
+                "avatar_url": "https://images.zsxq.com/Ftbym-tzOBZ26mFA21Ca1rs64ASm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_So2l851p2qR-1oMMudfU5ypuv0=",
+                "number": 416
+            }
+        },
+        {
+            "create_time": "2017-04-06T21:04:31.409+0800",
+            "owner": {
+                "user_id": 225812122451,
+                "name": "肥鱼",
+                "avatar_url": "https://images.zsxq.com/FiV1TpjrY_s5fRQumygO44kX2upz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dxGfwxj7KmuyY5r1azENhM52nJc=",
+                "number": 294
+            }
+        },
+        {
+            "create_time": "2017-04-06T08:24:37.313+0800",
+            "owner": {
+                "user_id": 1142185122,
+                "name": "astone",
+                "avatar_url": "https://images.zsxq.com/FtugTMGBO7JCdLM7YS6AmJuOwo05?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5QQ4uMP_6i1k-epuxBbek3NiQs0=",
+                "number": 727
+            }
+        },
+        {
+            "create_time": "2017-04-05T22:46:15.898+0800",
+            "owner": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg=",
+                "number": 739
+            }
+        },
+        {
+            "create_time": "2017-04-05T01:30:59.031+0800",
+            "owner": {
+                "user_id": 158851848252,
+                "name": "Grey",
+                "avatar_url": "https://images.zsxq.com/FiKdHPl30YhIbZBmycnd93IXhPM2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YEFej1zBQZ-PmGcM_60sV9AKuTU=",
+                "number": 52
+            }
+        },
+        {
+            "create_time": "2017-04-04T22:32:28.333+0800",
+            "owner": {
+                "user_id": 454218544518,
+                "name": "Bluekou",
+                "alias": "Bluekou-温虾米",
+                "avatar_url": "https://images.zsxq.com/FoDXBpsrCgE7yn77Yd40E8lqqul1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z4sURrvi8iaGNT3lMItHCvvQiFo=",
+                "number": 331
+            }
+        },
+        {
+            "create_time": "2017-04-04T22:12:46.380+0800",
+            "owner": {
+                "user_id": 5584481284,
+                "name": "Teratimes",
+                "avatar_url": "https://images.zsxq.com/Fk6itrElGSGN1Q5MjtT3DDZZRh5c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n8i--TiQM2Wqn-vg_mzhQ5eQ9K8=",
+                "number": 386
+            }
+        },
+        {
+            "create_time": "2017-04-04T20:47:00.231+0800",
+            "owner": {
+                "user_id": 222582522811,
+                "name": "冯晨雪yuki",
+                "avatar_url": "https://images.zsxq.com/FgCgyNBsQz-0H-7PMW4N-XBWSPhL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KOo61yWCBnApPX7yKhlSlLW-G2A=",
+                "number": 773
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-04T16:40:42.200+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        },
+        {
+            "create_time": "2017-04-04T16:41:47.444+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "amount": 188
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 551844151454,
+            "create_time": "2017-04-04T16:54:21.087+0800",
+            "owner": {
+                "user_id": 825281245152,
+                "name": "Tomcat",
+                "avatar_url": "https://images.zsxq.com/Fhvi-MFjo2WDZBevmb6aXKqCYsAG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:drGkqkEmHz6fjM6Kti1i39kOQ1o="
+            },
+            "text": "那时候我1800左右入场的 也赚了近6倍  不过本金比较少 写了一个涨跌提醒的小工具 半夜不用一直盯着😝 那时候脑子不够开窍写自动交易的工具 👍",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145811544882,
+            "create_time": "2017-04-04T17:01:21.794+0800",
+            "owner": {
+                "user_id": 281118545881,
+                "name": "ss",
+                "alias": "GW",
+                "avatar_url": "https://images.zsxq.com/FgK8oX9xsao45cdKVJCAIi3e5TIW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bu4CbLj5YZqEi6ftt_49EiI9tLQ="
+            },
+            "text": "怎么感觉这个和炒股有点像",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828144285882,
+            "create_time": "2017-04-04T17:51:06.673+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "text": "这种策略，现在会亏出翔😄",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 145811418142,
+            "create_time": "2017-04-04T20:00:15.752+0800",
+            "owner": {
+                "user_id": 518828154414,
+                "name": "RunSky",
+                "avatar_url": "https://images.zsxq.com/Fk8tPcKhJKHwCweWDcrYHPVYp9pr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_m9HAW_G0yQhM2LjMoUlhIitug="
+            },
+            "text": "我12年也做了这样的程序，还配了语音提醒！后来滚去搞电商了😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458122111828,
+            "parent_comment_id": 828144285882,
+            "create_time": "2017-04-04T22:41:46.976+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "怎么讲呢？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            }
+        },
+        {
+            "comment_id": 551848254844,
+            "parent_comment_id": 828144285882,
+            "create_time": "2017-04-05T00:00:21.663+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "text": "大的交易所都做庄，交易实际上是“对赌”，滑点基本上可以吃掉价差。反正我已经不做了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 828141884152,
+            "create_time": "2017-04-05T01:30:41.862+0800",
+            "owner": {
+                "user_id": 158851848252,
+                "name": "Grey",
+                "avatar_url": "https://images.zsxq.com/FiKdHPl30YhIbZBmycnd93IXhPM2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YEFej1zBQZ-PmGcM_60sV9AKuTU="
+            },
+            "text": "这是量化交易吗",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 228141125211,
+            "parent_comment_id": 828141884152,
+            "create_time": "2017-04-05T13:07:33.629+0800",
+            "owner": {
+                "user_id": 555148855454,
+                "name": "他叫呼噜噜",
+                "avatar_url": "https://images.zsxq.com/FpLgDCGJ5yZF7FeC8BWU4TqN9eOy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ooc7XEXVRf6GnJDT092dLXA195o="
+            },
+            "text": "算是很初级的吧",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 158851848252,
+                "name": "Grey",
+                "avatar_url": "https://images.zsxq.com/FiKdHPl30YhIbZBmycnd93IXhPM2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YEFej1zBQZ-PmGcM_60sV9AKuTU="
+            }
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 2,
+    "comments_count": 8,
+    "reading_count": 1801,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-04T16:39:34.474+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

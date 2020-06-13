@@ -1,0 +1,324 @@
+{
+    "topic_id": 48588248542228,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5458545854,
+            "name": "Tom叔聊运营增长",
+            "alias": "Tom叔聊运营增长",
+            "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />           如何薅facebook和Google羊毛。\n\n除了这篇文章里说的，再补充几个：\n1、针对从facebook和Google的media buy，即买量用户弹广告，organic用户不弹广告。防止审查人员主动搜索下载查到违规广告位。云端控制，前三天开比较缓和的广告位，越激进的广告位，比如充电锁屏，比如挂断位广告，出现得越晚（3-7天后）\n\n2、针对facebook过来的用户，优先出facebook audience network的广告。同理Google Adwords过来的用户优先出Google Admob的广告。后面填冲mopub，flurry等平台广告。\n\n3、针对不同的场景，做不同的广告。比如差旅刚下飞机，解锁后出现Uber广告。进入酒店附近出现yelp广告、周围热门景点的广告。上面是分LBS。早中晚时间段也可以精细化运营广告位，而不是一股脑儿都抛给用户。\n\n4、充电锁屏。2015年最猖獗，某数字公司，某动物公司，某＊娘公司，当年出海的产品加上该广告位后，每天多了几十万美金收入（保守）。我16年初去印度出差时，酒店前台小哥，插上USB充电，需要解锁4个App的充电锁屏，4次全屏广告展示。[流汗]中国人的小聪明真是无所不在。\n17年Google开发者大会上，谷歌已经禁止非锁屏类APP出锁屏类广告。但魔高一尺道高一丈，还在博弈中。\n\n5、未完待续……\n\n我的微信号：tomxu123",
+        "images": [
+            {
+                "image_id": 28811888454181,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fiy8g5BJOx4jMNjKIMAeJanhB34I?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sZIDDwdUo9zIDx_pEbETjhTblQs=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fiy8g5BJOx4jMNjKIMAeJanhB34I?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aXDd7aNum8N-gAt1h6R0edEyh5E=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fiy8g5BJOx4jMNjKIMAeJanhB34I?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eN0kpMLuwFKP59Xq0ZIoZERk4sc=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 424808
+                }
+            },
+            {
+                "image_id": 15588555121842,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvJOKvk5wmjYzTTBl9r8UXeqcTuw?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gTZgZ1v5WZNH5XUgDZpiWitdOG0=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvJOKvk5wmjYzTTBl9r8UXeqcTuw?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wsCpzaZroSd_UqrTEUCGrpSgtv0=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvJOKvk5wmjYzTTBl9r8UXeqcTuw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EOzAjw8ZVvgq7BgeRDGo0KOl5jA=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 765979
+                }
+            },
+            {
+                "image_id": 28811888482211,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fvzs-XCY3lY89dm_3JZGw-A9e8Yl?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UaIooNnj0__YMARiRbU5K-kMVgI=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fvzs-XCY3lY89dm_3JZGw-A9e8Yl?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ew7s9bpbhXoixE-ZvJxoetvsFMk=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fvzs-XCY3lY89dm_3JZGw-A9e8Yl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q1iVdMZ3n5Iv_RbOlexAHA2dkNQ=",
+                    "width": 1440,
+                    "height": 1080,
+                    "size": 221375
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-11T22:55:45.361+0800",
+            "owner": {
+                "user_id": 225444441211,
+                "name": "醒着做梦",
+                "avatar_url": "https://images.zsxq.com/FkPcSgxYcRU1IwoxQdQFlwNh3CLr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_UBzdEAJ_WrSewpEoFDurR0lWw4=",
+                "number": 2887
+            }
+        },
+        {
+            "create_time": "2020-04-09T13:53:02.313+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-25T19:22:36.574+0800",
+            "owner": {
+                "user_id": 844415442188822,
+                "name": "槐香城",
+                "avatar_url": "https://images.zsxq.com/FqciCQkFCoyF6ZU9wKWS7TKD99R8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bqWD6Zx03X8y04QdLf5bid98idE=",
+                "number": 6180
+            }
+        },
+        {
+            "create_time": "2019-06-22T00:52:50.741+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T12:26:15.923+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-28T15:53:01.989+0800",
+            "owner": {
+                "user_id": 224582852121,
+                "name": "大力",
+                "avatar_url": "https://images.zsxq.com/FjVJ913wGfWJpc2kmC2qhvL9S1zU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HLHpE2X6tsQacYIwhRsx2t03nyk=",
+                "number": 5243
+            }
+        },
+        {
+            "create_time": "2019-04-27T14:03:13.697+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-05-07T01:50:38.519+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-26T21:48:42.026+0800",
+            "owner": {
+                "user_id": 481128188448,
+                "name": "四爷",
+                "alias": "四爷(Joseph)",
+                "avatar_url": "https://images.zsxq.com/FhnOgPcQYEcpBaXOxR_xbvsZ65oJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TQ-DmYFoXu7oDXVH94dBt8CAWqg=",
+                "number": 2021
+            }
+        },
+        {
+            "create_time": "2018-04-23T19:44:31.400+0800",
+            "owner": {
+                "user_id": 88244141418442,
+                "name": "许多多",
+                "avatar_url": "https://images.zsxq.com/FijVAG3G7mFDjsfkwpvkQln1CN52?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:myZ69SEc34I_fi1YJtED7sSkgSU=",
+                "number": 1706
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 15411481184212,
+            "create_time": "2018-04-21T12:09:42.424+0800",
+            "owner": {
+                "user_id": 552185284814,
+                "name": "南方以南",
+                "avatar_url": "https://images.zsxq.com/Fkv2wXfA3nFlStzyPKYg1xcPfBNi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vDuS5YAFXn5bP4q1QpAAgyrsyI4="
+            },
+            "text": "厉害了Tom哥",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28244214412411,
+            "parent_comment_id": 15411481184212,
+            "create_time": "2018-04-21T12:11:46.099+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "来了个识货的，见笑了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552185284814,
+                "name": "南方以南",
+                "avatar_url": "https://images.zsxq.com/Fkv2wXfA3nFlStzyPKYg1xcPfBNi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vDuS5YAFXn5bP4q1QpAAgyrsyI4="
+            }
+        },
+        {
+            "comment_id": 15411488452882,
+            "create_time": "2018-04-21T14:43:50.485+0800",
+            "owner": {
+                "user_id": 228121155541,
+                "name": "蓝土豆",
+                "avatar_url": "https://images.zsxq.com/Fml4TFzEV_QpS5-BF1224N9rifWl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ivWJcWaQMvNTdzGL-EtdAKXt2dM="
+            },
+            "text": "我记得2年前有个创业项目就是 这类广告， 听了觉好厉害",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28244158818151,
+            "parent_comment_id": 15411488452882,
+            "create_time": "2018-04-21T15:23:16.459+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "百度还是360，都提供这个标准sdk接口了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228121155541,
+                "name": "蓝土豆",
+                "avatar_url": "https://images.zsxq.com/Fml4TFzEV_QpS5-BF1224N9rifWl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ivWJcWaQMvNTdzGL-EtdAKXt2dM="
+            }
+        },
+        {
+            "comment_id": 48522148151458,
+            "parent_comment_id": 15411481184212,
+            "create_time": "2018-04-21T17:16:06.646+0800",
+            "owner": {
+                "user_id": 552185284814,
+                "name": "南方以南",
+                "avatar_url": "https://images.zsxq.com/Fkv2wXfA3nFlStzyPKYg1xcPfBNi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vDuS5YAFXn5bP4q1QpAAgyrsyI4="
+            },
+            "text": "期待后续",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        },
+        {
+            "comment_id": 15411821542852,
+            "create_time": "2018-04-21T21:32:43.255+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "这篇作者能不能搬我圈里",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28244154255241,
+            "parent_comment_id": 15411821542852,
+            "create_time": "2018-04-21T21:39:15.814+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "可以，曹老大。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            }
+        },
+        {
+            "comment_id": 15411821422122,
+            "parent_comment_id": 15411821542852,
+            "create_time": "2018-04-21T21:39:24.141+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "我自己发吧",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            }
+        }
+    ],
+    "likes_count": 32,
+    "rewards_count": 0,
+    "comments_count": 11,
+    "reading_count": 2925,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-21T11:17:20.765+0800",
+    "modify_time": "2018-04-22T15:32:01.471+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

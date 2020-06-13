@@ -1,0 +1,228 @@
+{
+    "topic_id": 111828288255522,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 48411125515418,
+            "name": "树叶",
+            "avatar_url": "https://images.zsxq.com/Ft4tqmmRdj15lNv6PWiJuBb9Z_tO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bAm7rQz8Iv4d5XRNcUP6aUxUvhs="
+        },
+        "text": "《关于得到APP精品课变现的思考》\n2200字，长图。\n分享一下我对得到精品课的一点思考，希望能起到抛砖引玉的作用，看完本文，应该会对得到精品课和知识付费有个重新的认识。\n\n文章有点长，还有很多图片，我就直接上长截图了哈。",
+        "images": [
+            {
+                "image_id": 111112454555552,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsRcQg3T_XbPxyNa86YkVPWsCQAd?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Bbkyu56MKt2wTr0HeE6Qk38kXKg=",
+                    "width": 540,
+                    "height": 10884
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsRcQg3T_XbPxyNa86YkVPWsCQAd?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VVsSGxsIVu7bpx4SvlYYaz6ziNI=",
+                    "width": 800,
+                    "height": 16125
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FsRcQg3T_XbPxyNa86YkVPWsCQAd?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z39MsnI1FxK-OeC4zQWisAoMrCk=",
+                    "width": 880,
+                    "height": 17738,
+                    "size": 3393032
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T19:46:13.078+0800",
+            "owner": {
+                "user_id": 5458515254,
+                "name": "传说之神",
+                "avatar_url": "https://images.zsxq.com/Fv1BhBIZNA6VBnLEQnlr6dNvM5gX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:invwUQZN-KpbQurnuQRLTsZvkik=",
+                "number": 1338
+            }
+        },
+        {
+            "create_time": "2020-03-11T14:28:20.570+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2020-02-04T17:23:03.027+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-11-24T16:51:14.449+0800",
+            "owner": {
+                "user_id": 4281845158,
+                "name": "Paddy",
+                "avatar_url": "https://images.zsxq.com/Fit8w-8LnfXw6SJuOtogvmcg8-FX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hafPZz3Fwqx90dlTbfRHbPhUcAs=",
+                "number": 1548
+            }
+        },
+        {
+            "create_time": "2019-08-24T13:07:08.955+0800",
+            "owner": {
+                "user_id": 48841282588288,
+                "name": "好运先生｜周海运",
+                "alias": "好运先生｜周海运",
+                "avatar_url": "https://images.zsxq.com/Fvc3FvQnu3FiUW5I_iRDC15tnYsh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_MGseGTkCKUslZBNPY0FwhAGLLk=",
+                "number": 4118
+            }
+        },
+        {
+            "create_time": "2019-05-12T16:51:19.882+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-09T22:43:43.405+0800",
+            "owner": {
+                "user_id": 4221451888,
+                "name": "鬼冢湛梓熙",
+                "avatar_url": "https://images.zsxq.com/FlnMRhmqLfdvEaxTPpmz2zhS2sV0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p6OqkqlIkXKltv_xwr979xdtQX8=",
+                "number": 1692
+            }
+        },
+        {
+            "create_time": "2019-05-09T08:11:58.885+0800",
+            "owner": {
+                "user_id": 15124428415842,
+                "name": "中国蒙男",
+                "avatar_url": "https://images.zsxq.com/FrN5Lo7wHC6ILeIOYoKx98J186BP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t0lzHIlebWM7NxU8tA7XRrjXqCc=",
+                "number": 2446
+            }
+        },
+        {
+            "create_time": "2019-05-09T08:06:38.987+0800",
+            "owner": {
+                "user_id": 1155542482,
+                "name": "张一二",
+                "avatar_url": "https://images.zsxq.com/Fj0ytatP5rQetvENNX_SkF8dEstq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E6Tw0hjBQ7eyRDxOqo7w3tvOzCM=",
+                "number": 5548
+            }
+        },
+        {
+            "create_time": "2019-05-08T23:24:24.224+0800",
+            "owner": {
+                "user_id": 88888851241582,
+                "name": "南村赵子龙",
+                "avatar_url": "https://images.zsxq.com/FsTYbSRkJcESUHUF6k257Z_xrR3m?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sqRCHwXtsk6sK7rmdtI3plqc7nQ=",
+                "number": 5594
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-08T12:19:33.087+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1900
+        },
+        {
+            "create_time": "2019-05-31T15:22:34.996+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2019-05-08T10:53:47.123+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 900
+        },
+        {
+            "create_time": "2019-05-08T10:43:21.155+0800",
+            "owner": {
+                "user_id": 511255414,
+                "name": "小白- 厦门",
+                "avatar_url": "https://images.zsxq.com/FqYlTcBvyQwXIsuVTEWovddLCiEY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e_1sa_NCZUrQf0NoCTy2NU67rMU="
+            },
+            "amount": 188
+        },
+        {
+            "create_time": "2019-05-08T07:08:19.877+0800",
+            "owner": {
+                "user_id": 281885488851,
+                "name": "湘乡的大树",
+                "avatar_url": "https://images.zsxq.com/Fg3394wDHem2lTlEKIAeNoCvBIXQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sL5uzWHozYMsxkadPwO4LtOPLjM="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-05-08T00:52:36.260+0800",
+            "owner": {
+                "user_id": 228152114481,
+                "name": "NEO",
+                "avatar_url": "https://images.zsxq.com/FneptX1sVLl5ojkpCdwfQCklWjRI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mGQ7yoNwsC07UDLbU4YBQ-Ajzmc="
+            },
+            "amount": 188
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241588411821211,
+            "create_time": "2019-05-08T00:50:42.563+0800",
+            "owner": {
+                "user_id": 48851118242488,
+                "name": "镌刻时光",
+                "avatar_url": "https://images.zsxq.com/FmGd8TY11sEfK7Cfnbto9afi5fLl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vY-jeZobLLQLqxwDOg6BJReUoXE="
+            },
+            "text": "感谢分享，其实难的不是理论，而是行动力。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841588411451552,
+            "create_time": "2019-05-08T07:08:00.117+0800",
+            "owner": {
+                "user_id": 281885488851,
+                "name": "湘乡的大树",
+                "avatar_url": "https://images.zsxq.com/Fg3394wDHem2lTlEKIAeNoCvBIXQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sL5uzWHozYMsxkadPwO4LtOPLjM="
+            },
+            "text": "感谢分享，思路确实打开了",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 39,
+    "rewards_count": 6,
+    "comments_count": 2,
+    "reading_count": 8256,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-08T00:43:22.624+0800",
+    "modify_time": "2019-05-08T00:44:46.248+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

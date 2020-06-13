@@ -1,0 +1,248 @@
+{
+    "topic_id": 88288415455282,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481884815128,
+            "name": "Lin",
+            "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> \n\n作为kindle用户，在新书上我会选择直接购买，而旧书会选择找盗版下载，kindle的盗版市场目前有三种玩法：\n\n1.网站公众号推送或者下载；\n目前一些个人站在搞这个，以集思会和so-kindle为例，两者都是把数据存储在自己的服务器，提供用户下载；\n但两者运营策略有点区别，集思会属于vip制，具体规则如图一，价格相对合理，最重要的是全网广告就一个，很有良心，同时运营着公众号、app以及小程序进行推送；\nso-kindle积分制(图二)+会员制(图三)，价格也很合理，但是配合上积分制就很奇葩，唯一一个亮点就是提供用户上传资料送积分的功能，相对于前者，该站长有点停滞不前；\n这种玩法很普遍，跟提供电影下载地址的独立站很类似。\n\n2.破解电子书网站：\n亚马逊电子书推送到pc和kindle是两个格式并且都是加密的，需要破解才能传给他人使用，这里就有需求就有人跟进了；\n以epubee为例，提供了破解的功能，同时会收集破解的书籍，供网站内部的搜索下载使用，一箭双雕，这网站不好的地方广告多，布局乱导致刚开始时没发现搜索功能，后期才发现，同时他们提供在线阅读功能；\n这里说个亚马逊的小漏洞，购买完电子书后复制出来申请退货，然后破解掉，盗版就出现了，当然有可能会被封号，一个朋友测试过，两个月搞了二十几本书，然后该账号就不让退货了。\n\n3.电子书搜索网站(鸠摩搜索)：\n可以说这是一个垂直分类的搜索网站，全站非常简洁，没有广告，只在搜索结果做文章，会提供跳转第三方购买平台，这种方案是目前比较好的玩法，原因如下；\n一、不需要为了书的来源头痛并且不需要考虑文件存储，只需要紧盯几个大网站；\n二、不局限在kindle市场，目前提供的书籍格式有doc、pdf、txt等；\n三、控制流量分发。\n\n这里再提下为什么第一种玩法要限制每日下载，第二种玩法也是操作麻烦才能下载，除了变现还为了反爬，前两种玩法的核心价值是数据量，如不限制下载，假设这时候我要入场，作为竞争者，我会一口气爬光，这时候你长期积累的壁垒荡然无存。\n\n在说一个故事，话说多年前某个wifi助手前期积累不错，直到某日一个程序员逆向了他们找到漏洞，把最核心的wifi数据都爬走了，这个后来者用最快速度抢了一部分的市场，大约几十万日活，好的，故事结束，不多说，只是警示反爬的重要性。\n\n以下有几个小思路：\n\n1.基于这三种玩法，发现还有需求可以挖掘，那就是缺书情况下，可以提供预约服务，有资源后直接推送到kindle并邮件通知；\n\n2.基于kindle，周边还有很多东西可以做，比如推送文章、书签整理，当然也有挺多人在做了，比如亚马逊kindle服务号支持微信文章推送到kindle，再比如chrome插件推送网页到kindle，还有一些书签管理的网站工具等；\n\n3.基于网盘可以提供一键批量推送服务，并且转换文件格式；\n\n4.记得之前圈子里有人想要公众号历史文章(同理知乎简书quora等)，那也可以提供类似的付费推送服务；\n\n5.同理rss类似功能也能移植到kindle上。\n\n以上可能都是伪需求，也可能是小众需求，但不要局限在kindle上，国内目前也有京东当当阅文在弄阅读器，以目前来说阅文有强大的ip支持，若全力发展不见得发展不好，那么以上这些是否可以复制？当然也可以国内复制到国外，做大平台下的开拓者也不错。\n\n集思会(<e type=\"web\" href=\"http%3A%2F%2Fwww.kindlepush.com\" title=\"%E9%9B%86%E6%80%9D%E4%BC%9A%2Ckindle%E6%8E%A8%7Ckindle%E6%8E%A8%E9%80%81%7Ckindle%E5%9B%BE%E4%B9%A6%E6%8E%A8%E9%80%81%7Ckindlepush%7Ckindle%E7%94%B5...\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201804%2Fb7027b24a1ee05fdf71489e68e6dca9cebfbbf364a0b6ae5715b128b3665f2d3\" />)\nso-kindle(<e type=\"web\" href=\"https%3A%2F%2Fwww.so-kindle.com\" title=\"Kindle%E8%B5%84%E6%BA%90%E5%BA%93\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201804%2F33d011292c9bf23a8b903ee44e50b42c359bae34fdfad1c576df2e9de1f7e3fa\" />)\nepubee(<e type=\"web\" href=\"http%3A%2F%2Fcn.epubee.com\" title=\"%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6%E8%BD%AC%E6%8D%A2%2C+%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%BD%AC%E6%8D%A2%E5%99%A8\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201804%2F76b1472f07af56e62c5364cde0b47f3dd07a4fcf1fad8b49e621bc69bc141b30\" />)\n鸠摩搜索(<e type=\"web\" href=\"https%3A%2F%2Fwww.jiumodiary.com\" title=\"Jiumo+E-Book+Search+%E9%B8%A0%E6%91%A9%E6%90%9C%E4%B9%A6+-+%E6%96%87%E6%A1%A3%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201804%2Ffdce7ffe72d797ed43d3c7b5238bb0a239ec503f396f43a005ebc4b43cdbea15\" />)",
+        "images": [
+            {
+                "image_id": 15588485525112,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpRFUDpC7M4Qxr2no5qJMwt800mu?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PBi-LaWSHfMtWrzss8rPr5HEDwM=",
+                    "width": 320,
+                    "height": 209
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpRFUDpC7M4Qxr2no5qJMwt800mu?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:plNMDi90iHBkCdjIXMOBXC2_QAI=",
+                    "width": 800,
+                    "height": 521
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpRFUDpC7M4Qxr2no5qJMwt800mu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dSXik5JiAN2wruKnVmrq96PfQwM=",
+                    "width": 891,
+                    "height": 581,
+                    "size": 33392
+                }
+            },
+            {
+                "image_id": 28811218858181,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FllbQMy2hYvzfCunzVxty0YHyET7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:be4IpH4QgukI8C0OiLWUk8Ot2zo=",
+                    "width": 320,
+                    "height": 358
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FllbQMy2hYvzfCunzVxty0YHyET7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6rsAa65IgnDGe5eTJ4q26cU4MWw=",
+                    "width": 754,
+                    "height": 843
+                }
+            },
+            {
+                "image_id": 48811518848158,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtGJbo0ymCTqnDltMm-v2ymgNsyE?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UYbc1CDwidwqFX_5k50J99SxQPo=",
+                    "width": 320,
+                    "height": 212
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtGJbo0ymCTqnDltMm-v2ymgNsyE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t8q6l3BeOLKYwfES0La57SFwh3E=",
+                    "width": 756,
+                    "height": 502
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-06-22T12:54:28.227+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-26T16:45:37.353+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-21T13:38:40.015+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2019-04-19T19:04:05.783+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U=",
+                "number": 2833
+            }
+        },
+        {
+            "create_time": "2018-07-15T09:07:39.922+0800",
+            "owner": {
+                "user_id": 828814445582,
+                "name": "天竺葵",
+                "avatar_url": "https://images.zsxq.com/Fh2_TXqO6z7OZ2PwKFGJIn5zIyxr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0fs2tITm4uWBObKqMmhRshWInPw=",
+                "number": 2188
+            }
+        },
+        {
+            "create_time": "2018-05-14T01:55:30.392+0800",
+            "owner": {
+                "user_id": 152858242,
+                "name": "呵呵",
+                "alias": "文波（liweobo，杭州）",
+                "avatar_url": "https://images.zsxq.com/FjJ1VBL-iNUUVRuxnmL1YAKuyIh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jSzk4oX2q2uL0u2dWK60-9HKkJQ=",
+                "number": 2048
+            }
+        },
+        {
+            "create_time": "2018-05-07T02:00:24.015+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-29T08:48:26.881+0800",
+            "owner": {
+                "user_id": 2488541581,
+                "name": "hunter",
+                "alias": "天天",
+                "avatar_url": "https://images.zsxq.com/FqSlr1RmNVCcWxo7V3kl6esZhIHf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p-HkccMMDHDa8oLps-elVjduP3A=",
+                "number": 1763
+            }
+        },
+        {
+            "create_time": "2018-04-24T22:27:17.974+0800",
+            "owner": {
+                "user_id": 145824551882,
+                "name": "真皮哥邓坤伟",
+                "alias": "真皮哥邓坤伟",
+                "avatar_url": "https://images.zsxq.com/Fn_oK5iFJQJFLJjIT-Vb8k8NaO8D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c7ZfWlzB-npgfijGTQbDhE8MIes=",
+                "number": 433
+            }
+        },
+        {
+            "create_time": "2018-04-24T18:27:40.797+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE=",
+                "number": 1621
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28241552245281,
+            "create_time": "2018-04-24T07:51:37.495+0800",
+            "owner": {
+                "user_id": 748241187,
+                "name": "严yan",
+                "avatar_url": "https://images.zsxq.com/Fvn0Jnbs4wM5KAB3n6FqdW60gSe8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dFEQ4Yg3B-aI3XSFkTbqF2DS2vk="
+            },
+            "text": "淘宝很多",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15481818811522,
+            "create_time": "2018-05-06T19:55:11.077+0800",
+            "owner": {
+                "user_id": 2158228851,
+                "name": "以梦为马",
+                "alias": "alexwunju",
+                "avatar_url": "https://images.zsxq.com/Fj5HPdNfY-6IrFnIzc_Zb0LAxNv5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL4bl2jo6FzCTYYwy2LbZbMWxVw="
+            },
+            "text": "还有个 没我找不到的电子书",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548228511141814,
+            "create_time": "2019-04-19T19:09:44.239+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "大佬分析得很到位。18年3月份到6月份，做了一个推送类的小程序。赶上红利没任何推广，加上做得早，那时候几乎只有我一个，所以轻松做到PV百万，同时开通付费推送更多，关联公众号推荐电子书来变现。我做的大佬几乎都说过了。到了6月份左右，集思汇等一些站突然关了，同时也收到大量亚马逊投诉，出于版权问题，所以把小程序给关了。后来做了一个rss推送的小程序，流量就没那么好了。当时应该多做一些矩阵，把流量多洗几遍🙈",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 548228515245424,
+            "parent_comment_id": 548228511141814,
+            "create_time": "2019-04-19T21:23:10.052+0800",
+            "owner": {
+                "user_id": 481884815128,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+            },
+            "text": "惭愧，我就分析了下并没有实操",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            }
+        },
+        {
+            "comment_id": 118228454211542,
+            "parent_comment_id": 548228511141814,
+            "create_time": "2019-04-19T21:25:34.282+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "哈哈，大概是这个事情可以带来的可能性没有打动大佬。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481884815128,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+            }
+        }
+    ],
+    "likes_count": 24,
+    "rewards_count": 0,
+    "comments_count": 5,
+    "reading_count": 3623,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-23T22:00:37.926+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

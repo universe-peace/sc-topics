@@ -1,0 +1,305 @@
+{
+    "topic_id": 88281282255542,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"518188515844\" title=\"%23%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8B%86%E8%A7%A3%23\" />    <e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />    <e type=\"hashtag\" hid=\"4245425418\" title=\"%23%E5%B0%8F%E7%A8%8B%E5%BA%8F%23\" />    \n\n拆解“富豪斗地主”小程序，不少产品设计的地方值得借鉴。 \n\n1. 拉新功能设计，如图1，简洁明了，拉人越多，钻石越多；\n2. 促活功能设计，如图2，除了拉新用户有奖励，帮忙召回老用户也有奖励；\n3. 新手引导设计，如图3，没有专门的帮助中心，但在玩的过程中穿插小的帮助点，玩几句就基本了解全部的玩法和规则；\n4. 沉淀功能设计，如图456，引导沉淀到公众号，设计和交互以及路径上都值得参考，特别值得一提的，从公众号进入小程序的链接上加入了参数，首次从公众号进入会有3个钻石的奖励，没有在别的小程序上见到此玩法，估计以后会普及；\n5. 即时正反馈的设计，如图7，奖励会专门弹窗，并且设计了领取的交互，会让即时正反馈很强，引导继续邀请和传播；\n6. 分享到群有奖的设计，这个属于微信禁止的玩法，这个小程序也不提，但是分享后仍然会有奖励出现，然后第一次分享的人就懂了，心照不宣继续分享领奖。",
+        "images": [
+            {
+                "image_id": 51521444225854,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fs7q7lfnWLSQWBF5c73BjFeGqDGe?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ClqvozKXNu1Kut89HwiM1t2rcpw=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fs7q7lfnWLSQWBF5c73BjFeGqDGe?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XWhGtfmFlncrfS_xsZv1UehYYeQ=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fs7q7lfnWLSQWBF5c73BjFeGqDGe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5cuLFSC2D4fzs20X3b9zEj-blK8=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 227965
+                }
+            },
+            {
+                "image_id": 28258444552121,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FosPiU_yGr5nB6B-Pkf9WfYoUZP5?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G8l25mDV582AlEc1rkBNV8v4s7k=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FosPiU_yGr5nB6B-Pkf9WfYoUZP5?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aKrdZxdF9fiapVTwOs7HDb6oIVQ=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FosPiU_yGr5nB6B-Pkf9WfYoUZP5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:K98ATMfE19opdF7x4OdrjTkIoxY=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 246708
+                }
+            },
+            {
+                "image_id": 15425111224812,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fr32kETCBY4cmoxwjpYh1d6p6qJq?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dl_69xFqIHePXJAT-GTtxx025n0=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fr32kETCBY4cmoxwjpYh1d6p6qJq?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bhOPwOenvMXYoRWSr0JjoxgaIH0=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fr32kETCBY4cmoxwjpYh1d6p6qJq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ecq6poEl1-12a7HLERCBbcV1Tno=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 134603
+                }
+            },
+            {
+                "image_id": 48548222445128,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fvh59KlQpfbmuRhB_8F0TTYzP3iG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_l76VGMZicILIVeccwW27gJMOqE=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fvh59KlQpfbmuRhB_8F0TTYzP3iG?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lS_u9OpGVD2NojgKcPioiHgeyZ8=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fvh59KlQpfbmuRhB_8F0TTYzP3iG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:O7kkUFNVUzGprhBtur2X-AmFP5I=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 241072
+                }
+            },
+            {
+                "image_id": 88258444552142,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqAz3CLFNKcnzQ1C_Zp0b1JmBKb2?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jdHzQ37CD3IdSulpFxFZ1UoeODI=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqAz3CLFNKcnzQ1C_Zp0b1JmBKb2?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RKVEWUOUIB0tHGkO5Xh5CHybTDQ=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqAz3CLFNKcnzQ1C_Zp0b1JmBKb2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OiWktCVGwReSEQox-pgG_HXAWuE=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 240169
+                }
+            },
+            {
+                "image_id": 28258444552141,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fmic6W2GT6bDk-qOxXQz9an9b-5-?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XwRkm5z-urbQYm6IdQdtafhiepg=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fmic6W2GT6bDk-qOxXQz9an9b-5-?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hbltcMJLaZkzYtdZoHPjVogUfdw=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fmic6W2GT6bDk-qOxXQz9an9b-5-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9oJBQ0KcjpWWkWuSfag9cB7bG4g=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 240729
+                }
+            },
+            {
+                "image_id": 15425111224882,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fp6VwT6vGDip3bhajMraAGqq8xfk?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vmCVGXL41B-2UUDQD1hxDs-YL7o=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fp6VwT6vGDip3bhajMraAGqq8xfk?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RyaZWSZ-MjN-9jvyfrNGTgOxoqI=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fp6VwT6vGDip3bhajMraAGqq8xfk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7Eu9ZsIb_GaTmj8WQLL9gUVNC6Y=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 208159
+                }
+            },
+            {
+                "image_id": 88258444552112,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtTy7zCzj12lSuaZ6CuGV3bcrZkz?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e9wwi8GxcgmVqd17ieQXEZR31qY=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtTy7zCzj12lSuaZ6CuGV3bcrZkz?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tSJ06B65BbqQ0qL6pSxupA5unSw=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FtTy7zCzj12lSuaZ6CuGV3bcrZkz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eTkA5VaaKQb-qDLGLL93WXiYogM=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 245186
+                }
+            },
+            {
+                "image_id": 51521444224214,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsiPUFdUBD_cfbjvFTt4Q9aOz6wi?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WVYTdRZQiel6GHpELuAX1mFbqcQ=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsiPUFdUBD_cfbjvFTt4Q9aOz6wi?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vAr5REF9mwAhoCyeXoEuHKvNNcc=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FsiPUFdUBD_cfbjvFTt4Q9aOz6wi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hxSKnkrG0Ja0Z-pkJedfZ8To0uc=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 285383
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-12T16:31:56.156+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-05-13T19:28:27.362+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-29T19:34:47.781+0800",
+            "owner": {
+                "user_id": 481811282258,
+                "name": "shijinzhan",
+                "avatar_url": "https://images.zsxq.com/FliijMsDh3nCImaUJ815PfrN5bzz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWAe7GRFNmdaAFdntK-FR7s_z5s=",
+                "number": 5431
+            }
+        },
+        {
+            "create_time": "2019-04-25T21:23:26.296+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-21T09:03:11.273+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-08-04T21:04:22.338+0800",
+            "owner": {
+                "user_id": 15581444221422,
+                "name": "阿P",
+                "avatar_url": "https://images.zsxq.com/Fh6nyne4N5mXaykbPNFHrIthwCc1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:A17X3lMD7FiM2cY6Jc_NSmVmi1A=",
+                "number": 2199
+            }
+        },
+        {
+            "create_time": "2018-07-01T00:34:33.906+0800",
+            "owner": {
+                "user_id": 285522181,
+                "name": "damo",
+                "avatar_url": "https://images.zsxq.com/FjrAoX4Blf_iH5_Lmr_T9xCa3P5O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mPwPvW0BI7jngxg4aBRUk6KfBIw=",
+                "number": 2133
+            }
+        },
+        {
+            "create_time": "2018-06-15T16:30:02.298+0800",
+            "owner": {
+                "user_id": 2458525121,
+                "name": "陈美",
+                "avatar_url": "https://images.zsxq.com/FiUg5l_LvK4wJ2CsJyFMsX_ZAAo3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:We7wgLa4ser0lfjXrMYcLYqm9Vo=",
+                "number": 206
+            }
+        },
+        {
+            "create_time": "2018-05-24T10:36:17.917+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        },
+        {
+            "create_time": "2018-05-22T22:13:21.166+0800",
+            "owner": {
+                "user_id": 5811284144,
+                "name": "帮盟很努力",
+                "avatar_url": "https://images.zsxq.com/FsiRM234wyqtVYTWmvAgsmkVUs03?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Jt8RtWUFQOUtcF3EOzXNX_H0lEw=",
+                "number": 1949
+            }
+        }
+    ],
+    "likes_count": 24,
+    "rewards_count": 0,
+    "comments_count": 0,
+    "reading_count": 14300,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-05-20T09:28:23.433+0800",
+    "modify_time": "2018-05-20T09:30:40.706+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

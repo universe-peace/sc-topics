@@ -1,0 +1,343 @@
+{
+    "topic_id": 822841212882,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "有人问到产品推广的问题，我分享下我的思路\n\n首先是信息挖掘\n1. 找到你的产品的几个竞争对手。\n2. 找到你的竞争对手的流量来源\n a. 如果主要流量来源是搜索引擎，那就去挖掘是什么词，什么内容带来的流量。\n b. 如果主要流量来源是直接链接输入，那说明这个网站做了一段时间了，已经在这个细分市场有一定的影响力，那么就用我之前一篇文章中提到的，去相关博客或者社区多建立影响力，包括客座博客等。\n c. 如果主要流量是社交网络，那么就去分析竞争对手在社交网络的推广策略上什么。 \n总而言之，将你的几个竞争对手的流量来源都研究透，到可执行的颗粒度，这时候你手里可能会有一张很长的excel表。 \n\n其次是能力匹配\n结合你自己的精力和能力，你是擅长创作高质量的内容，还是擅长开发一些小工具，还是毅力坚定可以搞几千个小号做社交，还是特别会利用杠杆以小博大做活动....\n\n最后落地执行\n根据上面的挖掘和分析，制订好详细的规划，每个分类分别要做什么事情，每周大概要达到什么目标，每天要做什么，日拱一卒，过程中根据实际情况进行调整。 \n\n完整的做完一件事物之后，以后就会容易很多。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-18T22:30:54.076+0800",
+            "owner": {
+                "user_id": 458825221158,
+                "name": "方舟",
+                "avatar_url": "https://images.zsxq.com/FmI0Vd3GXwLfZ-1_aCtXAX82ny0c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yJnYrBbFCtHTIHbWNRDzqhXUaYs=",
+                "number": 6622
+            }
+        },
+        {
+            "create_time": "2019-08-31T18:48:25.194+0800",
+            "owner": {
+                "user_id": 825825118422,
+                "name": "走走就停停",
+                "avatar_url": "https://images.zsxq.com/FkUM0UrZktHBr8ADv1tmd1P1T5Yr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sF063iYCDMVS7n0t-Uk4bRbAifc=",
+                "number": 5118
+            }
+        },
+        {
+            "create_time": "2019-08-03T17:35:40.886+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T16:00:14.432+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-07-28T08:31:01.379+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-17T12:14:09.439+0800",
+            "owner": {
+                "user_id": 51558215452114,
+                "name": "阿Kai",
+                "avatar_url": "https://images.zsxq.com/Fv-F-jZOeRgTLguXDIUiuvRaUAm6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rUNIzw6V2RsUJx0QdYuTXFYVMJU=",
+                "number": 4526
+            }
+        },
+        {
+            "create_time": "2019-06-28T12:49:34.072+0800",
+            "owner": {
+                "user_id": 15458581545122,
+                "name": "熊磊",
+                "avatar_url": "https://images.zsxq.com/Fp9mIpgV23HJID9DZaImsKcrKjE6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:m7eGySYjAuzgnvWd5PIhnwmbXec=",
+                "number": 4468
+            }
+        },
+        {
+            "create_time": "2019-06-27T10:08:23.976+0800",
+            "owner": {
+                "user_id": 5585851824,
+                "name": "眼镜",
+                "avatar_url": "https://images.zsxq.com/Fj1xHAusJmr3HMf1WQscIVrPEd5Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ffGUlFPeIQG-V_GsD6eWlaTEctg=",
+                "number": 1510
+            }
+        },
+        {
+            "create_time": "2019-06-17T15:23:43.241+0800",
+            "owner": {
+                "user_id": 2418228511,
+                "name": "in",
+                "avatar_url": "https://images.zsxq.com/Fit8G3KegcWN5wUo7vHTkp7tF6Jc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CvugGVycK6VTolCtTmiTWJgBqTk=",
+                "number": 970
+            }
+        },
+        {
+            "create_time": "2019-05-30T08:43:49.900+0800",
+            "owner": {
+                "user_id": 824242224282,
+                "name": "月汐",
+                "avatar_url": "https://images.zsxq.com/FvLz8AwKs_f2IUOAWJ6mIkX7RHDH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Db0tFtRSsk4J8U90gmk2bUP0S8g=",
+                "number": 5785
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-31T09:39:19.112+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 500
+        },
+        {
+            "create_time": "2017-04-02T15:45:15.791+0800",
+            "owner": {
+                "user_id": 158521114542,
+                "name": "古古",
+                "avatar_url": "https://images.zsxq.com/FnbhtdsndRFbN2rXmat4fdNUg42I?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gBN0iXBogKQ_Z-jkmM2oTmoQ928="
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2017-03-31T09:55:47.440+0800",
+            "owner": {
+                "user_id": 4281118888,
+                "name": "Stone",
+                "avatar_url": "https://images.zsxq.com/FlEKce_7FMXsFSsGI2ch7doTVjyP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KJjzgMADzRpf14pxnRU8bgAEchM="
+            },
+            "amount": 588
+        },
+        {
+            "create_time": "2017-03-31T09:48:11.546+0800",
+            "owner": {
+                "user_id": 281115184551,
+                "name": "绪敏",
+                "avatar_url": "https://images.zsxq.com/Ft0KHGVdx5xzBc32S6poEg_DbXwF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fZ9I7MiyEdWaM-nSh9w06L0-YAA="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2017-03-31T09:11:25.328+0800",
+            "owner": {
+                "user_id": 1824221452,
+                "name": "更健康更长久",
+                "avatar_url": "https://images.zsxq.com/FuBZ6MKrrwY6cQ5YSOW5FuW9o8zJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:StKW2FM_Ub8Hky_yoAwSlNA25cs="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2017-03-31T09:00:35.678+0800",
+            "owner": {
+                "user_id": 551584451444,
+                "name": "孟相",
+                "avatar_url": "https://images.zsxq.com/FkIUoQTow1j1KV8wmbS_Dr1rBoox?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FcAMpHhJvWZRpoI5KZc_fBPGPE8="
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2017-03-31T08:28:33.748+0800",
+            "owner": {
+                "user_id": 145482522552,
+                "name": "鸡毛Flyer",
+                "alias": "Mr.wu",
+                "avatar_url": "https://images.zsxq.com/FsrCWxs4ELtqUNvUYdFa9oCOcOxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u7MNZ-qJU4lA5et9MRN83fIVsZU="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2017-03-31T06:00:55.727+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "amount": 188
+        },
+        {
+            "create_time": "2017-03-31T01:42:43.237+0800",
+            "owner": {
+                "user_id": 5585184114,
+                "name": "呼啦飞",
+                "avatar_url": "https://images.zsxq.com/Fktxwnr3fU27drxS11d0Zi-I4T4B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TGSqEkYvd2q31fR739cVum8Q7fA="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2017-03-31T01:22:16.856+0800",
+            "owner": {
+                "user_id": 145818541142,
+                "name": "克里斯蒂",
+                "avatar_url": "https://images.zsxq.com/Frz25EM2RHhQ5Y4SrKQjT07w57Ko?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xEPBEkFdeEZGc5H6umCmc9uCtN8="
+            },
+            "amount": 288
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228152228111,
+            "create_time": "2017-03-31T01:23:52.565+0800",
+            "owner": {
+                "user_id": 1142548552,
+                "name": "Amos",
+                "alias": "Amos",
+                "avatar_url": "https://images.zsxq.com/FuprT0lazszsHGKPNJi3gf4qmkmQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NhQtq05o3QrmNC-vXg9Ff9Ri3gc="
+            },
+            "text": "亦仁老师能具体的分享下挖掘竞争对手关键词的一些方法不，这两天自己有了一个方向，竞争对手百分之八十的流量来源就是搜索引擎",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 7
+        },
+        {
+            "comment_id": 828152222552,
+            "parent_comment_id": 228152228111,
+            "create_time": "2017-03-31T01:24:28.568+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "那我找时间写一篇公众号文章吧",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1142548552,
+                "name": "Amos",
+                "alias": "Amos",
+                "avatar_url": "https://images.zsxq.com/FuprT0lazszsHGKPNJi3gf4qmkmQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NhQtq05o3QrmNC-vXg9Ff9Ri3gc="
+            }
+        },
+        {
+            "comment_id": 228152222551,
+            "create_time": "2017-03-31T01:24:37.570+0800",
+            "owner": {
+                "user_id": 1142548552,
+                "name": "Amos",
+                "alias": "Amos",
+                "avatar_url": "https://images.zsxq.com/FuprT0lazszsHGKPNJi3gf4qmkmQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NhQtq05o3QrmNC-vXg9Ff9Ri3gc="
+            },
+            "text": "补充下，这方面自己完全是小白😂😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145824444212,
+            "parent_comment_id": 228152228111,
+            "create_time": "2017-03-31T01:25:52.990+0800",
+            "owner": {
+                "user_id": 1142548552,
+                "name": "Amos",
+                "alias": "Amos",
+                "avatar_url": "https://images.zsxq.com/FuprT0lazszsHGKPNJi3gf4qmkmQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NhQtq05o3QrmNC-vXg9Ff9Ri3gc="
+            },
+            "text": "好的，这两天我自己也找些文章先了解下，再对比你的方法学习",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 828152221422,
+            "create_time": "2017-03-31T02:37:37.146+0800",
+            "owner": {
+                "user_id": 458114812128,
+                "name": "Bravian",
+                "avatar_url": "https://images.zsxq.com/Fr8aV6Gmpyy8OjbQxq6Jhv4tiRpS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WlCqLbvykzlzJ_fPZozxkziAwjs="
+            },
+            "text": "亦仁兄，这个问题可不可以展开详解",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458145251548,
+            "create_time": "2017-03-31T08:12:02.596+0800",
+            "owner": {
+                "user_id": 8425582882,
+                "name": "luozhenj",
+                "avatar_url": "https://images.zsxq.com/FkurW7H-zFrGPE_sKoFcuTR1CI1-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nyiPG2LyLgyGfnUd0uLdvnkNaDw="
+            },
+            "text": "能不能举个具体案例分析下呢，比如你的竞争对手，或者之前遇到的竞争对手",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551825881184,
+            "parent_comment_id": 228152228111,
+            "create_time": "2017-03-31T10:03:25.241+0800",
+            "owner": {
+                "user_id": 225812855121,
+                "name": "陈志豪",
+                "alias": "fred",
+                "avatar_url": "https://images.zsxq.com/FqixOqXgDPuhCG6M2ImY6VRaJU_-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ginde0l7YI9aR9z0qouTy5KbLiw="
+            },
+            "text": "国内:爱站，5118,或者采集搜索流量大的频道的标题，分词提取。。。",
+            "likes_count": 3,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1142548552,
+                "name": "Amos",
+                "alias": "Amos",
+                "avatar_url": "https://images.zsxq.com/FuprT0lazszsHGKPNJi3gf4qmkmQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NhQtq05o3QrmNC-vXg9Ff9Ri3gc="
+            }
+        },
+        {
+            "comment_id": 228152114511,
+            "create_time": "2017-03-31T10:11:45.550+0800",
+            "owner": {
+                "user_id": 142455188282,
+                "name": "          *",
+                "avatar_url": "https://images.zsxq.com/FgHF8WVHGb3DIaLjnMcVEVHh5HtB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OoabLclrUtoFkOwiZ9UZn6SWraY="
+            },
+            "text": "大家对这方面都有需求哈，特别是像我这样的小白，很多东西还是需要更详细一点的了解",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 66,
+    "rewards_count": 12,
+    "comments_count": 13,
+    "reading_count": 2540,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-31T01:19:14.957+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

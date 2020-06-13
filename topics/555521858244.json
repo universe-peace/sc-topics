@@ -1,0 +1,300 @@
+{
+    "topic_id": 555521858244,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8414815522,
+            "name": "niege",
+            "alias": "niege",
+            "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+        },
+        "text": "<e type=\"hashtag\" hid=\"1484815482\" title=\"%23%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB%23\" />荐机制感兴趣，这里整理点我知道范围内能传播的，比较普通比较长，大多是常识，也很容易搜索到。\n\n头条的slogan是「你关心的，就是头条」，很简洁的说明就是个性化推荐机制，最基本就是通过算法理解用户和内容，将两者匹配起来，不同类型不同级别的号推荐量级不一样那是另外一说。\n\n所以怪头条内容较低俗？头条这个量级了还怪这个可能不能怪算法了。算法的目的是最大化保证推送的精准度，尽量保证对的文章推荐给对的人。重点是数据量和算法架构。现在号称个性化推荐的平台有很多，也许各家算法略有不同，但最终目的都是殊途同归。具体算法？去找核心算法工程师😂\n\n下面这些base点都很基础很容易理解，只是整理一下：\n相似文章主题相似性的推荐：通过获取与用户阅读过文章的相似文章来进行推荐。\n基于相同城市的新闻：对于拥有相同地理信息的用户，会推荐与之相匹配的城市的热门文章。\n基于文章关键词的推荐：对于每篇文章，提取关键词，作为描述文章内容的一种特征。然后与用户动作历史的文章关键词进行匹配推荐。\n基于站内热门文章的普适性推荐：根据站内用户阅读习惯，找出热门文章，对所有没有阅读过该文章的用户进行推荐。\n基于社交好友关系的阅读习惯推荐：根据用户的站外好友，获取站外好友转发评论或发表过的文章进行推荐。\n基于用户长期兴趣关键词的推荐：通过比较用户短期和长期的阅读兴趣主题和关键词进行推荐。\n基于相似用户阅读习惯的列表推荐：计算一定时期内的用户动作相似性，进行阅读内容的交叉性推荐。\n基于站点分布来源的内容推荐：通过用户阅读的文章来源分布为用户计算出20个用户喜欢的新闻来源进行推荐。\n\n头条会对你在每篇文章的停留时间，上下滚动的频率，哪些关键信息的被阅次数，做出分析判断。\n\n这些点肯定不只这么多，但是总的来说，审核通过的文章，头条的智能推荐引擎会根据内容质量/内容特征/首发情况/互动情况/媒体的历史表现/媒体订阅情况，为文章找到感兴趣的读者并推荐给他们。\n所以，每一篇文章都有可能“上头条”，出现在推荐信息流里，而优质的文章甚至能获得百万级别的送达量。\n但是每篇文章都不一样，推送后互动反馈数据也不一样，比如有的文章内容没问题，但是会引发一些不怎么安全的评论之类的互动，所以导致了展示量有高有低。\n\n那文章的展示量有高有低，怎么做才能让文章被更多人看到？\n1、追热点。但不同类型的号乱追热点也会有问题，有些热点是被管制的，追这些或者引申影射很危险。\n2、标题。有点击欲望，这点不用多说，点击多阅读就多，阅读多相应的推荐也会多。（但是，标题党会降低文章质量数据，过分的会导致不过审或者折叠。一个头条号刚开始就各种标题党也比较危险。）\n3、原创。尽量在今日头条上首发你的文章，因为这也是今日头条推荐机制的几个标准之一，会有原创识别，毕竟谁都希望自己平台上的东西是第一来源。\n4、互动。多号召别人在文章底部互动交流，你自己也可以参与到互动中去，互动情况是今日头条文章推荐机制中很重要的一个标准，很多时候你会看到这种情况，一个不怎么样的文章底部骂声不断有很多的互动，结果推荐展现就是多，因为本身有争议的话题就是有看点的。\n5、让更多的人订阅你的头条号，这一点从二方面来说，一方面是审核通过的文章会及时推荐给订阅者，订阅者与文章的互动(包括点击、顶、收藏、转发等动作)，会加强上面说的互动属性，从而导致更多的推荐。另一方面，订阅的人多也能大大增加文章的阅读量。\n6、多把文章分享到社交网络，让网友点击阅读，并对你的文章进行互动，原理是一样，今日头条本身就带有分享按钮。\n7、头条号历史表现要良好，少一些违规违禁。\n8、发布文章的时候设置文章频道，频道是可选的，你选择了频道以后，今日头条可以帮助我们的机器更准确的将文章分类进行推荐。\n9、注意发布时间，文章审核通过后短时间获得的阅读量、点击、互动越多，相应的展现也会推荐越多，就跟新浪热门微博一样有一个瞬时转发率，所以发力也要找准时间，一方面根据你的公众号阅读数据做统计，另一方面根据移动互联网用户的一个普遍阅读时间段做参考，找好你的发布时间。\n10、保障文章具有很好的质量，这点肯定是必须的，这一点做好了，前面的这些因素完全会提高。头条会有低质低俗识别，数据不好自然影响推送量。\n\n所以，基于以上，实际上个性化推荐并不是机器给用户推荐，而是用户之间在互相推荐，看起来似乎很简单，但实际上这需要基于海量的用户行为数据挖掘与分析。\n\n这些都很基础，网上也有。再多的具体后台信息或者截图就不可能透露了。\n\n贴2个图，包含一点审核数据，这应该没事，但也求不要转发。",
+        "images": [
+            {
+                "image_id": 828112115582,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FlB-dNSSS-WBBpPl4iZoGqNzLXdj?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W-Y4_x7fCz2YiNa2mZMA9WVAvnI=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FlB-dNSSS-WBBpPl4iZoGqNzLXdj?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ayfy3vMs8eUW8fwtitNRT9eL1Fg=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FlB-dNSSS-WBBpPl4iZoGqNzLXdj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bmYTSnW_DCfd5OSUGZUPvHuoTpg=",
+                    "width": 1280,
+                    "height": 960,
+                    "size": 54734
+                }
+            },
+            {
+                "image_id": 228112115581,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fih509bHOIJMTgxvNUvCZAoTJFXA?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rjHRFJM6nIXycgJezlVKQU9Gndg=",
+                    "width": 320,
+                    "height": 240
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fih509bHOIJMTgxvNUvCZAoTJFXA?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rrxCxy4qsUF1o_Pb1t7WiQ03ufg=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fih509bHOIJMTgxvNUvCZAoTJFXA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EMAV8B7a39UV0jcSSB8TTDsv6Zs=",
+                    "width": 1280,
+                    "height": 960,
+                    "size": 67400
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-25T15:32:58.170+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-07-28T17:16:27.653+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-06T15:15:50.199+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-05-24T13:48:42.655+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-23T19:14:03.118+0800",
+            "owner": {
+                "user_id": 48412114818158,
+                "name": "浩亮",
+                "avatar_url": "https://images.zsxq.com/FvqHGLRROlUOprphXYrHui3Gcec9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ct9bMiqrswV5JnagHjwddYRopUQ=",
+                "number": 4573
+            }
+        },
+        {
+            "create_time": "2017-04-07T21:07:44.311+0800",
+            "owner": {
+                "user_id": 158425485182,
+                "name": "wahaha",
+                "avatar_url": "https://images.zsxq.com/FkjRz7sykhfHt6madDTQ5rwRDueM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HpbP-IfD70kAC5NAtN4FXY5QFi4=",
+                "number": 811
+            }
+        },
+        {
+            "create_time": "2017-04-04T21:53:51.464+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-04-02T16:22:46.003+0800",
+            "owner": {
+                "user_id": 881515445882,
+                "name": "和自己赛跑的人",
+                "avatar_url": "https://images.zsxq.com/Fp4xpfwxwHuxCCOz_CPu9XhJsh1a?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ki6JUM42JxsRqfBKeVQTB8WMIZA=",
+                "number": 487
+            }
+        },
+        {
+            "create_time": "2017-04-02T13:31:54.820+0800",
+            "owner": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w=",
+                "number": 131
+            }
+        },
+        {
+            "create_time": "2017-04-02T09:46:33.043+0800",
+            "owner": {
+                "user_id": 225812855121,
+                "name": "陈志豪",
+                "alias": "fred",
+                "avatar_url": "https://images.zsxq.com/FqixOqXgDPuhCG6M2ImY6VRaJU_-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ginde0l7YI9aR9z0qouTy5KbLiw=",
+                "number": 70
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-02T06:41:53.686+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1666
+        },
+        {
+            "create_time": "2017-04-02T00:55:05.167+0800",
+            "owner": {
+                "user_id": 145418814842,
+                "name": "焜",
+                "alias": "林煜焜",
+                "avatar_url": "https://images.zsxq.com/Ftzm3qSWKIHgIMAqiH2Ewza_juoK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0nXOpjAwq0RDB7QLSogOhV0hV28="
+            },
+            "amount": 168
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228125282211,
+            "create_time": "2017-04-02T00:13:11.050+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "之前有几个圈友问过",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 228125284581,
+            "create_time": "2017-04-02T00:17:45.726+0800",
+            "owner": {
+                "user_id": 454184418548,
+                "name": "Ethan",
+                "avatar_url": "https://images.zsxq.com/FlzZkUHijjc2mbhvn98sZ8CE3Xq_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SHBT_0Y768wwXtW-mqzi0PdfhFE="
+            },
+            "text": "虽然我不懂，但算的上核心竞争力吧？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 228125218221,
+            "parent_comment_id": 228125284581,
+            "create_time": "2017-04-02T00:22:42.795+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "数据和算法肯定是竞争力",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454184418548,
+                "name": "Ethan",
+                "avatar_url": "https://images.zsxq.com/FlzZkUHijjc2mbhvn98sZ8CE3Xq_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SHBT_0Y768wwXtW-mqzi0PdfhFE="
+            }
+        },
+        {
+            "comment_id": 145842485142,
+            "create_time": "2017-04-02T00:26:02.231+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "本来想整理在公众号里想想还是算了/捂脸  开头漏了几个字",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 228125452251,
+            "create_time": "2017-04-02T01:36:08.685+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "不要高估算法，也不要甩锅给算法。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145842124452,
+            "create_time": "2017-04-02T01:36:46.307+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "今日头条的算法具体我不了解，但实话说，实现类似今日头条的算法不难。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551852425544,
+            "create_time": "2017-04-02T01:39:12.662+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "问题是，这种算法其目标的数据导向机制，并不一定是合理的 ，今日头条整体走向低俗和标题党，本身就是算法惹的祸，但设计者的规则本身就是有问题的。不能用这个是算法推荐的，就对整个系统设计的目标偏差免责",
+            "likes_count": 3,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458154245518,
+            "create_time": "2017-04-02T01:40:10.886+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "为什么百度和苹果的排名算法强烈依赖于点击提权，而谷歌却没有这一特质。 今日头条在这点和百度没什么太大区别。",
+            "likes_count": 4,
+            "rewards_count": 0,
+            "replies_count": 1
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 2,
+    "comments_count": 16,
+    "reading_count": 1669,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-02T00:05:56.998+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

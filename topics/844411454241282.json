@@ -1,0 +1,276 @@
+{
+    "topic_id": 844411454241282,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 551525442214,
+            "name": "肖烨",
+            "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> \n最近做了一个简单的Saas系统，主要用于微信生态中的传播数据监测。\n\n我了解的是平安保险在做类似的事情，\n就是员工需要在微信上转发公司发布的文章，\n公司会考核每个员工转发文章之后带来的阅读量。\n\n有没有朋友对这一块有研究或者有兴趣的，\n欢迎一起交流。说不定是一个赚钱的好机会。\n因为数据驱动增长，传播的数据如果做好了，对每个企业都有一定的增益作用。\n\n如果企业有一个清晰的传播数据分析系统，就可以根据传播数据给予传播者（员工、老顾客，超级用户）相应的奖励反馈。\n比如说员工转发公司的微信文章，带来多少阅读给予多少积分奖励。\n当然，还可以设置排名奖励。这样传播的驱动力就够了。\n\n这一块市场挺大，因为每个企业都需要做品牌传播。\n但除了投平台广告之外，是否还能驱动员工或顾客帮自己来做传播。\n希望对这块有兴趣的一起探讨。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-12-01T21:02:59.983+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-09-17T17:08:21.515+0800",
+            "owner": {
+                "user_id": 88214125888252,
+                "name": "荔枝小一萌",
+                "avatar_url": "https://images.zsxq.com/FhlCVRdrm704WvF0MSDb7gVjILZ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cvFyOyCG5vLhgwYIG9T2oL4mPAs=",
+                "number": 4015
+            }
+        },
+        {
+            "create_time": "2019-07-26T11:36:26.506+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-07-01T16:09:59.230+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-06-23T23:14:30.110+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-06-01T12:55:21.108+0800",
+            "owner": {
+                "user_id": 2414522211,
+                "name": "Dean",
+                "avatar_url": "https://images.zsxq.com/FkDjQfzbWqlaGwMIp4WXCOOsEdZl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KqRLolKKuMvSlNZ3yxJoSjsBmBc=",
+                "number": 5788
+            }
+        },
+        {
+            "create_time": "2019-05-20T19:04:31.184+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-05-05T12:36:39.230+0800",
+            "owner": {
+                "user_id": 458485825248,
+                "name": "Wilson",
+                "avatar_url": "https://images.zsxq.com/FvHg-qPinpORdndAVIPdlt2yqrZF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4yqNzaDQ8onQYWnIhZGrlelRWAU=",
+                "number": 1559
+            }
+        },
+        {
+            "create_time": "2019-05-05T09:51:01.306+0800",
+            "owner": {
+                "user_id": 144155558522,
+                "name": "赵令喆",
+                "avatar_url": "https://images.zsxq.com/Fr9wu65NFQW3YFUXgIpZI7k5wS-h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PhLW45HlySVVF4P0l5-Vgm9UoaE=",
+                "number": 5515
+            }
+        },
+        {
+            "create_time": "2019-04-29T16:53:38.652+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-31T15:27:35.912+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2019-04-29T15:18:43.989+0800",
+            "owner": {
+                "user_id": 555555518824,
+                "name": "子布",
+                "avatar_url": "https://images.zsxq.com/FkvbpBYvTsNiEG2gVbC4eGAKKfIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxwyj7QQ1SgzG_buXEa0LQTujgM="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 118252445484212,
+            "create_time": "2019-04-26T17:45:22.347+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "如果是公司公众号发布的文章，是没法检测到具体由谁传播出去带来的阅读量。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 9
+        },
+        {
+            "comment_id": 841585228458852,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T17:52:15.944+0800",
+            "owner": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            },
+            "text": "在文章上面加监测码，可以检测到。我们帮益丰大药房做过，他们用来做员工传播排名。\n不过如果是用我们自已的仿公众号文章模板，可以捕捉更多的数据，比如停留时间，IP，转发次数。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            }
+        },
+        {
+            "comment_id": 421484558248248,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T17:53:13.255+0800",
+            "owner": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            },
+            "text": "员工到服务号上去领取加了监测码的微信文章，转发出去就可以检测到了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            }
+        },
+        {
+            "comment_id": 841585228454552,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T17:55:24.215+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "好吧，那我大概明白了。每个员工的链接其实都是不一样的。文章里面可能有一个图片或者什么的，通过这个图片之类的来检测。[强]这个看起来是有可能性。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            }
+        },
+        {
+            "comment_id": 548212551484584,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T18:11:52.318+0800",
+            "owner": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            },
+            "text": "不需要通过图片来检测，你一分享文章追踪代码就自动跟随了。你只要一打开文章，你的链接就和其它人不一样了，但是文章内容是一样的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            }
+        },
+        {
+            "comment_id": 421484558211888,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T18:15:21.377+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "额，这我就不太明白了，如果这个链接是微信公众号的文章，比如这样<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6ReVaDf69B8CCZm-DBFXng\" title=\"%E5%9B%9E%E5%88%B020%E5%B2%81%EF%BC%8C%E6%88%91%E5%B8%8C%E6%9C%9B%E6%88%91%E8%83%BD%E6%8E%8C%E6%8F%A1%E8%BF%99%E4%B8%A4%E9%A1%B9%E5%9F%BA%E6%9C%AC%E5%8A%9F\" cache=\"\" />   我们是没法在这个页面里面潜入代码吧，也就没有办法在这里面检测到用户分享咯。除非这篇文章是模仿公众号的页面，自己做的一个H5",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            }
+        },
+        {
+            "comment_id": 548212551825544,
+            "create_time": "2019-04-26T18:21:45.918+0800",
+            "owner": {
+                "user_id": 145512581142,
+                "name": "马浩楠",
+                "avatar_url": "https://images.zsxq.com/FndfKFHhmL6HsYQjl3C9Ui6EYAIW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zP0Pl_aaoIGRDQwrkBPpholxM8g="
+            },
+            "text": "文章链接后面加入utm参数是吧",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 241585228152141,
+            "parent_comment_id": 118252445484212,
+            "create_time": "2019-04-26T18:23:46.932+0800",
+            "owner": {
+                "user_id": 551525442214,
+                "name": "肖烨",
+                "avatar_url": "https://images.zsxq.com/Fstk6IvxhBjJMbSwEKZGolMrGljI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NprH1JNAnZYDHaes1uujISNZywM="
+            },
+            "text": "把这篇文章链接放到系统里面，可以生成追踪的参数。普通的用户打开的时间会有一次跳转，但是一般人注意不到，因为直接会跳转到微信文章的页面。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            }
+        }
+    ],
+    "likes_count": 24,
+    "rewards_count": 2,
+    "comments_count": 43,
+    "reading_count": 17226,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-04-26T17:01:23.528+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

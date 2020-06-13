@@ -1,0 +1,234 @@
+{
+    "topic_id": 28445115145481,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8442244582,
+            "name": "叶新国",
+            "avatar_url": "https://images.zsxq.com/FrZtxWhcKiovNYG-qpNDtrK_-BMc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CIG4KiwfcA6AK061o_DcCFrhnEA="
+        },
+        "text": "之前思考，觉得两个前景会比较不错的项目：\n\n一、做一个宠物的内容+商城平台;\n1、宠物是除开人最大的生物，做宠物的吃喝拉撒有很大的市场;\n2、随着城市、老龄化，人的孤独感不断增加，宠物市场潜量在不断增加;\n\n二、做一个微信群商店+微信群管理工具大全\n1、微信群是超大的需求，官方对微信群的封闭压抑了需求，若能做小程序解决用户痛点，机会超大。\n2、不会被微信官方封，做了微信群管理工具，反而会大大降低微信群广告比例(如@3次管理助手自动踢人），在微信群产生大量优质内容，另外也会帮助达人在微信群变现，更好留住用户;\n\n据我所知第2个没人去做，第一个做的人都从商城出发，并未从内容、社群出发。",
+        "images": [
+            {
+                "image_id": 15155541141812,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhUhD9_YPOToxsUWh3vB9eWk6EvR?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87wElnosMDwmMUdd-ug7e08ROY8=",
+                    "width": 540,
+                    "height": 274
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhUhD9_YPOToxsUWh3vB9eWk6EvR?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BejC_AS5QFDEhIm0zcgsaHrtfHQ=",
+                    "width": 800,
+                    "height": 406
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhUhD9_YPOToxsUWh3vB9eWk6EvR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wdw8IB1QF_M4eYodhT28zjsCzUQ=",
+                    "width": 1038,
+                    "height": 527,
+                    "size": 82486
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T08:05:51.639+0800",
+            "owner": {
+                "user_id": 118552824414222,
+                "name": "微光",
+                "avatar_url": "https://images.zsxq.com/FlfBIAlo8MlFjTpmeO_XsCHG-Xku?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ywmOZKJLxma5TFPf8Oa3CO9WUbA=",
+                "number": 6676
+            }
+        },
+        {
+            "create_time": "2019-05-13T00:03:41.954+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-04-26T18:29:27.521+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T17:08:59.671+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-19T08:40:39.090+0800",
+            "owner": {
+                "user_id": 5584221454,
+                "name": "柳智耀",
+                "avatar_url": "https://images.zsxq.com/Fv1vG4ZPS0tMZ1uWCd6wlr3M816o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qEoB2Fhy52hkJfq3QgeS69QttCQ=",
+                "number": 3842
+            }
+        },
+        {
+            "create_time": "2018-12-04T13:18:51.460+0800",
+            "owner": {
+                "user_id": 228585112221,
+                "name": "恩冬",
+                "avatar_url": "https://images.zsxq.com/Fk7lfR-0Kila7ZcsKfArH4si0alc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zafs0B8jsW1a3RyroLmKTQhR8IA=",
+                "number": 2197
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 244154182214421,
+            "create_time": "2018-12-04T00:36:59.521+0800",
+            "owner": {
+                "user_id": 8442244582,
+                "name": "叶新国",
+                "avatar_url": "https://images.zsxq.com/FrZtxWhcKiovNYG-qpNDtrK_-BMc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CIG4KiwfcA6AK061o_DcCFrhnEA="
+            },
+            "text": "这两年自己是没机会做了，分享出来，希望有人能把自己的想法做下去;",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111821858128122,
+            "create_time": "2018-12-04T08:00:59.756+0800",
+            "owner": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            },
+            "text": "能否说说宠物的内容能做啥么？分享各自宠物照，这个看多了感觉腻了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 844154181445422,
+            "parent_comment_id": 111821858128122,
+            "create_time": "2018-12-04T08:38:28.163+0800",
+            "owner": {
+                "user_id": 8442244582,
+                "name": "叶新国",
+                "avatar_url": "https://images.zsxq.com/FrZtxWhcKiovNYG-qpNDtrK_-BMc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CIG4KiwfcA6AK061o_DcCFrhnEA="
+            },
+            "text": "主要以分享养宠物、逗宠物技巧为主",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            }
+        },
+        {
+            "comment_id": 244154181448141,
+            "create_time": "2018-12-04T08:40:21.582+0800",
+            "owner": {
+                "user_id": 518512442224,
+                "name": "他山",
+                "avatar_url": "https://images.zsxq.com/FvswiDfHGHiVdSJ8GozVJgvnDcuO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KpXss5n5HQAJ6rzSQpzvmhlGukg="
+            },
+            "text": "都有人做，信息采集再全面仔细些",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 544824818448844,
+            "create_time": "2018-12-04T08:49:35.164+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "感谢分享。\n\n特定领域的内容加电商有很多不错的案例，我的理解是前期难点是差异化、有IP的内容，后期是差异化的商品，做大了是商品的供应链，能不能从厂家那边拿到好的货。\n\n什么样的人需要微信群商店？ 普通人其实不太需要的，微商、营销人需要。什么样的群才会放开让微商、营销人随意进入，没有价值的群和本身目标客户是微商、营销人的群。 \n\n仔细想想，知识星球是不是某着形态的微信群商店？",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 244154181148281,
+            "create_time": "2018-12-04T09:11:11.527+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "微信群管理工具wetool做的非常好了，配一台window服务器，可以轻松管理几百个群。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 544824844181854,
+            "parent_comment_id": 544824818448844,
+            "create_time": "2018-12-05T00:51:26.642+0800",
+            "owner": {
+                "user_id": 8442244582,
+                "name": "叶新国",
+                "avatar_url": "https://images.zsxq.com/FrZtxWhcKiovNYG-qpNDtrK_-BMc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CIG4KiwfcA6AK061o_DcCFrhnEA="
+            },
+            "text": "垂直领域的内容算已经差异化，但打造一个垂直内容的品牌有一定的难度，ip打造是不错的方法，谢谢提醒！供应链是做电商跨不过去的坎。\n\n每个细分垂直领域都有社群需求，如何帮助这些垂直领域的人引流用户到社群，帮助他们更好的经营社群，帮助他们自身做变现这是重点。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 844154144818142,
+            "parent_comment_id": 244154181148281,
+            "create_time": "2018-12-05T00:51:45.227+0800",
+            "owner": {
+                "user_id": 8442244582,
+                "name": "叶新国",
+                "avatar_url": "https://images.zsxq.com/FrZtxWhcKiovNYG-qpNDtrK_-BMc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CIG4KiwfcA6AK061o_DcCFrhnEA="
+            },
+            "text": "今天看了下，的确做得很不错",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        }
+    ],
+    "likes_count": 6,
+    "rewards_count": 0,
+    "comments_count": 9,
+    "reading_count": 7944,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-04T00:35:34.363+0800",
+    "modify_time": "2018-12-04T00:36:17.487+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

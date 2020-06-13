@@ -1,0 +1,135 @@
+{
+    "topic_id": 422114145181588,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "from<e type=\"mention\" uid=\"481811584428\" title=\"@%E8%80%81%E8%83%A1%EF%BC%88%E5%B0%91%E8%8D%83%EF%BC%89\" /> ，分享已获他授权。\n\n晚上刚和一个阿里高P聊完，关于做个人微信淘客这块有个事透露下，之前有很多人通过一些资源做静默复制淘口令，用户打开手淘弹出引导的问题阿里内网已经有几篇帖子在讨论此事，目前他们内部在严查。\n\n市面上当前有两种做法，一种是直接静默复制淘口令完成引导，还有一种是静默复制某个手淘页面的口令弹出引导加手机号微信，第一种之前严打过了，做的人应该不会太多了，但是第二种这个我知道的还有不少人在做。\n\n大家有做这块的赶紧停止，因为只要用户手机装有UC或者其他阿里系的产品都能检测到这种静默复制的源头来自哪里，不要想着和阿里搞对抗，否则可能会对整个这个行业带来巨大灾难，这不是开玩笑，想想之前的支付宝口令为什么会被停掉。\n\n据了解目前很多人都做的太初级，大部分都不是老淘客，入行不久的一些新手自以为聪明，其实很多细节部分都没有处理好，具体的在这里就不方便透露太多。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-11-21T22:49:59.862+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-10-23T13:14:55.544+0800",
+            "owner": {
+                "user_id": 5445811244,
+                "name": "男宾",
+                "avatar_url": "https://images.zsxq.com/FoXGP4wteh7BcliIV36BGmGch20D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P6McFqzi9I2O7s4Egam3knnLM9k=",
+                "number": 3770
+            }
+        },
+        {
+            "create_time": "2019-08-11T21:51:21.017+0800",
+            "owner": {
+                "user_id": 48851118242488,
+                "name": "镌刻时光",
+                "avatar_url": "https://images.zsxq.com/FmGd8TY11sEfK7Cfnbto9afi5fLl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vY-jeZobLLQLqxwDOg6BJReUoXE=",
+                "number": 2555
+            }
+        },
+        {
+            "create_time": "2019-08-08T15:51:43.436+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4=",
+                "number": 1619
+            }
+        },
+        {
+            "create_time": "2019-08-07T00:23:15.780+0800",
+            "owner": {
+                "user_id": 822124528522,
+                "name": "HK",
+                "avatar_url": "https://images.zsxq.com/FqWJ6YfsmxwixLRFrSZou3zeo7i5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DKyovIpO95pLDb1tZ0_8XLJWPvw=",
+                "number": 1347
+            }
+        },
+        {
+            "create_time": "2019-08-03T17:57:30.929+0800",
+            "owner": {
+                "user_id": 4252414118,
+                "name": "mxclover",
+                "avatar_url": "https://images.zsxq.com/FqR1KIC1lE2qc64eeumQP9nbfktB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dr7dRn0oeaUZoPM_oTjjRNbpVkI=",
+                "number": 1694
+            }
+        },
+        {
+            "create_time": "2019-08-02T11:19:55.053+0800",
+            "owner": {
+                "user_id": 481128188448,
+                "name": "四爷",
+                "alias": "四爷(Joseph)",
+                "avatar_url": "https://images.zsxq.com/FhnOgPcQYEcpBaXOxR_xbvsZ65oJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TQ-DmYFoXu7oDXVH94dBt8CAWqg=",
+                "number": 2021
+            }
+        },
+        {
+            "create_time": "2019-08-02T08:21:31.106+0800",
+            "owner": {
+                "user_id": 142541822882,
+                "name": "查二狗子",
+                "avatar_url": "https://images.zsxq.com/Fh6-b4N7kzpceH1l9TgnvoherS2R?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AAkA0d2j6hQRC1dMQLujepOgp8Y=",
+                "number": 2695
+            }
+        },
+        {
+            "create_time": "2019-08-01T21:19:56.900+0800",
+            "owner": {
+                "user_id": 222554144521,
+                "name": "ray",
+                "avatar_url": "https://images.zsxq.com/Fp2VzuRvNdqe77Day5GbqRyWQPe5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CUvXcr33G6sLrY_32wN2QCSRVQY=",
+                "number": 667
+            }
+        },
+        {
+            "create_time": "2019-08-01T11:27:09.861+0800",
+            "owner": {
+                "user_id": 5585851824,
+                "name": "眼镜",
+                "avatar_url": "https://images.zsxq.com/Fj1xHAusJmr3HMf1WQscIVrPEd5Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ffGUlFPeIQG-V_GsD6eWlaTEctg=",
+                "number": 1510
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-07-31T00:17:36.893+0800",
+            "owner": {
+                "user_id": 481811584428,
+                "name": "老胡",
+                "avatar_url": "https://images.zsxq.com/FkL8TTYqxoK1VeXNIv84v4VZ-b4m?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ndIbe--MM_D-FxGL29d-OiS-vTM=",
+                "description": "十一年资深老淘客，淘宝联盟十大优质合作伙伴，过去十一年通过淘宝客累计赚取佣金超过3亿元。"
+            },
+            "amount": 588
+        }
+    ],
+    "likes_count": 58,
+    "rewards_count": 1,
+    "comments_count": 0,
+    "reading_count": 10758,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-07-31T00:10:55.688+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

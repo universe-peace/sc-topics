@@ -1,0 +1,264 @@
+{
+    "topic_id": 28284544458811,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454852448228,
+            "name": "大周|流量玩法",
+            "avatar_url": "https://images.zsxq.com/FjYtugUoKUOds0Co6p-8f9PBGAGT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXb0FGAV3kS_siRpkN0QupJWgRc="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" />  \n不知道大家在炒币的时候，都参考什么信息进行操作。\n以前我喜欢加一些区块链小密圈，总想听内幕消息，比如哪个币马上要拉盘了，哪个币马上出利好了之类的。\n后来看的消息多了，就无所适从了，有时候可能同时有四五个人给你推荐了十多个项目，都说明天就涨。\n头疼的是，今天这个人的消息准，可他下次的消息不一定准，万一听了推荐买亏了被套了，你还不能怪别人。到后面消息越多，越难操作。\n然后慢慢学会了在接受内幕消息时，去分析背后的可能性，分析利好消息的真假和力度，同时看这个所谓的利好，在数据上有没有相应的支撑。\n然后就从此发现了一个新世界。\n我称之为 数据炒币 的世界。\n\n我简单地把数据分成两种类型，\n\n第一类数据是看大势，看宏观，看基本盘，看整个市场的态度。\n类似以下这些数据：\n- 各个代币的持有地址数量(持有地址数的多少反映该项目的共识基础)，\n- 各个项目的代码更新情况(团队的专业度和态度)，\n- 各个项目矿工的算力投入变化情况(看矿工们对项目的看好情况)，\n- 各个项目的媒体热度变化(搜索引擎的搜索结果数，各个社交平台的热度等等，此部分数据反应这个项目的推广营销能力)，\n- 各个项目的场外溢价率(溢价率越高说明对这个币之后的价格预期越高)\n等等等等之类的较为客观的数据。\n\n第二类数据跟踪的不是整个市场的态度，而是找出庄家们的操作行为的轨迹。\n类似以下这些数据：\n- 各项目代币持有数量前一百名地址的总余额变化(看庄家们在出货套现还是收货囤币)\n- 交易所内的usdt以及比特币等主流币的充值提现情况(如果庄家要拉盘，肯定会事先充值大量比特币进去交易所买买买，如果要离场套现因为手续费的存在也大概率不会选择在交易所内换成USDT而是通过场外私人交易进行。）\n等等类似的能反应庄家操作的数据表现\n\n第一类数据可能更像是人们所说的那些价值投资所需要，而第二类数据，则是短线操作必须的。\n一般如果一个市场是规范理性的比如股市，大家都老老实实，涨跌都是市场因素，那看第一类数据就够了，但目前的币市，大多数的涨跌背后，都有庄家的身影，所以关注第二类数据就尤其重要了。\n\n当然具体分析数据的工作是比较复杂和麻烦的，比方说筛选数据吧，有些数据向我们揭示了原因（大量比特币充值进交易所之类的），有些数据向我们展示了结果（USDT的溢价率之类的），后者我们就不太需要，前者才能带我们走向胜利。\n\n我今天发出来，是因为我的这个数据炒币我有过几次的实操经验，确信有了一点心得体会，想看看能不能换个精华。\n\n最近一次实操经历如下：\n\n我4月的时候做了一个小程序，叫做 区块小助手 ，功能是监控各个交易所的比特币资金进出状况，在有异常变动时会发送消息提醒用户。\n\n4月23日的时候，我收到了提醒，告诉我币安交易所里突然增加了2万多个比特币，真的是一笔巨款了，我对比了其他几个交易所，像是bitfinex，bittrex，都没有类似的变动。\n\n经验告诉我，充值的币是BTC，说明这次庄家要拉盘的币大概率是支持BTC交易对的，而选择币安拉盘，不选择其他交易所拉盘，那么说明这个币在币安的量比在其他交易所要大得多。\n从这两点出发，我筛选了一波币安里面支持BTC交易对的同时成交量很大的币种，然后又人为又排除了一波，类似EOS就首先排除，因为我知道EOS项目手里存的是大量以太坊，不是BTC，EOS要拉盘的话，充进币安的币，就该是ETH了，而且也不一定会冲进币安，\n-其他的一看就不像是有钱到能一下子拿出两万多个比特币来拉盘的币种也排除掉，\n-像BCH这种前几天就已经涨很多了的再排除掉，把目标集中到还没怎么涨的币上。\n-像ETH这种牛逼到不需要庄家拉盘的币也排除掉。\n\n然后开始第二波大排除，我把币安里的BTC交易对以及成交量等等都拉了excel出来，因为这次冲进币安的比特币有2万多个，那我想，要拉盘，至少这个币的日常成交量，总该有个几千吧，不然根本不需要两万多个比特币来来拉盘。就又把那些成交量低于一千的币种排除掉了。\n\n然后又把其他几个主流交易所的BTC交易对拉了出来，对比看了看剩下的哪些币是在币安上成交量很高的，然而在其他交易所成交量很少的。\n\n就这样一个个排除掉之后，在剩下的为数不多的币种里，又跟朋友商量了很久，当然也有问过一些消息人士，主要是问剩下的几个币，哪些是之前众筹的时候用的BTC众筹，或者是套现过很多BTC的，因为两万多个BTC，真的是太多了。\n\n最后终于确认下来这个币是TRX的时候，它已经比我开始分析的时候涨了5%+（就两个多小时吧），但因为我知道这次进去的BTC量很大（两万多个啊！），肯定不会只涨这么点，所以我就全仓了TRX（因为穷，所以想梭就梭，是穷人最后的勇敢了）。\n\n结果就在我梭了之后的第二天，我竟然又一次收到了小程序的提醒，说又有两万多个btc进了币安，当时我的TRX已经涨了20%多了，但是因为已经全下了，所以没有加注，当然也不想去杠杆或者借钱加注，另外也不能确认说，第二次的两万多个比特币，是不是波场的第二波子弹，万一是别的项目呢？\n\n这也是我现在挺遗憾的地方，就是没能坚定自己的判断去加注TRX，当然了，最主要的原因还是因为穷，当时一看涨幅那么多就已经挺满足了。\n\n这一波的TRX，一直涨了好几天，最高的时候，离我买进的价位（0.053USD）翻了差不多60%，但我一直都没卖，我觉得接近五万个比特币呢，至少能翻个一倍吧。结果五一的时候，真的翻到了一倍，但我觉得还能涨就没买，没想到现在已经跌回0.08了哈哈。\n\n这是我分享出来的实操经验，希望亦仁爸爸能给我加个精华。\n\n然后，我做得那个小程序叫 区块小助手，欢迎大家使用或者给我提更多建议。\n\n图1 是小程序的截图，图2 是我今天在excel上重新推演了一遍当时的排除过程的截图。",
+        "images": [
+            {
+                "image_id": 28255451521111,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FkbM03InFQ7NveT61XOP_8HQ9eXB?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:49LTBUh_Nzq_NAHGLxLeJJUFWg8=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FkbM03InFQ7NveT61XOP_8HQ9eXB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Kpbr_pg2sVc5On3XjQhiDIAudOE=",
+                    "width": 750,
+                    "height": 1334
+                }
+            },
+            {
+                "image_id": 28255451542821,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnuFgTTTeYVBWDIMq-I0adks1po5?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KowzDPrvy-LO2YwcVsIRVYd0D04=",
+                    "width": 320,
+                    "height": 425
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnuFgTTTeYVBWDIMq-I0adks1po5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GIh-pKGIw79MkhuCi5FYMQ2PY-8=",
+                    "width": 366,
+                    "height": 486
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-15T13:54:26.630+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-07-29T08:31:56.568+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-05-15T18:25:01.140+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-26T15:01:06.581+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-11-11T19:12:04.037+0800",
+            "owner": {
+                "user_id": 458155884548,
+                "name": "friree",
+                "avatar_url": "https://images.zsxq.com/Flai0ROLOJdRYxXhUgBNDYxeHpgV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hin3h3W-BuM-1eAXn9oLzbUnmmM=",
+                "number": 539
+            }
+        },
+        {
+            "create_time": "2018-06-26T11:29:52.265+0800",
+            "owner": {
+                "user_id": 824218521552,
+                "name": "青山",
+                "avatar_url": "https://images.zsxq.com/FmF02gHLyDCLNPJ8u9BnlKfOS6Ai?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:enTptu-pKJK6Ywb5-TzF5-y9jNY=",
+                "number": 1682
+            }
+        },
+        {
+            "create_time": "2018-06-05T05:03:19.907+0800",
+            "owner": {
+                "user_id": 881851885882,
+                "name": "🌰Shadow",
+                "avatar_url": "https://images.zsxq.com/Fh4Ewf4crJns8MLy57iqeUC0UdWZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BM60aiaQCilf4PTL_WE0Wv61WO0=",
+                "number": 415
+            }
+        },
+        {
+            "create_time": "2018-05-16T16:23:11.844+0800",
+            "owner": {
+                "user_id": 224528451581,
+                "name": "梓琳",
+                "avatar_url": "https://images.zsxq.com/Fm6x4agjPNgakuSXrYpOJJ8ZnqNp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B1qrXUE_n_GqE2rQG5JnEeqVdNA=",
+                "number": 1881
+            }
+        },
+        {
+            "create_time": "2018-05-09T09:21:04.660+0800",
+            "owner": {
+                "user_id": 152858242,
+                "name": "呵呵",
+                "alias": "文波（liweobo，杭州）",
+                "avatar_url": "https://images.zsxq.com/FjJ1VBL-iNUUVRuxnmL1YAKuyIh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jSzk4oX2q2uL0u2dWK60-9HKkJQ=",
+                "number": 2048
+            }
+        },
+        {
+            "create_time": "2018-05-08T15:21:59.216+0800",
+            "owner": {
+                "user_id": 51284825544824,
+                "name": "小龙同学",
+                "avatar_url": "https://images.zsxq.com/FtnuePvTuPpYS6KGO_PlvK16ekO5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bh8lQ66Os0zaLcXNPxpdi-4OFa0=",
+                "number": 1857
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 51584851828454,
+            "create_time": "2018-05-06T00:24:41.216+0800",
+            "owner": {
+                "user_id": 454852448228,
+                "name": "大周|流量玩法",
+                "avatar_url": "https://images.zsxq.com/FjYtugUoKUOds0Co6p-8f9PBGAGT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXb0FGAV3kS_siRpkN0QupJWgRc="
+            },
+            "text": "求亦仁爸爸给个精华，这篇写了两个多小时",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48512158181518,
+            "create_time": "2018-05-06T00:37:10.927+0800",
+            "owner": {
+                "user_id": 15588242152812,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FqTTZUYVXeCLm3877VKnpNiTOM6W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ffgI1WUKT21pQIq1Z_DsTGt0ZIU="
+            },
+            "text": "写的好棒！用心",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15481844222242,
+            "create_time": "2018-05-06T00:44:12.464+0800",
+            "owner": {
+                "user_id": 15588242152812,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FqTTZUYVXeCLm3877VKnpNiTOM6W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ffgI1WUKT21pQIq1Z_DsTGt0ZIU="
+            },
+            "text": "麻烦问一下，购买了服务为什么设置不了预警，点进去还是显示需要缴费",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28214122551121,
+            "parent_comment_id": 15481844222242,
+            "create_time": "2018-05-06T01:01:43.040+0800",
+            "owner": {
+                "user_id": 454852448228,
+                "name": "大周|流量玩法",
+                "avatar_url": "https://images.zsxq.com/FjYtugUoKUOds0Co6p-8f9PBGAGT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXb0FGAV3kS_siRpkN0QupJWgRc="
+            },
+            "text": "不需要手动设置，预警的触发条件是系统设定的。具体触发条件可以点小程序里的“常见问题”看一下",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 15588242152812,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FqTTZUYVXeCLm3877VKnpNiTOM6W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ffgI1WUKT21pQIq1Z_DsTGt0ZIU="
+            }
+        },
+        {
+            "comment_id": 48512151414248,
+            "create_time": "2018-05-06T08:02:12.148+0800",
+            "owner": {
+                "user_id": 454222815518,
+                "name": "leoxin",
+                "avatar_url": "https://images.zsxq.com/FvyFL0ZfFy8xpkhuu_WVrow_cqyp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8KHngC0wkIkMitOfLuJtt_y68KM="
+            },
+            "text": "我最近刚想用爬虫Python+Mongodb 去分析所有币的交易数据，发现小程序都出来了！哈哈，厉害厉害，给赞！思路决定出路，我只想刷个墙，而别人想到的是要盖座楼！思路决定出路[调皮]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15481848521452,
+            "create_time": "2018-05-06T08:24:27.627+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "你说的这些炒币的思路很好啊。完全可以产品化啊。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88214121818112,
+            "parent_comment_id": 15481848521452,
+            "create_time": "2018-05-06T08:41:46.555+0800",
+            "owner": {
+                "user_id": 454852448228,
+                "name": "大周|流量玩法",
+                "avatar_url": "https://images.zsxq.com/FjYtugUoKUOds0Co6p-8f9PBGAGT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXb0FGAV3kS_siRpkN0QupJWgRc="
+            },
+            "text": "都在产品化的路上了，感谢建议啦",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            }
+        },
+        {
+            "comment_id": 48512151815418,
+            "create_time": "2018-05-06T08:42:32.566+0800",
+            "owner": {
+                "user_id": 88512142424542,
+                "name": "李胜利",
+                "avatar_url": "https://images.zsxq.com/FpTTK13DNxO5Z4L4hs2tiZxaAIJY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sU6gmB6_MzQ3EjA90Yz4tm_imXY="
+            },
+            "text": "这个666，",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 68,
+    "rewards_count": 0,
+    "comments_count": 32,
+    "reading_count": 8091,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-05-06T00:24:16.521+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

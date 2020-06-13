@@ -1,0 +1,208 @@
+{
+    "topic_id": 88288484815512,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 554421254514,
+            "name": "李慕阳2.0@诚诚@*",
+            "avatar_url": "https://images.zsxq.com/FqIHkgssbc6ZyAb7QZuNgRpZmZyW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MNRBP6YbJbYixtUnSw5iMRkZOiQ="
+        },
+        "text": "做生意，无非是在各种需求与供给的对接中，找到一种足够好的获取利润的模式。可以是资源变现，可以是中介抽成，可以是金融。\n接着，你要把这个模式标准化、持续化、规模化，变成一个自动运行的“盈利闭环程序”。\n为了实现这个目标，你分配利益、整合资源和人力，打通上下游。\n为了保证流程的安全稳定，你建立公司、签订协议。\n为了长远保持对盈利系统的掌控和系统有效，你构筑壁垒，把持核心资源以建立对各个整合点的控制能力和议价能力，保持各个资源点的分散和不对称，你要找到最稀缺的可以称之为壁垒的东西，筑得足够高。精准获客，供给丰富，议价能力……\n你苦心孤诣，仍然无法阻止时代的变迁和竞争者的蜂拥而至，这些都会使一个很赚钱的模式变得不赚钱。你只能踩对一到两个周期，并且明白最终公司都会走向衰落。\n这就是人生苦恼的西西弗斯。",
+        "images": [
+            {
+                "image_id": 28811228248181,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FovYzGRscs6P8F3WH24RN90UoMlC?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IvUvGhTaVCwAXtVkYg4mjZOpTs8=",
+                    "width": 540,
+                    "height": 405
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FovYzGRscs6P8F3WH24RN90UoMlC?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ufb5CYOqFbr4NFEjBW63dk7Wbvs=",
+                    "width": 800,
+                    "height": 600
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FovYzGRscs6P8F3WH24RN90UoMlC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h1A2JSInHR-5tgAJ45RO9Zy5wjA=",
+                    "width": 1440,
+                    "height": 1080,
+                    "size": 446244
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-09T14:22:41.617+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-02-03T23:23:53.895+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2020-01-06T14:45:49.391+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2019-06-22T10:04:03.015+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T08:24:36.489+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-11T16:53:02.355+0800",
+            "owner": {
+                "user_id": 15555452442842,
+                "name": "匠森",
+                "avatar_url": "https://images.zsxq.com/FrfBJgbh880Wnr3W3OcU7EUTBm4V?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:q-4Vo1LVuS39L0fRynvmUdbO0K4=",
+                "number": 4505
+            }
+        },
+        {
+            "create_time": "2019-04-27T13:52:55.650+0800",
+            "owner": {
+                "user_id": 51185144858444,
+                "name": "MarkFu 伏圣文",
+                "avatar_url": "https://images.zsxq.com/FtOcglfhCLHXNaXHM0cbViXhyqwG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uciNunZD2eIFlJqqqcT5Kh8V8xI=",
+                "number": 5232
+            }
+        },
+        {
+            "create_time": "2019-04-27T13:17:49.745+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-21T19:07:45.126+0800",
+            "owner": {
+                "user_id": 51111221458584,
+                "name": "空杯",
+                "avatar_url": "https://images.zsxq.com/FpK6mpmMpvjgYTy07buf0WlF93aw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:apYTT4RYmp_q9-zoEtbcRyQ4afE=",
+                "number": 3486
+            }
+        },
+        {
+            "create_time": "2018-11-12T14:42:35.808+0800",
+            "owner": {
+                "user_id": 458155884548,
+                "name": "friree",
+                "avatar_url": "https://images.zsxq.com/Flai0ROLOJdRYxXhUgBNDYxeHpgV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hin3h3W-BuM-1eAXn9oLzbUnmmM=",
+                "number": 539
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88244182542412,
+            "create_time": "2018-04-22T10:17:15.345+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "沙发",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28244182848281,
+            "create_time": "2018-04-22T10:40:08.174+0800",
+            "owner": {
+                "user_id": 48415452112428,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/FpC3324XvNQ3WzUkkdCfaPZdSs9H?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Xx1pIY6r2rbtNxcs5hVcTL_l6Ks="
+            },
+            "text": "精辟！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48522185284218,
+            "create_time": "2018-04-22T11:44:09.283+0800",
+            "owner": {
+                "user_id": 15414841424452,
+                "name": "渣渣辉在路上",
+                "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+            },
+            "text": "感同深受。\n\n探索阶段觉得找到模式后就可以赚钱了，找到模式后想着要赶快自动化实现躺赚，自动化后竞争对手进来得赶紧各种升级优化抢资源，等各种都搞定，周期到了，业务生命周期结束，又得折腾下一桩事。\n\n哪有永远的生意，铁打的人流水的生意，淡定接受周期。",
+            "likes_count": 3,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51544851254114,
+            "create_time": "2018-04-22T18:30:42.016+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "感谢分享，已加精。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841125845482422,
+            "create_time": "2020-01-06T14:47:38.227+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI="
+            },
+            "text": "眼前一亮[强]，逻辑自洽，解释了赚钱的一些东西",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 44,
+    "rewards_count": 0,
+    "comments_count": 5,
+    "reading_count": 2986,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-22T10:16:49.936+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

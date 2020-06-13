@@ -1,0 +1,313 @@
+{
+    "topic_id": 88288225554442,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454841852428,
+            "name": "壹树",
+            "alias": "壹树",
+            "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+        },
+        "text": "<e type=\"hashtag\" hid=\"518145518444\" title=\"%23%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B0%8F%E6%8F%92%E4%BB%B6%23\" /> 本人目前是产品 2 年了，做过多年技术和项目管理，第一期入圈初期由于信息过载还有看到圈友牛逼经历，焦虑徒增，然后慢慢调整过来，上线了 3 款浏览器插件。主要是希望自己远离舒适区，折腾一下自己，平时空余时间也有。基本上每个插件 3-5 天的开发时间，从点子到上线基本上在 1-2周内。目前做到第 3 个（也是开发时间最短的），然后第三个也是表现最好，前 2 个插件用户才各 300+（付费在 0.5%）， [流泪]。\n\n说一下现在手头上的做的小插件，3月19日上线，目前用户3500+，付费率大概 0.6%，很小的一个功能插件。\n从这 3 个小插件里我总结了一套笨方法。\n1. 基本上是在 chrome store 里面找关键字（封闭的搜索环境），然后去翻一下相关的插件\n2. 然后看评星，很多小于 2 星的，但这个评星的人很多，说明这个插件多人用，但可能该开发者不关注这个插件了，不做更新了，然后相关的浏览器或第三方接口更新而失去作用了。\n3. 进入该插件，看用户的评论，基本上如果看到最近 1 个月内还有人评论的，说明这个还有人在用（说明这个插件对他有用）。\n4. 细看一些评论，然后从中发现需求，（很多时候其实就是 not work）这个问题\n5. 知道 not work 后，然后就评估一下这个小功能是否会激起用户的购买，如果这个插件超过 2w 的用户，其实就可以考虑去实现了，因为保守估计一下 0.5% 的付费率，再按开发成本评估。\n6. 考虑是如何收费（目前我是按月收费，$2.50/mo），下个插件我考虑用广告的模式，就是用插件引流到自己的功能网站，然后挂广告，看看表现如何。\n7. 支付平台请选用 Stripe ，不解释，谁用谁知道。\n8. 关于插件评星，从下方的第二张图可以看到，最近几天的评星多了，因为我更新了一个小功能，就是在插件里面弹出叫用户评星（弹出的条件是如果插件功能用超过 15 次就弹出）\n9. 我也从竞品哪里留言引用户到我的插件，但具体是否有效，没法统计。\n10. 其他成本： vulrt 里的 $5/mo 的服务器（挂后台和架梯子用），一年免费的 $300 Gcloud 服务。\n11. 后续如果有更新再补充，也欢迎加微信勾搭。",
+        "images": [
+            {
+                "image_id": 48811422584148,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhaAfTMcs8g1CThkbvfA5HSZtO9T?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ofuZP2JCVoVWEeSDDtSEcokEIrA=",
+                    "width": 320,
+                    "height": 134
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhaAfTMcs8g1CThkbvfA5HSZtO9T?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c-o_ZjJ2uNo0iy3h52J4c-eDFJk=",
+                    "width": 800,
+                    "height": 335
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhaAfTMcs8g1CThkbvfA5HSZtO9T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rAotRiWoRC99dyVFxBvXioNbwlk=",
+                    "width": 2550,
+                    "height": 1070,
+                    "size": 260853
+                }
+            },
+            {
+                "image_id": 88811544285152,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fpj0TxcwJpa0C_VuSiAyzLPEjiI-?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:a8H-KUYyk6Rha0aZcKdMhldf14w=",
+                    "width": 320,
+                    "height": 135
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fpj0TxcwJpa0C_VuSiAyzLPEjiI-?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9mxvrm8Hla6wlI3F7e_wVdtDUB4=",
+                    "width": 800,
+                    "height": 336
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fpj0TxcwJpa0C_VuSiAyzLPEjiI-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9NJTV2LnfZJGCfoyZ2UBs0KMpAU=",
+                    "width": 2542,
+                    "height": 1070,
+                    "size": 189001
+                }
+            },
+            {
+                "image_id": 28811544285181,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrMtHwSlbffmXD73ZCITEhPiTPNH?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gsD0i4xDWFTKIVlgt8jGTy0X5cQ=",
+                    "width": 320,
+                    "height": 137
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrMtHwSlbffmXD73ZCITEhPiTPNH?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tcATmGaiWVwoZ0PVNpzynwPwm84=",
+                    "width": 800,
+                    "height": 342
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrMtHwSlbffmXD73ZCITEhPiTPNH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-sVdwADFqBdCzKA1Z7sDvhuTAkw=",
+                    "width": 2558,
+                    "height": 1094,
+                    "size": 255604
+                }
+            },
+            {
+                "image_id": 88811515544412,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrK_vwiSUO_V9M1dqBAZfJE4WkIk?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZICF9K8xrYTrGCZga-1s_mli1aM=",
+                    "width": 320,
+                    "height": 429
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrK_vwiSUO_V9M1dqBAZfJE4WkIk?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:38JvBUn4RcYpGtRiSsxK-gfbWOk=",
+                    "width": 800,
+                    "height": 1071
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrK_vwiSUO_V9M1dqBAZfJE4WkIk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dB_RVcC5LFLYMzhEo__c7oKmqbY=",
+                    "width": 985,
+                    "height": 1319,
+                    "size": 102232
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-18T17:47:20.289+0800",
+            "owner": {
+                "user_id": 48222418221218,
+                "name": "朱进",
+                "alias": "路上飞",
+                "avatar_url": "https://images.zsxq.com/Fnn8hTE92Mkr_asMWE0WcHFT-NTh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yMGb6h2vAA2hbwYnjwnoU50i06g=",
+                "number": 3961
+            }
+        },
+        {
+            "create_time": "2020-04-09T13:26:17.710+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-02-05T11:55:39.540+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-11-30T22:55:13.267+0800",
+            "owner": {
+                "user_id": 544455221515424,
+                "name": "JM",
+                "avatar_url": "https://images.zsxq.com/Fk-s3kWIugL6st9VqAec49qzv2hY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h668XhXQ23lLUlv7qS77B6oXwWw=",
+                "number": 6035
+            }
+        },
+        {
+            "create_time": "2019-09-15T18:44:02.451+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-07-30T22:10:35.289+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-06-21T23:43:10.195+0800",
+            "owner": {
+                "user_id": 28452225558851,
+                "name": "陈超",
+                "alias": "markecc超",
+                "avatar_url": "https://images.zsxq.com/FscnepyKYQnbqEhk3nCyksRTHhw4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YSYdx6LwsxxpMa7hKf0RPqCgEjI=",
+                "number": 3314
+            }
+        },
+        {
+            "create_time": "2019-06-21T00:03:45.273+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T23:44:03.823+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-27T16:11:15.283+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88244258812152,
+            "create_time": "2018-04-19T11:07:01.046+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "恭喜，第二期第二条精华帖产生。 \n\n其实，我现在有一个思路，尽量不要去给互联网深度用户做产品，垂直市场倒是没问题，纯工具类的付费转化率真很难高，这些互联网深度用户很善于解决问题，也很容易找到替代方案，想靠产品转化他们，难。 \n\n而插件一般是互联网深度用户才会用的，垂直市场的插件可以考虑看看，比如之前提到的是Shopify导入商品数据的插件，也很赚钱。",
+            "likes_count": 3,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28244258224411,
+            "parent_comment_id": 88244258812152,
+            "create_time": "2018-04-19T11:12:45.377+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "嗯，工具支付转化很低，所以下一个尝试商业化更浓的群体。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 15411424228282,
+            "create_time": "2018-04-19T12:25:29.912+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "思路很棒啊，找那些有一定用户量，近期还使用，差评多的产品。基于原产品做优化。[强][强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51544525218514,
+            "create_time": "2018-04-19T12:36:15.684+0800",
+            "owner": {
+                "user_id": 881481148182,
+                "name": "大馬",
+                "avatar_url": "https://images.zsxq.com/Fj1AkKYRQyXWBroVfQSKzHbzZcoU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5zc3ggF-OgBoCSUaQF8kfJ-Y8KI="
+            },
+            "text": "思路很清晰，做产品最好的学习手册其实是同行，如果能找到竞品的用户评论对自身产品开发的功能和市场定位起到很好的工作效率。向大佬学习了 [强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28244225442151,
+            "parent_comment_id": 88244258812152,
+            "create_time": "2018-04-20T08:36:47.067+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k="
+            },
+            "text": "这个观点，感同身受，例如给厨师推销调料，是没有什么好效果的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 48522554221848,
+            "create_time": "2018-04-20T08:38:49.044+0800",
+            "owner": {
+                "user_id": 51188241285554,
+                "name": "艾米张",
+                "avatar_url": "https://images.zsxq.com/Fgdh_bjasIiA3eT3egU289s1EhLe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j7t8dnJLP7IoVuVOeTF3Zh5XU6s="
+            },
+            "text": "懂技术，又能进行用户分析的，能力不会差，学习思路",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548228552445854,
+            "create_time": "2019-04-20T09:16:45.035+0800",
+            "owner": {
+                "user_id": 828212541522,
+                "name": "敖翔",
+                "avatar_url": "https://images.zsxq.com/FjPCew21t8RTzcboM1AvfXnAw9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hyyYvzKDSFrRvmc5t7hwlmz1Q9U="
+            },
+            "text": "[强][强]这个方法很厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 62,
+    "rewards_count": 0,
+    "comments_count": 7,
+    "reading_count": 3446,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-19T10:40:37.738+0800",
+    "modify_time": "2018-04-19T17:11:09.282+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

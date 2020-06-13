@@ -1,0 +1,281 @@
+{
+    "topic_id": 28512544181111,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481182282258,
+            "name": "老读悟",
+            "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> 第二次分享，还是跟数据和营销相关的思路。手快的圈友可以显示下执行力哦，大家一起验证需求...\n\n<e type=\"web\" href=\"https%3A%2F%2Fshimo.im%2Fdoc%2FPgJFxN1yIBEA3uCU%2F\" title=\"%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%80%82%E5%90%88%E4%B8%9A%E5%8A%A1%E4%BA%BA%E5%91%98%E7%9A%84%E9%94%80%E5%94%AE%E7%BA%BF%E7%B4%A2%E6%94%B6%E9%9B%86%E5%88%A9%E5%99%A8\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2Fc5605265d58a9bab2ab0bb260a1d45d0958a99d85bca4407e9b65b9d36eb210d\" />「如何打造适合业务人员的...利器」"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-31T16:58:13.587+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-01T22:39:37.351+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-23T10:29:49.309+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-29T18:53:21.320+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-03-09T15:20:57.356+0800",
+            "owner": {
+                "user_id": 145484811282,
+                "name": "叽咕叽咕",
+                "alias": "Lucky",
+                "avatar_url": "https://images.zsxq.com/FjKHFfLEJh4DuGN9LZzVMBwb7yOA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mQ9bqD9cVF48xtqlRL0D-QLr6wc=",
+                "number": 389
+            }
+        },
+        {
+            "create_time": "2017-06-07T00:01:36.096+0800",
+            "owner": {
+                "user_id": 554242824414,
+                "name": "Stephen吴",
+                "avatar_url": "https://images.zsxq.com/Fq8JKZEBb4Pps7QLJALpHYyIhBF3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lFecmBJbLEIZooZmmeWzaQDlPFQ=",
+                "number": 1074
+            }
+        },
+        {
+            "create_time": "2017-05-18T01:26:07.886+0800",
+            "owner": {
+                "user_id": 552185285514,
+                "name": "吴泰龙咔兜",
+                "avatar_url": "https://images.zsxq.com/Fu-ZwjdJQO5lrQS5raRrWNzIrLLk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ls1ggKKtZBWRDnMCKWuVwOEq2rM=",
+                "number": 430
+            }
+        },
+        {
+            "create_time": "2017-05-17T08:22:06.661+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4=",
+                "number": 421
+            }
+        },
+        {
+            "create_time": "2017-05-16T20:11:16.735+0800",
+            "owner": {
+                "user_id": 552185855124,
+                "name": "DG",
+                "avatar_url": "https://images.zsxq.com/FuGIrrhBAnyEp3YFAfCu1xSzBoww?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FU5rLqYY01A4iCtJrkwDRuHrtKA=",
+                "number": 334
+            }
+        },
+        {
+            "create_time": "2017-05-16T17:19:32.605+0800",
+            "owner": {
+                "user_id": 455155251528,
+                "name": "李立（前端开发）",
+                "avatar_url": "https://images.zsxq.com/Fsm0svrQZSQskj8eyTe7BkG4G38Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fN_ou0VX4F2Wq73LAtB5hrtyXN0=",
+                "number": 1005
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-16T15:11:23.689+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 2888
+        },
+        {
+            "create_time": "2017-05-16T14:07:55.543+0800",
+            "owner": {
+                "user_id": 48415452112428,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/FpC3324XvNQ3WzUkkdCfaPZdSs9H?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Xx1pIY6r2rbtNxcs5hVcTL_l6Ks="
+            },
+            "amount": 688
+        },
+        {
+            "create_time": "2017-05-16T14:18:50.544+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 288
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88512542251852,
+            "create_time": "2017-05-16T13:43:28.071+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "text": "第一版更多的联系方式搜索汇总，销售线索不明显。因为搜索的数据没有赋予任何权重，排名随机。如果能对搜索加上权重和可能性排名，还是有价值的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15284214418212,
+            "parent_comment_id": 88512542251852,
+            "create_time": "2017-05-16T13:52:21.357+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "如果只靠搜索，收集的线索确实不太可控。所以，前期还是让用户自己去寻找页面，工具提升数据提取效率。后期，可以通过页面上下文的文本分析确定销售线索的分类或标签，不过这样成本就比较大了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            }
+        },
+        {
+            "comment_id": 15284214124142,
+            "create_time": "2017-05-16T14:19:39.242+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "这种工具确实有价值，期待执行力强的去做下，我来试用",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51285245818454,
+            "create_time": "2017-05-16T15:11:48.177+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "赞赏+设为精华了！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48415425181158,
+            "create_time": "2017-05-16T15:12:34.561+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "工具的思路不错，不过收集用户邮箱的场景现在多么？ 感觉大家现在都不愿意留邮箱了？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 15284214882282,
+            "parent_comment_id": 48415425181158,
+            "create_time": "2017-05-16T15:43:58.897+0800",
+            "owner": {
+                "user_id": 825288545282,
+                "name": "梁文斌",
+                "alias": "梁文斌",
+                "avatar_url": "https://images.zsxq.com/FvD31roPvniy4SZjZQnHimLVO-ky?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:epgiPUlXgymuKZGZIUza83u8P1I="
+            },
+            "text": "应该也可以换成QQ或者微信等等",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 48415422424858,
+            "parent_comment_id": 48415425181158,
+            "create_time": "2017-05-16T16:02:21.336+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "是可以选择收集类型的，手机号、邮箱、QQ、微信等等都可以。另外，从我的经验来看，对于一些2B的企业，邮件已经很重要。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 48415422181818,
+            "create_time": "2017-05-16T18:27:36.063+0800",
+            "owner": {
+                "user_id": 4244552548,
+                "name": "david",
+                "avatar_url": "https://images.zsxq.com/FqXpJeF8828sa01VyX4GJ6fhXutv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rgMoW8-cEU8BG_jvhTCLhczF_ec="
+            },
+            "text": "有个不成熟的建议，什么维度的加权能判断这个leads是个靠谱的leads是我认为的关键，所以是不是要先从一个行业进行切入，或者说找一个好切入的行业。因为公开信息有些是虚的，举例在微博上抓取关注过健身或健康账号的人、发表过与健身有关信息的人算是一个健身leads，然后再挖他的注册邮箱？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 22,
+    "rewards_count": 3,
+    "comments_count": 17,
+    "reading_count": 1902,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-16T12:56:30.299+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

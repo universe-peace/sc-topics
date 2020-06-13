@@ -1,0 +1,270 @@
+{
+    "topic_id": 28511815881151,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" />  <e type=\"hashtag\" hid=\"8452858552\" title=\"%23%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%23\" />  \n\n背景：\n1. 快手、火山上有很多有意思的十几秒的视频，每看完一个需要去切换另外一个；\n2. 微信的用户和快手的用户重合度还不是非常高； \n3. 一些微信用户有猎奇心理。 \n\n思路： \n1. 找到有意思的视频，联系快手po主获取到对方授权；\n2. 将该播主的几十个短视频拼接成一段长视频；\n3. 将长视频长传到腾讯；\n4. 写一篇文章简单介绍该播主并内嵌该视频到文章； \n5. 分享传播该文章；\n6. 每篇文章介绍一个快手玩家。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-11T23:45:58.858+0800",
+            "owner": {
+                "user_id": 825225822282,
+                "name": "城",
+                "avatar_url": "https://images.zsxq.com/Fl_F0C2JNKyddTrzABt98GWvDHXv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BektXeWIiQMyJw3P6XiMijgij3s=",
+                "number": 3725
+            }
+        },
+        {
+            "create_time": "2019-08-11T21:36:38.367+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-08T17:20:14.811+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-05T20:26:46.708+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-06T14:32:47.325+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-29T01:57:32.364+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-09-22T18:26:58.676+0800",
+            "owner": {
+                "user_id": 824554588852,
+                "name": "小愚",
+                "avatar_url": "https://images.zsxq.com/FtiT6UEAc2SYgT1vJ_SGoghG8e1T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T8iO18paQbCkGLKTyt1wfhr8Gsk=",
+                "number": 1266
+            }
+        },
+        {
+            "create_time": "2017-06-25T18:21:28.192+0800",
+            "owner": {
+                "user_id": 455488484858,
+                "name": "天堂地狱",
+                "avatar_url": "https://images.zsxq.com/FpH_yq9q8GFbAsgW7Wsr07Y2nuFs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Mo73INqjHJVbZ0MFlU1GPbjEIxQ=",
+                "number": 677
+            }
+        },
+        {
+            "create_time": "2017-06-24T09:26:52.172+0800",
+            "owner": {
+                "user_id": 28512545858281,
+                "name": "河马锅",
+                "avatar_url": "https://images.zsxq.com/FnbXsH2SXqm4LKTdelUmIUyZNu3m?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1zJYlClNRPuq0VDvYNcqFGnmK1g=",
+                "number": 1150
+            }
+        },
+        {
+            "create_time": "2017-06-19T22:34:09.043+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-18T13:51:46.433+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 633
+        },
+        {
+            "create_time": "2017-06-18T14:20:39.987+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 844
+        },
+        {
+            "create_time": "2017-06-18T13:52:00.058+0800",
+            "owner": {
+                "user_id": 88518484214222,
+                "name": "低调",
+                "avatar_url": "https://images.zsxq.com/FtHTyCMZpyYFnhg65_6A7KS46x0I?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c6mxgj1c2MTKuy2-OCn6nAq0nPI="
+            },
+            "amount": 255
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88855584818442,
+            "create_time": "2017-06-18T13:50:55.211+0800",
+            "owner": {
+                "user_id": 88518484214222,
+                "name": "低调",
+                "avatar_url": "https://images.zsxq.com/FtHTyCMZpyYFnhg65_6A7KS46x0I?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c6mxgj1c2MTKuy2-OCn6nAq0nPI="
+            },
+            "text": "公众号就可以不断吸粉丝了，思路不错，",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88855584812882,
+            "create_time": "2017-06-18T13:54:35.797+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "<e type=\"mention\" uid=\"4141152558\" title=\"@V%E5%85%88%E7%94%9F\" />  曾经讲，采铜于山。 每个人都应该先尽力去找到自己的铜矿，找到铜矿后就可以有源源不断的内容输出。 \n\n上面的这个案例中的铜矿就是有非常多的有意思的快手播主，有了这个铜矿，这个事情做起来会相对很轻松，并不需要绞尽脑汁想明天更新什么内容，都是同样的流程和思路，换个播主即可。",
+            "likes_count": 4,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88855584221482,
+            "create_time": "2017-06-18T14:12:01.084+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "这个赞，要到授权是关键，但应该不会特别难",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 15522251414452,
+            "parent_comment_id": 88855584221482,
+            "create_time": "2017-06-18T14:23:05.686+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "其实，要到授权不是这个业务的关键，但是公关层面的关键",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 48844482525248,
+            "parent_comment_id": 88855584221482,
+            "create_time": "2017-06-18T14:24:42.080+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "嗯嗯，但后面几步感觉难度也不大，我觉得前面拿到批量有授权的短视频，还是要花点功夫的，总不能临时找",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 28855812542221,
+            "create_time": "2017-06-20T02:07:15.778+0800",
+            "owner": {
+                "user_id": 2441858141,
+                "name": "二宝",
+                "avatar_url": "https://images.zsxq.com/Fr3h0sB8WSMHlo8yrkCDrOltXdCC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R4YIfJAwMPs-Rd2gftKP7-Ld-Vs="
+            },
+            "text": "14年有人凭借这个方法涨了几十万粉丝",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28855248582511,
+            "parent_comment_id": 28855812542221,
+            "create_time": "2017-06-21T18:30:20.274+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "二宝老师多分享",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2441858141,
+                "name": "二宝",
+                "avatar_url": "https://images.zsxq.com/Fr3h0sB8WSMHlo8yrkCDrOltXdCC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R4YIfJAwMPs-Rd2gftKP7-Ld-Vs="
+            }
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 3,
+    "comments_count": 7,
+    "reading_count": 2278,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-18T13:49:26.270+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

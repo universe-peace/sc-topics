@@ -1,0 +1,353 @@
+{
+    "topic_id": 222222225521,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8212415112,
+            "name": "Jimi",
+            "alias": "Jimi",
+            "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n最近大家都在说朋友圈裂变，我也说下从我媳妇那看到的一个案例：\n\n1.在朋友圈看到别人分享的菜谱班，仅限前80名免费，限人的策略刺激你马上扫码进入微信群。\n2.进入微信群里，被管理员要求按固定图文转发朋友圈并截图。\n3.上传截图后，管理员提示要审核五分钟。\n4.五分钟后，管理员抛出菜谱，其实就是一个公众号文章，提示群友关注。\n5.最后，管理员还要再次提示，没有分享截图的人要抓紧时间，否则就要被清理。\n\n套路有几个：\n1.限人策略，对目标用户来说，有显著刺激点击的作用。\n2.提供分享模版，降低用户的分享门槛。加上已经进来，部分用户为了获得课程就会进行下一步。\n3.提示审核，暗示用户不能删除朋友圈，为他们提供更多曝光时间。\n4.将公众号文章包装成课程，吸引目标用户关注。\n5.用威胁策略刺激剩余用户赶紧截图。\n\n看了下，这个公众号的文章有4万阅读，如果都是真的，订阅应该也有十几万甚至更多了，应该还是比较成功的。",
+        "images": [
+            {
+                "image_id": 144242224512,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrnaGzGFLys8UcaIWgxrFBNU-orw?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XbcokspFsfuXjqxhRK-3dGfIwGs=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrnaGzGFLys8UcaIWgxrFBNU-orw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vV9m2ixvQhD9XypC3TfYGCB2Jfg=",
+                    "width": 720,
+                    "height": 1280
+                }
+            },
+            {
+                "image_id": 555252225184,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhK6FUGXPJpS4VIqj0S1_Q8CAfrE?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7VwN03A_bspM99IUlQ2obf7_1kY=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhK6FUGXPJpS4VIqj0S1_Q8CAfrE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QaN0umwfATY7ObqXFx2fAXjz0dk=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 455454445828,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fhbxfu_Y3oTuzq1FtHjRrcdXUtfT?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KutwWxzJPWAl3q-ta0jx6U9torw=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fhbxfu_Y3oTuzq1FtHjRrcdXUtfT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iYKJYi7a3K5-CI28Ip9-auNi2nA=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 144242224422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhWTEGY8lpwX3mlOhg7_Xf6YqJx6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LfacOEZfh_Ah0Zq6IshBXePKSX8=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhWTEGY8lpwX3mlOhg7_Xf6YqJx6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cF4e2U6nV8ODJ-WZIYvdMgUw9Yw=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 222525552811,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvuxuB-EPEi6R0gYCM7f_lSlfTo9?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oRLaB0TsS2vgRHEJsAmg-EXNfcw=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvuxuB-EPEi6R0gYCM7f_lSlfTo9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eIenkEAOX7321cmmM6fIwMcmHPo=",
+                    "width": 720,
+                    "height": 1280
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-26T14:34:26.455+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-07-28T21:49:42.424+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-25T16:54:32.272+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-01T12:26:06.270+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-04-06T08:58:28.109+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ=",
+                "number": 1950
+            }
+        },
+        {
+            "create_time": "2017-04-06T00:35:51.637+0800",
+            "owner": {
+                "user_id": 145482522552,
+                "name": "鸡毛Flyer",
+                "alias": "Mr.wu",
+                "avatar_url": "https://images.zsxq.com/FsrCWxs4ELtqUNvUYdFa9oCOcOxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u7MNZ-qJU4lA5et9MRN83fIVsZU=",
+                "number": 310
+            }
+        },
+        {
+            "create_time": "2017-04-05T23:58:30.313+0800",
+            "owner": {
+                "user_id": 551548485854,
+                "name": "谢伟岳",
+                "avatar_url": "https://images.zsxq.com/FmziUzEJzYQBH3-5ZjOniT__uGvB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:anLMIy_nCgE9p6tV4DsbMIBAIG8=",
+                "number": 209
+            }
+        },
+        {
+            "create_time": "2017-04-05T22:42:22.879+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro",
+                "number": 1
+            }
+        },
+        {
+            "create_time": "2017-04-05T22:37:45.827+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA=",
+                "number": 626
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-05T22:42:49.968+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        },
+        {
+            "create_time": "2017-04-06T08:07:17.643+0800",
+            "owner": {
+                "user_id": 142428458842,
+                "name": "寂寞火山",
+                "alias": "寂寞火山",
+                "avatar_url": "https://images.zsxq.com/FvonlW7nNTaXT9ONdiNVq3uFshst?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k1jwx65wvz73Kz6xbw6FPPtJp7A="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 828112484452,
+            "create_time": "2017-04-05T22:34:53.659+0800",
+            "owner": {
+                "user_id": 225812115411,
+                "name": "卫平",
+                "avatar_url": "https://images.zsxq.com/FoL71sdq9l6uhsCCrlGHG0hGpc4d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xC03BfXIS7oLWVaHSP9L_wOi7wY="
+            },
+            "text": "最近这种特多，教你做ppt，教你学摄影，每天读书😂",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 228112425441,
+            "parent_comment_id": 828112484452,
+            "create_time": "2017-04-05T22:43:09.916+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "嗯哈，我们也可以弄个教你赚钱啦😏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 225812115411,
+                "name": "卫平",
+                "avatar_url": "https://images.zsxq.com/FoL71sdq9l6uhsCCrlGHG0hGpc4d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xC03BfXIS7oLWVaHSP9L_wOi7wY="
+            }
+        },
+        {
+            "comment_id": 145884148842,
+            "create_time": "2017-04-05T22:59:41.259+0800",
+            "owner": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg="
+            },
+            "text": "之前也加过读书和健身的类似的群，都是只有拉新没有运营，没有有价值的交流内容，很快就沉底了。所以一个活跃到可以变现的微信群应该有什么特点呢？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 10
+        },
+        {
+            "comment_id": 551885441214,
+            "parent_comment_id": 145884148842,
+            "create_time": "2017-04-05T23:02:13.805+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "在他这个案例里，主要是快速吸粉到公众号，但后面出新菜谱会再发到群里增加阅读量。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg="
+            }
+        },
+        {
+            "comment_id": 551885441584,
+            "parent_comment_id": 145884148842,
+            "create_time": "2017-04-05T23:06:07.255+0800",
+            "owner": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg="
+            },
+            "text": "嗯，如果已经关注了公众号，新生产的内容会收到推送，继续留在群里的意义是什么呢？除非群里的人能产生高质量的有价值的讨论和互动。但我加过的几个群都木有这种体验……是运营方面欠缺了什么嘛？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 828112448152,
+            "parent_comment_id": 145884148842,
+            "create_time": "2017-04-05T23:07:07.959+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "我自己没加过，但我估计会进群的还是比较属于目标用户的，再次阅读文章以及沟通话题的可能其实蛮高的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg="
+            }
+        },
+        {
+            "comment_id": 458115225118,
+            "parent_comment_id": 145884148842,
+            "create_time": "2017-04-05T23:08:58.432+0800",
+            "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "alias": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fjuy8KF93PqJ4IWA55pmcg_l4ViC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggLQnbNeiXqq4cbGY_kL8XqA0zs="
+            },
+            "text": "就是为了公号留下人吧。之前英语的轻课也是这样，加群关注，转发，免费上课。然后十几分钟就有陆续几十个人加入，群一直是发的转发要求，谁谁谁通过验收，一般获得课程了就退了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458515815258,
+                "name": "琉璃",
+                "avatar_url": "https://images.zsxq.com/FoaBS7A_y7CpDR2PLuCSGPZ543EH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:knukibKRNZHoib-D3yM1nHxrefg="
+            }
+        },
+        {
+            "comment_id": 551885444554,
+            "parent_comment_id": 145884148842,
+            "create_time": "2017-04-05T23:11:51.276+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "嗯，主要肯定就是为了拉人，改天看到后自己体验一下😏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "alias": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fjuy8KF93PqJ4IWA55pmcg_l4ViC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggLQnbNeiXqq4cbGY_kL8XqA0zs="
+            }
+        }
+    ],
+    "likes_count": 9,
+    "rewards_count": 2,
+    "comments_count": 18,
+    "reading_count": 1907,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-05T22:24:30.339+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

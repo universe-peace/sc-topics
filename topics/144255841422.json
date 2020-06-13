@@ -1,0 +1,242 @@
+{
+    "topic_id": 144255841422,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 458152112418,
+            "name": "整个啥-江灏宇",
+            "avatar_url": "https://images.zsxq.com/FlPb2SxFEqT_PCXL8HDYUiGm2GfU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CJo15W1Pt2S2i86pQ1LDWs7ZX_U="
+        },
+        "text": "我们做的是服装电商，之前也尝试过很多合作。自媒体，直播，微博，效果转化率都一般，自从我们发现了快手，其实合作的形式也很普通，软广，硬广，搞笑段子，抽奖等等。但是快手的流量很，基本上阅读量和粉丝数都很真实。活跃度也高，不像直播平台，显示1万人，有个500人看就不错了。目前还在尝试各种合作研究中。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-17T17:35:57.611+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2020-03-22T21:25:18.449+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-06T09:43:15.291+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-09T19:27:11.285+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T10:11:24.691+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-27T23:18:40.466+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-22T12:37:35.815+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2018-04-25T10:46:55.962+0800",
+            "owner": {
+                "user_id": 142584522482,
+                "name": "道可道",
+                "avatar_url": "https://images.zsxq.com/FikKMRpaFx73CoRQqU_3R_BzBe__?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s5sdp1mila6RTxRjzsS79ki1ReI=",
+                "number": 1679
+            }
+        },
+        {
+            "create_time": "2017-04-04T22:52:39.600+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-03-28T00:16:27.625+0800",
+            "owner": {
+                "user_id": 828228554542,
+                "name": "六六很六",
+                "avatar_url": "https://images.zsxq.com/FvZsWtBlhogZlLdFAYK8fQ7FHYRB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YT_qL6i8hM03zcA0gGUV8SMwL7k=",
+                "number": 602
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228224148411,
+            "create_time": "2017-03-27T10:23:44.030+0800",
+            "owner": {
+                "user_id": 458152112418,
+                "name": "整个啥-江灏宇",
+                "avatar_url": "https://images.zsxq.com/FlPb2SxFEqT_PCXL8HDYUiGm2GfU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CJo15W1Pt2S2i86pQ1LDWs7ZX_U="
+            },
+            "text": "看最近一轮腾讯的投资就知道是个潜力股。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 145441811282,
+            "create_time": "2017-03-27T10:28:39.636+0800",
+            "owner": {
+                "user_id": 458152112418,
+                "name": "整个啥-江灏宇",
+                "avatar_url": "https://images.zsxq.com/FlPb2SxFEqT_PCXL8HDYUiGm2GfU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CJo15W1Pt2S2i86pQ1LDWs7ZX_U="
+            },
+            "text": "边走路边编辑的，语法上有错误，刚刚才发现，道歉。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458552121158,
+            "create_time": "2017-03-27T10:36:56.854+0800",
+            "owner": {
+                "user_id": 828281444412,
+                "name": "烟台李飞刀",
+                "alias": "烟台飞刀哥",
+                "avatar_url": "https://images.zsxq.com/FgIF71n-fq7frDxSU4iFi_WnXcEP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jYltANBxheum6ZxOaVlr0S0JHfo="
+            },
+            "text": "对，突然想到以前有人讨论过的问题就是服务人群的下移，现在很多互联网产品都是针对城市白领以上人群，而其实中国目前来看80%以上的人群学历没那么高，定位于这个市场很多人想当然觉得购买力不高，而快手给了我们一个启示，这些人群也有他们特殊的需求，满足了他们同样是个巨大的市场\n\n这个逻辑也适用于把大陆成功的产品带去互联网落后中国而又有巨大人口基数的国家，如印尼，越南，泰国等",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 458552115218,
+            "parent_comment_id": 458552121158,
+            "create_time": "2017-03-27T11:02:18.861+0800",
+            "owner": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w="
+            },
+            "text": "反过来也可以😂把越南之类成功的，复制来中国",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828281444412,
+                "name": "烟台李飞刀",
+                "alias": "烟台飞刀哥",
+                "avatar_url": "https://images.zsxq.com/FgIF71n-fq7frDxSU4iFi_WnXcEP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jYltANBxheum6ZxOaVlr0S0JHfo="
+            }
+        },
+        {
+            "comment_id": 145448284552,
+            "create_time": "2017-03-27T12:23:14.529+0800",
+            "owner": {
+                "user_id": 2424415521,
+                "name": "这根葱",
+                "avatar_url": "https://images.zsxq.com/FiCh52wWvKbBQts6Ejb8q9GX5_jP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:58iayefL0lbBiLoXLmdjyL4urGU="
+            },
+            "text": "服装电商走网红模式销量应该不错，看着一家公司从倒闭做起来，发展非常快。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551558112414,
+            "parent_comment_id": 228224148411,
+            "create_time": "2017-03-27T13:16:03.348+0800",
+            "owner": {
+                "user_id": 551811558114,
+                "name": "Moss",
+                "avatar_url": "https://images.zsxq.com/Fmw9RsYGQOcAwlejr9WDBiyRKnwJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iI2QV_GpCjXvA6dCSLqMp-FIeE4="
+            },
+            "text": "跨境还是国内电商",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458152112418,
+                "name": "整个啥-江灏宇",
+                "avatar_url": "https://images.zsxq.com/FlPb2SxFEqT_PCXL8HDYUiGm2GfU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CJo15W1Pt2S2i86pQ1LDWs7ZX_U="
+            }
+        },
+        {
+            "comment_id": 228221824441,
+            "create_time": "2017-03-27T14:18:35.254+0800",
+            "owner": {
+                "user_id": 2158228851,
+                "name": "以梦为马",
+                "alias": "alexwunju",
+                "avatar_url": "https://images.zsxq.com/Fj5HPdNfY-6IrFnIzc_Zb0LAxNv5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL4bl2jo6FzCTYYwy2LbZbMWxVw="
+            },
+            "text": "我们利用快手推游戏 服装两年了，绝对价值洼地",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 228221245241,
+            "parent_comment_id": 228221824441,
+            "create_time": "2017-03-27T16:04:21.227+0800",
+            "owner": {
+                "user_id": 825844448222,
+                "name": "乔",
+                "avatar_url": "https://images.zsxq.com/FgIm1OyygJ1YLIEpuaLN2UghF7xK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TlbHs0SfuLMukCMl53wY_gRi52c="
+            },
+            "text": "在快手哪个位置推？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2158228851,
+                "name": "以梦为马",
+                "alias": "alexwunju",
+                "avatar_url": "https://images.zsxq.com/Fj5HPdNfY-6IrFnIzc_Zb0LAxNv5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL4bl2jo6FzCTYYwy2LbZbMWxVw="
+            }
+        }
+    ],
+    "likes_count": 17,
+    "rewards_count": 0,
+    "comments_count": 15,
+    "reading_count": 2124,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-27T10:23:14.423+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

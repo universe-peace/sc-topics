@@ -1,0 +1,229 @@
+{
+    "topic_id": 51285111555214,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />  第八期 <e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />  \n\n翻译的很棒，读起来很舒服，赞<e type=\"mention\" uid=\"142548485442\" title=\"@Echo\" />  ! \n\n借着这篇文章，亦仁来分享几个点\n\n1. 逆向思维找需求。 绝大多数时候我们找需求是从用户端出发，今天分享一个新的思路，也是亦仁实践过并且赚到过6位数美金的思路，从最技术的角度出发来寻找需求： 找到API或者sdk服务商，并研究其API列表，反向来找场景和用户需求。 \n\n比如轻芒最近开放了其内容API，讯飞开发了其语音sdk，百度和阿里各自开放了其OCR识别的API等，本文的主人公找到的天气API。 \n\n能够开放API，说明两个点： 1. 在一部分场景下，其数据是有价值的。 2. 有更多的场景可以结合其数据产生价值，需要你去寻找。 \n\n所以，当有大公司宣布开放其API的时候，这里面蕴藏着巨大的机会。 \n\n2. 对于有开发能力的人来讲，Google Adsense 不是最好的选择，开发自己的产品是更好的选择，这个也是亦仁亲身实践。 但研究Google Adsense的广告是一个很好的发现解决方案和变现思路的方式。 但对于不懂技术的人，Adsense是不错的方式。 \n\nGoogle Adsense 是一个根据页面的内容去推荐匹配广告的广告平台。 如果你的页面流量比较垂直，一定要尝试去找到适合自己流量的付费产品或者增值模式，变现效率是Adsense的10倍以上。 \n\n3. 推荐有心人研究下YouTube Ads的投放和转化，可能有一些机会。\n\n4. 在国内做自媒体的同学，特别是做头条号、UC号等的同学，特别要留意一下用户沉淀这件事。 多账号多平台非人格化的内容搬运，短期能带来流量，甚至很多流量，长期来看，都会归零，这也是亦仁的亲身实践。所以，如有可能，用户要沉淀，要沉淀，要沉淀，重要的事情说三遍，最不济，也要加个微信好友或者收集个用户邮箱吧。\n\n不多说废话了，原文地址<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Fbusinesses%2Fweather-extension\" title=\"https%3A%2F%2Fwww.indiehackers.com%2Fbusinesses%2Fweather-ex...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2F1d80154a2567bf0b581e1501a1d90e8ea48048aad01ddcf10d01528bb3ebd3af\" /> \n\n翻译见图片，enjoy！",
+        "images": [
+            {
+                "image_id": 15284248882422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnFDM76cP7vdbt9DcEbwj-c3sYty?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GbeedUFlPExTP3ceC1FQkEZEkW0=",
+                    "width": 540,
+                    "height": 6715
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnFDM76cP7vdbt9DcEbwj-c3sYty?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Mmi84hBN2vRilfFHLQhJRRZQKj8=",
+                    "width": 800,
+                    "height": 9949
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T20:25:54.927+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-17T13:14:55.202+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-07-31T17:31:50.726+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-17T14:15:10.043+0800",
+            "owner": {
+                "user_id": 2418228511,
+                "name": "in",
+                "avatar_url": "https://images.zsxq.com/Fit8G3KegcWN5wUo7vHTkp7tF6Jc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CvugGVycK6VTolCtTmiTWJgBqTk=",
+                "number": 970
+            }
+        },
+        {
+            "create_time": "2019-06-01T23:35:36.295+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-23T10:29:19.014+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-29T18:20:34.912+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-03-23T13:54:35.792+0800",
+            "owner": {
+                "user_id": 4252414118,
+                "name": "mxclover",
+                "avatar_url": "https://images.zsxq.com/FqR1KIC1lE2qc64eeumQP9nbfktB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dr7dRn0oeaUZoPM_oTjjRNbpVkI=",
+                "number": 1694
+            }
+        },
+        {
+            "create_time": "2017-06-11T19:32:08.567+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs=",
+                "number": 1104
+            }
+        },
+        {
+            "create_time": "2017-06-06T23:51:42.833+0800",
+            "owner": {
+                "user_id": 554242824414,
+                "name": "Stephen吴",
+                "avatar_url": "https://images.zsxq.com/Fq8JKZEBb4Pps7QLJALpHYyIhBF3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lFecmBJbLEIZooZmmeWzaQDlPFQ=",
+                "number": 1074
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28512881488151,
+            "create_time": "2017-05-18T15:50:42.040+0800",
+            "owner": {
+                "user_id": 825288545282,
+                "name": "梁文斌",
+                "alias": "梁文斌",
+                "avatar_url": "https://images.zsxq.com/FvD31roPvniy4SZjZQnHimLVO-ky?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:epgiPUlXgymuKZGZIUza83u8P1I="
+            },
+            "text": "第4点：自媒体平台可以短期薅羊毛，长期来看，还是得把用户想尽办法沉淀到个人号上，做沉淀，才能长期挣钱。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48415854424118,
+            "create_time": "2017-05-18T17:31:32.835+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "text": "最后一点超级认同，用户留存和活跃，也是自媒体，app各家面对的挑战！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48415854884548,
+            "create_time": "2017-05-18T18:16:19.423+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "1、去看了轻芒的API，看不太懂，但是它们家在做小程序+的项目，说是聚合内容，但是介绍不是很清楚，先提交资料试试看。\n\n2、沉淀用户是长期之际，目前通过公众号在沉淀，同时也通过免费小密圈跟个人微信尝试转化。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 51285152451214,
+            "parent_comment_id": 48415854884548,
+            "create_time": "2017-05-18T19:52:35.023+0800",
+            "owner": {
+                "user_id": 4212821228,
+                "name": "Dar2K",
+                "avatar_url": "https://images.zsxq.com/FgUXmtywWc4QwDTCuA_rp2V0wXAp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:deqFMIttNeqD6jJFNLjbk2eJvyQ="
+            },
+            "text": "头条号有什么比较好的沉淀用户模式吗？ 头条禁止带微信号，微信公众号貌似可以，但是也被处罚过，毕竟头条不好识别是微信号还是公众号。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 48415854258848,
+            "parent_comment_id": 48415854884548,
+            "create_time": "2017-05-18T19:53:40.040+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "我的头号号刚申请通过，还没发表过文章，没经验哈",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4212821228,
+                "name": "Dar2K",
+                "avatar_url": "https://images.zsxq.com/FgUXmtywWc4QwDTCuA_rp2V0wXAp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:deqFMIttNeqD6jJFNLjbk2eJvyQ="
+            }
+        },
+        {
+            "comment_id": 548855514518154,
+            "create_time": "2020-01-22T17:21:25.595+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI="
+            },
+            "text": "目前知道这几个：关键词搜淘宝、看投放广告、api接口",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 30,
+    "rewards_count": 0,
+    "comments_count": 6,
+    "reading_count": 2225,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-18T15:17:20.330+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "topic_id": 544828882548854,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 48418852845828,
+            "name": "TooBigData",
+            "alias": "Wentao",
+            "avatar_url": "https://images.zsxq.com/FlfqbZu5U2Enpr-d-kR0sVdJoQYD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L-q2J4cX_WHdEiCsgDG30f0y5Xc="
+        },
+        "text": "聊聊那些“擅变”的抖音达人\n\n<e type=\"hashtag\" hid=\"881422142422\" title=\"%23Wentao%E8%81%8A%E6%8A%96%E9%9F%B3%23\" /> \n\n最近整理了一些历史数据，本来想证明抖音号买卖之后很少有做起来的，不料发现另一件事情：\n\n头部的抖音号也在不断改签名，有些还相当高频。\n\n分析一下，改签名主要有这么几种情况：\n\n1. 微信号加满了，需要换个号引流\n2. 单日加好友数量达到上限，几个号交替引流\n3. 微信、微博字眼或变体被识破，更换新的引流暗语\n4. 加入机构、跳槽或更换金主，更改广告文案\n5. 听说可以直接写“微信”或“微博”了，改回来试试\n6. 更改例行直播时间，签名通知\n7. 信息变更触发审核导致重置（如杜子建，你们哈哈哈吧）\n8. 诶最近没流量，是不是因为签名不合适？我改改试试哈\n9. 怪不得没人加，原来微信号写错了我了个去\n10. 转型，非常正经那种转型（如美少女小惠）\n\n以上原因，按我掌握信息的情况，按主观感觉的可能性从高到低排序，原因 1 是绝大多数改签名的原因。\n\n不敢臆断，附件贴出这部分数据，请大家帮分析。也分享给可能有需要的人，如果你想联系这些达人，或者你想挖挖达人的老底。。。",
+        "files": [
+            {
+                "file_id": 28814258155411,
+                "name": "头部抖音达人信息变更记录.pdf",
+                "hash": "c52df5c9986eb27790da4fd26542d0c2db4293eab6424479f741af133c913f71",
+                "size": 957212,
+                "download_count": 403,
+                "create_time": "2019-05-14T20:03:33.382+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-15T15:22:02.571+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-09-15T20:43:32.194+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-31T00:39:19.452+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-16T01:42:26.492+0800",
+            "owner": {
+                "user_id": 222125114141,
+                "name": "南京杨明",
+                "avatar_url": "https://images.zsxq.com/Fi7pu3XrDO0cjMktewzon6Ml0WCX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-t_Gi2_S-YjLoTDojxbx2Ut51e8=",
+                "number": 5009
+            }
+        },
+        {
+            "create_time": "2019-06-29T13:54:56.072+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-06-15T04:58:48.755+0800",
+            "owner": {
+                "user_id": 222554144521,
+                "name": "ray",
+                "avatar_url": "https://images.zsxq.com/Fp2VzuRvNdqe77Day5GbqRyWQPe5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CUvXcr33G6sLrY_32wN2QCSRVQY=",
+                "number": 667
+            }
+        },
+        {
+            "create_time": "2019-05-18T01:51:10.282+0800",
+            "owner": {
+                "user_id": 51411481245844,
+                "name": "安一",
+                "avatar_url": "https://images.zsxq.com/FgaIT_nghToLk80YZO2Ky8ImILuV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:48ucsUT_dzDcRBeR-jQlz_Q6cvE=",
+                "number": 4460
+            }
+        },
+        {
+            "create_time": "2019-05-17T02:35:35.846+0800",
+            "owner": {
+                "user_id": 222125454121,
+                "name": "无 为",
+                "avatar_url": "https://images.zsxq.com/FnT6heMLRXhMAErIY_zhe9NTY-I7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zi10d9xO3bZJoFPMGHr4GHFtYkg=",
+                "number": 2615
+            }
+        },
+        {
+            "create_time": "2019-05-16T00:07:35.338+0800",
+            "owner": {
+                "user_id": 48418425151128,
+                "name": "小师兄",
+                "alias": "擎苍",
+                "avatar_url": "https://images.zsxq.com/Fobxp0WbFslv8YdUGiJbzcM8gaqt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Pfl_1K-TJL-VJ8dWf4MPwDZjB6s=",
+                "number": 5559
+            }
+        },
+        {
+            "create_time": "2019-05-15T08:42:19.883+0800",
+            "owner": {
+                "user_id": 512225484,
+                "name": "张萌萌",
+                "avatar_url": "https://images.zsxq.com/Fn0FXB9GTtz8zGk9s6S0SIFeq5sr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YHDoORCXM5hEGtAya3T6Krj6vq8=",
+                "number": 3996
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-14T20:43:00.639+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1900
+        },
+        {
+            "create_time": "2019-05-14T21:51:32.431+0800",
+            "owner": {
+                "user_id": 28482822224211,
+                "name": "沈小善",
+                "avatar_url": "https://images.zsxq.com/Fsmuz-CvC1byWqrD9Hc0qirzxmIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqKBYdsKKVvJI--mRFFt_WY57S0="
+            },
+            "amount": 388
+        },
+        {
+            "create_time": "2019-05-14T21:15:10.303+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "amount": 168
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548215858224244,
+            "create_time": "2019-05-14T20:29:10.744+0800",
+            "owner": {
+                "user_id": 28482822224211,
+                "name": "沈小善",
+                "avatar_url": "https://images.zsxq.com/Fsmuz-CvC1byWqrD9Hc0qirzxmIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqKBYdsKKVvJI--mRFFt_WY57S0="
+            },
+            "text": "我还想把资料搬过来呢，结果大佬在这",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241582121581481,
+            "create_time": "2019-05-14T20:43:37.272+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "看签名变化是很有意思的观察点，跟看app更新记录一样",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841582121848242,
+            "create_time": "2019-05-14T21:16:27.847+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "签名搜索是很不错的，知道了微信号，就差去加微信了（可往往没精力去主动撩这些达人）",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 548215858181154,
+            "parent_comment_id": 841582121848242,
+            "create_time": "2019-05-14T21:25:31.683+0800",
+            "owner": {
+                "user_id": 48418852845828,
+                "name": "TooBigData",
+                "alias": "Wentao",
+                "avatar_url": "https://images.zsxq.com/FlfqbZu5U2Enpr-d-kR0sVdJoQYD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L-q2J4cX_WHdEiCsgDG30f0y5Xc="
+            },
+            "text": "撩他们干啥，他们只拿粉丝当流量",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            }
+        },
+        {
+            "comment_id": 421451158115548,
+            "create_time": "2019-06-09T22:16:28.454+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "已加精华。",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 20,
+    "rewards_count": 3,
+    "comments_count": 5,
+    "reading_count": 8695,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-14T19:56:59.969+0800",
+    "modify_time": "2019-05-14T20:03:36.015+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

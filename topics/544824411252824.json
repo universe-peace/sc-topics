@@ -1,0 +1,291 @@
+{
+    "topic_id": 544824411252824,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 1148282412,
+            "name": "李晨",
+            "avatar_url": "https://images.zsxq.com/FjYVZa1Y7jJkQkWByM97ynsgBxPu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bzDEZdYqzB1ZVoIutFqNnwQxagQ="
+        },
+        "text": "在我的投资经验中有两个关键词特别重要，第一个是偏见，第二个是周期。\n\n先说偏见，我之前总结过一句话：“人们的偏见是这个社会上最大的套利机会。”投资想要赚钱就必须比大多数人判断的更加正确，当社会中大多数人在某一时刻对某一类资产有巨大偏见时，投资机会就出现了（比如数字货币，微商，整容等）。偏见这种东西我们身边其实随处可见，只要我们常留心多问多想，都能觉察。\n\n再来讲周期，周期的大局观可以帮我们更好去判断当前的趋势和方向，但是代价是需要放弃精准的位置信息。打个不恰当的比方：“不识庐山真面目，只缘身在此山中”，想看的越清楚具体细节，就越看不清方向；而想看清楚方向，就必须忍受模糊和等待。",
+        "images": [
+            {
+                "image_id": 844421148448552,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnO2ZWdbm7AhFiuKVDvq2SuimqVc?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9bl3f1Gxk5ZsU0zp5pT3yikKamg=",
+                    "width": 540,
+                    "height": 286
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnO2ZWdbm7AhFiuKVDvq2SuimqVc?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dXu6F5iice8Ow0jG9Z7wGeBQjlg=",
+                    "width": 800,
+                    "height": 424
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FnO2ZWdbm7AhFiuKVDvq2SuimqVc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ga0g12QFoJPRZMPhgO1fNDs8CAg=",
+                    "width": 1080,
+                    "height": 573,
+                    "size": 137052
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-09T18:05:53.590+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2020-02-17T12:30:59.250+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-07-01T10:35:35.635+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-06-21T22:01:21.622+0800",
+            "owner": {
+                "user_id": 28452212812821,
+                "name": "一条肠粉",
+                "alias": "长期奋斗的肠粉",
+                "avatar_url": "https://images.zsxq.com/FqZIQC9H7gvTTSBhzFMa_sSMFnMU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jf1GCHz8MfzO9JjtQX_4OzOBL2Y=",
+                "number": 4078
+            }
+        },
+        {
+            "create_time": "2019-06-21T00:26:35.100+0800",
+            "owner": {
+                "user_id": 225444441211,
+                "name": "醒着做梦",
+                "avatar_url": "https://images.zsxq.com/FkPcSgxYcRU1IwoxQdQFlwNh3CLr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_UBzdEAJ_WrSewpEoFDurR0lWw4=",
+                "number": 2887
+            }
+        },
+        {
+            "create_time": "2019-05-19T16:52:01.599+0800",
+            "owner": {
+                "user_id": 51122588144854,
+                "name": "☀Johnson🌻",
+                "avatar_url": "https://images.zsxq.com/FpE9i-yotaMHKpdlNyagbbSkZ91p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9s6xUJdlOxMXcXH6v9Uarrmqxgo=",
+                "number": 3818
+            }
+        },
+        {
+            "create_time": "2019-05-14T18:32:44.630+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-05-12T20:10:43.646+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-08T08:38:52.060+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA=",
+                "number": 3350
+            }
+        },
+        {
+            "create_time": "2019-05-05T13:54:51.645+0800",
+            "owner": {
+                "user_id": 1145214542,
+                "name": "花生",
+                "avatar_url": "https://images.zsxq.com/FtwPhln5P_PLs1-bwIs2OiP41d6Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SzphRfab155gV1n_S1f10YtAFQE=",
+                "number": 708
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-02T22:23:19.712+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1900
+        },
+        {
+            "create_time": "2019-05-06T22:25:01.569+0800",
+            "owner": {
+                "user_id": 15284111454852,
+                "name": "五点六十",
+                "avatar_url": "https://images.zsxq.com/FjFgt0oNVT_Brbj0fsQevHDDiGAB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q0gfNqS9muIDyrey4AicclHia5k="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-05-03T07:07:20.543+0800",
+            "owner": {
+                "user_id": 2212441511,
+                "name": "张五哥",
+                "alias": "张五哥",
+                "avatar_url": "https://images.zsxq.com/FgG0X9EnxRQVlX6M5uH1Ftrc3KNv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W5htuLUMsu-oyJkDnSBmlG6Sdd0="
+            },
+            "amount": 233
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 421488414582458,
+            "create_time": "2019-05-02T23:03:56.317+0800",
+            "owner": {
+                "user_id": 512581184,
+                "name": "Nanikun",
+                "avatar_url": "https://images.zsxq.com/FlcUFic9lP-69UAGAPuIxxkBS9Vq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qr81ry9y55mHXelMJiErLEa8OXE="
+            },
+            "text": "海森堡测不准原理，哈哈…",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 548211282558124,
+            "parent_comment_id": 421488414582458,
+            "create_time": "2019-05-02T23:22:46.594+0800",
+            "owner": {
+                "user_id": 1148282412,
+                "name": "李晨",
+                "avatar_url": "https://images.zsxq.com/FjYVZa1Y7jJkQkWByM97ynsgBxPu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bzDEZdYqzB1ZVoIutFqNnwQxagQ="
+            },
+            "text": "我忘记是哪个纪录片讲过的一个例子，很形象的表现这个现象，有两张台球的照片，一张是特别模糊的动图，一张是特别清晰的静态图片，而两张图的所包涵的信息大小是一样的。也就是说当我们在某一时刻获取到的有限的市场信息下，方向和细节就必须有所取舍。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 512581184,
+                "name": "Nanikun",
+                "avatar_url": "https://images.zsxq.com/FlcUFic9lP-69UAGAPuIxxkBS9Vq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qr81ry9y55mHXelMJiErLEa8OXE="
+            }
+        },
+        {
+            "comment_id": 421488418488488,
+            "create_time": "2019-05-03T07:40:38.251+0800",
+            "owner": {
+                "user_id": 2212441511,
+                "name": "张五哥",
+                "alias": "张五哥",
+                "avatar_url": "https://images.zsxq.com/FgG0X9EnxRQVlX6M5uH1Ftrc3KNv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W5htuLUMsu-oyJkDnSBmlG6Sdd0="
+            },
+            "text": "本质上细节和方向必须有所取舍和人的注意力处理能力有限有关。而细节进入注意力是自然低耗能过程，把细节拿出去是高耗能的，需要付出努力，而对投资而言为了正确方向的努力回报是巨大的。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241588518114421,
+            "create_time": "2019-05-03T11:30:54.437+0800",
+            "owner": {
+                "user_id": 825155144522,
+                "name": "阿辉（私人号）",
+                "avatar_url": "https://images.zsxq.com/FnXiH39T5WSlfz9NV1qZGvNsUrD3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IsoedOo0ZSFnUjmNvS8KwU40JW8="
+            },
+            "text": "经典",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118255281814252,
+            "create_time": "2019-05-03T13:41:53.911+0800",
+            "owner": {
+                "user_id": 225812181481,
+                "name": "maors",
+                "avatar_url": "https://images.zsxq.com/FkHEHks-O8BHOaRYTrD3WjQqbkse?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rXcIPIBHK6qaUPMJJO2_A_R7klw="
+            },
+            "text": "个人观点，投资时理解什么时候是大大低估，什么时候高了，然后耐心点就成了，这听起来很废话，谁都会说低买高卖，其实偏见，周期，黑天鹅等都在框架内，无用的才是大用",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118255552521582,
+            "create_time": "2019-05-04T16:03:53.554+0800",
+            "owner": {
+                "user_id": 5584125414,
+                "name": "王华荣",
+                "avatar_url": "https://images.zsxq.com/FhMrrd1xZ1grCN1sarnvp08jtPQ7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnGzm9ZUXZhjCb6js2LWIB9ZtbM="
+            },
+            "text": "要不是吃了周期的亏，我到现在也不理解你这段话，真是太赞[强]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 241521125414251,
+            "parent_comment_id": 118255552521582,
+            "create_time": "2019-06-09T19:07:18.825+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "什么亏？",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5584125414,
+                "name": "王华荣",
+                "avatar_url": "https://images.zsxq.com/FhMrrd1xZ1grCN1sarnvp08jtPQ7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jnGzm9ZUXZhjCb6js2LWIB9ZtbM="
+            }
+        },
+        {
+            "comment_id": 241521128251211,
+            "create_time": "2019-06-09T20:54:12.359+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "已加精华。",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 56,
+    "rewards_count": 3,
+    "comments_count": 13,
+    "reading_count": 8704,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-02T21:59:01.482+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

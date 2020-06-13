@@ -1,0 +1,299 @@
+{
+    "topic_id": 88514844184152,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 2458825181,
+            "name": "XiaoPeng",
+            "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+        },
+        "text": "交个作业。\n\n看大家强大的执行力羡慕的不要不要的。我把以前做的一个产品翻新了一下，来跟各位交个作业。老版本在<e type=\"web\" href=\"http%3A%2F%2Fcoloruml.com%2F\" title=\"Simple+Sequence\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F40dfb844e73808cded418c82e0acd8a1736039095540b05c0f78a6935569bb91\" />，翻新中的地址在<e type=\"web\" href=\"https%3A%2F%2Fmrcoder.github.io%2Fseq-studio%2F\" title=\"Color+UML+-+Simple+Sequence+Diagram\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F59c7cac8d26cd4463f05787be39cf0dac69ea3ca0ae9c42fa78b84756bdfb5bc\" /> 。这个工具的解决的问题是快速生成序列图，支持用DSL定义序列图。一提到DSL定义，做软件的同学自然会想到版本管理、协作、自动补全等一堆有想象空间的事情。相信我，这些都还是想象的。这个产品的对标产品是<e type=\"web\" href=\"https%3A%2F%2Fwww.websequencediagrams.com%2F\" title=\"WebSequenceDiagrams+-+Draw+UML+sequence+diagrams+o...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F66bfb683c5b2ae86b0efff4628109944ec21d19736fecd865d926ec55db9fa2d\" /> 。我自认为我的产品的核心功能体验比他的高一个档次。它的流程图生成不是实时的，而且它的DSL设计使得嵌套关系无法表现。\n\n借这块宝地，想看看有木有擅长推广的同学愿意跟我一起来搞一下。根据SimilarWeb的数据对标产品的访问量在130K+（日访问量？）。而我的日访问量基本上为〇。网站上线好几年了，一分钱直接现金都没有挣到。之所以这么说，是我每次找工作的时候这个网站都可以拿出来显摆显摆，似乎还是有些帮助的:)\n\n我初步想法是（纯粹拍脑门）——您主力负责推广和盈利模式设计，我负责开发和维护。网站盈利每月500美元以下的部分您拿走40%，500美元以上的您拿走50%。即便是您以后不再主动推广，只要网站还在盈利上面这个承诺维持三年，视情况延长。如果咱们合作的好，我在澳洲有一个虚拟团队，可以合作实现其他的项目。这个团队中的任何一个人我都可以拍着胸脯保证放到国内绝对是10%的程序员。不信可以打听一下ThoughtWorks在业界的口碑。至于我的信誉，在软件开发圈子大小还是有一号的，咱们可以详聊。",
+        "images": [
+            {
+                "image_id": 88514512282142,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fh6z1AoNhKeIziiQm83QlmnT38uv?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZqtS59V05U7b0ZNX9x_n2G96v7U=",
+                    "width": 320,
+                    "height": 85
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fh6z1AoNhKeIziiQm83QlmnT38uv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YgPBrc_GxG1pb0fYFLoi1tHPTHc=",
+                    "width": 493,
+                    "height": 131
+                }
+            },
+            {
+                "image_id": 28514512211551,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FuDov_kvsTYDA_I1OH-0UFq1oKG4?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I6xsy-SMyjLxx2K3aUAG_BiwQG8=",
+                    "width": 320,
+                    "height": 239
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FuDov_kvsTYDA_I1OH-0UFq1oKG4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fzc7xPogxrxfvOdOB79AlerCySI=",
+                    "width": 356,
+                    "height": 266
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T21:23:38.862+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-01T00:05:07.399+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-05T12:41:37.250+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-29T15:13:48.557+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-06-05T19:41:37.620+0800",
+            "owner": {
+                "user_id": 458554212588,
+                "name": "凯凯刘",
+                "avatar_url": "https://images.zsxq.com/FtwDacbm9ltFN9wO_yEB9bVYFdds?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4C8ufI1Qg8z3LFG7TGmWlOyydkU=",
+                "number": 98
+            }
+        },
+        {
+            "create_time": "2017-06-05T08:53:19.416+0800",
+            "owner": {
+                "user_id": 142584581582,
+                "name": "小王子♛修行僧◉‿◉",
+                "avatar_url": "https://images.zsxq.com/Fp3-bvUfAtRDs6GPOGhwM40XhTQq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ESLW_LTN1c_-8zgPasuZrToqRUM=",
+                "number": 678
+            }
+        },
+        {
+            "create_time": "2017-06-05T08:23:59.150+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-06-05T06:31:07.932+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I=",
+                "number": 662
+            }
+        },
+        {
+            "create_time": "2017-06-04T23:56:16.217+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ=",
+                "number": 347
+            }
+        },
+        {
+            "create_time": "2017-06-04T23:21:22.593+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人",
+                "number": 2
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-04T21:04:42.169+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28514152551151,
+            "create_time": "2017-06-04T20:35:38.446+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "如果你不熟悉我设计的DSL，你可以试试：<e type=\"web\" href=\"https%3A%2F%2Fmrcoder.github.io%2Fseq-studio%2F%23%21%23%252Fview%252FStudentService.exists%28name%29%2520%257B%250A%2520%2520result%2520%3D%2520StudentRepository.search%28name%29%250A%257D\" title=\"Color+UML+-+Simple+Sequence+Diagram\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2Fb2eea3290f00bbcc448915a0362d7414ea4fb664386659117ee5d98bcd49c960\" />",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48412145451128,
+            "create_time": "2017-06-04T21:04:20.320+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "看来是个技术大牛啊，推广大牛快来撩",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88514152815452,
+            "create_time": "2017-06-04T21:47:18.394+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "看了竞争对手的数据，月访问量130k, 平均每天4000访客，保守估计下每天1500访客。 \n\n其中43%是老访客，7%是外链访客，15%来自于社交分享网站，33%来自搜索引擎。\n\n赚钱是通过增值服务来收费，价格还不低，对于个人，10美元/24小时，15美元/月，120美元/年。 对于公司的增值服务，699刀起步，最高3499刀。 \n\n按照1%的转化率来算（这种垂直网站，应该不止这个转化率）如果最低的10刀每客单价，那么每天的收入约150美元收入，每个月是4500美元。（实际上，大概率是远超过这个值）\n\n基于上面的分析，以及你们有完全复制对方产品甚至更好体验的能力，你们网站有非常大的机会赚到1000美元甚至更好的收入。 \n\n现在要解决的核心问题，流量从哪里来？\n\n再回顾下对方的流量来源\n\n其中43%是老访客，7%是外链访客，15%来自于社交分享网站，33%来自搜索引擎\n\n其中老访客+外链访客+社交分享是会留下足迹的，也就是说你们有可能拿下竞争对手67%的客户。（基于你们的产品本身没问题）\n\n怎么做？ \n\n1. 看下图，twitter上约几千个人分享和转发了这个网站，这些人会是你们导入的第一波流量，挨个联系伺候好，用免费来拉人，满足需求打磨产品。 \n\n2. 同样的，在facebook，Instagram等社交平台，重复和twitter一样的工作。 \n\n3. 找到之前评测过竞争对手的网站，请求对方评测你的。 \n\n做完上面三步，应该会有还可以的流量激励你们记住运作。 \n\n接着往下，开始分析关键词\n\n竞争随手排名靠前的关键词，以及你这个产品可能会被收到的关键词，找到之后两个策略\n\n1. 围绕关键词写文章，发到你的网站上面去，开始做长期seo。\n2. 在社交网站搜索这些关键词，同样的，找到提到这些关键词的用户，沟通交流。\n\n\n再往下，应该你的产品打磨以及转化的漏斗打磨已经很不错的了，开始投放Adwords广告和其他广告平台。 \n\n我看好这个网站，一个月做到1万刀的机会大。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "images": [
+                {
+                    "image_id": 51284285811814,
+                    "type": "jpg",
+                    "thumbnail": {
+                        "url": "https://images.zsxq.com/FqN1v1YDZmcaVeh3GhdUMlSO-Rak?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7IU7xhqVPj1QklTNy0pfcTRKlzc=",
+                        "width": 320,
+                        "height": 443
+                    },
+                    "large": {
+                        "url": "https://images.zsxq.com/FqN1v1YDZmcaVeh3GhdUMlSO-Rak?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:miCuh9DmjA1zRUJ23uwLmn-zdcE=",
+                        "width": 800,
+                        "height": 1108
+                    },
+                    "original": {
+                        "url": "https://images.zsxq.com/FqN1v1YDZmcaVeh3GhdUMlSO-Rak?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nZg6BPkUdzpa1j-qzwGmrqWlPJY=",
+                        "width": 1155,
+                        "height": 1600,
+                        "size": 220487
+                    }
+                }
+            ]
+        },
+        {
+            "comment_id": 88514152244582,
+            "create_time": "2017-06-04T22:11:14.968+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "谢谢圈主鼓励，寥寥数语对我确实醍醐灌顶。致未来合作者：我完全认可推广本身的技术价值和工作量；同时对自己的技术和该产品进化的方向也有信心。这个产品我思考很久了，主要是回报太低没有投入更多精力。体验上超过竞争对手是完全可行的，只是一个投入问题。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15281821522182,
+            "create_time": "2017-06-05T00:54:50.469+0800",
+            "owner": {
+                "user_id": 15284284212522,
+                "name": "智华",
+                "avatar_url": "https://images.zsxq.com/FmFuh7OcVphdQl01cUvyXuF8nk5h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NM1mWyiTXGn6Azac5ZcyoLq0BvQ="
+            },
+            "text": "推广大牛可以顺便带带我吗，我想参与",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28514154128221,
+            "parent_comment_id": 15281821522182,
+            "create_time": "2017-06-05T09:32:37.542+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "自我介绍一下呗。我猜那些大牛们也是挑学生的😄",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 15284284212522,
+                "name": "智华",
+                "avatar_url": "https://images.zsxq.com/FmFuh7OcVphdQl01cUvyXuF8nk5h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NM1mWyiTXGn6Azac5ZcyoLq0BvQ="
+            }
+        },
+        {
+            "comment_id": 15281855488252,
+            "create_time": "2017-06-05T14:10:11.459+0800",
+            "owner": {
+                "user_id": 228212841281,
+                "name": "胡克",
+                "avatar_url": "https://images.zsxq.com/FqP-NQMdhdbrgaGDyzD4fjwJJGpz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rxO4L-ZLmS4X0ecYPBYNP0c_ypk="
+            },
+            "text": "以前画uml用emacs ditaa，以后可以试试你这个😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51284815825814,
+            "parent_comment_id": 15281821522182,
+            "create_time": "2017-06-05T19:32:13.623+0800",
+            "owner": {
+                "user_id": 15284284212522,
+                "name": "智华",
+                "avatar_url": "https://images.zsxq.com/FmFuh7OcVphdQl01cUvyXuF8nk5h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NM1mWyiTXGn6Azac5ZcyoLq0BvQ="
+            },
+            "text": "90年深大毕业生，iOS2年，平安金融科技工作。见识还浅，希望能跟大牛们一起学习一下。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            }
+        }
+    ],
+    "likes_count": 14,
+    "rewards_count": 1,
+    "comments_count": 9,
+    "reading_count": 1848,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-04T20:33:18.604+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

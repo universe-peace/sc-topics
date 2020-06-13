@@ -1,0 +1,134 @@
+{
+    "topic_id": 48412142155128,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 141112188812,
+            "name": "归途无痕",
+            "avatar_url": "https://images.zsxq.com/Fgmt7t2CLx0yOCadoxA-fxVexKvE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:l7bAJcTnbxTqLjALvig9x9hE2eE="
+        },
+        "text": "因为投放Google adwords广告要做前期市场调研，研究了下谷歌的全球商机洞察工具（Google Global Market Finder）。\n简单说下他的优缺点，并希望抛砖引玉，想知道是否有更好的市场调查工具。\n这个工具的作用：\n了解产品在全球各国，各语言的搜索量。这样可以初步了解自己产品在全球的需求分布情况\n用法很简单：\n选择国家，语言（一般选择英语），输入产品关键词，选择想要了解的区域（美洲，欧洲，亚洲，中东等）。\n结果会给出这个区域的具体国家产品搜索量/每月，这个国家的各语言的产品搜索量/月，推荐出价，商机和竞争程度。\n优点：用法简单，比较方便，很快能知道产品在全球的需求分布情况。\n缺点：1.数据不充分，它的数据和keywords planner中的数据是一样的（仅限Google，不包括Google合作伙伴），但很多国家的搜索量没有体现，提示是搜索量小，但发现有些搜索量大的也没有出来；\n2.多语言翻译不是很准确。所以除了自己本身输入的关键词语言类型，其他语言搜索量仅供参考。\n\n当然，有个笨方法，可以在Google keywords planner中一个个查询统计，但效率太低。大家是否有更好办法，工具或者思路？"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-08-04T11:02:55.875+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-05T20:01:49.352+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-06-19T17:33:29.563+0800",
+            "owner": {
+                "user_id": 8444812522,
+                "name": "叶袂",
+                "alias": "叶袂",
+                "avatar_url": "https://images.zsxq.com/FkAWQRIilwakpaY458LpopFxhjnn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0uOTpoUFHqSAM3Nl67bsdcWNw6A=",
+                "number": 710
+            }
+        },
+        {
+            "create_time": "2017-06-14T07:23:41.456+0800",
+            "owner": {
+                "user_id": 15285285114152,
+                "name": "世界大同·地球村",
+                "avatar_url": "https://images.zsxq.com/FnL6byfiacrEj0OoeqviMhzym1or?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qo__IE6Eal2ohA7MyaM11C-oDWQ=",
+                "number": 958
+            }
+        },
+        {
+            "create_time": "2017-06-12T07:50:48.326+0800",
+            "owner": {
+                "user_id": 552525185824,
+                "name": "〽薛智洋",
+                "avatar_url": "https://images.zsxq.com/FloxAc7Wo7I6uODKCkGnJ8N-nfdZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W6n9GBhKEljzBJinwRK8H6PD0q0=",
+                "number": 313
+            }
+        },
+        {
+            "create_time": "2017-06-12T01:35:35.560+0800",
+            "owner": {
+                "user_id": 5444418284,
+                "name": "Endeavour",
+                "avatar_url": "https://images.zsxq.com/FreDsZ_xF5OmI8-Vo4asLQXntq5k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9PcBJR30yL_clhelSfcjuai42s=",
+                "number": 579
+            }
+        },
+        {
+            "create_time": "2017-06-11T21:40:22.604+0800",
+            "owner": {
+                "user_id": 511255414,
+                "name": "小白- 厦门",
+                "avatar_url": "https://images.zsxq.com/FqYlTcBvyQwXIsuVTEWovddLCiEY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e_1sa_NCZUrQf0NoCTy2NU67rMU=",
+                "number": 506
+            }
+        },
+        {
+            "create_time": "2017-06-11T17:21:50.971+0800",
+            "owner": {
+                "user_id": 15284585888122,
+                "name": "Xinxin",
+                "avatar_url": "https://images.zsxq.com/FmfbrcG7fI_9KYSifFsPLDglaqtY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5vSc_dPCBuQysYtCoacx0kob74Y=",
+                "number": 1121
+            }
+        },
+        {
+            "create_time": "2017-06-11T17:14:57.102+0800",
+            "owner": {
+                "user_id": 551815824114,
+                "name": "昨日今朝",
+                "alias": "星期八0372",
+                "avatar_url": "https://images.zsxq.com/Frf5i-LLFCwQitgzeL2bWlze9Gnj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Jbh_0Q7GP1097rJGs4_-3WGK_m8=",
+                "number": 479
+            }
+        },
+        {
+            "create_time": "2017-06-11T14:59:52.171+0800",
+            "owner": {
+                "user_id": 281144524111,
+                "name": "heha37",
+                "avatar_url": "https://images.zsxq.com/FkIVrMY9t2n9Kq97blOVdkxSVGyF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAoQWHiItKfH7zIZAgFtwvVaOyM=",
+                "number": 1099
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-11T12:30:34.052+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1794
+        }
+    ],
+    "likes_count": 14,
+    "rewards_count": 1,
+    "comments_count": 0,
+    "reading_count": 2104,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-11T10:33:02.711+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

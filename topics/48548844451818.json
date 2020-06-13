@@ -1,0 +1,238 @@
+{
+    "topic_id": 48548844451818,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 48811524811558,
+            "name": "chi",
+            "avatar_url": "https://images.zsxq.com/FihkO7vgAUkc0Wtbw85F2Rm2lK9R?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J49XOFtQNNfE66a969Q0N5HN2lc="
+        },
+        "text": "大家好，我是Chi, 程序员，坐标厦门。我比较晚加入圈子，但圈子里的精华我都拜读了，感谢圈里各位大牛的启蒙。\n\n我想给大家分享一下我们两年的经历。两年前，我组了一个小团队，核心4个人。我们小号自强，接了一些外包项目，期货实时行情的APP，保险电商平台，海淘APP等。这些项目大部分都是兼职状态下周末无休完成的。\n\n外包项目的磕绊就不说了，从入门到放弃，好在尾款都拿了，项目收入百万左右。攒了些代码和钱，我们开始做自己的主项目：Java Web组件商店。基本的思路是，用户选择预置组件，比如CMS，WIKI，产品，订单等，然后一键下载解决方案的可执行文件。\n\n我们从底层自建框架，计划开发电商，论坛，CMS，文档管理等解决方案，以及连接一些SAAS服务。虽然全力推了6个月，有50个组件出来，官网能跑通流程，但每个方案的完成度都差强人意，拿不出来。\n\n我给朋友演示，讲组件结构，基于微服务，组件可分离部署，CMS基于draftjs的数据结构等等。他说用什么做的，他干嘛关心。我才意识到我们一直以研发在驱动产品设计，想对标离线版的WIX，却不能提供有效的解决方案。\n\n去年12月，最后一次发薪，心情沉重的不能自已。我们到底没挣扎到全职。\n\n今年团队没散，但也很难再推进这个大项目了。我们做了一个挑战技术栈的小程序，然后才发现产品和运营都都好难，这个小程序，我们做了技术更新订阅通知（类似微博），做了课程，在反复的否定自己的过程中，现在只剩笔试题和不完善的面试题了，推广过程也是，我以为QQ群可以引流，但操作起来完全不是那么回事。\n\n朋友推荐了这个圈子，让我受益良多，现在想做一个项目，必要条件就是要想好怎么赚到10块钱。因为有组件平台的基础，我们一版一个小项目比较快，今年会继续做一些短线项目。\n\n我微信：sited-io，欢迎勾搭"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-06-20T12:56:06.595+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T23:51:44.953+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-27T17:14:24.691+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-26T23:22:29.499+0800",
+            "owner": {
+                "user_id": 828214481252,
+                "name": "中雨",
+                "avatar_url": "https://images.zsxq.com/FoY3OFZp9ZcP2Lm2ndcwIYFClsG5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t2dZsf_zeIsx2k3a_AN42EyGCg8=",
+                "number": 832
+            }
+        },
+        {
+            "create_time": "2019-04-21T14:33:59.329+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-04-19T23:34:53.095+0800",
+            "owner": {
+                "user_id": 458552218828,
+                "name": "應",
+                "avatar_url": "https://images.zsxq.com/Fg3oGRKmlkjOGyAfhicYVTWE_Awu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNQSbZ7VoiF8WFxM99LB_ZwdOhM=",
+                "number": 1864
+            }
+        },
+        {
+            "create_time": "2018-04-19T11:24:13.396+0800",
+            "owner": {
+                "user_id": 555542184224,
+                "name": "ZK🍃",
+                "avatar_url": "https://images.zsxq.com/FgeeJPa-8CxqCduMghU0DP_mw6x7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yuhGS0kBsXKp1QNDmO_8k8nd3KM=",
+                "number": 1793
+            }
+        },
+        {
+            "create_time": "2018-04-19T09:58:48.854+0800",
+            "owner": {
+                "user_id": 5811284144,
+                "name": "帮盟很努力",
+                "avatar_url": "https://images.zsxq.com/FsiRM234wyqtVYTWmvAgsmkVUs03?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Jt8RtWUFQOUtcF3EOzXNX_H0lEw=",
+                "number": 1949
+            }
+        },
+        {
+            "create_time": "2018-04-19T00:26:15.487+0800",
+            "owner": {
+                "user_id": 88514821451842,
+                "name": "陈海虾",
+                "avatar_url": "https://images.zsxq.com/Fq0fx-Xl1P8p6Fjpo7M83lrGh7Co?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8yjFkBnczbzSUQjKg-gYwuqlBQc=",
+                "number": 1814
+            }
+        },
+        {
+            "create_time": "2018-04-18T23:51:30.334+0800",
+            "owner": {
+                "user_id": 51544851224244,
+                "name": "小姜",
+                "avatar_url": "https://images.zsxq.com/FkOp8a7Bax2YUEGnoWGRr-4R9zg9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LjmTBMg2soCynVeFL4gwnkqWwk4=",
+                "number": 1576
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 15412145828442,
+            "create_time": "2018-03-29T23:59:05.789+0800",
+            "owner": {
+                "user_id": 15288581814882,
+                "name": "jammey",
+                "avatar_url": "https://images.zsxq.com/FnYPtpyK81irmaRwvfPBLGOw1kgI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B9uL2x4lEq-l_hLp9NcP2_kxwlU="
+            },
+            "text": "市场没找对。8年前我就有朋友做这类平台，后来他们弄官网，弄视频，教程，发博客园。接了不少研究所的项目。这类项目都要求技术先进，有自主知识产权。目前的你可以尝试走来源路线，说不定可以死而复生。但是教程和社群维护是的复杂问题",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 88245422552512,
+            "parent_comment_id": 15412145828442,
+            "create_time": "2018-03-30T00:33:49.783+0800",
+            "owner": {
+                "user_id": 48811524811558,
+                "name": "chi",
+                "avatar_url": "https://images.zsxq.com/FihkO7vgAUkc0Wtbw85F2Rm2lK9R?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J49XOFtQNNfE66a969Q0N5HN2lc="
+            },
+            "text": "我们申请了一个发明专利，公示阶段，开源好不甘心啊",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 15288581814882,
+                "name": "jammey",
+                "avatar_url": "https://images.zsxq.com/FnYPtpyK81irmaRwvfPBLGOw1kgI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B9uL2x4lEq-l_hLp9NcP2_kxwlU="
+            }
+        },
+        {
+            "comment_id": 15412144482582,
+            "create_time": "2018-03-30T07:55:27.690+0800",
+            "owner": {
+                "user_id": 551212815554,
+                "name": "Demi",
+                "avatar_url": "https://images.zsxq.com/Fuh8vGq9QEfiyjj_voEHW7qUdctJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yic5UcThP9_kDAQqjq6CRaa5qC4="
+            },
+            "text": "小程序可以开发插件，你可以考虑考虑",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51542485258484,
+            "create_time": "2018-03-31T04:22:24.802+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "能用普通话说是干嘛的吗？没有明白",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15412822114552,
+            "parent_comment_id": 15412145828442,
+            "create_time": "2018-03-31T13:24:39.272+0800",
+            "owner": {
+                "user_id": 15288581814882,
+                "name": "jammey",
+                "avatar_url": "https://images.zsxq.com/FnYPtpyK81irmaRwvfPBLGOw1kgI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B9uL2x4lEq-l_hLp9NcP2_kxwlU="
+            },
+            "text": "发明专利也不是那么值钱，目前这类产品最好的出路也就是开源了。毕竟在国内做软件产品，还是要依靠资本和资源",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 48811524811558,
+                "name": "chi",
+                "avatar_url": "https://images.zsxq.com/FihkO7vgAUkc0Wtbw85F2Rm2lK9R?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J49XOFtQNNfE66a969Q0N5HN2lc="
+            }
+        },
+        {
+            "comment_id": 48528415821148,
+            "create_time": "2018-04-02T20:11:07.874+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "同是程序员理解你的心情。但是这个市场非常不明朗，大公司大概率会用开源或者自己写，小公司更是能不花钱就不花钱。我们之前用过一个CSV解析器，前前后后付出去上百万（按拷贝支付），后来还是自己重写了。不是付不起钱，主要是等不及对方修bug😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51541285182514,
+            "create_time": "2018-04-02T20:14:09.571+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "我自己在开发www.zenuml.com 一个小工具，其实是你的潜在客户。按理说我是不应该自己去处理支付、用户管理这些功能的，可是真让我去购买一个平台，我还是不会的。一方面舍不得花钱，毕竟还没盈利；另一方面，也不想被绑定。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88248884845582,
+            "parent_comment_id": 51541285182514,
+            "create_time": "2018-04-03T19:28:06.018+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU="
+            },
+            "text": "说得对",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            }
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 0,
+    "comments_count": 11,
+    "reading_count": 4569,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-03-29T22:44:28.337+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

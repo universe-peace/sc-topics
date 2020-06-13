@@ -1,0 +1,333 @@
+{
+    "topic_id": 544442114212544,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"2421248841\" title=\"%23%E8%BD%BB%E4%BA%AB%23\" /> \n\n每周一，我将邀请一位身怀绝技的圈友小伙伴，分享TA行走江湖的独门绝招，谓之<e type=\"hashtag\" hid=\"2421248841\" title=\"%23%E8%BD%BB%E4%BA%AB%23\" /> 。\n\n今天，我邀请的是圈友<e type=\"mention\" uid=\"1181151452\" title=\"@三林\" />  ，他是一个产品人。我想，每一个产品经理，包括三林，都对<e type=\"mention\" uid=\"788251827\" title=\"@Fenng\" />  和<e type=\"mention\" uid=\"718888852\" title=\"@邱岳\" />  团队的抽奖助手这样一款产品有兴趣仔细研究研究，抽奖助手做了哪些产品和运营动作，使得这样一款小小的产品，可以脱颖而出，获得5000万用户，并能够在用户体验与商业变现上找到一个平衡点？\n\n你应该跟我一样，期待一个复盘，没有官方的复盘，民间复盘亦不错。\n\n接下来，我们跟着<e type=\"mention\" uid=\"1181151452\" title=\"@三林\" />  的视角，来一起“拆解”下抽奖助手5000万用户的起源。\n\n以下为<e type=\"hashtag\" hid=\"2421248841\" title=\"%23%E8%BD%BB%E4%BA%AB%23\" /> 内容，enjoy！ \n\n感谢@亦仁 的邀请，参与「生财有术」社群的「轻享」栏目。\n\n以我的产品经历、技能树来分享一期？受宠若惊。经过一整天的脑海盘旋，我把目标定在了「抽奖助手」，因为我很欣赏这款产品。作为「抽奖助手」的深度用户，我参与了 170+ 抽奖，发起了 17 次，有效中奖 3 次 - -，其中最走运的中奖是 <e type=\"mention\" uid=\"718888852\" title=\"@邱岳\" />  二爷（抽奖助手产品负责人@邱岳）发起的一次福利，这个意义不一样~\n\n本文，我是以一个产品从业者和抽奖助手深度用户的角度，来分享下我所看到的『抽奖助手』的产品改进、产品设计观等。\n\n产品诞生：自身需求出发，以及小程序的机遇\n\n「你说你原本要做医疗搜索的，怎么就跑去做小程序了呢？」—— Fenng 老师的说法是：微博上的抽奖不熟练、难用，于是自己做一个呗（大意）；抽奖助手一周年时公众号文章披露：「最初的想法起因于我们要帮朋友个小忙，而最后我们从中获得了产品的灵感。我们心怀感激」\n\n产品从自身需求出发，创业的 idea 萌生也跟过往经历有关，但最终能否开出花来，则看能否把这个萌芽idea，经过『互联网产品创业之路』孕育出来了。\n\n于我的经历是，在 2016 年底曾经设计过一款「年会产品」，其中就有一个「抽奖模块」，而当时市面上的年会产品，抽奖的玩法是在电脑网页上抽，投影仪投屏到幕布上展示抽奖过程，相信读此文的你也应该在年会现场感受过。 那时因公司和钉钉开放平台合作，恰逢年会季，为服务其企业用户，钉钉招募服务商来开发年会工具：彼时的年会产品有互动大屏幕、摇一摇拔河、互动抽奖等各式玩法。于是乎，我们最终上线是 钉钉 APP的内嵌的 H5 产品……可 2017 年 1 月小程序上线时，也尝试过把产品搬到微信里，可也只是把这种传统的玩法直接移植罢了，未曾深入想过其中的一个子模块产品——抽奖，居然能玩出如今『抽奖助手』产品？\n\n抽奖助手是一款什么产品？\n\n先概述一下，\n\n她是一款工具产品：公平公正的抽奖工具，又天然因随机感带来的趣味性。\n\n她也成长为一款平台级产品：玩法多样化，具有微信生态里不可忽视的连接力量。\n\n她是小程序这个新生平台的典范产品，足够的创新，把「抽奖」这个事情做的很优雅漂亮：产品设计看起来极简，但别有洞天。\n\n她自带网络效应，用户在使用过程中自带产品增长，发展成近 6000 万用户的小程序产品；通过开奖结果通知，有效进行用户召回；产品研发紧随微信小程序研发团队的脚步，这不「小程序-简称」的用法也一马当先！\n\n她已形成了品牌认知：微信里抽奖工具就选抽奖助手 —— 喜提九千万粉丝的建行公众号了解一下。\n\n她应该收入不菲，依赖巨大流量下的小程序广告收益、付费的产品增值服务（高级版）。\n\n她应该也有自己的苦恼，面对海量用户，「道路千万条，安全第一条，内容不规范，产品两行泪」。工具虽无罪，但如灰产骗局、无信任背书的抽奖，也在损耗平台的用户利益，被忽悠被骗的用户归咎于平台的案例我想并不鲜见。\n……\n\n这是现在的抽奖助手的成就、现状，工具产品的平台之路，是怎么走出来的呢？\n\n公平公正的抽奖，营销玩法多但不花哨\n\n抽奖 的产品模型，类似于从一堆数据里，通过某个条件，来选出一个或多个「幸运星」。这个数据源即抽取的对象是参与者，给参与者设限，抽奖助手做了：\n\n给活跃用户的专属福利：抽奖条件是参与次数大于 50 的用户可参与抽奖。\n给本地商户的营销利器：抽奖人必须在「杭州」。\n给公众号的互动、营销：抽奖必须在某个时间点关注了公众号。\n……\n\n而这个产品的抽奖条件，唯有『随机』，准确的来讲是「对单个参与者随机」。\n\n组队抽奖 会增加「单人中奖概率」吗？并不会，组队抽奖无非是 N 选 1，变成了 N 选 M。奖品是让发起者承担的多份。\n\n自抽奖助手 火了后，我们还见过其他基于抽奖的变种玩法\n\n「集赞抽奖」：邀请越多的用户，中奖概率越高。\n「组团抽奖」：给予团长特殊待遇，鼓励人发起、去传播，——更像「拼团」。\n\n可这样的集赞、组团，都是破坏开奖公正性的，比如发起人会想，若这个人是灰产，岂不是被他薅去了羊毛？那么发起人用户选择抽奖产品时就会犹豫。此时，平台会默许，其更在乎眼前的流量，而非关心这个产品能做多长久。这时，坐拥 9000万粉丝的中国建设银行公众号的运营负责人在调研推文里用哪个抽奖小程序时，微微一笑地选中了『抽奖助手』。我想公平、公正是这个游戏的核心产品价值观，我们想做长远生意，那就认准了带给用户的核心价值。\n\n不止是抽奖工具，更塑造你的品牌\n\n如同 微信公众号的Slogan：再小的个体，也有自己的品牌。我想，用户喜欢抽奖的源动力，参与者是收获物质与中奖成锦鲤的喜悦感，而发起者的动力是为了与他的「粉丝」互动，办一场营销活动时使用这个工具来决定奖品的归属。\n\n这种发福利吸引用户参与，让用户记起自己，刷存在感的行为，本质上是为『打造品牌』而活动。那抽奖助手，又为助力用户打造品牌，做了哪些事情呢？\n\n1）先看品牌介绍，才能看到抽奖按钮\n\n站在发起人的角度，想要参与者看到的内容，固然是除了奖品本身外，最想让用户看到的。进入抽奖详情页，如果想满足参与者用户参与抽奖的快感，那常见的做法是底部悬浮按钮【立即抽奖】，而抽奖助手的做法是先看发起人介绍、点击跳转到品牌主小程序、图文介绍后，页面底部才有一个【参与抽奖】。\n\n2）利用「抽奖口令」巧妙的实现引流\n\n抽奖助手的「抽奖口令」，同样是为了满足私域流量，不是见着有份就能参与，而需要做点什么，得到口令，比如加发起者微信，或关注公众号，回复关键词得到「抽奖口令」，这个玩法就很好的带动了发起者的流量获取。\n\n3）一直在追求更好地跟公众号连接\n\n老板是主业创业，业余写公众号（反过来说貌似也成立，这就是冯大厉害之处了 txtx ），老板的需求不能不照顾是不，抽奖助手小程序跟公众号的联动，是至始至终都在追求的，一开始因微信的限制，做不好嵌入公众号文章里的体验，这个一直放在「分享给朋友」的复制小程序链接，基本上也是只关联了几个公众号的人才能用上。后来，小程序变了：公众号绑定小程序，即不需要申请关联和允许授权，也无上限，这才把「公开分享 - 嵌入到公众号文章」这个产品点以一个很不错的设计出现。 （附图）\n\n而花费很大的研发投入，去做的『公众号主给粉丝的专属福利功能』，则更见花了很大心思。 这些产品，尽管投入不小，但这个功能的意义是重大的，小程序跟公众号的共生关系，公众号的运营主选择抽奖助手来为粉丝发福利，轻巧的运营、省时省心。\n\n增长之道，小程序新平台的机遇\n\n抽奖产品，做成 APP 能这么畅行在 微信 吗？H5 产品能吸纳住用户吗？首先使用体验就不是一个次元。\n我认为小程序平台带来了新的机遇，而抽奖助手的研发团队紧密的跟住了，并且做的很出色。\n\n产品先做 工具：简单、好用，用户还会再回来的；再做 社区，用户来了，需要消费内容，首页的『公共抽奖』就是为黏住你的第一步准备的，「大爷，来了别走喂！」，流量不浪费且为品牌主提供了曝光。\n\n小程序分享\n\n本身，这是一款具有网络效应的产品：达成抽奖需要更多的人参与。 用户发起了抽奖，下一步就是喊人来参与呀，此时小程序的分享体验：卡片的文案和配图留心过没？ 生成的二维码图片信息传递到位不、美观度怎么样？ 还能植入公众号推文？ —— 产品用心之处均在细节。\n\n开奖的模板消息用户召回\n\n无论是哪一种开奖方式，只要这个满足开奖条件了，提醒用户「 XXX 发起的抽奖正在开奖，点击查看中奖名单」，这是克制不住的想要点开看看，是的，必须点进来才能看到开奖哦。 小程序的模板消息，发送的要求很高、给予用户的拒收方式也很明显，但这个是天然的召回用户的好方法。 —— 很抱歉，鲜有产品学的来。\n\n与时俱进的运营\n\n我记得，当支付宝掀起了一股锦鲤风的时候，抽奖助手小程序的分享文案变成了：锦鲤。摇身一变，让每一条锦鲤都找到归宿，而各个领域的公众号跟进做锦鲤活动时，又再一次带动了抽奖小程序的增长。 双十一前夕，那些仿冒的「天猫福利官」，一长串的福利名单，尽管活动是假，但又带动来一波用户增长，和相应的投诉，这也是喜中有泪啊。\n\n产品本身有传播特性，但产品运营是增长的驱动力，诸如每一次品牌合作的共同增长，背后的沟通谈判等，很多运营上使的力气我们外界并不可知。你知道抽奖助手的哪些增长窍门，也来评论区分享分享吧~\n\n理性算法之外的情感化设计\n\n聊到现在，抽奖是一个很理性的事情，但产品研发团队做的却非常的文艺！ 哎呀，第一次看到我没中奖时，却赠送了我一段《燃情岁月》的电影台词，骚到我了！ 备受鼓舞，准备接受下一次的不中奖。\n\n『皮一下』抽一个人，「给你三个真心话」、「抽个人组队吃鸡」、「帮我取快递」、「和我一起吃饭」等等，这些温情、有爱的设计，即提升产品的用户好感、又实现了产品增长，一举N得！\n\n给其他小程序团队的启示\n\n一个优秀的研发团队、紧跟平台研发步伐；深入探讨一下可能性：比如和公众号的结合，这是我看到「抽奖助手」团队的用心之处。\n在 抽奖助手 上能看到一些新东西，也是我们产品人值得关注的行业变化。比如打开详情页时，左上角的小房子，回到首页。\n产品是不断迭代出来的，为满足年会开奖的需求，从17年产品伊始的「现场开奖」的一种开奖方式，到了18年的年会季的『年会抽奖』整套产品，罗马非一日建成，过程刻骨铭心。\n产品的商业化探索，创造收入、再投入资源把产品做好，才是可持续发展。\n……\n你来讲讲？\n\n后记\n\n作为产品人，感谢微信提供的小程序平台，也感谢抽奖助手研发团队的投入的创造力，使用一个体验很好的工具，是一件愉悦的事情。 当然了，我要吐槽抽奖助手的是，首页「自助福利」里面，三无产品的微商太多啦！\n\n诚然，评价 Fenng 老师 和 二爷 的产品、亲儿子，我始终只是旁观者，如有不当之处，还望海涵。希望阅读此文的您有所启发，同咱们星球的朋友多多交流。\n\n文/三林\n\n自我介绍下，我是三林，产品人，从业 6 年，做过在线教育、电商产品，目前在研究短视频内容行业，微信ID sasiky。",
+        "images": [
+            {
+                "image_id": 15115422588552,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fjt_o-5RtCS-6NSTJzqtJR7Dox1N?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZIGuucuZuzCz1wENdXZtfUMyh6c=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fjt_o-5RtCS-6NSTJzqtJR7Dox1N?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BIZ_r6ZgN496akLvCNjfAFp3pYw=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 48228544811888,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ftn69S-NBJf2egtl3-GeY2OghJWL?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyPzTqjjmQ3Dr0RSQF8yx8lwV6g=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ftn69S-NBJf2egtl3-GeY2OghJWL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5GADEFcN-zv8VGlaJr0mfivX02k=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 48228544811828,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fjugfy4ZDz9skU6uTzCWgBPtOGcq?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EagD-cWF4NMMe1uFQt9DY_VFRVY=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fjugfy4ZDz9skU6uTzCWgBPtOGcq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AJT7aVxrW9xf7OmSB6EdHeO93lk=",
+                    "width": 450,
+                    "height": 800
+                }
+            },
+            {
+                "image_id": 51441522188144,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fpug_6GPTWXKnOWvRJREdycN5OuZ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ciM-Q7W3NgKE9mxEhGxDO04YJjM=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fpug_6GPTWXKnOWvRJREdycN5OuZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yVSOk1U7bxtIlWcQIwgC6DHOikU=",
+                    "width": 450,
+                    "height": 800
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-10T22:09:38.984+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-12-09T00:51:07.552+0800",
+            "owner": {
+                "user_id": 88214125888252,
+                "name": "荔枝小一萌",
+                "avatar_url": "https://images.zsxq.com/FhlCVRdrm704WvF0MSDb7gVjILZ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cvFyOyCG5vLhgwYIG9T2oL4mPAs=",
+                "number": 4015
+            }
+        },
+        {
+            "create_time": "2019-10-14T09:51:07.948+0800",
+            "owner": {
+                "user_id": 144845522882,
+                "name": "Amy大米",
+                "avatar_url": "https://images.zsxq.com/FuNzxVhkpp6OSFEkpeOpXHg-MoOx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FO_IXySOzDtEMnb6p20Q7nlr4UI=",
+                "number": 6173
+            }
+        },
+        {
+            "create_time": "2019-09-06T20:10:35.757+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-06-06T14:47:43.932+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-05-30T07:47:25.305+0800",
+            "owner": {
+                "user_id": 118228155811852,
+                "name": "亚光",
+                "avatar_url": "https://images.zsxq.com/FkrRZHKkUYMQbY8ft_OYTwpYHmKz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HFeVw4W0EN5i-VYS3VkrfP6_tXM=",
+                "number": 5705
+            }
+        },
+        {
+            "create_time": "2019-05-11T23:26:18.793+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-05-03T17:10:12.451+0800",
+            "owner": {
+                "user_id": 1122444152,
+                "name": "Moby",
+                "avatar_url": "https://images.zsxq.com/FqIVmDBi7vwDIzXHRNl5gFxmuf5e?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bAk2Pypf5w8wyHmOhynUGBChDyQ=",
+                "number": 3367
+            }
+        },
+        {
+            "create_time": "2019-05-03T14:12:29.766+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-22T00:58:50.957+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-02-27T01:25:42.627+0800",
+            "owner": {
+                "user_id": 8485225152,
+                "name": "卡卡龙",
+                "avatar_url": "https://images.zsxq.com/FpgoztRWRGOnRcfxQwr0OEIZF3f_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5n7tQCtUU_LjY5bK5dbn0nbNF9w="
+            },
+            "amount": 999
+        },
+        {
+            "create_time": "2019-02-26T10:33:28.937+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "amount": 233
+        },
+        {
+            "create_time": "2019-02-26T09:03:57.587+0800",
+            "owner": {
+                "user_id": 454554528888,
+                "name": "Fork",
+                "avatar_url": "https://images.zsxq.com/Fl3Lygug1FY-Ei-WCmV3iDUusQor?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mMTTFiWWsq7c486qGn3MjNX3q2k="
+            },
+            "amount": 188
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 544841421555124,
+            "create_time": "2019-02-26T00:35:20.395+0800",
+            "owner": {
+                "user_id": 718888852,
+                "name": "邱岳",
+                "avatar_url": "https://images.zsxq.com/FoI360DP6NFQaU7o_yNfMd6aekwh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p0Zn3gzVf-XR2Q2BYDeHIg-VFw4=",
+                "description": "十年资深产品人 、无码科技联合创始人，无码科技旗下抽奖助手、Readhub等产品累计用户数过亿"
+            },
+            "text": "谢谢三林，谢谢亦仁[爱心][爱心]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 544841421558244,
+            "parent_comment_id": 544841421555124,
+            "create_time": "2019-02-26T00:42:40.653+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "班门弄斧啦😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 718888852,
+                "name": "邱岳",
+                "avatar_url": "https://images.zsxq.com/FoI360DP6NFQaU7o_yNfMd6aekwh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p0Zn3gzVf-XR2Q2BYDeHIg-VFw4=",
+                "description": "十年资深产品人 、无码科技联合创始人，无码科技旗下抽奖助手、Readhub等产品累计用户数过亿"
+            }
+        },
+        {
+            "comment_id": 111815125154252,
+            "create_time": "2019-02-26T00:57:18.993+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "感谢亦仁和生财有术。 <e type=\"mention\" uid=\"827828127\" title=\"@wulujia\" /> 给吴老师提需求：咱们不追求图文混排了，可以做但没必要。可以考虑一下把编辑器做些基础样式吧，最好直接支持 MarkDown[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 844148454212842,
+            "parent_comment_id": 111815125154252,
+            "create_time": "2019-02-26T07:12:26.057+0800",
+            "owner": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            },
+            "text": "网页版有图文混排了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            }
+        },
+        {
+            "comment_id": 111815121884442,
+            "create_time": "2019-02-26T08:21:01.757+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "谢谢分享，赞！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 544841428151484,
+            "create_time": "2019-02-26T09:04:18.453+0800",
+            "owner": {
+                "user_id": 454554528888,
+                "name": "Fork",
+                "avatar_url": "https://images.zsxq.com/Fl3Lygug1FY-Ei-WCmV3iDUusQor?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mMTTFiWWsq7c486qGn3MjNX3q2k="
+            },
+            "text": "感谢分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 244148484511181,
+            "parent_comment_id": 111815125154252,
+            "create_time": "2019-02-26T13:15:07.818+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "收到，看到了“文章”入口，或许可以考虑增加一个小红点或者new ，我平常用网页版比较多，未曾注意到了这点[尴尬]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人"
+            }
+        },
+        {
+            "comment_id": 111815142258882,
+            "create_time": "2019-02-26T17:20:39.322+0800",
+            "owner": {
+                "user_id": 15515125484212,
+                "name": "凌风",
+                "avatar_url": "https://images.zsxq.com/FnxPHth_anEYYA14zWMrGntcg1dE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cRsTcpT_GUDT0nyuZPMJDpFWcPc="
+            },
+            "text": "[强]优秀的",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 43,
+    "rewards_count": 3,
+    "comments_count": 11,
+    "reading_count": 20413,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-02-26T00:06:54.545+0800",
+    "modify_time": "2019-02-26T00:10:46.263+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

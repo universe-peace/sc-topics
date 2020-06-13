@@ -1,0 +1,271 @@
+{
+    "topic_id": 555214258424,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5585188244,
+            "name": "猿哥",
+            "alias": "崔广斌",
+            "avatar_url": "https://images.zsxq.com/FoxXa8GW1bMawSmSZS9K1HpO54El?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GMlsYWcRlPVZWmFTDu1EgtLVPl4="
+        },
+        "text": "分享一个我的工具案例：长微博 www.changweibo.com。\n\n2010年在运营一个微博账号时，发现发超过140字的微博很不方便，分开多条发的话，粉丝看到时可能中间夹杂着其它微博，即使没有其它微博，先后顺序也会有问题。当时有些微博运营者会发Word截图内容，但图片宽度超过440像素时会被压缩，需要点击查看原图才能看清楚。\n\n当时就想做一个文字转图片工具，给自己用，也可以给其他微博用户使用。 第一个版本，仅支持纯文本的文字转图片功能，当时对PHP开发还不熟悉，一边学PHP一边写代码，大概花了3天时间做出了第一个可用版本。 \n\n做出来后需要考虑推广，考虑到使用者的粉丝都能看到长微博图片内容，当时就在每张图片底部增加了一个签名：“本图由文字转图片工具长微博 changweibo.com 生成”。 另外，就是通过微博搜索抱怨140限制的用户，给他们评论，推荐他们使用长微博。到后来，一些大V用户如方舟子、李开复、汪峰等也成为了长微博的用户。 \n\n在changweibo.com 上放了Google Adsense广告，有一些收入。 不过更多收入来自 vip.changweibo.com ， vip.changweibo.com 的一个核心功能是可以隐藏免费版的底部签名并且可以自定义底部签名。 \n\n再后来，微博不限制字数了，changweibo.com流量有一定的降低。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-12-06T09:44:21.644+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-12-02T02:35:21.065+0800",
+            "owner": {
+                "user_id": 28258158451581,
+                "name": "佳友",
+                "avatar_url": "https://images.zsxq.com/Fr6ukr6nFthuqLBh2Ifc8wyr_I6n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jQisYy-4ejkacJy_3xtUDFZRIe0=",
+                "number": 5389
+            }
+        },
+        {
+            "create_time": "2019-11-07T17:23:27.489+0800",
+            "owner": {
+                "user_id": 51521428424224,
+                "name": "wuyajun",
+                "avatar_url": "https://images.zsxq.com/FobiLaz1mIUlhhgmqCdptf72yPKD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BjIxT76DjG1jG3EC2aeanmsI5Ow=",
+                "number": 5280
+            }
+        },
+        {
+            "create_time": "2019-08-18T23:00:52.382+0800",
+            "owner": {
+                "user_id": 28888184228151,
+                "name": "周钦松",
+                "avatar_url": "https://images.zsxq.com/FqVmlGayTr287kg0UABQ1zeYP6mg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wL9JTacrzUHBBw9MrONSP9sqtEU=",
+                "number": 6101
+            }
+        },
+        {
+            "create_time": "2019-08-09T19:25:51.732+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T10:10:49.168+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-27T23:19:18.330+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-22T12:40:31.397+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-04T17:00:52.078+0800",
+            "owner": {
+                "user_id": 145542212822,
+                "name": "电商阿旺",
+                "avatar_url": "https://images.zsxq.com/FuffL5ixJnSYfIoL6fetRQZmjC89?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SCn_2sOw_NcqhCL6D9JuOBq16f8=",
+                "number": 3809
+            }
+        },
+        {
+            "create_time": "2019-05-01T15:21:58.701+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-27T22:35:33.281+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 500
+        },
+        {
+            "create_time": "2017-03-27T22:29:48.099+0800",
+            "owner": {
+                "user_id": 454815545828,
+                "name": "刘大猫",
+                "avatar_url": "https://images.zsxq.com/FmhOdumpmpE1Wf9OPsqigVouuokJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XMXOBwTgUdwfTTiXwGnAWZaH55I="
+            },
+            "amount": 180
+        },
+        {
+            "create_time": "2017-03-28T07:06:45.957+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            },
+            "amount": 288
+        },
+        {
+            "create_time": "2017-03-27T22:53:48.156+0800",
+            "owner": {
+                "user_id": 881851885882,
+                "name": "🌰Shadow",
+                "avatar_url": "https://images.zsxq.com/Fh4Ewf4crJns8MLy57iqeUC0UdWZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BM60aiaQCilf4PTL_WE0Wv61WO0="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 145412541422,
+            "create_time": "2017-03-27T22:29:22.223+0800",
+            "owner": {
+                "user_id": 4254442428,
+                "name": "sophie",
+                "avatar_url": "https://images.zsxq.com/FjP0Paokw7T4OGXMD11kh8N_sPOz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:go92ir34G8L8pkW6jLwmzxK47tc="
+            },
+            "text": "域名也不错啊，三拼",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 551542154524,
+            "create_time": "2017-03-27T22:29:29.382+0800",
+            "owner": {
+                "user_id": 454815545828,
+                "name": "刘大猫",
+                "avatar_url": "https://images.zsxq.com/FmhOdumpmpE1Wf9OPsqigVouuokJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XMXOBwTgUdwfTTiXwGnAWZaH55I="
+            },
+            "text": "厉害厉害，当年你的用户！ 我当时看你做了这个以后，还抢注了域名changboke.com 哈哈",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458524824888,
+            "parent_comment_id": 145412541422,
+            "create_time": "2017-03-27T22:36:59.059+0800",
+            "owner": {
+                "user_id": 5585188244,
+                "name": "猿哥",
+                "alias": "崔广斌",
+                "avatar_url": "https://images.zsxq.com/FoxXa8GW1bMawSmSZS9K1HpO54El?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GMlsYWcRlPVZWmFTDu1EgtLVPl4="
+            },
+            "text": "长微博的名字我起的😄 所以注册了 changweibo.com这个域名。最开始想用「长围脖」的，不过发现微博昵称已被占用，就使用「长微博」这个名字了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4254442428,
+                "name": "sophie",
+                "avatar_url": "https://images.zsxq.com/FjP0Paokw7T4OGXMD11kh8N_sPOz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:go92ir34G8L8pkW6jLwmzxK47tc="
+            }
+        },
+        {
+            "comment_id": 458524822148,
+            "create_time": "2017-03-27T22:49:30.006+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "10年就开始做了，老司机呀～",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145412185522,
+            "create_time": "2017-03-28T01:27:23.239+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34="
+            },
+            "text": "一边学PHP一边写，有目的果然执行力强😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145412821582,
+            "create_time": "2017-03-28T06:29:10.548+0800",
+            "owner": {
+                "user_id": 152822452,
+                "name": "beta",
+                "avatar_url": "https://images.zsxq.com/FnNDKvp4B_7tOwuFh_vLRqIR9Ub6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2bbaK8HEW1zlHNNQ1Fmtul9DGPk="
+            },
+            "text": "老司机😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551542812114,
+            "create_time": "2017-03-28T07:04:27.929+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            },
+            "text": "执行力强，需求变产品",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828242181452,
+            "create_time": "2017-03-28T10:54:39.296+0800",
+            "owner": {
+                "user_id": 825155151822,
+                "name": "今晚打老虎",
+                "avatar_url": "https://images.zsxq.com/Fk0m5Y3Oc1pTmHJKu3tZXjnPlg6C?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9QPkefpN3sp6BmT6hLqcwZ7TqC4="
+            },
+            "text": "能否分享一下Vip的转化率大概多少？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 49,
+    "rewards_count": 4,
+    "comments_count": 9,
+    "reading_count": 2146,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-27T22:26:24.083+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

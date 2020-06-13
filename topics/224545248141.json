@@ -1,0 +1,262 @@
+{
+    "topic_id": 224545248141,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 2455214221,
+            "name": "朱凯阳",
+            "avatar_url": "https://images.zsxq.com/FkoDVFuidtuialzmr97OSwHnfTDM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jPRS5GxcEUdCkEJFccSWc25T5bY="
+        },
+        "text": "小程序开放第三方授权开发\n不久以后公众号们一定会标配 菜单栏+小程序，来延伸自己的内容/服务。\n这里最起码提供了10亿以上的第三方平台市场空间，从H5体验不好而未被实现，但又存在刚需或者价值提升点的角度考虑，\n只谈线上流量，有几个大的方向\n大家补充一下：\n1.自媒体的内容管理小程序，文字/图片音频/视频\n2.以小密圈为代表的连接粉丝的工具\n3.粉丝间的交流交友娱乐玩法，比如按照地理位置分组   \n4.类似于兑吧，用于提高粉丝活跃的积分商城 \n5.活动和报名列表后台  \n6.课程/讲座小程序  \n7.直播/电台等深度连接粉丝的小程序\n（未来会开放） \n8.某种流量变现小程序  \n 求补充😉"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-26T21:37:41.544+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-10T17:58:12.057+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-29T01:32:33.440+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-01T11:35:27.845+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-05-01T11:48:22.982+0800",
+            "owner": {
+                "user_id": 48418841242248,
+                "name": "大空翼",
+                "avatar_url": "https://images.zsxq.com/FsPyyQGBqXzLXRb0m1E214hYfYtj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3PsGSmyxnXT18-aoObPcQ4NsS4Y=",
+                "number": 962
+            }
+        },
+        {
+            "create_time": "2017-04-24T09:57:53.692+0800",
+            "owner": {
+                "user_id": 458554212588,
+                "name": "凯凯刘",
+                "avatar_url": "https://images.zsxq.com/FtwDacbm9ltFN9wO_yEB9bVYFdds?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4C8ufI1Qg8z3LFG7TGmWlOyydkU=",
+                "number": 98
+            }
+        },
+        {
+            "create_time": "2017-04-21T14:39:29.076+0800",
+            "owner": {
+                "user_id": 828841128882,
+                "name": "慕",
+                "avatar_url": "https://images.zsxq.com/Fr-JIaHkgRg2GoZmISSPrWaxgrB1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Xp28vu7tbWH0GpQFkrviD5OI2k=",
+                "number": 638
+            }
+        },
+        {
+            "create_time": "2017-04-19T00:16:42.091+0800",
+            "owner": {
+                "user_id": 8212444512,
+                "name": "小张",
+                "avatar_url": "https://images.zsxq.com/Fm3MYlxS7VsXXYc4mg2ZaFrswcxp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YGbM522qe-rYoZ44mZDEOgeoATk=",
+                "number": 734
+            }
+        },
+        {
+            "create_time": "2017-04-18T12:14:31.613+0800",
+            "owner": {
+                "user_id": 748544487,
+                "name": "风笛",
+                "avatar_url": "https://images.zsxq.com/Fqxv2faRz5_Vel8f5PXUOTTusYX9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MfE6_IOU_My1-aLO0WD5G9SXOYI=",
+                "number": 888
+            }
+        },
+        {
+            "create_time": "2017-04-18T12:00:52.764+0800",
+            "owner": {
+                "user_id": 825844448222,
+                "name": "乔",
+                "avatar_url": "https://images.zsxq.com/FgIm1OyygJ1YLIEpuaLN2UghF7xK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TlbHs0SfuLMukCMl53wY_gRi52c=",
+                "number": 380
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-18T02:29:37.116+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 455242212548,
+            "create_time": "2017-04-18T02:31:20.185+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "仍然是我之前的观点： 订阅号+小程序，大部分创业者的最佳组合，不要考虑其他的了。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 222454414241,
+            "create_time": "2017-04-18T02:35:25.855+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "在做第一点和第六点，第四点非常敏锐，第八点我估计小程序还会进一步开放开发者的变现能力。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 555424841584,
+            "create_time": "2017-04-18T06:43:36.999+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s="
+            },
+            "text": "比较全面了，方向标",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 144128252412,
+            "create_time": "2017-04-18T08:23:19.340+0800",
+            "owner": {
+                "user_id": 2455214221,
+                "name": "朱凯阳",
+                "avatar_url": "https://images.zsxq.com/FkoDVFuidtuialzmr97OSwHnfTDM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jPRS5GxcEUdCkEJFccSWc25T5bY="
+            },
+            "text": "公司可能会做自媒体视频内容管理小程序（小程序的视频浏览体验简直一流），有没有相关资源（pgc工作室or草根视频大号）的兄弟，可以合作一下",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 144128252152,
+            "parent_comment_id": 455242212548,
+            "create_time": "2017-04-18T08:23:56.561+0800",
+            "owner": {
+                "user_id": 2455214221,
+                "name": "朱凯阳",
+                "avatar_url": "https://images.zsxq.com/FkoDVFuidtuialzmr97OSwHnfTDM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jPRS5GxcEUdCkEJFccSWc25T5bY="
+            },
+            "text": "第三方开发服务，是最稳妥的创业模式",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 222451885441,
+            "parent_comment_id": 144128252412,
+            "create_time": "2017-04-18T09:27:08.801+0800",
+            "owner": {
+                "user_id": 1481142222,
+                "name": "Owen",
+                "avatar_url": "https://images.zsxq.com/Fley1eU5JT4csz3LKmfWGbW202yt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1zkpUc0qcQduF7QguLdZcoCJFMg="
+            },
+            "text": "PGC视频供应商，可以加微信聊一下",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2455214221,
+                "name": "朱凯阳",
+                "avatar_url": "https://images.zsxq.com/FkoDVFuidtuialzmr97OSwHnfTDM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jPRS5GxcEUdCkEJFccSWc25T5bY="
+            }
+        },
+        {
+            "comment_id": 822451288142,
+            "parent_comment_id": 455242212548,
+            "create_time": "2017-04-18T10:37:32.748+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "绝对同意",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 222451288141,
+            "create_time": "2017-04-18T10:37:49.278+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我能说是采纳了我的建议么",
+            "likes_count": 6,
+            "rewards_count": 0,
+            "replies_count": 2
+        }
+    ],
+    "likes_count": 20,
+    "rewards_count": 1,
+    "comments_count": 12,
+    "reading_count": 2229,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-18T02:27:34.369+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

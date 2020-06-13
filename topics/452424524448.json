@@ -1,0 +1,222 @@
+{
+    "topic_id": 452424524448,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "q&a",
+    "question": {
+        "owner": {
+            "user_id": 481182845448,
+            "name": "坚果",
+            "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+        },
+        "questionee": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "请问老大对我说的那个翻译国外优质播客内容的项目转化有什么好的建议么？我能想到的就是付费收听，或者免费收听加线下培训的模式，还有其他好的可能么？之所以现在问这个问题是因为我觉得内容创业一开始就要设计好盈利模式，否则做到后面让人付费更不容易呢。",
+        "fee": {
+            "amount": 8800
+        },
+        "expired": true,
+        "anonymous": false
+    },
+    "answer": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "提供几个具体建议供参考\n\n1. 版权问题。 我建议先找一篇你觉得很火的国外播客，翻译成中文，发布到你的公众号上，或者其他渠道上，尝试一切办法去推广这篇文章，如果不火，那么可能你的传播能力还不够，或者内容并不吸引人，这种情况下，暂且先放弃或者试一篇其他的。 如果文章火，那么去找老外联系要所有内容授权，或者付一部分费用，将内容翻译成中文。 \n2. 产品化与自动化。 在传播和版权问题解决了的情况下，找技术帮你实现整个过程的自动化或者产品化，也就是说找到一个英文的语音转文字服务，并外包找人将文章翻译成中文。 \n3. 盈利模式。 如果通过一些文章赢得了信任和口碑，那么通过付费和赞赏可能是个好的盈利模式，或者做相关虚拟产品的推荐获取推荐佣金。 我并不太看好这种非人格化的公众号建立信任的效率。 \n\n所以综上，先行动起来，不要考虑版权，不要考虑自动化，不要考虑盈利，找一篇你认为最可能火的博客翻译成文章，在各个可能渠道去推广这篇文章，走完这个精益测试后再说。"
+    },
+    "answered": true,
+    "latest_likes": [
+        {
+            "create_time": "2020-02-20T18:24:35.463+0800",
+            "owner": {
+                "user_id": 145818542812,
+                "name": "刘依帆",
+                "avatar_url": "https://images.zsxq.com/FgkFOrm3Bu2UnW3NOCE4B5zpsUoD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pyMukp-FaKETFzpbpT9db3TPTRE=",
+                "number": 5178
+            }
+        },
+        {
+            "create_time": "2019-08-10T18:01:56.619+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-29T01:04:40.936+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-30T12:24:36.161+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-18T20:27:03.497+0800",
+            "owner": {
+                "user_id": 552444214114,
+                "name": "aWangWangz",
+                "avatar_url": "https://images.zsxq.com/FnTgCuJfzkCez4LapFew7lVU9rG4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VIHENfv82ip4EyB148gzBZ6XKh0=",
+                "number": 3058
+            }
+        },
+        {
+            "create_time": "2017-04-23T15:33:46.226+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-04-21T13:00:18.884+0800",
+            "owner": {
+                "user_id": 158422118152,
+                "name": "雨果僧",
+                "avatar_url": "https://images.zsxq.com/Fj2FoYI5HYO8lOSdkldoLezc9GwZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B3pkhIYP3vOJzR5FeLSOoD7kd-Q=",
+                "number": 349
+            }
+        },
+        {
+            "create_time": "2017-04-21T08:58:56.623+0800",
+            "owner": {
+                "user_id": 142584421522,
+                "name": "安达",
+                "avatar_url": "https://images.zsxq.com/FgMt3y6P5gmcun9iHVxWNBmlPO5r?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9eWZiPHPG2PD3wq7jhotGiBqsxI=",
+                "number": 208
+            }
+        },
+        {
+            "create_time": "2017-04-20T00:15:44.795+0800",
+            "owner": {
+                "user_id": 828214481252,
+                "name": "中雨",
+                "avatar_url": "https://images.zsxq.com/FoY3OFZp9ZcP2Lm2ndcwIYFClsG5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t2dZsf_zeIsx2k3a_AN42EyGCg8=",
+                "number": 832
+            }
+        },
+        {
+            "create_time": "2017-04-18T12:54:57.369+0800",
+            "owner": {
+                "user_id": 458151815848,
+                "name": "HBLong",
+                "avatar_url": "https://images.zsxq.com/FtHW4BA8SG66wnNJMmvMzmuhCm2z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xHezB_X7_cLGyA5GrlNuKLd7Zhg=",
+                "number": 533
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-18T07:41:04.920+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34="
+            },
+            "amount": 600
+        },
+        {
+            "create_time": "2017-04-18T02:27:22.637+0800",
+            "owner": {
+                "user_id": 481182845448,
+                "name": "坚果",
+                "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+            },
+            "amount": 20000
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 455242212888,
+            "create_time": "2017-04-18T02:24:15.162+0800",
+            "owner": {
+                "user_id": 481182845448,
+                "name": "坚果",
+                "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+            },
+            "text": "感谢老大指点，明白了！人格化这点尤其是我自己内心选择性忽视的点。坚持修炼自身内心，先做搬运工试一试！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 144155815512,
+            "parent_comment_id": 455242212888,
+            "create_time": "2017-04-18T16:19:18.095+0800",
+            "owner": {
+                "user_id": 458445825518,
+                "name": "执",
+                "avatar_url": "https://images.zsxq.com/FnT3cQE3q4t5sIG74KAbVz3wZtGx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3MnwSISGM3L0hfeKIOEIemOXUDE="
+            },
+            "text": "我感觉你可能没有明白亦仁所说的人格化的意思。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481182845448,
+                "name": "坚果",
+                "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+            }
+        },
+        {
+            "comment_id": 548112184221244,
+            "create_time": "2019-08-10T18:03:32.032+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw="
+            },
+            "text": "赞，赞，赞",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421851851884828,
+            "create_time": "2019-09-20T14:50:11.798+0800",
+            "owner": {
+                "user_id": 51512882521154,
+                "name": "入海",
+                "avatar_url": "https://images.zsxq.com/FkPiPCWecZD8EjWr9XiBSnk0I0pL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oHqwshqQDoarJ52zD1WYQxX6lVM="
+            },
+            "text": "人格化就是现在的KOC",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 18,
+    "rewards_count": 2,
+    "comments_count": 4,
+    "reading_count": 2209,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-18T02:16:44.966+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

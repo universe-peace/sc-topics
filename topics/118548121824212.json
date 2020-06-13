@@ -1,0 +1,278 @@
+{
+    "topic_id": 118548121824212,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "听朋友说了个案例，之前淘宝的生意参谋是提供具体数据的，后面不知道出于什么原因，将所有具体数据都指数化了，卖家查看数据没以前那么方便。\n\n后来有人做了个浏览器插件，可以将这些指数再逆向拆成具体的数据，提供给商家做分析和调研，就这么一个小小的工具，吸引了几十万卖家粉丝。",
+        "images": [
+            {
+                "image_id": 118288548824852,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fla3lpNKnNTgAvtaRNaA-GRyDHnw?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uXH4-BhH1HD_XADjDAnwxXitX-M=",
+                    "width": 540,
+                    "height": 1169
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fla3lpNKnNTgAvtaRNaA-GRyDHnw?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PZcSSu1qqEbkz8vGhyEASniBahc=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fla3lpNKnNTgAvtaRNaA-GRyDHnw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qmL5bLS2aCoJ1tkmwAZZbDbDex0=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 597011
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-08T21:24:48.888+0800",
+            "owner": {
+                "user_id": 48881485452888,
+                "name": "Elisze",
+                "avatar_url": "https://images.zsxq.com/FgPkbTTzcu88bJXWf3tgF9FyUXeq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GGUHIWka8ej9WiWYeX70Qutpqi0=",
+                "number": 3813
+            }
+        },
+        {
+            "create_time": "2020-04-07T21:42:22.985+0800",
+            "owner": {
+                "user_id": 51112445188154,
+                "name": "linkr",
+                "avatar_url": "https://images.zsxq.com/FvbvDu_WERCyEoonr2bGELNCpMOR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qau1C7A9tQxY2g-ZcyqqyJB9adA=",
+                "number": 3240
+            }
+        },
+        {
+            "create_time": "2020-03-22T16:23:05.929+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2020-03-21T01:07:05.062+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow=",
+                "number": 2827
+            }
+        },
+        {
+            "create_time": "2020-03-20T23:04:57.308+0800",
+            "owner": {
+                "user_id": 48881582841418,
+                "name": "疯魔盖子",
+                "alias": "疯魔盖子",
+                "avatar_url": "https://images.zsxq.com/FjHz8bdM7bLxJPrK5xwD1iYLpygW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:npoh5tBjlohu8EAjim58wLdVcew=",
+                "number": 4514
+            }
+        },
+        {
+            "create_time": "2020-03-20T22:44:58.172+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2020-03-20T20:43:59.428+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic=",
+                "number": 153
+            }
+        },
+        {
+            "create_time": "2020-03-20T16:06:56.508+0800",
+            "owner": {
+                "user_id": 551812844444,
+                "name": "thyme",
+                "avatar_url": "https://images.zsxq.com/FujLEcfSdcoBAsUtRDKj5eTiKdHJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8mXRrD_FFByr08HDchgllYZAQ8s=",
+                "number": 893
+            }
+        },
+        {
+            "create_time": "2020-03-20T09:10:20.881+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2020-03-20T07:58:26.383+0800",
+            "owner": {
+                "user_id": 454855218288,
+                "name": "三树",
+                "avatar_url": "https://images.zsxq.com/FkXYjflaTYGjW6tMR-Rhpi6I0ewm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zj0rATegn2WaAhscvz9lgGDTBiw=",
+                "number": 3984
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-04-03T01:54:02.706+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk="
+            },
+            "amount": 94
+        },
+        {
+            "create_time": "2020-03-31T21:59:39.713+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 94
+        },
+        {
+            "create_time": "2020-03-20T23:05:21.464+0800",
+            "owner": {
+                "user_id": 48881582841418,
+                "name": "疯魔盖子",
+                "alias": "疯魔盖子",
+                "avatar_url": "https://images.zsxq.com/FjHz8bdM7bLxJPrK5xwD1iYLpygW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:npoh5tBjlohu8EAjim58wLdVcew="
+            },
+            "amount": 103
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 215551154558441,
+            "create_time": "2020-03-19T17:17:49.608+0800",
+            "owner": {
+                "user_id": 28242185842851,
+                "name": "拥抱太阳@电商",
+                "avatar_url": "https://images.zsxq.com/FoHfuHxSz1wGtMuWaP-RZzq6XPn2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WCegD6G-9PA5yTUmXvhdegDOE3c="
+            },
+            "text": "阿明工具",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 414441142445488,
+            "create_time": "2020-03-19T17:18:39.679+0800",
+            "owner": {
+                "user_id": 844182252245522,
+                "name": "白家石头铺 愿彼此温*",
+                "avatar_url": "https://images.zsxq.com/FrRIHXJqXZ4ymMoy-6uu91uUNwMR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RV5gZtjtC5JSl-t_rkNSEcObSGE="
+            },
+            "text": "微商如果有类似工具就好了，很想记录买家要求，生日等个性化细节都比较需要",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 414441142442588,
+            "create_time": "2020-03-19T17:20:00.877+0800",
+            "owner": {
+                "user_id": 15548542452182,
+                "name": "经天真",
+                "alias": "经天真",
+                "avatar_url": "https://images.zsxq.com/Fle0UctMp9FFRGWna9DQeknP4p-T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PBMmQ1ugIPuN-qmNKDVT3mPIKjI="
+            },
+            "text": "赞，当时确实是个痛点",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 582228824212424,
+            "create_time": "2020-03-19T17:22:35.717+0800",
+            "owner": {
+                "user_id": 225818424521,
+                "name": "毛文.红牛",
+                "avatar_url": "https://images.zsxq.com/FnfD728dgRpMYJxI8BRhO1jQ5VEZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ijso7r7qqRGFM7GsVfs-ItbJqys="
+            },
+            "text": "你们不知道有dianchacha.com的吗？店查查浏览器插件",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 182228821255552,
+            "create_time": "2020-03-19T17:23:52.296+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "小而美。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 215551154524811,
+            "create_time": "2020-03-19T17:31:44.900+0800",
+            "owner": {
+                "user_id": 481818124818,
+                "name": "Javinlee",
+                "alias": "Javinlee",
+                "avatar_url": "https://images.zsxq.com/Fu_lS-DvdTKEWaFwLrGQ3j9UnShW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PAmlR4eioOTQked8CXnYiL7CB0E="
+            },
+            "text": "有赞 微盟没有吗",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 582214118542284,
+            "create_time": "2020-03-19T20:12:19.206+0800",
+            "owner": {
+                "user_id": 15422254824122,
+                "name": "可燃冰Tia",
+                "avatar_url": "https://images.zsxq.com/FignABcYdj0LRvpm7qw0bEqfGVzt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-gLVpNO8HCkZT7FLsVIcts7EKUg="
+            },
+            "text": "小旺神？",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 215584881411541,
+            "create_time": "2020-03-19T20:39:02.035+0800",
+            "owner": {
+                "user_id": 8455121512,
+                "name": "小马哥xy50465*",
+                "avatar_url": "https://images.zsxq.com/FnSpsYWfsioFti_fmS6SylkWNPuP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0C9R9XGkXj5LgqBrRK_Rghiii4o="
+            },
+            "text": "是叫什么名字啊",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 34,
+    "rewards_count": 3,
+    "comments_count": 15,
+    "reading_count": 15998,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-03-19T17:16:36.686+0800",
+    "modify_time": "2020-03-19T17:17:42.419+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

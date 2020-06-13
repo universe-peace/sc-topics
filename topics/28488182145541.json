@@ -1,0 +1,192 @@
+{
+    "topic_id": 28488182145541,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 2488248441,
+            "name": "小小",
+            "alias": "01",
+            "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n前几天由于比较忙没有在圈里更新案例，假期这几天会补上。\n\n今天要分享的是一个“提供匿名手机号码”的案例，盈利能力在500美元/月（2016.11）。记得咱们圈子里分享过很多生成国外身份信息的网站，帮你生成名字地址电话什么的，主要用来注册非国区AppleID以及其他一些国外网站。但那种提供的电话号码只是一个假的号码，实际是不能用的。今天的案例SMS Privacy就是提供一个可用的手机号码，用户可以用来接收验证码注册各类网站，匿名注册（无需Email）、匿名支付（使用比特币）。\n\n用户购买手机号码需要按月付费，可以免费接收短信，但是发短信要收费。提供两种手机号码，一种Virtual numbers，使用第三方提供商的接口实现，价格较低，但是会屏蔽验证码短信。还有一种是作者自己实现的Physical numbers，使用安卓手机和短信转发APP实现，价格较高。\n\n想法&MVP&启动：\n\n2016年8月，作者对网络匿名产生了兴趣，他想在网上使用一个无法被追踪的假身份，而且他想让这个身份看起来跟一个真实的人一样。他试用了TOR：<e type=\"web\" href=\"https%3A%2F%2Fwww.torproject.org\" title=\"https%3A%2F%2Fwww.torproject.org\" />，搞了一个假名和一些信息，然而因为没有一个匿名的电话号码，很多网络帐号都不能注册，所以他开始制作SMS Privacy。\n\n作者做了一半的时候，才想起来验证一下这个想法，他问了很多TOR的用户，反馈很积极，这让他有信心继续做下去。MVP（Most Viable Product）非常简单，只是一个连接了短信接口的用户操作界面，无需使用Email地址，使用比特币付款。\n\n但作者很快发现，很多短信服务提供商都会屏蔽类似“Your Google verification code is 123456”这样的验证码短信。所以他用了廉价的安卓手机和SIM卡，写了一个可以把短信转发到服务器的APP，就实现了自己的短信服务（Physical numbers），但需要他人工更换SIM卡。而鉴于短信接口（Virtual numbers）在某些场景下仍然可用，他也提供了这个方案供用户选择，因为这个方案更便宜。\n\n作者在 reddit的比特币子版块 发布了这个服务，1天之内有3个用户付费，而且引起了一些讨论。在接下来的几天也有一些用户注册，但是很快就归于平静了，尽管如此，作者知道这个产品成功了，用户需要它。\n\n流量概况：\n\n目前SMS Privacy网站的流量不足5000UV/月（2018.6-2018.8均值），32%的流量来自reddit Privacy子版块的一个帖子：<e type=\"web\" href=\"https%3A%2F%2Fwww.reddit.com%2Fr%2Fprivacy%2Fcomments%2F6f2fss%2Fis_there_any_service_that_gives_virtual_phone%2F\" title=\"https%3A%2F%2Fwww.reddit.com%2Fr%2Fprivacy%2Fcomments%2F6f2fss%2Fi...\" />，另30%流量来自搜索引擎，关键词为主题相关长尾词。\n\n小黑评论：\n\n作者的解决方案看起来并不“美观”，短信接口（Virtual numbers）有缺陷，而真实手机（Physical numbers）则需要他每天人工完成更换SIM卡的工作，随着用户的增加这个工作量也会增加，而且用户需要等他人工换卡后才能看到短信内容。尽管如此，这个项目却是作者3年来第一个赚到钱的业余项目，不得不让人感慨创业维艰呀。\n\n乐观地看，还有诸如USB猫、树莓派等可能的优化方案。而YC创始人Paul Graham也写过<e type=\"web\" href=\"http%3A%2F%2Fpaulgraham.com%2Fds.html\" title=\"Do+Things+that+Don%27t+Scale\" cache=\"\" />\n\n产品名称：SMS Privacy\n发布时间：2016.9\n运营渠道：<e type=\"web\" href=\"https%3A%2F%2Fsmsprivacy.org\" title=\"Anonymous+Bitcoin+phone+numbers+-+SMS+Privacy\" cache=\"\" />\n盈利方式：手机号码按月收费；发短信收费，收短信免费。\n盈利能力：500美元/月（2016.11）\n作者：James Stanley，博客：<e type=\"web\" href=\"http%3A%2F%2Fincoherency.co.uk%2F\" title=\"http%3A%2F%2Fincoherency.co.uk%2F\" />\n扩展阅读：<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fbuilding-maintaining-growing-an-anonymous-sms-business-d513aa2e6c\" title=\"Building%2C+Maintaining%2C+Growing+an+Anonymous+SMS+Bu...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-16T20:02:54.712+0800",
+            "owner": {
+                "user_id": 2488212121,
+                "name": "李笨笨",
+                "avatar_url": "https://images.zsxq.com/FhFbHcnVIDxjnJ1-TjFxpXnLNo_T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vGG2UconwVT2493R9vPSwx0Dbug=",
+                "number": 3412
+            }
+        },
+        {
+            "create_time": "2019-05-09T19:35:38.884+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T16:31:41.100+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-20T12:27:58.573+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-10-26T20:38:32.152+0800",
+            "owner": {
+                "user_id": 5418451184,
+                "name": "Kevin",
+                "avatar_url": "https://images.zsxq.com/Fqt-vriLjQdF1rDsBuj3Mddk05e3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zDlNOES1auuSs0Xnn0McelAz4P8=",
+                "number": 1743
+            }
+        },
+        {
+            "create_time": "2018-10-26T12:11:54.614+0800",
+            "owner": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc=",
+                "number": 1324
+            }
+        },
+        {
+            "create_time": "2018-10-25T23:11:25.877+0800",
+            "owner": {
+                "user_id": 458552218828,
+                "name": "應",
+                "avatar_url": "https://images.zsxq.com/Fg3oGRKmlkjOGyAfhicYVTWE_Awu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNQSbZ7VoiF8WFxM99LB_ZwdOhM=",
+                "number": 1864
+            }
+        },
+        {
+            "create_time": "2018-10-10T19:27:24.642+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4=",
+                "number": 283
+            }
+        },
+        {
+            "create_time": "2018-10-10T08:43:36.705+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k=",
+                "number": 1574
+            }
+        },
+        {
+            "create_time": "2018-10-09T13:34:55.237+0800",
+            "owner": {
+                "user_id": 881884418122,
+                "name": "亿元",
+                "alias": "七天",
+                "avatar_url": "https://images.zsxq.com/FlayYJqmvbb55vbVdJgqaIi_8ra1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2HUq68V6KGu_F7vN3YKwmynFB3E=",
+                "number": 1960
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2018-11-25T22:29:58.272+0800",
+            "owner": {
+                "user_id": 551518815444,
+                "name": "Reddy xu",
+                "avatar_url": "https://images.zsxq.com/Fip7Eq0-CW36_iHNOzBlF81EPVXr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kI0Qt7x4Q1gN0GvcbQXqC6r1LfE="
+            },
+            "amount": 388
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 422228818225448,
+            "create_time": "2018-10-09T23:07:39.847+0800",
+            "owner": {
+                "user_id": 222554144521,
+                "name": "ray",
+                "avatar_url": "https://images.zsxq.com/Fp2VzuRvNdqe77Day5GbqRyWQPe5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CUvXcr33G6sLrY_32wN2QCSRVQY="
+            },
+            "text": "国内完完全全可以移植",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111185585542152,
+            "create_time": "2018-10-26T12:12:26.279+0800",
+            "owner": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc="
+            },
+            "text": "和阿里小号有什么功能的区别？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 544481181524114,
+            "parent_comment_id": 111185585542152,
+            "create_time": "2018-10-26T12:24:43.933+0800",
+            "owner": {
+                "user_id": 2488248441,
+                "name": "小小",
+                "alias": "01",
+                "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+            },
+            "text": "不太了解阿里小号，但应该不能匿名吧？至少阿里应该知道你是谁，这个匿名不是说给手机号披一层皮让别人不知道你的手机号是多少，而是让别有用心的人甚至政府都查不到你的真实身份，当然SMSPrivacy是试图这么做，政府要真查也不好说，使用这个的都是因为各种原因需要隐藏自己真实身份的人。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc="
+            }
+        },
+        {
+            "comment_id": 244414841888581,
+            "create_time": "2018-11-13T13:21:45.827+0800",
+            "owner": {
+                "user_id": 48844452244888,
+                "name": "刘刘牛",
+                "avatar_url": "https://images.zsxq.com/Fqd0aLwbId-RfE0ypIrhzmHy9xsP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PhIWsS3wJIaisESQa3PvXiyIRv0="
+            },
+            "text": "感觉会有政策风险",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 21,
+    "rewards_count": 1,
+    "comments_count": 4,
+    "reading_count": 14757,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-10-02T00:15:02.906+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

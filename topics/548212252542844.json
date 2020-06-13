@@ -1,0 +1,261 @@
+{
+    "topic_id": 548212252542844,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "前几天在朋友圈发了这本《阿里土话》小册子里面的几张图，点赞很多，有人看到后去淘宝、闲鱼都搜了，买不到。 当然买不到了，阿里价值观内部刊例，非卖品。\n\n这是个好东西，当你创业遇到问题时，翻一翻，一定会有一些启发。独乐乐不如众乐乐，我简单扫描成了文档，很多老板看到后应该会和我一样，感同身受。\n\n社群内部看看，就别对外传播了。",
+        "files": [
+            {
+                "file_id": 28285284185251,
+                "name": "阿里土话_20190921124717.pdf",
+                "hash": "5a095168cca98284156bec1b9d2b68d632a6a84527dcf1cd3cd51a04410951d2",
+                "size": 24048758,
+                "download_count": 1756,
+                "create_time": "2019-09-22T15:16:20.227+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-16T23:31:40.775+0800",
+            "owner": {
+                "user_id": 118552824414222,
+                "name": "微光",
+                "avatar_url": "https://images.zsxq.com/FlfBIAlo8MlFjTpmeO_XsCHG-Xku?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ywmOZKJLxma5TFPf8Oa3CO9WUbA=",
+                "number": 6676
+            }
+        },
+        {
+            "create_time": "2019-12-25T01:08:48.682+0800",
+            "owner": {
+                "user_id": 48511588521228,
+                "name": "露露",
+                "avatar_url": "https://images.zsxq.com/FgBnWt75mHUt_76It9Th8pgKVPyv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iGyUKlOKMowRM1-w1RHtjsTtDlc=",
+                "number": 6344
+            }
+        },
+        {
+            "create_time": "2019-10-29T14:17:16.820+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-10-27T20:00:24.687+0800",
+            "owner": {
+                "user_id": 88514448888452,
+                "name": "小忍",
+                "avatar_url": "https://images.zsxq.com/FmGa8I5g0fdhKIdS1BuOy-V1l88f?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0K3L8MhdaDmbWSZ4eLTUVEKKRDc=",
+                "number": 2532
+            }
+        },
+        {
+            "create_time": "2019-10-21T15:33:16.508+0800",
+            "owner": {
+                "user_id": 48885812528188,
+                "name": "超级赛亚人",
+                "avatar_url": "https://images.zsxq.com/Fspgfvmh8qFVunts5PKp7QEmuLb8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:q8eMyBVdfBjV5PEbA-S5CPQ6JkU=",
+                "number": 1959
+            }
+        },
+        {
+            "create_time": "2019-10-20T00:11:29.446+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-10-14T17:12:08.564+0800",
+            "owner": {
+                "user_id": 1122444152,
+                "name": "Moby",
+                "avatar_url": "https://images.zsxq.com/FqIVmDBi7vwDIzXHRNl5gFxmuf5e?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bAk2Pypf5w8wyHmOhynUGBChDyQ=",
+                "number": 3367
+            }
+        },
+        {
+            "create_time": "2019-10-12T16:57:50.379+0800",
+            "owner": {
+                "user_id": 15422828124582,
+                "name": "🌙 故故¹⁵³¹",
+                "avatar_url": "https://images.zsxq.com/Fp6L0E6iV8GdZPbWp1CE-1OOm3KI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dHC4VnH3KvvR7Y6nTttKEdVhyUg=",
+                "number": 3558
+            }
+        },
+        {
+            "create_time": "2019-10-11T14:52:29.451+0800",
+            "owner": {
+                "user_id": 28281414118581,
+                "name": "张大器",
+                "avatar_url": "https://images.zsxq.com/Fo6OLvInrbrTPg1VvvAExngjN7-_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXu0qb50L_YHhS-Vvmkf4C5-PV8=",
+                "number": 1479
+            }
+        },
+        {
+            "create_time": "2019-10-11T12:22:00.953+0800",
+            "owner": {
+                "user_id": 15558144248812,
+                "name": "乔流",
+                "alias": "奕高",
+                "avatar_url": "https://images.zsxq.com/Fo7X8CxDnq81IhXWTyqLGVxn5iVw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gp6pS2axg1h5ThMPfNVpvuytsqA=",
+                "number": 1977
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-11-21T12:04:55.061+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 94
+        },
+        {
+            "create_time": "2019-09-22T20:27:32.663+0800",
+            "owner": {
+                "user_id": 48825244245848,
+                "name": "走_楼下喝酒去",
+                "avatar_url": "https://images.zsxq.com/FjcSa3CxRcnlRhDtk_NjbzUXVJve?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vys_a3MPPVCOYXVCItj7xC93fM0="
+            },
+            "amount": 553
+        },
+        {
+            "create_time": "2019-09-22T15:41:48.742+0800",
+            "owner": {
+                "user_id": 4215182228,
+                "name": "Tiger",
+                "avatar_url": "https://images.zsxq.com/FqHJNAp0Wh7stpKgAKAuVsV7yb94?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vxU3qxnCewWmciWgFDvTiNVadgs="
+            },
+            "amount": 282
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241821254454521,
+            "create_time": "2019-09-22T15:51:41.745+0800",
+            "owner": {
+                "user_id": 5445811244,
+                "name": "男宾",
+                "avatar_url": "https://images.zsxq.com/FoXGP4wteh7BcliIV36BGmGch20D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P6McFqzi9I2O7s4Egam3knnLM9k="
+            },
+            "text": "感谢分享[玫瑰]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118548421128582,
+            "create_time": "2019-09-22T15:54:34.501+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            },
+            "text": "谢谢亦大",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841821254488122,
+            "create_time": "2019-09-22T16:06:56.212+0800",
+            "owner": {
+                "user_id": 452282112828,
+                "name": "玖",
+                "avatar_url": "https://images.zsxq.com/FhXJ0WoORRUgFYUpNdAnVHDQEVb6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdaIZfbQ5wiIJ7I3cAWRk_u_K5s="
+            },
+            "text": "感谢分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241821285842281,
+            "create_time": "2019-09-22T16:13:29.927+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "太赞了，谢谢亦仁老大的分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118548452421152,
+            "create_time": "2019-09-22T16:52:41.352+0800",
+            "owner": {
+                "user_id": 552448584484,
+                "name": "李盼达",
+                "avatar_url": "https://images.zsxq.com/FqrAcqI1f3JZz1gd00h2HcgSUNNj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:djW1arxdXSbWT-iY3NskNnPKXhI="
+            },
+            "text": "多谢多谢",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421851584585558,
+            "create_time": "2019-09-22T17:05:44.537+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "text": "感谢分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421851584224528,
+            "create_time": "2019-09-22T18:40:47.299+0800",
+            "owner": {
+                "user_id": 48844522481188,
+                "name": "夏冰",
+                "avatar_url": "https://images.zsxq.com/FjPHHBrP2XzSagPT9Cm-lkC2pkH1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DLQvWKDTBhU-JY7SkZwqMrhLdjc="
+            },
+            "text": "感谢分享[玫瑰]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548158515221484,
+            "create_time": "2019-09-22T22:42:57.692+0800",
+            "owner": {
+                "user_id": 48581842484528,
+                "name": "萝卜",
+                "avatar_url": "https://images.zsxq.com/FgzVr-dAH7IBZgHT6Wok3LugqMGW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FT0k-C2LrjjKJS3HKMPUdETe0ZI="
+            },
+            "text": "挺有意思",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 121,
+    "rewards_count": 3,
+    "comments_count": 10,
+    "reading_count": 25848,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-09-22T15:16:20.711+0800",
+    "modify_time": "2019-09-22T15:17:46.632+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

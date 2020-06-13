@@ -1,0 +1,347 @@
+{
+    "topic_id": 222545228151,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 788212227,
+            "name": "彭星星",
+            "avatar_url": "https://images.zsxq.com/FlJbOtP6ALIHrnBlTN9-HHiniZkV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1J4IAMujvfHKLboXKnoyOyjYGHw="
+        },
+        "text": "技术知识变现的一种方法\n\n大部分Java开发者都访问过：<e type=\"web\" href=\"https%3A%2F%2Fwww.mkyong.com\" title=\"Java+web+development+tutorials\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201703%2F50e20bca43f50eba98aa717f06d267f2e3cd51e9aa6d65bebbca888a636390c8\" /> 这个网站。这是一个wordpress博客网站。用similarweb查看，现在每个月的访问量在440万。按照1000访问量对比2美金的换算，该网站每个月的广告收入至少在8800美金以上。用<e type=\"web\" href=\"http%3A%2F%2Fwww.freewebsitereport.org%2F\" title=\"Website+Worth+Estimation+%26+Web+Information+Service...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201703%2F7b74dc4f5c86e252028c6696e562bc36833266849e60fc39fd7cf5b1a6b59748\" />估计的结果是：3.5万美金一个月的收入。\n\n当然目前每个月440万的流量也非一日之功。从网站的文章来看，最早一片文章发表于2008年的5月，到现在快9年的时间。主要是分享Java有关的基础知识，很多文章在我看来就是 hello word 级别的 Demo文章。但就是这样的文章，也能收获到一大批的访客，目前我招到的访问量最高的一篇文章是 2,168,628 pv。\n\n网站经营多年，有着很好的口碑，在Stack Overflow Fackbook 简书等社交媒体上都有流量来源。此外，该博客还邀请访客主动投稿，稿费分为20美金、40美金、80美金几个档次。这充分说明，该博客的广告收入应该还是相当理想的。\n\n我认为想更好的利用这些精准的Java程序员流量，可以展开『培训服务、咨询服务、项目撮合服务』。\n\n其他方向，欢迎大家留言。没有想到的，算我输。😂",
+        "images": [
+            {
+                "image_id": 551851888844,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fu2LH7SJFrmmi07R0vj3847XkzCx?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Pb2MdyBFxepitXxfQVVbRYEtw3M=",
+                    "width": 320,
+                    "height": 125
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fu2LH7SJFrmmi07R0vj3847XkzCx?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y1oP7BQzILuvuicOfT2nQoIxdok=",
+                    "width": 800,
+                    "height": 311
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fu2LH7SJFrmmi07R0vj3847XkzCx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:R1lb4W6vsvMMbAKeY-MD_Atk5j0=",
+                    "width": 1560,
+                    "height": 608,
+                    "size": 225361
+                }
+            },
+            {
+                "image_id": 228128111141,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FoMCiDdWefK0KcxlqzdUJfc7Eeix?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:21gV1G-4WQxFSu3Kmn31E0LFf50=",
+                    "width": 320,
+                    "height": 198
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FoMCiDdWefK0KcxlqzdUJfc7Eeix?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2DF4GLXXb2IecOR_ig9_DqgI76Y=",
+                    "width": 800,
+                    "height": 494
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FoMCiDdWefK0KcxlqzdUJfc7Eeix?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eNdNmptO6m-fXeOZK73aEHAyboc=",
+                    "width": 1360,
+                    "height": 840,
+                    "size": 100547
+                }
+            },
+            {
+                "image_id": 145845888882,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqMHEVlIvEeQbTs2OtWHLGz18vl5?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MG6EBQ66OK03z81bFNFcEmYQD4A=",
+                    "width": 320,
+                    "height": 212
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqMHEVlIvEeQbTs2OtWHLGz18vl5?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_jMd9Mj5rFEd89Aw35RElCqG_hA=",
+                    "width": 800,
+                    "height": 528
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqMHEVlIvEeQbTs2OtWHLGz18vl5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TMbXUfOpb6YrSe3lvYftIegf22c=",
+                    "width": 1328,
+                    "height": 878,
+                    "size": 130718
+                }
+            },
+            {
+                "image_id": 458158111118,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqWUZrWuLSgZkgCjj4XDcZX7_H7a?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NmtBi0sZMs295o7kQs7g9NoCVKo=",
+                    "width": 320,
+                    "height": 206
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqWUZrWuLSgZkgCjj4XDcZX7_H7a?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ri2X5tLawZVqIuUrIvaVt0HMI_Y=",
+                    "width": 800,
+                    "height": 514
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqWUZrWuLSgZkgCjj4XDcZX7_H7a?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G6Jy8JYU_PxlBM5NDdjkEJhvSYM=",
+                    "width": 1318,
+                    "height": 848,
+                    "size": 64687
+                }
+            },
+            {
+                "image_id": 828128111112,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fheg5IEn8HW0l7Jb1CoLmaV1vCsf?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pKsAi0IofvSV0hdL9l08uwii3xM=",
+                    "width": 320,
+                    "height": 184
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fheg5IEn8HW0l7Jb1CoLmaV1vCsf?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GO_BMb_T0wusOOlDACZg0jlN248=",
+                    "width": 800,
+                    "height": 459
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fheg5IEn8HW0l7Jb1CoLmaV1vCsf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sl6NOvlO6cZ4z_nB6YxHA30QB6M=",
+                    "width": 1376,
+                    "height": 790,
+                    "size": 123361
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-25T13:12:18.507+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-06T10:34:03.753+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-05T03:41:18.822+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T14:12:15.851+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-07-28T09:39:22.496+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-06-17T15:30:28.838+0800",
+            "owner": {
+                "user_id": 2418228511,
+                "name": "in",
+                "avatar_url": "https://images.zsxq.com/Fit8G3KegcWN5wUo7vHTkp7tF6Jc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CvugGVycK6VTolCtTmiTWJgBqTk=",
+                "number": 970
+            }
+        },
+        {
+            "create_time": "2019-05-23T10:29:54.091+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-01T14:21:43.682+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-03-30T16:49:17.297+0800",
+            "owner": {
+                "user_id": 228241421821,
+                "name": "YPLee",
+                "avatar_url": "https://images.zsxq.com/FkyaL5SuFXpShXE3JV72Lvr16hNY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iCcOHch8sV66DJI6A0LBcDlcEkU=",
+                "number": 79
+            }
+        },
+        {
+            "create_time": "2017-03-30T16:06:52.540+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E=",
+                "number": 451
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-30T00:20:22.692+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228214812421,
+            "create_time": "2017-03-30T00:20:46.919+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "很赞的分析！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551584188544,
+            "create_time": "2017-03-30T00:41:24.082+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "这个网站应该是靠内容取胜的，长期坚持写，慢慢就没有竞争对手了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 145481422412,
+            "create_time": "2017-03-30T01:05:55.971+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "这个思路有意思，我想想怎么能借鉴一下",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828214255242,
+            "parent_comment_id": 551584188544,
+            "create_time": "2017-03-30T01:06:31.201+0800",
+            "owner": {
+                "user_id": 142584281152,
+                "name": "*^_^*秀燕",
+                "avatar_url": "https://images.zsxq.com/Fiocn9013IujzoU6lFshnMh7RMJJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y7zvOkRjup72_Fg1E1JKatP3sEA="
+            },
+            "text": "我觉得可以迁移到 还没太想好",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 551584511114,
+            "create_time": "2017-03-30T05:50:58.387+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "总算有个我能看懂的问题了。不要被作者举重若轻的风格迷惑。在JAVA的每个细分领域都深入浅出的举出使用方式，经常是多种方式，这需要相当广泛并深入的技术能力和超高的表达能力。我自己在写一本架构师101的入门书，深感自己表达能力不足以驾驭。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145481455542,
+            "create_time": "2017-03-30T05:53:18.586+0800",
+            "owner": {
+                "user_id": 2458825181,
+                "name": "XiaoPeng",
+                "avatar_url": "https://images.zsxq.com/FpvaqwYV4A8YUf4QIfMAYqg24exA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UemLzYQ0JYCw7TPe-YWLPhr6NY4="
+            },
+            "text": "能解决一个问题是一个层次，能（近乎）穷举所有可行方案完全是另一个层次。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828214452542,
+            "create_time": "2017-03-30T08:05:21.764+0800",
+            "owner": {
+                "user_id": 5428884484,
+                "name": "阿兰不是图灵",
+                "alias": "阿兰不是图灵",
+                "avatar_url": "https://images.zsxq.com/Fg8Nf_Q52EY0PPH_-ZumJ0-oSqF4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:onvm5qZVfB0rviJVmmCsVoOI3_E="
+            },
+            "text": "还可以搞人力资源服务",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145481841122,
+            "create_time": "2017-03-30T10:48:59.562+0800",
+            "owner": {
+                "user_id": 5415218554,
+                "name": "曹路飞",
+                "avatar_url": "https://images.zsxq.com/FmTNbOPRu04V4LJKv-JXICCxRoJG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8pK-3DOrQH5G4OzCvFKSwXbET-o="
+            },
+            "text": "收入没你说的那么高，我们每个月也400w流量，收入在天朝也就1w。做的也是垂直技术的内容",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        }
+    ],
+    "likes_count": 19,
+    "rewards_count": 1,
+    "comments_count": 12,
+    "reading_count": 2289,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-30T00:01:54.031+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

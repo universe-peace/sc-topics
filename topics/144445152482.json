@@ -1,0 +1,250 @@
+{
+    "topic_id": 144445152482,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5412152124,
+            "name": "登宇",
+            "avatar_url": "https://images.zsxq.com/Fm5p1aBUrdfkOPuZjgEJ1HvSmlyT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ks9Uv_NkPRbukUClpfY-UtpAT1Q="
+        },
+        "text": "说一些content locks的玩法\n\n昨天看到圈内有人发content lock，前几年content lock是个挺热门的东西，辛苦点挣几十万不是问题.\n\n\n先解释下名词，content lock翻译成中文叫内容锁屏，广告联盟在广告主接入incent的广告，发布商把联盟代码放进网站内，用户必须完成广告注册或者安装才能查看完整内容。前几年最热的广告联盟是CPALEAD，现在应该还可以跑。\n\n再说说套路，content lock的用户体验并不好，多用于一次性流量或者垃圾流量。简单来说有几个套路。\n\n1，BT流，大概就是上传热门资源，文件压缩后加密码，再引流到自己网站，把密码锁屏了，用户下载完必须去你的网站完成一个offers才能获取密码\n\n2，youtube，剪辑热门视频，只上传几分钟，然后视频描述或者评论里留网址，用户要看完整视频也得完成一个offers\n\n3，聊天工具群发，假装一个美女，批量加好友，诱导人去网站看完整图片\n\n都是这样的套路，当时做的人日入千刀都不少，如果圈内有人有兴趣可以研究下，国外最火热的论坛是black hat world，适合起步挣钱"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-26T14:33:11.608+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-07-28T21:46:25.492+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-25T16:52:51.098+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-01T12:27:10.970+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-04-09T23:19:04.733+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-04-06T10:29:47.877+0800",
+            "owner": {
+                "user_id": 8421155452,
+                "name": "Andenry",
+                "avatar_url": "https://images.zsxq.com/Fldka4zfKqsiGD9cVjXImZnDe9jN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MK66Aa6LldXj7mftOMaKuouZstQ=",
+                "number": 360
+            }
+        },
+        {
+            "create_time": "2017-04-06T00:53:03.536+0800",
+            "owner": {
+                "user_id": 828282418452,
+                "name": "撸大发",
+                "avatar_url": "https://images.zsxq.com/Fg7tCf494owH5RMdzTSd0PVZyJ4k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QltY_F9SzMv-xcVuykUnw2cuxhU=",
+                "number": 401
+            }
+        },
+        {
+            "create_time": "2017-04-05T21:58:19.302+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo=",
+                "number": 138
+            }
+        },
+        {
+            "create_time": "2017-04-05T21:09:39.908+0800",
+            "owner": {
+                "user_id": 458142882158,
+                "name": "不羁的风",
+                "avatar_url": "https://images.zsxq.com/FhlplUJM_-fg4mcNfV-WZ0l5GOVi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:baSWjW2VTTe8JgQjNEfIfrC8BMc=",
+                "number": 591
+            }
+        },
+        {
+            "create_time": "2017-04-05T21:07:30.892+0800",
+            "owner": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s=",
+                "number": 238
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-05T16:08:29.078+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 458114858148,
+            "create_time": "2017-04-05T16:08:34.845+0800",
+            "owner": {
+                "user_id": 5412152124,
+                "name": "登宇",
+                "avatar_url": "https://images.zsxq.com/Fm5p1aBUrdfkOPuZjgEJ1HvSmlyT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ks9Uv_NkPRbukUClpfY-UtpAT1Q="
+            },
+            "text": "这些玩法深入研究挣个几十万问题不大，不过我个人并不大喜欢这类玩法，所以真要搞的，自己去BHW研究比较好",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145882544822,
+            "create_time": "2017-04-05T16:11:28.777+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "content lock其实是比较好的传播模式。 \n微信群裂变不就是一种content lock么？ 发朋友圈解锁部分内容，可能是网课，可能是报名资格。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551882155844,
+            "create_time": "2017-04-05T16:13:35.495+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "我曾经玩过的一个content lock，分享我的网站到社交网络可以自动解锁某些付费服务， 效果很不错。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 551882522444,
+            "parent_comment_id": 551882155844,
+            "create_time": "2017-04-05T17:39:51.839+0800",
+            "owner": {
+                "user_id": 5412152124,
+                "name": "登宇",
+                "avatar_url": "https://images.zsxq.com/Fm5p1aBUrdfkOPuZjgEJ1HvSmlyT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ks9Uv_NkPRbukUClpfY-UtpAT1Q="
+            },
+            "text": "哈哈，这个角度来说，也是的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 828115455212,
+            "create_time": "2017-04-05T19:00:36.790+0800",
+            "owner": {
+                "user_id": 518828154414,
+                "name": "RunSky",
+                "avatar_url": "https://images.zsxq.com/Fk8tPcKhJKHwCweWDcrYHPVYp9pr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_m9HAW_G0yQhM2LjMoUlhIitug="
+            },
+            "text": "我有个游戏rom下载站、貌似可以做这个",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551885458884,
+            "parent_comment_id": 551882155844,
+            "create_time": "2017-04-05T23:00:05.514+0800",
+            "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "alias": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fjuy8KF93PqJ4IWA55pmcg_l4ViC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggLQnbNeiXqq4cbGY_kL8XqA0zs="
+            },
+            "text": "请问自动解锁，意思是全自动分享后即时解锁？的机制是怎么设定的呢？每个人专有链接进行统计？像微信群裂变，分享海报，目前只是手动回复截图，用户就会有些延迟",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 458115228488,
+            "parent_comment_id": 551882155844,
+            "create_time": "2017-04-05T23:01:52.855+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "简版，点击分享操作后就会解开，并不做审核是否真的分享成功，如果要考虑是否分享成功的话，成本会比较大。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "alias": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fjuy8KF93PqJ4IWA55pmcg_l4ViC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggLQnbNeiXqq4cbGY_kL8XqA0zs="
+            }
+        }
+    ],
+    "likes_count": 19,
+    "rewards_count": 1,
+    "comments_count": 7,
+    "reading_count": 1901,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-05T16:01:27.988+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

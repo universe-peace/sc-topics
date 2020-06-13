@@ -1,0 +1,190 @@
+{
+    "topic_id": 15124425844512,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 2488248441,
+            "name": "小小",
+            "alias": "01",
+            "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n产品名称：Instapainting\n\n发布时间：2014.1\n\n运营渠道：\n网站：<e type=\"web\" href=\"https%3A%2F%2Fwww.instapainting.com\" title=\"Photo+to+Painting+by+Artists%2C+Custom+Hand-Painted+...\" />\nTwitter：<e type=\"web\" href=\"https%3A%2F%2Ftwitter.com%2Finstapainting\" title=\"https%3A%2F%2Ftwitter.com%2Finstapainting\" />\nFacebook Page：<e type=\"web\" href=\"https%3A%2F%2Fwww.facebook.com%2Finstapainting%2F\" title=\"https%3A%2F%2Fwww.facebook.com%2Finstapainting%2F\" />\nYouTube Channel：<e type=\"web\" href=\"https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC2IkV3bKk28BTW7-1v5darg\" title=\"https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC2IkV3bKk28BTW7-1...\" />\n\n产品简介：上传一张照片，帮你画成一幅画。并从一个卖画的店铺，迭代为一个连接用户和画家的平台。\n\n流量概况：15,000UV/月（2018.6-2018.8均值），近40%流量来自搜索引擎，关键词由很多长尾词构成，SEO效果较好。\n\n盈利方式：收取用户的费用，付费给画家画画，通过差价盈利。\n\n盈利能力：32,000美元/月（2016.8）\n\n作者：Chris Chen（<e type=\"web\" href=\"https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchris-chen-07882124%2F\" title=\"https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchris-chen-07882124%2F\" />），YC创业营2011年冬季批成员。\n\n参加YC创业营三年后，Chris花光了YC的投资和自己一些项目赚到的钱。好消息是，这时他已经测试了很多的想法，已经非常擅长制作MVP（Minimum Viable Product）了。这时他的一个朋友从中国带来了一批油画，想让他帮忙做一个网站销售。Chris受此启发，创建了Instapainting。\n\n网站最初的版本只有一个页面，只做3件事：\n1. 让用户上传照片。\n2. 让用户付款。\n3. 告诉用户他们的照片将被手工画成油画，于2周后寄出。\n\nChris把网站发到了Reddit创业板块（<e type=\"web\" href=\"https%3A%2F%2Fwww.reddit.com%2Fr%2Fstartups%2Fcomments%2F1vtham%2Fim_softlaunching_here_my_app_that_turns_pictures%2F\" title=\"https%3A%2F%2Fwww.reddit.com%2Fr%2Fstartups%2Fcomments%2F1vtham%2F...\" />），2周内就创造了2000美金的销售。虽然这时由于画画的成本较高，每个订单还微微亏损，但是已经证明这个想法是可行的，接下来只是做大利润然后大干一场。\n\n不久，就有很多画家（大部分来自中国）主动联系了Chris，他们已经在eBay，Alibaba，Etsy这样的地方提供他们的服务了。Chris知道这下网站可以盈利了，接下来的问题是怎么优化流程和增加销售。\n\n优化流程方面，Chris使用了自动化的方式：\n1. 起初他需要人工把订单发给画家，而现在画家可以通过平台和买家直接沟通处理订单。\n2. 通过买卖双方互相评价来控制服务质量。\n3. 使用竞价算法来为每个订单选择最合适的画家，相信也可以用来提高利润。\n\nChris慢慢把网站所有流程都自动化了，他只需要处理偶发情况和重大的交易纠纷，这样他可以省下很多时间和精力来运营网站。网站也从一个卖画的店铺，迭代为一个连接用户和画家的平台。\n\nInstapainting的流量主要来自搜索引擎，而他做SEO的方法很有意思。他会做一些有趣或热点的东西（不一定跟网站主题有关）发布在网站上，然后把这些页面发布到Hacker News（<e type=\"web\" href=\"https%3A%2F%2Fnews.ycombinator.com\" title=\"Hacker+News\" cache=\"\" />）。因为主题的原因这些页面都获得了不少的投票，接着就会被更多知名的网站（Intel.com、Wired.com、TechCrunch、Engadget等）报道并获得这些网站的外链，并最终提高搜索引擎排名。虽然Hacker News和这些网站带来的流量并没有形成直接的销售，但他们给网站的外链却提高了网站的搜索引擎排名，并最终带来精准流量和销售。网站的统计数据也显示，虽然热点流量来的快去的也快，但是流量峰值褪去后，网站的平均流量水平仍然提高了，就是因为搜索引擎排名提高了。\n\nChris是YC创业营的成员，可以说已经是被看好的创业者了，可是仍然用3年时间尝试了各种失败的想法，他获得YC的投资的Like.com，类似Last.fm（<e type=\"web\" href=\"https%3A%2F%2Fwww.last.fm\" title=\"Last.fm+%7C+Play+music%2C+find+songs%2C+and+discover+art...\" />），也以失败告终。Chris的经历再一次告诉我们：不要只想着做颠覆性的产品，互联网连通世界，如果我们能在互联网上找到一个适合自己的小角落，做好一件小事，也许已经能创造很大的价值了。\n\n扩展阅读：\n<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fbouncing-back-from-the-brink-to-make-1000-in-my-first-week-1518bbd0b7\" title=\"Bouncing+Back+From+the+Brink+to+make+%241000+in+My+F...\" />\n<e type=\"web\" href=\"https%3A%2F%2Ftechcrunch.com%2F2014%2F02%2F14%2Finstapainting-turns-your-photos-into-hand-painted-oil-paintings-on-the-cheap%2F\" title=\"Instapainting+Turns+Your+Photos+Into+Hand-Painted+...\" />\n<e type=\"web\" href=\"https%3A%2F%2Fwww.wired.com%2F2015%2F10%2Fwar-stories-a-year-and-a-half-of-instapainting%2F\" title=\"War+Stories%3A+A+Year+and+a+Half+of+Instapainting+%7C+...\" />\n<e type=\"web\" href=\"https%3A%2F%2Fwww.producthunt.com%2Fposts%2Finstapainting\" title=\"Instapainting+-+Product+Hunt\" cache=\"\" />\n<e type=\"web\" href=\"https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Finstapainting-com\" title=\"https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Finstapaint...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-09T22:51:08.881+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T20:28:08.143+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-12-07T19:31:03.901+0800",
+            "owner": {
+                "user_id": 48815121482128,
+                "name": "BlockD",
+                "avatar_url": "https://images.zsxq.com/FrnwDhyw3qGHwVFV_XCT4LI1e32o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:A3jO0WNfQDtuZ2-A1Tcfx-L_8ec=",
+                "number": 2420
+            }
+        },
+        {
+            "create_time": "2018-11-09T15:15:26.427+0800",
+            "owner": {
+                "user_id": 458155884548,
+                "name": "friree",
+                "avatar_url": "https://images.zsxq.com/Flai0ROLOJdRYxXhUgBNDYxeHpgV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hin3h3W-BuM-1eAXn9oLzbUnmmM=",
+                "number": 539
+            }
+        },
+        {
+            "create_time": "2018-10-10T19:35:57.028+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4=",
+                "number": 283
+            }
+        },
+        {
+            "create_time": "2018-09-26T08:48:30.029+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k=",
+                "number": 1574
+            }
+        },
+        {
+            "create_time": "2018-09-19T11:32:55.459+0800",
+            "owner": {
+                "user_id": 4215151258,
+                "name": "gaoxiaofei",
+                "avatar_url": "https://images.zsxq.com/FmpVZ3KuEvt8Xuu2eFgvzGSoBkki?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hLV4BuEffcITASUgBG-kXuoW_Ic=",
+                "number": 1783
+            }
+        },
+        {
+            "create_time": "2018-09-18T22:20:18.319+0800",
+            "owner": {
+                "user_id": 228285121251,
+                "name": "潇洒一刀",
+                "avatar_url": "https://images.zsxq.com/FncdiKV9aMljsotrsn7TZivMM0Q7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YBUElWck8QzyPA0dxKpRgT8bJr0=",
+                "number": 2245
+            }
+        },
+        {
+            "create_time": "2018-09-18T10:39:02.270+0800",
+            "owner": {
+                "user_id": 2455411821,
+                "name": "boyzcl",
+                "avatar_url": "https://images.zsxq.com/FqyZCS2j1T-fW11e2w4xKNqSDkhn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:thsCLX06diCUmKt7ydy4r4NCcUA=",
+                "number": 959
+            }
+        },
+        {
+            "create_time": "2018-09-17T23:13:26.854+0800",
+            "owner": {
+                "user_id": 458551512458,
+                "name": "Rubicon_陈小*",
+                "avatar_url": "https://images.zsxq.com/FveK5nBWlekv87agMJzkKJMCaQKD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qGq5yMZh8vkyriaPPvpqJC2yWks=",
+                "number": 2238
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111115428285142,
+            "create_time": "2018-10-10T19:36:33.024+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            },
+            "text": "有做素描画的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 844448218545842,
+            "parent_comment_id": 111115428285142,
+            "create_time": "2018-10-12T11:36:47.658+0800",
+            "owner": {
+                "user_id": 2488248441,
+                "name": "小小",
+                "alias": "01",
+                "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+            },
+            "text": "国内的吗？叫什么名字？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            }
+        },
+        {
+            "comment_id": 844448218448552,
+            "parent_comment_id": 111115428285142,
+            "create_time": "2018-10-12T13:12:04.153+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            },
+            "text": "我拍你画 小程序",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2488248441,
+                "name": "小小",
+                "alias": "01",
+                "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+            }
+        },
+        {
+            "comment_id": 544481185144444,
+            "create_time": "2018-10-26T15:20:04.087+0800",
+            "owner": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc="
+            },
+            "text": "这不是把旅游经典的素描生意搬到线上了嘛",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 0,
+    "comments_count": 4,
+    "reading_count": 5513,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-09-17T11:53:34.979+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

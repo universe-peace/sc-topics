@@ -1,0 +1,303 @@
+{
+    "topic_id": 548142582811254,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "网页时代的个人站长，在互联网上扮演着非常重要的角色，很多大佬都是从个人站长逐步成长起来的。\n\n很多个人站长对用户需求的挖掘和理解，远远超过典型互联网人。\n\n这周的<e type=\"hashtag\" hid=\"2421248841\" title=\"%23%E8%BD%BB%E4%BA%AB%23\" /> ，我就请来了一位老个人站长<e type=\"mention\" uid=\"141245828122\" title=\"@%E5%A4%A9%E9%A3%8E\" /> ，他将会给大家分享他的12年中文SEO站群之路，以及这个过程中的心得和经验。\n\n昨晚大家给力，170+赞欢迎出<e type=\"mention\" uid=\"141245828122\" title=\"@%E5%A4%A9%E9%A3%8E\" /> 。\n\n有请天风 👏\n\n——\n\n各位生财圈友大家好，我是天风，感谢亦仁邀请我分享中文SEO站群的建站历程。\n\n08年的时候，我在一家电商公司负责网络直销业务，当时每个月两三百万竞价推广ppc费用带来的一次销售额，比不上SEO团队通过blog站群带来的销售额，当时我就对站群产生了浓厚的兴趣。\n\n08年我的副业是IDC，主要跟徐州电信机房合作，只做服务器出租业务， 08北京奥运，打击非法信息，对网站备案号开展了一波严查。\n\n而我这边有关系，网站只要不是非法的，可以不用备案号开站，下半年，我的服务器租用业务量激增，很多做站群的站长都过来我这边租用服务器。\n\n我有时会帮一些站长解决服务器和网站的技术问题，比较了解他们的运作方式，也见证了一些站长月赚四五十万的暴利时刻。\n\n当时我本身懂技术，会建站，会SEO，就萌生了自己做站群赚钱的想法。\n\n08年11月份后，国内严查敏感信息和网站备案号到了一个新的阶段，动不动就关停服务器和机房断网，这时做国内服务器租用面临了很大的压力和风险，我决定关停IDC业务，从公司离职，自己出来创业，就此开启了12年中文SEO站群之路。\n\n从电商公司离职后，我和前公司的几名同事合伙开了一个工作室，工作室的其中一项业务就是站群SEO，用的是阿星的自动链程序，按自己的想法和需求进行了二次开发。\n\n为了省事，用的美国服务器，均价1.99刀的.info域名。\n\n站群上线之前从未想过赚钱如此快速而且简单。\n\n每一批站群7到14天来百度首页排名流量，28天左右来google首页排名流量，流量从万IP级，十万IP级到百万IP级只用了两个来月的时间。\n\n一天广告收入数万块，捡钱的感觉。\n\n时间到了09年的下半年，国家有关部门大力整顿互联网上的低俗信息，百度，google开始大批量屏蔽关键词，K掉带低俗词网页的排位。\n\n因为自己的自动链网站链接了大量带低俗词标题的网站，也被干掉，自动链程序网站算是全军覆没，工作室的最大收入来源给断掉了，10年初，google在这次风暴中退出了中国，工作室也宣布解散。\n\n这次站群项目因不可抗力（政策）而终结，整体来说，这是一个成功的项目，也验证我的一些想法，确定了我未来十年的站群思路。\n\n自动链的原理：自动链就是一个分类网址导航网站，类似于hao123。当别的网站站长获取你的自动链网页代码，把代码放到他的网页上时，他的网页访客通过点击代码进入你的自动链网页，自动链网页会自动收录他的网页，并使他的网页排在自动链页面的第一位，达到相互导流量和推广的目的。\n\n二改的自动链网站程序做了什么修改：\n\n1， 把网址导航型的自动链修改成3级树形目录结构，变成了类资讯站的结构\n\n2， 重构url链接形式，参照blog站的伪静态结构\n\n3， 规范网站网页的导出链接，尽量少导出链接，去除给网页带来负面评价的链接\n\n4， 自动采集百度搜索结果页面内容充实自动链关键词内容页\n\n5， 开发蜘蛛，主动抓取到访网络上所有的别家的自动链网站，这样能使自己的网站网址经常性出现在大量别人的自动链网站首页上，给自己的网站带来大量的外链资源\n\n划重点：\n\nSEO站群的核心指导思想：内容为王不重要，外链为皇定生死。\n\n在职场中，我做过一些大型商业网站的SEO策略管理，也很成功。但是做正规唯一网站的SEO和快速获利站群SEO在操作方式上有很大的不同。\n\n我做站群从来不关注内容，内容全是采集来的。我关注的是超级链接，就是整个网络给你的资源，给你的投票，链接才能产生更大的价值。\n\n这也是我认为为什么大家在生财有术分享，生财有术产生的最大聚合价值的原理。\n\n李彦宏97年的专利——“超链分析技术”(Hypertext document retrieval system and method)，之后佩奇和布林的Pagerank专利，做SEO的有几人认真去研读一下？\n\n10年我重入职场，工作比较繁杂，站群作为副业，个人花在上面的时间不多，收益也非常不错。\n\n在这期间，我的重心放在关键词研究上，找到几个搜索量不错，竞争不大的关键词，然后用wordpress架一个网站，做好网站配置，用火车头或狂人站群更新内容，虫虫软件或推广小助手群发外链，就坐等收广告费了。\n\n挖掘关键词是一件很有趣的事情，网民的搜索需求会不断刷新你的三观，这里面有很大很大的信息差，到10年后的2020年依然如此。\n\n我当时用的是爱站筛选新鲜关键词，百度竞价后台查询关键词的拓展词和搜索量，我记得曹政说过他以前也经常在爱站查看关键词，爱站大大开拓了我的拓词思路。\n\n我记得我10年在爱站查询到“请输入关键词”，“请输入关键字”的指数比较高，然后查询发现每个词每天有两三万的搜索量，马上架站，一个月居然能给我带来一万多的广告收益。\n\n一直到11年底，流量下降到每天两三千，每月收益才一千多，瞧不上这个站的收益，就不管了，期间跟广告联盟的人闲聊，这其中一个词在07，08年高峰时，一天有十几万流量，在那时已经有站长在闷声捡钱了。\n\n这是为什么呢？\n\n因为当时很多人都是通过网址导航上网，在上方的搜索引擎搜索框里默认有“请输入关键词”或“请输入关键字”的字眼，他们随手就空白搜索了，还点击进搜索结果网站，点了广告。\n\n这样的行为，你能理解不？其实这些都是可以淘的金子。\n\n在这几年期间，我还做了好几批单页网站站群，跟别人合作销售一些诸如蔷薇云（xx膜修复），减肥等产品，收益还是非常不错的。\n\n13年开始，百度等搜索引擎外链算法升级，群发外链的效果越来越差，再加上能发外链的地方越来越少，外链为皇需要找别的出口。\n\n14年初，在聚名抢注已备案有百度权重的域名，开启了外链为皇的另一个方向，这些有良好建站历史，有大量历史外链的域名上手即用，各搜索引擎对其非常信任。\n\n我和另外两个朋友组建了一个小团队，开发多维度筛选抢注域名工具，以高SR为主要筛选项，用以前的百万淘客程序进行二开，修改成百万图片站群程序，短短两三个月时间，高权重域名配合虫虫，养出了好几个爱站百度权重7，8的网站。\n\n百度图片搜索每天请求数千万次，服务器集群都吃不消，搜狗搜索的效果更好，站群垄断了很多搜索结果首页。\n\n15年中，百度算法升级和有限人工干预，搜狗人工干涉，干掉了图片站群的大部分流量，三人团队散伙，各干各的。\n\n15年底，职场上合伙创业的公司解散，因为炒股血亏和感觉上班太累，离开了职场，回归家庭，一个人搞站群，一直到现在。\n\n16年开始，收益全来自移动端流量，这是一个很大的变化。\n\n我尝试了两个类型的流量，一个类型是娱乐型泛流量，一个类型是垂直细分行业流量。\n\n娱乐型泛流量一万IP广告联盟收益200到500块，垂直细分行业流量日均IP1800左右，包月广告收益每月有10W多，一个IP的收益差不多2块钱，收益差别非常之大。\n\n划重点：\n\n抢注域名筛选，关键词挖掘，持续采集更新内容。\n \n这么多年，我平均每天花在站群上的时间不到30分钟，专注，拥抱变化就能持续下去。\n \n12年了，seo站群给我带来持久额外的收益，但对比圈内事业有成，年收益八位数以上的大佬，我还有非常大的差距，还要不停的学习，改变。\n\n很多人说网络不容易赚到钱，副业不知道怎么搞，其实在网络上，你能找到信息差，满足信息差需求，你就能赚到钱，赚钱还是比较容易的。\n\n12年前，我遇到过开摩托车搭客的个人站长，利用空余时间在网吧搞网站，最高峰时月收入二三十万。\n\n做个人站长的，从挖掘一个关键词需求，建一个简单的wordpress网站，已经走出了第一步。\n\n研究一个关键词人群，写一篇公众号文章，开一个淘宝店，拍一个抖音快手视频，挖掘关键词人群需求，满足需求赚钱，其实不是很难。\n\n作为一个个人站长17年了，遇到过很多人和事，互联网是创造了不少致富神话，也让很多人身陷囹圄，我身边的好几个朋友都给抓走过，创造财富应该是可持续的，灰黑色的最好不要碰，也不要拖人下水。\n\n在圈子里潜水两年了，这期间也有一些圈友加到我，一些种菠菜的，搞X站，开机场的找我合作，我是不会回复的，见谅。\n\n也欢迎走正道赚钱的生财有术圈友交流沟通，我微信号wsjwinner。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-29T17:42:02.914+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2020-03-29T11:43:25.099+0800",
+            "owner": {
+                "user_id": 4221451888,
+                "name": "鬼冢湛梓熙",
+                "avatar_url": "https://images.zsxq.com/FlnMRhmqLfdvEaxTPpmz2zhS2sV0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p6OqkqlIkXKltv_xwr979xdtQX8=",
+                "number": 1692
+            }
+        },
+        {
+            "create_time": "2020-03-28T23:55:27.400+0800",
+            "owner": {
+                "user_id": 48828112814158,
+                "name": "安迪",
+                "avatar_url": "https://images.zsxq.com/Fu9kOTQYPf1IqxtBi57tGq049azl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7pnKWM569hCSEnOokKtUD4GKDys=",
+                "number": 3194
+            }
+        },
+        {
+            "create_time": "2020-03-26T18:00:33.709+0800",
+            "owner": {
+                "user_id": 158188888812,
+                "name": "乐心",
+                "avatar_url": "https://images.zsxq.com/FqsaT7KoxFGSmrHCQq8PO9w0ZduW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z-t_OD5R4xknPLpMWTHQ-x6WDoA=",
+                "number": 1594
+            }
+        },
+        {
+            "create_time": "2020-03-26T15:40:11.496+0800",
+            "owner": {
+                "user_id": 1481142222,
+                "name": "Owen",
+                "avatar_url": "https://images.zsxq.com/Fley1eU5JT4csz3LKmfWGbW202yt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1zkpUc0qcQduF7QguLdZcoCJFMg=",
+                "number": 498
+            }
+        },
+        {
+            "create_time": "2020-03-25T21:57:09.277+0800",
+            "owner": {
+                "user_id": 881512881822,
+                "name": "陈一平",
+                "avatar_url": "https://images.zsxq.com/FkeFicNJOGAdsqNzWoX9-O_dSHmt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9paMvaV-MUAEKhOkW4s7aAFNRLg=",
+                "number": 4800
+            }
+        },
+        {
+            "create_time": "2020-03-25T17:59:38.315+0800",
+            "owner": {
+                "user_id": 518455528254,
+                "name": "best",
+                "avatar_url": "https://images.zsxq.com/Fmt_0b8piC7JxN5u2zcbmdwokaob?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8NxEMrMfSMVBrcfa5Fa8XztX4Gw=",
+                "number": 5082
+            }
+        },
+        {
+            "create_time": "2020-03-25T16:27:24.782+0800",
+            "owner": {
+                "user_id": 51414584122814,
+                "name": "春暖花开",
+                "avatar_url": "https://images.zsxq.com/Fvq0SkFbwhXCVv08Ry5AKAxynRdy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-jib8uqS-QGyQhgdo76mNpP580U=",
+                "number": 6621
+            }
+        },
+        {
+            "create_time": "2020-03-25T15:01:27.189+0800",
+            "owner": {
+                "user_id": 544811512444844,
+                "name": "杭杭",
+                "avatar_url": "https://images.zsxq.com/FrDT2jlSgk5Zt_Jab3cmc5qFDp4F?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5IVJC4CWPqHg15kIZR1e4IQ07Vs=",
+                "number": 4927
+            }
+        },
+        {
+            "create_time": "2020-03-25T13:02:39.253+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-03-31T21:49:38.295+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 94
+        },
+        {
+            "create_time": "2020-03-30T21:00:50.501+0800",
+            "owner": {
+                "user_id": 15552854145582,
+                "name": "冰之泪",
+                "avatar_url": "https://images.zsxq.com/Fhk6ASlRfKGhkUhxNJrGH3eABDfj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CLYlJavxyY-9cdunhEqHa8DfiXI="
+            },
+            "amount": 104
+        },
+        {
+            "create_time": "2020-03-29T22:50:42.164+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk="
+            },
+            "amount": 103
+        },
+        {
+            "create_time": "2020-03-28T19:28:02.967+0800",
+            "owner": {
+                "user_id": 28514445448211,
+                "name": "伊迭",
+                "avatar_url": "https://images.zsxq.com/FpND2B0L-xp28OUssH3Z6CHy4PZb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VZPQ75tnkJdbWg_hhqdWhzrTjrc="
+            },
+            "amount": 470
+        },
+        {
+            "create_time": "2020-03-24T21:10:39.541+0800",
+            "owner": {
+                "user_id": 48881582841418,
+                "name": "疯魔盖子",
+                "alias": "疯魔盖子",
+                "avatar_url": "https://images.zsxq.com/FjHz8bdM7bLxJPrK5xwD1iYLpygW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:npoh5tBjlohu8EAjim58wLdVcew="
+            },
+            "amount": 103
+        },
+        {
+            "create_time": "2020-03-24T14:18:55.455+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "amount": 158
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 815581251444152,
+            "create_time": "2020-03-24T10:50:03.238+0800",
+            "owner": {
+                "user_id": 48554541118288,
+                "name": "三爷一Timo",
+                "avatar_url": "https://images.zsxq.com/FmjjWlBkDM1l6m5IhArx1Ur7oxGg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:85-OFqsNjHQGheToM4cexH5GoQg="
+            },
+            "text": "仁大大，我的文章实战分享的，能弄成精华么[撇嘴]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 182258428182512,
+            "parent_comment_id": 815581251444152,
+            "create_time": "2020-03-24T10:50:55.406+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "别急，每个月底我会把当月所有帖子全部回看一遍，精华不会漏的。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 48554541118288,
+                "name": "三爷一Timo",
+                "avatar_url": "https://images.zsxq.com/FmjjWlBkDM1l6m5IhArx1Ur7oxGg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:85-OFqsNjHQGheToM4cexH5GoQg="
+            }
+        },
+        {
+            "comment_id": 215581251415441,
+            "parent_comment_id": 815581251444152,
+            "create_time": "2020-03-24T10:51:38.111+0800",
+            "owner": {
+                "user_id": 48554541118288,
+                "name": "三爷一Timo",
+                "avatar_url": "https://images.zsxq.com/FmjjWlBkDM1l6m5IhArx1Ur7oxGg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:85-OFqsNjHQGheToM4cexH5GoQg="
+            },
+            "text": "哦哦哦，第一次写，有龙珠我就好好写了[流泪]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 182258428814522,
+            "create_time": "2020-03-24T10:58:54.963+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "大学时鼓捣过网站，但浅尝辄止，如今看来真的错过大金矿",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 215581251144521,
+            "create_time": "2020-03-24T10:59:58.885+0800",
+            "owner": {
+                "user_id": 844184512451442,
+                "name": "阿思",
+                "avatar_url": "https://images.zsxq.com/FpRCmvQLgU4P26vaQGYIOZQ-56cF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFjQa2wd96RvtyH-lkThfb7iRho="
+            },
+            "text": "1.一天广告收入数万块，捡钱的感觉。\n2.我做站群从来不关注内容，内容全是采集来的。我关注的是超级链接，就是整个网络给你的资源，给你的投票，链接才能产生更大的价值。\n3.挖掘关键词是一件很有趣的事情，网民的搜索需求会不断刷新你的三观，这里面有很大很大的信息差，到10年后的2020年依然如此。\n\n厉害，小本本记下。",
+            "likes_count": 2,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 582218528881814,
+            "parent_comment_id": 182258428814522,
+            "create_time": "2020-03-24T11:02:02.258+0800",
+            "owner": {
+                "user_id": 88518551425242,
+                "name": "fjh🙏",
+                "avatar_url": "https://images.zsxq.com/FssAaHZJOtgP04FUQo3F3nRsmdL6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DNsTLGCFoCBnLJJZuXeHnmWNGjI="
+            },
+            "text": "还有机会再",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 815581285418412,
+            "create_time": "2020-03-24T11:52:34.118+0800",
+            "owner": {
+                "user_id": 758544184,
+                "name": "hz517",
+                "alias": "hz517",
+                "avatar_url": "https://images.zsxq.com/FuaDm27UciYzp9VPSAi5ERFmzSQW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:07n54eCmYValAh9KLHdBveXK4zw="
+            },
+            "text": "厉害，真的躺赚",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 815581284485852,
+            "create_time": "2020-03-24T13:22:55.476+0800",
+            "owner": {
+                "user_id": 88248855245842,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/Ft1TBHonbvTUcFmFX4tA3EMd3FQD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:a3P1KrQKfn1tMy4Wy6qQZYRF-XI="
+            },
+            "text": "[大哭]看来思想的宽度很重要啊，我也是个个人站长出生的，我第一次尝到甜头就是07，08年那个时候。我记得最清楚的就是当时穿越火线特别火。然后我就搞了4个穿越火线网站。但当时只是知道码内容。然后卖站。4个站卖了小2W   要是当初懂群站seo做群站估计我也能赚不少[偷笑][偷笑][偷笑]",
+            "likes_count": 2,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 120,
+    "rewards_count": 6,
+    "comments_count": 11,
+    "reading_count": 18857,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-03-24T10:44:05.381+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

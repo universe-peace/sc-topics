@@ -1,0 +1,263 @@
+{
+    "topic_id": 544814258458214,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "“票圈长视频”小程序出发点解决朋友圈发视频不能超过15秒的问题，现在用户数过亿。\n\n“美篇”app出发点是解决朋友圈发照片不能超过9张的问题，现在用户数大几千万。\n\n朋友圈输入法只是为了解决发朋友圈被折叠的问题，做到付费排行榜第一名。\n\n一位身价几十亿的大佬告诉我：要抱紧巨头的大腿，紧紧的跟着大公司走，他们吃肉，我们喝汤，这样就够了。",
+        "images": [
+            {
+                "image_id": 111184552442422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fi2eWETc__OTFktcTz7U_2Mm1L7-?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p6EUSmuBlp-6jFd8_xwgrDHN848=",
+                    "width": 540,
+                    "height": 1185
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fi2eWETc__OTFktcTz7U_2Mm1L7-?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qMp0QB3n0t20SjH5zajfvNwhwSY=",
+                    "width": 800,
+                    "height": 1757
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fi2eWETc__OTFktcTz7U_2Mm1L7-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eqCO9gCZJ4FJlYe4whNSu0Zv07M=",
+                    "width": 1242,
+                    "height": 2727,
+                    "size": 396002
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-25T11:32:12.539+0800",
+            "owner": {
+                "user_id": 88518542125442,
+                "name": "阿凯",
+                "avatar_url": "https://images.zsxq.com/FjMrcz3MtF9RMFYA3g_CPO4V5lpc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZFtnB10N5rPhBbbDT0B8pY4c_qo=",
+                "number": 1156
+            }
+        },
+        {
+            "create_time": "2020-02-13T16:31:07.029+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-07-08T10:17:17.461+0800",
+            "owner": {
+                "user_id": 5445811244,
+                "name": "男宾",
+                "avatar_url": "https://images.zsxq.com/FoXGP4wteh7BcliIV36BGmGch20D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P6McFqzi9I2O7s4Egam3knnLM9k=",
+                "number": 3770
+            }
+        },
+        {
+            "create_time": "2019-06-14T14:33:02.476+0800",
+            "owner": {
+                "user_id": 142581214452,
+                "name": "Yukun",
+                "alias": "garfield",
+                "avatar_url": "https://images.zsxq.com/FjnazYj40dB6VJBBgJfcVajQBLHI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gJs7k7jjRHIoOeHWoiWEL8r9tjc=",
+                "number": 26
+            }
+        },
+        {
+            "create_time": "2019-06-13T14:40:54.437+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-06-13T10:17:48.821+0800",
+            "owner": {
+                "user_id": 28824852551221,
+                "name": "王巍",
+                "avatar_url": "https://images.zsxq.com/FmbWwhQ7QtrPr5CQ6IiXWQ0cx9SF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3QchCW90WEjVipfvS78xnQOQDRE=",
+                "number": 5516
+            }
+        },
+        {
+            "create_time": "2019-06-12T22:23:26.788+0800",
+            "owner": {
+                "user_id": 152845512,
+                "name": "苏",
+                "avatar_url": "https://images.zsxq.com/Fj8ntRD_r4p8TOv-kAaVFkDgY0EZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL86jQGAFyFF-A70trmQdjbCkNI=",
+                "number": 1520
+            }
+        },
+        {
+            "create_time": "2019-06-12T20:26:16.468+0800",
+            "owner": {
+                "user_id": 554555114124,
+                "name": "王文波",
+                "avatar_url": "https://images.zsxq.com/Fnz2CP84s4WnO9e6UCmpZhtnp2OC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:882Of_26rlTI3JMpUYTiW_fw9l8=",
+                "number": 3335
+            }
+        },
+        {
+            "create_time": "2019-06-12T16:07:47.538+0800",
+            "owner": {
+                "user_id": 15584241888542,
+                "name": "璟扬",
+                "avatar_url": "https://images.zsxq.com/FoevK8ZVc1GYO0usDbiX9OfSW6Qh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64vAuxVXU512sedQ6eMKNuOc7kk=",
+                "number": 3137
+            }
+        },
+        {
+            "create_time": "2019-06-11T22:03:48.229+0800",
+            "owner": {
+                "user_id": 2488585281,
+                "name": "逆袭的毛毛",
+                "avatar_url": "https://images.zsxq.com/FnI_cMvlm35ZQUFdUsRibJaRczXg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7morrKsxpCgnKhPoMjXIOyuVAZQ=",
+                "number": 374
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241545514851121,
+            "create_time": "2019-06-10T19:46:04.866+0800",
+            "owner": {
+                "user_id": 518114558244,
+                "name": "watson",
+                "avatar_url": "https://images.zsxq.com/FkWgjX-t95O5Kjxm6UdVdMigMn-B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I2NaYez4UeGwzsDDpRxtz-oX1aE="
+            },
+            "text": "这个算不算“”均具有避开或突破计算机信息系统安全保护措施，不经授权或超越授权获取系统数据的功能",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118212281552582,
+            "parent_comment_id": 241545514851121,
+            "create_time": "2019-06-10T19:47:20.817+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "不算，这个不是在微信本身的功能上去做突破，而是做了新的产品。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 518114558244,
+                "name": "watson",
+                "avatar_url": "https://images.zsxq.com/FkWgjX-t95O5Kjxm6UdVdMigMn-B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I2NaYez4UeGwzsDDpRxtz-oX1aE="
+            }
+        },
+        {
+            "comment_id": 548242284184284,
+            "create_time": "2019-06-10T19:57:31.112+0800",
+            "owner": {
+                "user_id": 8214158422,
+                "name": "钱钰",
+                "avatar_url": "https://images.zsxq.com/FsGW9ZnKn188G6GlQeMFz7QYwNqM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w4vMkFlaBBxamyfYHkzfApiogDk=",
+                "description": "化龙巷创始人，区域互联网领军人物"
+            },
+            "text": "知识星球也是满足了朋友圈内容无法分类留存的需求。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118212281588852,
+            "parent_comment_id": 548242284184284,
+            "create_time": "2019-06-10T20:00:03.525+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "再加上微信群聊内容不好沉淀的场景",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8214158422,
+                "name": "钱钰",
+                "avatar_url": "https://images.zsxq.com/FsGW9ZnKn188G6GlQeMFz7QYwNqM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w4vMkFlaBBxamyfYHkzfApiogDk=",
+                "description": "化龙巷创始人，区域互联网领军人物"
+            }
+        },
+        {
+            "comment_id": 841545511284442,
+            "create_time": "2019-06-10T22:15:03.085+0800",
+            "owner": {
+                "user_id": 225258254151,
+                "name": "约束",
+                "avatar_url": "https://images.zsxq.com/FtQFr7o2fQZdaoitTIyBNIs6ehBV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:N_DrbRnDlNDfISr7j-gTsjXsk10="
+            },
+            "text": "不错，在此星球文章看多了，现在也能深度理解这段话的意思，也能找到一些灵感，说明见识真的很重要😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118212521212282,
+            "create_time": "2019-06-11T09:15:52.799+0800",
+            "owner": {
+                "user_id": 48281551882258,
+                "name": "悉尼刘哥",
+                "avatar_url": "https://images.zsxq.com/FogBY84ItjCr9T4qY-lyxjYYRMsv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:d8RcJio_sF7cBkSkCNIr1T4nIkk="
+            },
+            "text": "跟着大公司走，做周边细分领域服务的思路。学习了[强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241545822825541,
+            "create_time": "2019-06-11T21:58:28.187+0800",
+            "owner": {
+                "user_id": 48581842484528,
+                "name": "萝卜",
+                "avatar_url": "https://images.zsxq.com/FgzVr-dAH7IBZgHT6Wok3LugqMGW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FT0k-C2LrjjKJS3HKMPUdETe0ZI="
+            },
+            "text": "回味一下",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421424225415118,
+            "create_time": "2019-06-14T02:11:48.826+0800",
+            "owner": {
+                "user_id": 5581424884,
+                "name": "新媒体管家 杨震凯",
+                "avatar_url": "https://images.zsxq.com/FjEljqgOODULjf4FWB5xfs3fN4mN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iblsYN3sqF4eYU1YasaP3Pal3tA="
+            },
+            "text": "新媒体管家切了Chrome浏览器插件这个口子，现在已经500万自媒体用户了，也是抓住了一波细分领域的红利[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 58,
+    "rewards_count": 0,
+    "comments_count": 8,
+    "reading_count": 11873,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-06-10T19:36:18.535+0800",
+    "modify_time": "2019-06-10T19:54:33.873+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

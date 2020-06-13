@@ -1,0 +1,221 @@
+{
+    "topic_id": 15118115554442,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />\n 今天给大家介绍一个很有意思的产品- doctorSIM。母公司创建于2007年，提供帮助用户解锁手机的服务。 \n\n解锁手机这项服务不知道大家知不知道？ 鱼丸还是在整理这个案例时，才知道有这么一个市场，也才知道有这么大的空间。\n\n举个例子帮助大家理解下解锁手机的场景：在移动营业厅办手机卡送iPhone手机，如果未来换联通卡，手机会被锁住，这时候就需要解锁手机，大家也可以在淘宝上搜索“解锁手机”关键词了解具体信息。\n\ndoctorSIM 就是一个提供这样服务产品。现在doctorSIM是一个20人的团队，分别在全球7个国家设有办事处，每月的收入为40万美元，对，没看错，近280万人民币。\n\n这个团队刚开始创业时，最初的痛点起源于为什么手机上选择一个适合自己的数据套餐这么复杂？比如短信套餐、语音套餐、数据流量套餐，想必大家也有过类似的经历。\n\n如果可以根据实际情况从每个运营商那里获取到捆绑套餐，会不会很棒？\n\n用户知道自己的需求，他只需要告诉你我每个月打100分钟电话，200条短信，5个G的流量，工具就可以自动推荐合适的套餐。\n\n08年，他们做出了解决这个问题的产品，但是奇怪的是，没有人愿意为之付费，试图通过广告和联盟计划来赚钱，但因为有重大缺陷不可行。\n\n也许是因为低频且非刚需，用户不愿意花钱。\n\n这其中还踩过一些坑：\n\n1.在Visual Basic中构建原型？ 具体为啥这个是坑呀？ 难道是因为VB太弱了？ \n2.将开发外包给四人小组，而不是自己组建团队；\n4.需求不断反复，浪费掉很多开发资源；\n5.简单的一个小工具，产品却设计的过于复杂。\n\n此时他们有意识想开发新的产品，注意到很多手机在转换运营商时，都需要先解锁手机，他们想做一个工具可以帮助用户安全、无忧、简单、透明、合法地远程永久解锁手机。\n\n但是，这个解锁技术很复杂，并非几天能搞定。\n\n他们想快速的验证下这个市场，于是上了一个带有PayPal支付的着陆页，告诉大家付费可以购买手机解锁服务，并从之前的套餐计算器导了些流量过来。\n\n上线24小时后，他们就发现这款产品很有市场，着陆页的转化率远远超过了15%，收到的用户反馈比之前任何产品都要多。\n\n于是他们决定all in 投入。\n\n不过，与上次创业不一样的地方是，这次的所有产品上面要开发的功能，他们都会去人工先验证无数遍：确保需求真实。\n\n开发这样的技术需要投入大量的开发人员，三个创始人追加了16万美金的投入，团队人数达到了11人，每月消耗35000美元。\n\n不过资金依然很紧张，这时他们采用了国家赞助的贷款计划，贷了50w美金，其中30%的资金做为股权投资。\n\n这些资金帮助他们用更好的方法来构建平台，也方便了国际扩展，在6个月内，就实现了盈亏平衡，在12个月后，实现了盈利，在4年内，还清了所有贷款；\n\n起初市场是西班牙，后来开拓了拉丁美洲，并在马德里，墨西哥，智利、波士顿，伦敦都设了办事处。\n\n他们获取用户的秘诀很简单：真的把用户当上帝，通过口碑传播来获客。 \n\n同时，他们也把之前套餐计算器的服务免费了，为新的产品引流。 \n\n解锁手机是一个客单价很低但是需求量非常大的业务，好在这是一个全球性的业务，价格从几美元到100美元之间，在过去的2-3年里，每月的收入基本一直维持在40万美元。。\n\n更多细节可以点击原文阅读 \n<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fthe-million-dollar-pivot-cell-phone-unlocks-as-a-service-5a3857418a\" title=\"The+Million-Dollar+Pivot%3A+Cell+Phone+Unlocks+as+a+...\" />",
+        "images": [
+            {
+                "image_id": 28481241522141,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgCqpCh_zgeYp7Dm34IQE4tHMaaw?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uOk5R_32BjTwK39_UTpWvF9R0uY=",
+                    "width": 320,
+                    "height": 257
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgCqpCh_zgeYp7Dm34IQE4tHMaaw?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H51-OibK0q61slSNohNVYy7XVKY=",
+                    "width": 800,
+                    "height": 641
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgCqpCh_zgeYp7Dm34IQE4tHMaaw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1MNI4K4-sqo-s8SaqnbmaD4c8sU=",
+                    "width": 1800,
+                    "height": 1443,
+                    "size": 1529526
+                }
+            },
+            {
+                "image_id": 51418548255844,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FmFKksLyox6OcsIqXqCReX66E3cG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pXipuC3LcujKi7XsNvZ4VZMliP8=",
+                    "width": 320,
+                    "height": 177
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FmFKksLyox6OcsIqXqCReX66E3cG?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5Fl2SeyZvEi5ys6uLdGsoEagcNg=",
+                    "width": 800,
+                    "height": 441
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FmFKksLyox6OcsIqXqCReX66E3cG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8FAgAzwGCJMfmWEMB26OwlEKKcc=",
+                    "width": 1800,
+                    "height": 993,
+                    "size": 792905
+                }
+            },
+            {
+                "image_id": 15158418244882,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fla2076P5KrUqzw95crYIwIPm1h-?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mxU-T9MGX-tjG00TZbeiwAkvbZU=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fla2076P5KrUqzw95crYIwIPm1h-?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IGT-NA7dEJSMgBBlf02rAh09AtE=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fla2076P5KrUqzw95crYIwIPm1h-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JtGjLkUPZhk59PswBGYB0zdCPe0=",
+                    "width": 1800,
+                    "height": 1013,
+                    "size": 2774282
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-23T14:50:55.940+0800",
+            "owner": {
+                "user_id": 844415442188822,
+                "name": "槐香城",
+                "avatar_url": "https://images.zsxq.com/FqciCQkFCoyF6ZU9wKWS7TKD99R8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bqWD6Zx03X8y04QdLf5bid98idE=",
+                "number": 6180
+            }
+        },
+        {
+            "create_time": "2019-06-01T09:53:28.737+0800",
+            "owner": {
+                "user_id": 118228155811852,
+                "name": "亚光",
+                "avatar_url": "https://images.zsxq.com/FkrRZHKkUYMQbY8ft_OYTwpYHmKz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HFeVw4W0EN5i-VYS3VkrfP6_tXM=",
+                "number": 5705
+            }
+        },
+        {
+            "create_time": "2019-05-04T14:28:55.571+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-24T22:36:35.110+0800",
+            "owner": {
+                "user_id": 481211215818,
+                "name": "重复灰兔",
+                "avatar_url": "https://images.zsxq.com/Ft12rcW1DnBZQV__hXDMTFpekZS9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qtdSqF9OXRB-WkyuvV21H8OxT68=",
+                "number": 2623
+            }
+        },
+        {
+            "create_time": "2019-04-24T20:57:57.271+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T20:09:16.777+0800",
+            "owner": {
+                "user_id": 555224488584,
+                "name": "安之",
+                "avatar_url": "https://images.zsxq.com/FnHLqSXEG_17RCOxa_fxYWdOqxVk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NGfvLsUiFsWED7n4ItoPV24KAg4=",
+                "number": 2761
+            }
+        },
+        {
+            "create_time": "2019-04-22T17:32:24.915+0800",
+            "owner": {
+                "user_id": 88448282211222,
+                "name": "vince",
+                "avatar_url": "https://images.zsxq.com/FrG-eUBRnKIbqgBracbJcUYoloVN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZM8amBR5-8L5soxrbzaJCsU9k7g=",
+                "number": 4102
+            }
+        },
+        {
+            "create_time": "2019-04-22T13:55:07.383+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-02-07T14:17:07.471+0800",
+            "owner": {
+                "user_id": 825885511452,
+                "name": "william wu",
+                "avatar_url": "https://images.zsxq.com/Fscxs1RiOrPjJQO63ycPYtFd_rV3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Nn3wuIOm9bO-itbZsOguT_sZ9Ek=",
+                "number": 1251
+            }
+        },
+        {
+            "create_time": "2019-01-16T08:57:01.733+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k=",
+                "number": 1574
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-01-12T10:56:06.997+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 188
+        },
+        {
+            "create_time": "2019-01-12T15:58:57.165+0800",
+            "owner": {
+                "user_id": 142584124452,
+                "name": "斗转星移",
+                "alias": "无双",
+                "avatar_url": "https://images.zsxq.com/FjMyknRiofKoVSvjYgndZwAHPhvH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9Xqzr69R3E9IYsnv9mRKaouLHI="
+            },
+            "amount": 1888
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841588851125852,
+            "create_time": "2019-05-04T14:29:19.921+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI="
+            },
+            "text": "感谢分享，虽然看不懂[偷笑]",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 33,
+    "rewards_count": 2,
+    "comments_count": 1,
+    "reading_count": 11695,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-01-11T21:55:55.873+0800",
+    "modify_time": "2019-01-11T21:56:16.878+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "topic_id": 222814825541,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 228241154821,
+            "name": "Arki",
+            "avatar_url": "https://images.zsxq.com/FmvZfGfmLs9K-PkkVEVmdEdfN8h4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mqRtCstKxilayP9ixIslRVaHLEA="
+        },
+        "text": "分享一个机票代订的思路，尤其是国际航班的公务舱/头等舱。\n\n一句话概括：里程换票。\n\n详细说明：第一张图是闲鱼上搜索“公务舱/头等舱”，结果中典型的商品价格。我们来看第一个，北京-北美（以洛杉矶为例），单程公务舱市场价2.5万，定制价1.5万。如果用里程换票，实际成本多少？我们来看第二张图，北京-洛杉矶的里程兑换查询结果，例如最后一列，United Airlines（美联航）兑换business舱（公务舱）需要7万UA里程。那UA里程值多少钱？来看第三张图，还是闲鱼，搜索“ua里程”，看到1万UA里程价格在1200元以内，那么7万UA里程价格在7*1200=8400元以内。如果有个老板购买了定制价1.5万的北京-洛杉矶公务舱机票，那么至少净赚15000-8400=6600元。\n\n补充说明：\n1. 定制该类服务的老板不差钱，但也在乎钱，当享受完服务后，会乐意推荐给身边的朋友。做得好的代订服务，一个月能接十几单，并且客源稳定，复购率高。\n2. 通常越贵的价格利润越高。\n3. 通常收里程的成本低于图中闲鱼搜索到的价格。\n4. 当航空公司搞里程促销时，成本还能降低更多，例如图中Alaska Airlines（阿拉斯加航空）的里程价格可以做到比United Airlines（美联航）更低，而且兑换北京-洛杉矶的公务舱只需花费5万里程，折算下来成本又降低了1/3。\n5. 购买里程或参与里程活动，通常使用境外返现的信用卡，至少返现10%且积累信用卡积分，信用卡积分又能兑换里程，进一步降低成本。\n6. 热门航段热门时期的里程票可能被很早抢完，以及部分航空公司的兑换受让人有生效规则，这个有影响，但不明显。",
+        "images": [
+            {
+                "image_id": 458121524558,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvtPHFkMHRg7vN9-I2HhXm18sAyt?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:koOb_JBW66T_bGuLxtJfC0nltvQ=",
+                    "width": 320,
+                    "height": 387
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvtPHFkMHRg7vN9-I2HhXm18sAyt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggrqYxTOn4WBdEG2Qt61DaWc9CQ=",
+                    "width": 535,
+                    "height": 647
+                }
+            },
+            {
+                "image_id": 828141245222,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsRbfgeKBKby-1n-jgqxPz0d3sHO?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nE5RwHf48EwFcIbHa55IVxuXn4w=",
+                    "width": 320,
+                    "height": 218
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsRbfgeKBKby-1n-jgqxPz0d3sHO?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s8MLyzyn-eb7of7ZXKhC2Yh8np0=",
+                    "width": 800,
+                    "height": 545
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FsRbfgeKBKby-1n-jgqxPz0d3sHO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yj01KHw9N0YQuK46toowqZ8TWWo=",
+                    "width": 846,
+                    "height": 577,
+                    "size": 136520
+                }
+            },
+            {
+                "image_id": 551848542554,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhzF9jrVp5nrtOs5oQOaRDNuLD2s?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:civNiYGFkz23qa5pvgIP1c3BSyM=",
+                    "width": 320,
+                    "height": 570
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhzF9jrVp5nrtOs5oQOaRDNuLD2s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IfuoWSq96G9bu65kN3hTM2M2GPU=",
+                    "width": 719,
+                    "height": 1280
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-09T15:37:21.136+0800",
+            "owner": {
+                "user_id": 422218151245418,
+                "name": "似水流年",
+                "avatar_url": "https://images.zsxq.com/Ft3OXpWywEWs-ZkXzajUzsJ5tLOG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1SiB41sdj13sCU9Z06JJaxDokw4=",
+                "number": 6356
+            }
+        },
+        {
+            "create_time": "2020-03-25T14:32:32.787+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-12T01:27:31.847+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-28T16:15:30.588+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-07-27T14:39:57.506+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-06-19T11:51:05.732+0800",
+            "owner": {
+                "user_id": 1152821252,
+                "name": "申虎",
+                "avatar_url": "https://images.zsxq.com/FqGSLHZ5Ve_1DyKH7e-3SgPgrhuC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:13VZujFGjUT9baSI5b8Oi3hLq6I=",
+                "number": 5520
+            }
+        },
+        {
+            "create_time": "2019-05-30T08:52:11.603+0800",
+            "owner": {
+                "user_id": 824242224282,
+                "name": "月汐",
+                "avatar_url": "https://images.zsxq.com/FvLz8AwKs_f2IUOAWJ6mIkX7RHDH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Db0tFtRSsk4J8U90gmk2bUP0S8g=",
+                "number": 5785
+            }
+        },
+        {
+            "create_time": "2019-05-23T23:48:24.333+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-01T13:53:38.966+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-04-04T18:34:04.986+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-01T00:57:25.660+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1666
+        },
+        {
+            "create_time": "2017-04-01T05:15:58.407+0800",
+            "owner": {
+                "user_id": 881112158452,
+                "name": "Max Guo",
+                "alias": "Max Guo",
+                "avatar_url": "https://images.zsxq.com/Fi87pELO2IqBCV4V-rimrifwGqWJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6M2dl1CR1yOjZOnucKN7V8fZ21I="
+            },
+            "amount": 600
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228188482581,
+            "create_time": "2017-04-01T00:53:57.074+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "哎，嘿哈",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458188285458,
+            "create_time": "2017-04-01T00:54:05.322+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "这事我熟",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551811415284,
+            "create_time": "2017-04-01T00:54:46.897+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我是懒得赚这个钱，我旧文有写",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 228188482241,
+            "create_time": "2017-04-01T01:00:11.661+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我有篇旧文，商旅服务的水有多深，可以翻出来看看。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 828188482452,
+            "create_time": "2017-04-01T01:02:10.392+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我薅了加航一年 ，那一年我回国全程新航商务舱啊，后来人家改里程兑换表了， 又薅了三次英航，享受了三次国泰商务舱。现在懒得搞了。大招你没说出来，信用卡啊啊啊",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551811415454,
+            "create_time": "2017-04-01T01:02:45.997+0800",
+            "owner": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            },
+            "text": "我今天案例讲信用卡薅里程来着，但最狠的没讲。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 145855151842,
+            "parent_comment_id": 228188482241,
+            "create_time": "2017-04-01T01:08:52.909+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "是这篇？ <e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrTrzmRRBVTBalBG7mlcdnQ\" title=\"%E4%B8%80%E4%B8%AA%E6%82%B2%E4%BC%A4%E7%9A%84%E6%95%85%E4%BA%8B\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201704%2F6fe3fa80c74fe02d3ae7bbd994dac68b67021d4a585498b859f11ad2fef0c01f\" />",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            }
+        },
+        {
+            "comment_id": 828188481882,
+            "parent_comment_id": 551811415454,
+            "create_time": "2017-04-01T01:14:42.948+0800",
+            "owner": {
+                "user_id": 228241154821,
+                "name": "Arki",
+                "avatar_url": "https://images.zsxq.com/FmvZfGfmLs9K-PkkVEVmdEdfN8h4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mqRtCstKxilayP9ixIslRVaHLEA="
+            },
+            "text": "我这样算不算砸人饭碗😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1484141222,
+                "name": "Caoz",
+                "avatar_url": "https://images.zsxq.com/Fq1ec0LaMgzg1iEwJesuuOoekfTn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gitkG3UJjUIIFGyx27kihI1V6bQ=",
+                "description": "曹政，caoz的梦呓公众号作者，创业者。"
+            }
+        }
+    ],
+    "likes_count": 17,
+    "rewards_count": 2,
+    "comments_count": 25,
+    "reading_count": 2200,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-01T00:51:36.309+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "topic_id": 48415154812858,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />  <e type=\"hashtag\" hid=\"1155154842\" title=\"%23%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A%23\" />  \n\n我一直崇尚精益做事，如非必要，不做。\n\n但今天却干了一件非常不精益的事，复盘下，当个案例分享给大家。  \n\n我们讲精益，指用最小的时间和金钱成本，来测试出需求是否可以满足。 始终都清晰的知道我们的需求和目标是什么，能够帮助我们少走很多弯路。\n\n今天我的这个案例，就是一个非常典型的不精益的例子，本来可以通过1分钟测试完成的事情，却整整花了两个半小时。 \n\n中午在blackhatworld.com上看到一个不错的帖子，该帖楼主回复了五六十楼，有些回帖给了我一些启发，萌生想法，将这些帖子整理出来分享给生财有术的圈友。\n\n由于有几百层楼，挨个去找楼主的帖子会比较费时。找了很久的“只读楼主”功能也没找到，不过在帖子的最后， 发现有人将该楼主在此贴里所有的发言整理成一个PDF文档，惊喜，果断下载。\n\n下载完成后，考虑到生财有术里有些圈友阅读英文文档有难度，思考怎么将这份PDF文档自动翻译成中文的。 \n\n然后依次做了以下几个事情\n\n1. 由于无法直接复制PDF上的文字，尝试直接找到网站翻译PDF文档。 \n\n找到一个方法是将PDF文档上传到Google Drive， 然后用Google Docs打开这份PDF文档，再用谷歌翻译来翻译这份文档。 尝试后Google Docs可以打开这份文档， 但是翻译后一堆乱码，原因未提示，猜测可能是PDF文档本身的格式问题。 \n\n2. 猜测是PDF本身文档格式的原因后，考虑将PDF文档转换成Word文档， 再对Word文档进行翻译。\n\nGoogle搜索到Adobe Reader具有直接将PDF文档转化成Word文档的功能， 找了一台Windows电脑， 安装Adobe Reader，打开这份PDF文档后转换失败，仍然未知原因，失败。\n\n3. 本地PDF转Word失败后，考虑在网上直接找到PDF转Word的网站。\n\n试了十几个网站，大多数因为PDF文档本身太大上传失败，少数网站上传成功但是提示转化失败，没有明确提示原因。这时候大概感觉到可能原因是这份PDF文档是图像型的，无法直接转化成Word文档。\n\n4. 认识到PDF文档格式无法直接转换后，考虑图像识别的思路。\n\nGoogle搜索\"PDF OCR\"，试验搜索结果第一页的几个网站，绝大多数是PDF文档太大上传失败，只有一个网站<e type=\"web\" href=\"http%3A%2F%2Fnewocr.com\" title=\"Free+Online+OCR+-+Convert+JPEG%2C+PNG%2C+GIF%2C+BMP%2C+TIF...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2F0d7d09b64e69f9adf7e509237335dfdaf3ed42da492aed30fcd5e574a1af1aa9\" />  可以识别成功，但只能一页一页识别。 如果需要识别50页， 需要操作50次。 我认为网络上应该有一键ocr识别全部PDF文档的功能，继续探索。 \n\n5. 尝试将PDF文档转换成图片格式，再对图片进行OCR识别，也许可以解决只能识别一页的问题。\n\n于是通过Mac自带的阅读器把这份PDF文档导出成PNG格式的文档， 通过Googl搜索“PNG OCR\"，试用搜索结果第一页的网站，均只能识别第一页PNG，后面49页PNG均丢失，失败。\n\n6. 仍然没有放弃，找到一款Windows上面OCR识别软件，发现无法识别英文文档，失败。\n\n这时候，已经过去两个小时了。\n\n7. 返回头，搜索是否有其他人将楼主的所有帖子整理出来，而且是文字型的PDF，没找到，失败。 \n\n8. 试了这么久，只有第4点的路是通的， 考虑到没有别的通的路， 只能操作50次，将50页的PDF英文文档，全部识别成txt， 并且复制到一个笔记里面。\n\n9. 终于到最后一步，将这份整理出来的文字笔记通过谷歌翻译成中文的， 结果发现， 翻译出来的结果可读性太差，根本没法提供给圈友。。。\n\n到此，耗费我两个半小时。 \n\n再次回顾下，我的目标是为小密圈的圈友提供一份中文文档，方便不懂英文的圈友阅读。但在整个过程中，我却把所有的注意力放在了文档翻译的技术实现上，但是否可读却没有关注，导致花费了两个多小时却发现产出的结果根本不能用。 \n\n再次深刻认识：凡事，先问能不能，再问好不好。\n\n如果我重新来过， 我会做的第一件事是：\n\n直接复制楼主的一段话贴到谷歌翻译里面去，看看翻译出来的中文是否具有可行性， 没有的话就不用再继续考虑机器翻译这条路。 \n\n一分钟就发现： 此路不通，请绕行。",
+        "images": [
+            {
+                "image_id": 48415224851418,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FjPN3bNmrZfs3yn8-G10OKMmSt9s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yyljNqbpkNXdb1UwuYd-CTKz4Jo=",
+                    "width": 280,
+                    "height": 202
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FjPN3bNmrZfs3yn8-G10OKMmSt9s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yyljNqbpkNXdb1UwuYd-CTKz4Jo=",
+                    "width": 280,
+                    "height": 202
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T20:45:38.617+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-17T11:50:01.238+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-08-08T19:51:48.314+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-31T23:01:06.505+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-04T23:28:56.648+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-31T22:31:23.478+0800",
+            "owner": {
+                "user_id": 88258815458552,
+                "name": "Rock",
+                "avatar_url": "https://images.zsxq.com/FhQxsT-SU_6Wyi0vws_LVanwwX4O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VZDKLhxTswPWwRSs69S65DLj7Dw=",
+                "number": 2787
+            }
+        },
+        {
+            "create_time": "2019-05-22T16:57:37.237+0800",
+            "owner": {
+                "user_id": 512225484,
+                "name": "张萌萌",
+                "avatar_url": "https://images.zsxq.com/Fn0FXB9GTtz8zGk9s6S0SIFeq5sr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YHDoORCXM5hEGtAya3T6Krj6vq8=",
+                "number": 3996
+            }
+        },
+        {
+            "create_time": "2019-05-11T14:42:34.202+0800",
+            "owner": {
+                "user_id": 145824551882,
+                "name": "真皮哥邓坤伟",
+                "alias": "真皮哥邓坤伟",
+                "avatar_url": "https://images.zsxq.com/Fn_oK5iFJQJFLJjIT-Vb8k8NaO8D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c7ZfWlzB-npgfijGTQbDhE8MIes=",
+                "number": 433
+            }
+        },
+        {
+            "create_time": "2019-04-29T16:45:53.491+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-27T06:23:15.288+0800",
+            "owner": {
+                "user_id": 88284125511442,
+                "name": "勇敢的心❤5566",
+                "alias": "实习生",
+                "avatar_url": "https://images.zsxq.com/FhYEbzx-3QYb00KT1vzsEAgP-981?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:213GQLTeX1A6vtFhL5-gI4ZcxEw=",
+                "number": 3843
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-29T21:00:17.181+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2017-05-29T10:56:02.915+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 150
+        },
+        {
+            "create_time": "2017-05-29T00:30:48.808+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "amount": 388
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28514882151841,
+            "create_time": "2017-05-29T00:17:05.779+0800",
+            "owner": {
+                "user_id": 718112412,
+                "name": "弛哥涨资势",
+                "avatar_url": "https://images.zsxq.com/Fma8Fyokx8kdQ90zA0mA3bOj7Y8k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-MC_Kp_ZD0L4O5G4nDhCUDs6Sto="
+            },
+            "text": "没试过直接用Google translate翻译页面吗",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88514882151282,
+            "parent_comment_id": 28514882151841,
+            "create_time": "2017-05-29T00:18:08.038+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "试过了，谷歌翻译不识别这种格式的PDF文档",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 718112412,
+                "name": "弛哥涨资势",
+                "avatar_url": "https://images.zsxq.com/Fma8Fyokx8kdQ90zA0mA3bOj7Y8k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-MC_Kp_ZD0L4O5G4nDhCUDs6Sto="
+            }
+        },
+        {
+            "comment_id": 48412885184158,
+            "create_time": "2017-05-29T00:25:20.994+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "佩服圈主的耐心和坚持不懈，简直感人，原来大牛做事也会这样，以后我等小辈做事还有什么借口可以半途而废😂😂",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48412885188548,
+            "create_time": "2017-05-29T00:30:41.752+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "辛苦了圈主👍👍👍\n同时，求pdf文档。英文没有关系。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28514882188281,
+            "parent_comment_id": 48412885188548,
+            "create_time": "2017-05-29T00:31:09.960+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "明天传",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            }
+        },
+        {
+            "comment_id": 15281554854812,
+            "create_time": "2017-05-29T00:37:52.882+0800",
+            "owner": {
+                "user_id": 228241422241,
+                "name": "高大树",
+                "avatar_url": "https://images.zsxq.com/Flu531rdxqU2bbR1CnyeeA4xcHXT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Pe2C_knLZtL2dSjrDjydak2fNHw="
+            },
+            "text": "ocr文字识别用abbyy",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88514882184512,
+            "create_time": "2017-05-29T00:40:48.861+0800",
+            "owner": {
+                "user_id": 144221112442,
+                "name": "lee",
+                "avatar_url": "https://images.zsxq.com/Fnag6CoRLzk6h5bizD35qpKswyQu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2jnUc1oKB_TqHmLZbkmpbxLQjX0="
+            },
+            "text": "我认为有资料可以先发出来，不一定要有中文版的。如果有价值并且看的人多，可以发动部分圈友一起来帮忙翻译，人多力量大，免得亦仁一个人工作量太大，也避免辛苦做好发出来没多少人看的情况。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88514882122222,
+            "create_time": "2017-05-29T01:25:39.404+0800",
+            "owner": {
+                "user_id": 5444418284,
+                "name": "Endeavour",
+                "avatar_url": "https://images.zsxq.com/FreDsZ_xF5OmI8-Vo4asLQXntq5k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9PcBJR30yL_clhelSfcjuai42s="
+            },
+            "text": "亦仁老师辛苦啦",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 52,
+    "rewards_count": 3,
+    "comments_count": 15,
+    "reading_count": 2052,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-29T00:10:51.429+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

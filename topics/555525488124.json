@@ -1,0 +1,263 @@
+{
+    "topic_id": 555525488124,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 1112441142,
+            "name": "郑伊廷",
+            "avatar_url": "https://images.zsxq.com/Fr6ZDL4_UoRJd-uQIsU6dUxc8I_i?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9noBK0t5Lv7MAgrGseTJdoxC0dU="
+        },
+        "text": "大家好，我是全栈营创办人 郑伊廷 xdite(与笑来合作）,受亦仁老师邀请也加入这个圈子。\n\n很高兴认识大家！我的专长是编程与元学习与增长黑客。\n\n公众号是 xdite-growth"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-28T17:23:01.102+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-24T23:41:08.925+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-08-06T08:04:09.609+0800",
+            "owner": {
+                "user_id": 2441254211,
+                "name": "何校长 | 九州资本",
+                "avatar_url": "https://images.zsxq.com/FnelTU1QvEms4VxVJgRXmJQKrQli?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Parr1dYJm0xU3Mf98R5CEKgp8gg=",
+                "number": 145
+            }
+        },
+        {
+            "create_time": "2017-04-04T22:53:44.877+0800",
+            "owner": {
+                "user_id": 4245558458,
+                "name": "Elsa W",
+                "avatar_url": "https://images.zsxq.com/FqeRqOqplmX61oCK9NLOn8_uN3pD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B1LvvYxap4aTbeO1MbVGo7lgNTA=",
+                "number": 778
+            }
+        },
+        {
+            "create_time": "2017-04-04T11:41:21.472+0800",
+            "owner": {
+                "user_id": 228241425521,
+                "name": "饶著",
+                "avatar_url": "https://images.zsxq.com/FraHWnG-TaQKfVLc1FvIKXYXBtrL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5K7mNiz-bhhvWpnO5FckLX2n1EY=",
+                "number": 7
+            }
+        },
+        {
+            "create_time": "2017-04-04T08:42:57.948+0800",
+            "owner": {
+                "user_id": 881112158452,
+                "name": "Max Guo",
+                "alias": "Max Guo",
+                "avatar_url": "https://images.zsxq.com/Fi87pELO2IqBCV4V-rimrifwGqWJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6M2dl1CR1yOjZOnucKN7V8fZ21I=",
+                "number": 445
+            }
+        },
+        {
+            "create_time": "2017-04-03T17:52:49.079+0800",
+            "owner": {
+                "user_id": 1158421182,
+                "name": "小燕子🙈🙉🙊",
+                "avatar_url": "https://images.zsxq.com/Flb8e0gvLvLrg7H2XAhjVjl2tP9B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ck-Wc0O2N9YqnaAC6my0UhsViGY=",
+                "number": 232
+            }
+        },
+        {
+            "create_time": "2017-04-03T13:18:05.362+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA=",
+                "number": 626
+            }
+        },
+        {
+            "create_time": "2017-04-03T11:02:44.830+0800",
+            "owner": {
+                "user_id": 512822114,
+                "name": "条形马",
+                "avatar_url": "https://images.zsxq.com/FjfBLucywFjv6knjWRPeu3gxokLq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lcn7yNEDP38AmsaLEzrn2vlj5Zo=",
+                "number": 392
+            }
+        },
+        {
+            "create_time": "2017-04-03T09:33:29.440+0800",
+            "owner": {
+                "user_id": 828114824282,
+                "name": "A潘典 君和联行",
+                "avatar_url": "https://images.zsxq.com/FlWHz2VgWZ8r45TFSZzg4QfQ1CVp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hdycaOVDFgWuQLIaaWgJSVrVz4I=",
+                "number": 650
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-02T16:00:08.223+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 16666
+        },
+        {
+            "create_time": "2017-04-02T18:29:31.111+0800",
+            "owner": {
+                "user_id": 481182845448,
+                "name": "坚果",
+                "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+            },
+            "amount": 900
+        },
+        {
+            "create_time": "2017-04-02T17:48:21.273+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4="
+            },
+            "amount": 888
+        },
+        {
+            "create_time": "2017-04-02T16:11:48.103+0800",
+            "owner": {
+                "user_id": 881185152852,
+                "name": "莫宁兔",
+                "avatar_url": "https://images.zsxq.com/FhfLYn1YusazuwUZnaV-3ucD-8Et?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6i0ULmr38mxNKUVG1gyhYo3T7i8="
+            },
+            "amount": 688
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228128282181,
+            "create_time": "2017-04-02T16:02:54.862+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "欢迎xdite老师，简单介绍下xdite老师：Xdite（郑伊廷），台湾有名的软件技术开发者，Growth School 创始人，新生大学软件学院联合创始人。目前从事 Growth Hack / Ruby on Rails / Agile Project Management 主题的技术培训以及教育培训，在台湾半年连开 17 场 Growth Hack 讲座。曾在 2012 年获得 Facebook World Hack 黑客松世界奖，并著有《Growth Hack 这样做》一书。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828128224822,
+            "create_time": "2017-04-02T16:47:38.547+0800",
+            "owner": {
+                "user_id": 484284248,
+                "name": "云临",
+                "avatar_url": "https://images.zsxq.com/Fv7n7z32LALVAmyH5n4-5j_quJTe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e282KnL23MCypmbCKyPp7WguhT0="
+            },
+            "text": "欢迎郑老师！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458158242818,
+            "create_time": "2017-04-02T17:10:23.081+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "text": "欢迎Xdite老师",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458158288188,
+            "create_time": "2017-04-02T17:33:11.108+0800",
+            "owner": {
+                "user_id": 828185141512,
+                "name": "murmur",
+                "avatar_url": "https://images.zsxq.com/FuGRqUp5u4Fb3li4uJ_NWXcDhLZ1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:idD6XVpMfTNIZA9QHXlqrPr3-9g="
+            },
+            "text": "大牛",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828128445552,
+            "create_time": "2017-04-02T18:29:25.982+0800",
+            "owner": {
+                "user_id": 481182845448,
+                "name": "坚果",
+                "avatar_url": "https://images.zsxq.com/Ft0va9euPjWGkRafOUC2fvpS4xqX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:84uP_JA0vhM42TLPt3OB0kA-yHk="
+            },
+            "text": "就是冲着您好想去全栈营学习，可是网上搜索的结果好像对你们不是很有利。明天就开课了，仍然纠结中。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145845185482,
+            "create_time": "2017-04-02T19:26:23.744+0800",
+            "owner": {
+                "user_id": 551584451444,
+                "name": "孟相",
+                "avatar_url": "https://images.zsxq.com/FkIUoQTow1j1KV8wmbS_Dr1rBoox?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FcAMpHhJvWZRpoI5KZc_fBPGPE8="
+            },
+            "text": "👍",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 145845842142,
+            "create_time": "2017-04-02T19:41:18.443+0800",
+            "owner": {
+                "user_id": 454184418548,
+                "name": "Ethan",
+                "avatar_url": "https://images.zsxq.com/FlzZkUHijjc2mbhvn98sZ8CE3Xq_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SHBT_0Y768wwXtW-mqzi0PdfhFE="
+            },
+            "text": "欢迎",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551851858554,
+            "create_time": "2017-04-02T20:06:09.241+0800",
+            "owner": {
+                "user_id": 881881554522,
+                "name": "赵敬东",
+                "avatar_url": "https://images.zsxq.com/FiUy8e67YliSSFIBcsLujG6rPBcQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2yBB-pfyrV9pXgk0gTGTXd5P4eM="
+            },
+            "text": "Xdite老师，高兴在这里见到您。我也加入了您的小密圈😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 43,
+    "rewards_count": 4,
+    "comments_count": 12,
+    "reading_count": 1709,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-02T15:59:23.879+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

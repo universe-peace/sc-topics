@@ -1,0 +1,264 @@
+{
+    "topic_id": 28488822115421,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 2488248441,
+            "name": "小小",
+            "alias": "01",
+            "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n今天介绍的案例是帮用户清除“污点”的Scrubber，帮用户找到并清除自己社交网络历史中的“不当”内容（如脏话、关于毒品、酒精、性或政治的内容），可以创造3,800美元/月的收入。\n\n包括用户发布的内容，用户给别人的评论，别人给用户的评论，提到用户的评论等。还有自定义关键词功能，可以标记出包含特定人名、职位或组织的内容。\n\nScrubber解决的问题非常具有话题性，不仅人们会口口相传，媒体也愿意报道这样的东西，Scrubber曾被Cosmopolitan、华尔街日报和Good Morning America报道，这对产品的启动非常有用。\n\n盈利方式：用户可以免费注册，扫描出不当内容后，可以自行在社交网络帐号中找到并删除；如果怕麻烦或内容较多找起来麻烦，可以付费由Scrubber提供链接直接定位。另外如果用户想要在Scrubber每次技术升级后重新扫描一次，则需要月付一笔费用。（大多数用户付款扫描一次后会直接走掉）\n\n值得一提的是，Scrubber实际做的功能是“帮用户找到不当信息”，删除仍然需要用户手动删除，这应该是因为Facebook等没有提供接口供第三方删除内容。但这种做法也是制作MVP的一种简化手段，甚至在设计一个完善产品时也可能会用到：“需要解决的问题”并不一定完全等于“提供的解决方案”。\n\n想法&MVP&启动：\n\n作者于2017年真正开始Scrubber的工作，而此时他已经产生这个想法3年了。这个想法是由一个叫4SquareAnd7YearsAgo（现Timehop：<e type=\"web\" href=\"https%3A%2F%2Fwww.timehop.com\" title=\"Timehop\" cache=\"\" />）的APP启发的，从那时他开始对“Digital History”这个概念感兴趣，他想到再过几十年，人们的“Digital History”会变得多么庞杂和难以管理。\n\n他把这个想法告诉了女友，女友非常看好这个点子。她当时在读法律，她说她的一个同学非常担心自己在Twitter或Facebook上的一些不当言论会影响她今后的法律生涯。作者立马在自己的笔记本电脑上做了一个原型拿给几个朋友看，得到了很好的反馈，但作者又耽搁了一年没有发布。\n\n一年后作者上线了网站，一个来自 Cosmopolitan杂志 的作家不知怎么发现了网站并写了一篇文章，在1天之内为他带来了10,000个用户，Scrubber就这样启动了。后来得益于人们的口口相传，网站又被华尔街日报和Good Morning America报道。\n\n发布时间：2017年\n运营渠道：<e type=\"web\" href=\"https%3A%2F%2Fwww.scrubber.social\" title=\"Clean+up+embarrassing+posts+from+your+Facebook%2C+Tw...\" />\n流量概况：5,000UV/月（2018.6-2018.8均值），60%流量来自老用户回访，30%流量来自搜索引擎，但关键词为\"Scrubber\"相关内容。\n盈利能力：3,800美元/月（2017.4）\n\n小黑评论：\n1.Scrubber解决的是一个非常具有话题性的问题，不仅人们会口口相传，媒体也愿意报道这样的东西，这对产品的启动非常有用。不同的是如果产品够好，人们的口口相传会持续下去，而媒体却只会在一开始的时候进行报道，现在Scrubber网站的流量表现平平也说明了这一点。\n2.Scrubber要解决的问题是“帮用户删除不当信息”，而它实际做的功能是“帮用户找到不当信息”，这应该是因为Facebook等没有提供接口供第三方删除内容。但这种做法也是制作MVP的一种简化手段，甚至在设计一个完善产品时也可能会用到：“需要解决的问题”并不一定完全等于“提供的解决方案”。\n\n扩展阅读：\n<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fgrowing-to-4-000-mo-by-scrubbing-embarrassing-content-from-the-web-45ae6c643e\" title=\"Growing+to+%244%2C000%2Fmo+by+Scrubbing+Embarrassing+Con...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-09T22:36:55.820+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T17:26:21.657+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-22T01:04:09.488+0800",
+            "owner": {
+                "user_id": 28518525851511,
+                "name": "ryojazz",
+                "avatar_url": "https://images.zsxq.com/Fnwi19SzsO_bWdHk3RSm2IIbBHil?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TX5bLx9iaIJkIQWQUmjaYAnik5o=",
+                "number": 2718
+            }
+        },
+        {
+            "create_time": "2018-11-12T19:43:03.230+0800",
+            "owner": {
+                "user_id": 828845514282,
+                "name": "吕盈辰",
+                "avatar_url": "https://images.zsxq.com/Fq-LFFR1A3D1vyrqAaGC67u6lJnk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gwcUq11KUVqC98ux9zeTSQtIcJw=",
+                "number": 2360
+            }
+        },
+        {
+            "create_time": "2018-10-25T23:22:26.897+0800",
+            "owner": {
+                "user_id": 458552218828,
+                "name": "應",
+                "avatar_url": "https://images.zsxq.com/Fg3oGRKmlkjOGyAfhicYVTWE_Awu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNQSbZ7VoiF8WFxM99LB_ZwdOhM=",
+                "number": 1864
+            }
+        },
+        {
+            "create_time": "2018-10-10T19:30:16.293+0800",
+            "owner": {
+                "user_id": 5442155454,
+                "name": "曲建伟",
+                "alias": "曲建伟",
+                "avatar_url": "https://images.zsxq.com/FlfHEiPiFK3zYlvq1srg3FQdXGGo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U8rbn_9ajC_npjdI41tMhNYuWp4=",
+                "number": 283
+            }
+        },
+        {
+            "create_time": "2018-10-09T14:22:22.842+0800",
+            "owner": {
+                "user_id": 152858242,
+                "name": "呵呵",
+                "alias": "文波（liweobo，杭州）",
+                "avatar_url": "https://images.zsxq.com/FjJ1VBL-iNUUVRuxnmL1YAKuyIh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jSzk4oX2q2uL0u2dWK60-9HKkJQ=",
+                "number": 2048
+            }
+        },
+        {
+            "create_time": "2018-09-27T16:22:49.862+0800",
+            "owner": {
+                "user_id": 552185414544,
+                "name": "老何为人民服务",
+                "avatar_url": "https://images.zsxq.com/FpH0VsFaPYQdrSVihNqbtZOizoPs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NRaqIUPgYZGBbjwcINQnM_YfU7g=",
+                "number": 1716
+            }
+        },
+        {
+            "create_time": "2018-09-26T12:37:34.144+0800",
+            "owner": {
+                "user_id": 4515221488,
+                "name": "迦勒底",
+                "alias": "迦勒底Σ(ﾟдﾟlll)",
+                "avatar_url": "https://images.zsxq.com/Fkyot-qhElWVjfGVOqzuWcSSSB63?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DZlwWTKu44WMhQlgVwGnzPa4uNY=",
+                "number": 1935
+            }
+        },
+        {
+            "create_time": "2018-09-26T09:10:31.908+0800",
+            "owner": {
+                "user_id": 144881511422,
+                "name": "钟大本",
+                "avatar_url": "https://images.zsxq.com/FiZDNU-CqH14_VRkIKqp43TuOc4L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5OezlGNT2PmQ_FGdWzI6FlE9G6k=",
+                "number": 863
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 844421118228452,
+            "create_time": "2018-09-25T21:48:47.029+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "很有趣，有点像现在很多业务做的挺大的舆情管家，换个场景就是侵权内容监测，再换个场景就是论文查重。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 844421118228182,
+            "create_time": "2018-09-25T21:49:56.778+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "换个另外的场景就是 敏感词查找。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 422251112415548,
+            "create_time": "2018-09-25T21:53:18.982+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "这个实现上我猜是这样的\n\n1. 建立一个“否定词”库；\n2. 爬取用户在社交网络发布的所有内容，包括图片、评论、引用等，对比“否定词”库；\n3. 发现“否定”内容，提醒用户去删除。\n\n可能提升客单价的一个做法：开通年会员，定期自动检测并发送检测报告到邮箱。",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 544458884584554,
+            "parent_comment_id": 422251112415548,
+            "create_time": "2018-09-25T23:18:10.205+0800",
+            "owner": {
+                "user_id": 142584115152,
+                "name": "谢鹏（抖音带鱼数据）",
+                "avatar_url": "https://images.zsxq.com/Fp4k0gOvvNH1k6i2DkrUws9UEoGv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WO-hiV2JmRiBPc9onkqn9Y8rDB0="
+            },
+            "text": "用品牌词或相关关键词去网上爬内容，然后正负向分析。语义的正负向分析做好不容易，所以好多都是弄个正负向词库",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 244421114445851,
+            "parent_comment_id": 422251112415548,
+            "create_time": "2018-09-25T23:32:16.310+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "对吧，我也觉得是词库。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142584115152,
+                "name": "谢鹏（抖音带鱼数据）",
+                "avatar_url": "https://images.zsxq.com/Fp4k0gOvvNH1k6i2DkrUws9UEoGv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WO-hiV2JmRiBPc9onkqn9Y8rDB0="
+            }
+        },
+        {
+            "comment_id": 844445882255182,
+            "parent_comment_id": 844421118228452,
+            "create_time": "2018-09-26T23:46:46.232+0800",
+            "owner": {
+                "user_id": 2488248441,
+                "name": "小小",
+                "alias": "01",
+                "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+            },
+            "text": "亦大还是敏锐",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 111112554425582,
+            "parent_comment_id": 422251112415548,
+            "create_time": "2018-09-26T23:48:57.689+0800",
+            "owner": {
+                "user_id": 2488248441,
+                "name": "小小",
+                "alias": "01",
+                "avatar_url": "https://images.zsxq.com/FqJETMd11eiK85RFbTPRtoG5QYxK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H6UajWFKcHQPgpL_rSpAkKn0ado="
+            },
+            "text": "这也是复杂问题简单化，当然在满足需求的情况下，不然就是偷懒了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142584115152,
+                "name": "谢鹏（抖音带鱼数据）",
+                "avatar_url": "https://images.zsxq.com/Fp4k0gOvvNH1k6i2DkrUws9UEoGv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WO-hiV2JmRiBPc9onkqn9Y8rDB0="
+            }
+        },
+        {
+            "comment_id": 544441145248154,
+            "create_time": "2018-10-09T14:22:42.518+0800",
+            "owner": {
+                "user_id": 152858242,
+                "name": "呵呵",
+                "alias": "文波（liweobo，杭州）",
+                "avatar_url": "https://images.zsxq.com/FjJ1VBL-iNUUVRuxnmL1YAKuyIh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jSzk4oX2q2uL0u2dWK60-9HKkJQ="
+            },
+            "text": "感觉明星现在很需要……",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        }
+    ],
+    "likes_count": 18,
+    "rewards_count": 0,
+    "comments_count": 10,
+    "reading_count": 11001,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-09-25T18:48:07.540+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

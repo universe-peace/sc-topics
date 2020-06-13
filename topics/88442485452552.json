@@ -1,0 +1,292 @@
+{
+    "topic_id": 88442485452552,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n加密货币的一套工具，帮助用户发现新的加密币，可以设置价格预警，跟踪投资组合，研究ICO ，进而发现套利机会。\n\n工具在8个月前推出，目前销售额已超过35万美元。\n\n1.想法由来\n加密货币热潮势不可挡，市场上有很多人在寻求各种币的投资组合，很多交易软件只对专家友好，缺乏简单的工具帮助新手来入门，主人公自己是一个程序员，投资了一些加密货币，依然觉得购买的过程非常之曲折，而且没有一个地方可以获得所有需要的信息。\n\n为了测试市场需求，他们采用了网络研讨会，做了一个Cryptosuite的基础版本，结果大家反响特别好，当场就有很多人订购，一下就赚了4万美元。\n\n2.MVP：\n扩展了加密API的示例代码，增加了一些警报功能。另外在布局上摆脱了传统全黑、单调的设计，配色上让加密货币看起来更轻松、有趣一些。\n\n作者面向的目标用户非常明确：加密币的新手，放弃了很多复杂的功能，并且加上了自动交易的功能。\n\n3.收入模式：\nSaas付费订阅：47美元/月、297美元/年\n\n收入主要来源于一些细分市场中的联盟营销，也会联合大号做一些折扣活动，从他们读者中转化一部分订阅。订阅收入主要依赖于联盟，他们会从中收取50%的收益，这是他们最大的成本，同时也是非常重要的营销来源，除此以外就是每个月100美元的服务器成本，用了亚马逊SES,这笔成本降到了5美元。\n\n截止到现在，年会员营收额达到了15万美元，月会员订阅人数有12万，近期加密货币遇冷，各个指标的数据都在下降。\n\n说实话，他们现在也很担忧这款产品的前景，加密币盛行，他们不费力气，收益就非常可观，而一旦遇冷，他们毫无扭转之力。\n\n4.做这款产品的2点心得：\n① 聚焦：目标用户非常明确，只为第一次使用的新手、小白服务，即便有很多用户反馈需要更多功能为进阶用户服务，都被他们拒绝了。\n② 时机：尽早发布，获取用户反馈后再继续迭代，还是那句话：如果第一个版本不让你感到尴尬，那只能说明你上线太晚了。",
+        "images": [
+            {
+                "image_id": 15154852541882,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FofRKID86eiyeCKUdFYdP4krFz4b?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:blznCvRMlXXIiaFO7sjz6McVQOs=",
+                    "width": 320,
+                    "height": 198
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FofRKID86eiyeCKUdFYdP4krFz4b?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SzgKz93vWKnh4LWq0X-5Zb6BKZU=",
+                    "width": 800,
+                    "height": 494
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FofRKID86eiyeCKUdFYdP4krFz4b?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X1d-ic2vE8ob54zXPKVwBeWu1uo=",
+                    "width": 916,
+                    "height": 566,
+                    "size": 179910
+                }
+            },
+            {
+                "image_id": 48285184852118,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsDBnoGL6ZY5b_hwkJhCnUtxGx2O?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZMSzvA1FNpKVdozlepxuhn3GRg8=",
+                    "width": 320,
+                    "height": 156
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsDBnoGL6ZY5b_hwkJhCnUtxGx2O?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VTKI6qfpdjcxOH3ZndwK9gjPyFM=",
+                    "width": 800,
+                    "height": 390
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FsDBnoGL6ZY5b_hwkJhCnUtxGx2O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WlEVNU6QsBB3rXy_tdl9oTdVyvM=",
+                    "width": 1200,
+                    "height": 585,
+                    "size": 512769
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-04T20:52:48.283+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-05-02T13:41:23.318+0800",
+            "owner": {
+                "user_id": 544884821424144,
+                "name": "杜若",
+                "avatar_url": "https://images.zsxq.com/FuyLuAzG4zKCpMtoqlo0W3p3nwkV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CzdQmLtIYdGuv75stgao_x4OlEw=",
+                "number": 2896
+            }
+        },
+        {
+            "create_time": "2019-04-25T21:42:43.625+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T23:27:55.763+0800",
+            "owner": {
+                "user_id": 481211215818,
+                "name": "重复灰兔",
+                "avatar_url": "https://images.zsxq.com/Ft12rcW1DnBZQV__hXDMTFpekZS9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qtdSqF9OXRB-WkyuvV21H8OxT68=",
+                "number": 2623
+            }
+        },
+        {
+            "create_time": "2019-04-23T01:11:47.709+0800",
+            "owner": {
+                "user_id": 51284484148224,
+                "name": "书豪",
+                "avatar_url": "https://images.zsxq.com/FgAZVn9iXl9xBAJIIG9pXF-v1iWV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wb0JDuMUCSrE-Ue7sN9jSEvWoMk=",
+                "number": 2955
+            }
+        },
+        {
+            "create_time": "2018-12-30T10:23:35.871+0800",
+            "owner": {
+                "user_id": 2421244851,
+                "name": "六饼",
+                "avatar_url": "https://images.zsxq.com/Fq5s3Je8TVas6lqohZtJKpdZ4pdW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EHNN5vVa14cYsZWmx_ZJ0rIJoic=",
+                "number": 548
+            }
+        },
+        {
+            "create_time": "2018-12-26T16:01:02.594+0800",
+            "owner": {
+                "user_id": 28455118451421,
+                "name": "张啟炜",
+                "avatar_url": "https://images.zsxq.com/FmefNF2SdPOjO6bXorNLRvIeaKAP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dm0PMRCc2kVaeSFDO2wjXT4hQUI=",
+                "number": 2247
+            }
+        },
+        {
+            "create_time": "2018-12-26T00:00:22.017+0800",
+            "owner": {
+                "user_id": 285155251,
+                "name": "肖郎shawlang",
+                "avatar_url": "https://images.zsxq.com/FlANfurgN0ePF0jSDVWQL-ScLs4o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AmoFiW0X4fs9xsSgxkpRth7uNHE=",
+                "number": 356
+            }
+        },
+        {
+            "create_time": "2018-12-23T19:50:41.262+0800",
+            "owner": {
+                "user_id": 15558221458822,
+                "name": "三也",
+                "avatar_url": "https://images.zsxq.com/FjTDM2i2qEH-rdHF1gPPRvwzDd8j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OHAIy30hHxLapC5wacs6-KW3W0I=",
+                "number": 1627
+            }
+        },
+        {
+            "create_time": "2018-12-22T22:48:56.730+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw=",
+                "number": 20
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111855221581542,
+            "create_time": "2018-12-21T18:05:17.822+0800",
+            "owner": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            },
+            "text": "现在没有新韭菜了吧？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 422188441582458,
+            "parent_comment_id": 111855221581542,
+            "create_time": "2018-12-21T20:32:13.466+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "现在大家都把钱捂在口袋里",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            }
+        },
+        {
+            "comment_id": 841551215522812,
+            "create_time": "2019-04-21T12:01:53.952+0800",
+            "owner": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M="
+            },
+            "text": "有中文版吗？我是币圈的,最近热度又起来了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118228482218552,
+            "parent_comment_id": 841551215522812,
+            "create_time": "2019-04-21T12:21:06.774+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "你调研看看，我之前是没看到。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M="
+            }
+        },
+        {
+            "comment_id": 548228582248554,
+            "create_time": "2019-04-21T12:22:17.758+0800",
+            "owner": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M="
+            },
+            "text": "能联系一下作者吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 118228482284882,
+            "parent_comment_id": 548228582248554,
+            "create_time": "2019-04-21T12:30:00.333+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "今天不在电脑前，我明天去公司把链接给你。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M="
+            }
+        },
+        {
+            "comment_id": 841551215514522,
+            "parent_comment_id": 548228582248554,
+            "create_time": "2019-04-21T12:30:34.192+0800",
+            "owner": {
+                "user_id": 5422425524,
+                "name": "冬子",
+                "avatar_url": "https://images.zsxq.com/FisTQY-e0I-pstpTePghpSx617_W?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9347TvDk9VzlMtsV2Hm2wSX8O3M="
+            },
+            "text": "好的,谢谢鱼丸",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            }
+        },
+        {
+            "comment_id": 118255288282442,
+            "create_time": "2019-05-03T14:49:12.630+0800",
+            "owner": {
+                "user_id": 28885848414541,
+                "name": "WTB",
+                "avatar_url": "https://images.zsxq.com/FnPSN3u5T3GbFpoTWkXukelTJTer?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o7Qf2pFWQTxPRBSvdyOaKUJMOBA="
+            },
+            "text": "一站式炒币的工具",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 0,
+    "comments_count": 10,
+    "reading_count": 10272,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-21T14:59:10.057+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

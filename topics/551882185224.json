@@ -1,0 +1,326 @@
+{
+    "topic_id": 551882185224,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "昨天提到了一个思路，从微信小程序已经上线的产品中找到合适的痛点切入。\n\n因为微信小程序比较适合低频的工具属性的产品，所以目前已经上线的产品大部分是工具。\n\n在小程序榜单上（第一张图），看到《小睡眠》排在第三，我自己也用过这个小程序，体验非常好，所以重点分享下这个案例。 \n\n\n《小睡眠》（第二张图）本质上是一个白噪音应用，这个细分市场可能知道的人比较少， 但是对白噪音有需求的人却喜欢的不得了。\n\n在Youtube上搜索relaxing white noise，很多白噪音的视频都是千万以上的播放量（第三张图），大多数视频描述里面都导向了一个购买白噪音mp3音频的链接，购买均价在3美元。按照1/1000的转化率（应该不止），一个音频转化收入3万美元，而实际边际成本为0，一个网站正常10个音频以上，30万美元的收入。 \n\n所以，如果我进入这个细分市场的话， 我的思路是\n\n第一、尽快搞定内容和产品，包括音频的丰富度、完整度和版权。可以去谈合作、购买或者自己去录制白噪音，或者爬取一些没有版权的白噪音音频。\n\n第二、搞定流量渠道，这里面会从有三个角度\n1. 找到竞争对手已经覆盖的渠道，然后去慢慢的切对方的蛋糕；\n2. 找到新出现的渠道，比如现在的小程序，抢占红利；\n3. 找到新的场景，很多人并不会去搜索“白噪音”，可能会搜索的词是“ 工作无法专注”，“宝宝不睡觉”，“失眠”，“下雨的声音”，“效率低”，“冥想音乐”等，只要白噪音确实能解决这些问题，那么就可以从一个全新的场景切进来，比如“小睡眠”就是从睡眠角度切进这个市场的。\n\n分析完毕，有兴趣的可以试试看或者进一步分析。",
+        "images": [
+            {
+                "image_id": 458525125158,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsnQjt9qapTeKZYIHDv0ZIy4vV8s?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Eq453U5GXFIRKdQOzhEKmYnWleM=",
+                    "width": 320,
+                    "height": 859
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsnQjt9qapTeKZYIHDv0ZIy4vV8s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AfcCNHpE9mGmUrgyg9h56_5w33I=",
+                    "width": 554,
+                    "height": 1488
+                }
+            },
+            {
+                "image_id": 828242142122,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FihzY-oznBUU6sHY_W1HilSjF1wQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RXce4euKWot62vMFeesoNEe1OTk=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FihzY-oznBUU6sHY_W1HilSjF1wQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UDHnnJZnfVA8qcQSCbd-H7sTQP0=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FihzY-oznBUU6sHY_W1HilSjF1wQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U60MpBaqQWb8Q6BgpX2E316OCec=",
+                    "width": 1242,
+                    "height": 2208,
+                    "size": 229905
+                }
+            },
+            {
+                "image_id": 551545845854,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgjMromLdPVyN3yPBmmzNzkOHVdQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JFUtPTB2qrLM1h7q5DjKuwXpK9c=",
+                    "width": 320,
+                    "height": 243
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgjMromLdPVyN3yPBmmzNzkOHVdQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iwdaHeQU7cTawE1QqdL4Xb-efK8=",
+                    "width": 800,
+                    "height": 606
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgjMromLdPVyN3yPBmmzNzkOHVdQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BQapGkN8yDQhTAv9nNpXLIxE1jc=",
+                    "width": 1425,
+                    "height": 1080,
+                    "size": 479586
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-07T21:38:30.447+0800",
+            "owner": {
+                "user_id": 455445112228,
+                "name": "康大鹏",
+                "avatar_url": "https://images.zsxq.com/Fhnl1463ABRiWEgCdAKBoSg2LbUR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5jIF1FqaiaBQLyv0aVJeEB2Gt5Y=",
+                "number": 6885
+            }
+        },
+        {
+            "create_time": "2020-03-14T15:55:48.691+0800",
+            "owner": {
+                "user_id": 15481824245812,
+                "name": "阿三",
+                "avatar_url": "https://images.zsxq.com/FoPdwR9TPGpVKVqWVPhGJRQTjGTz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wz-kerXe8flm3M-V0-F-gxQGnQ4=",
+                "number": 6798
+            }
+        },
+        {
+            "create_time": "2020-02-08T15:44:18.493+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-05T09:31:18.583+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-25T14:17:21.361+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-27T16:15:41.468+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-28T22:54:41.901+0800",
+            "owner": {
+                "user_id": 15458581545122,
+                "name": "熊磊",
+                "avatar_url": "https://images.zsxq.com/Fp9mIpgV23HJID9DZaImsKcrKjE6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:m7eGySYjAuzgnvWd5PIhnwmbXec=",
+                "number": 4468
+            }
+        },
+        {
+            "create_time": "2019-06-13T19:36:02.700+0800",
+            "owner": {
+                "user_id": 142841411512,
+                "name": "BBQ",
+                "avatar_url": "https://images.zsxq.com/Fqx7wPVaNlUCDqNwaQkq7414Gou2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:He4jHKpgTme3xnFRj4TQrAvAzRU=",
+                "number": 2898
+            }
+        },
+        {
+            "create_time": "2019-05-17T18:27:02.315+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-17T09:35:39.130+0800",
+            "owner": {
+                "user_id": 5584281844,
+                "name": "高涛杰",
+                "avatar_url": "https://images.zsxq.com/FpIEBy8lzvsEZowaFGsS8r0t1_wr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0rdK7hUj2BGyt6zro5JgjhDq0wA=",
+                "number": 2405
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-23T14:15:41.352+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2017-03-23T14:00:46.076+0800",
+            "owner": {
+                "user_id": 142511182442,
+                "name": "十七",
+                "avatar_url": "https://images.zsxq.com/FoqQ2JQFAoCZoOO1pdX1YwCnZTbN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oG6Hn_d-p2SsJhLtqpKzvxSfvm8="
+            },
+            "amount": 150
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 458548811848,
+            "create_time": "2017-03-23T12:53:33.520+0800",
+            "owner": {
+                "user_id": 145482224412,
+                "name": "冯成",
+                "avatar_url": "https://images.zsxq.com/FgB-8JJtHun6VbV0dgTM3Bwfyu6t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yasTpaJv3qqPtRmu81YCWss2hFo="
+            },
+            "text": "谢谢分享！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 551521188544,
+            "create_time": "2017-03-23T12:57:19.340+0800",
+            "owner": {
+                "user_id": 512112444,
+                "name": "peter锋",
+                "avatar_url": "https://images.zsxq.com/Fh1_eR_Y0TmnuW6HeE3tpcTBvsfB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HrzIAfa85QvWfc7QcQCL6yg_1bc="
+            },
+            "text": "谢谢分享！另有一个关键词，叫颅内高潮，英文缩写ASMR，<e type=\"web\" href=\"https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D81l8LZPJLUQ\" title=\"https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D81l8LZPJLUQ\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F02df4eec9739d775f47222069981decda2b21ba767fc0c67c20dbbd4e8d57a5b\" />",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 228258255581,
+            "create_time": "2017-03-23T13:03:02.248+0800",
+            "owner": {
+                "user_id": 518121454114,
+                "name": "羲吾",
+                "avatar_url": "https://images.zsxq.com/FoJlUa9HacHcwElk5ZOUISajaq8Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zF5SnfDKK2Im_fw2y5dM13k31Js="
+            },
+            "text": "嗯，一直有时不时用一个睡眠音乐的app帮助入睡，但从来没这样想过。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828258254152,
+            "parent_comment_id": 551521188544,
+            "create_time": "2017-03-23T13:21:15.382+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34="
+            },
+            "text": "感谢分享",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 512112444,
+                "name": "peter锋",
+                "avatar_url": "https://images.zsxq.com/Fh1_eR_Y0TmnuW6HeE3tpcTBvsfB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HrzIAfa85QvWfc7QcQCL6yg_1bc="
+            }
+        },
+        {
+            "comment_id": 458548585248,
+            "create_time": "2017-03-23T13:45:50.063+0800",
+            "owner": {
+                "user_id": 228241422821,
+                "name": "绿玉",
+                "avatar_url": "https://images.zsxq.com/Fl546WYb2toKpJmmY-rwQFJ0KLfe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HxdR91OMk8JG2g-HPVpTnfbjONw="
+            },
+            "text": "小睡眠是免费的呢。\n这也是我对其他小工具收费变现的一个思考：好容易找到细分市场 然后发现已经有免费的工具在了。这个时候 可能需要给自己的产品找一个付费的原因，是不是会要求很高很难呢？",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 145425488542,
+            "parent_comment_id": 458548585248,
+            "create_time": "2017-03-23T14:18:08.724+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            },
+            "text": "我也觉得这个问题值得考虑，一般的套路就是基本服务免费，升级服务付费",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228241422821,
+                "name": "绿玉",
+                "avatar_url": "https://images.zsxq.com/Fl546WYb2toKpJmmY-rwQFJ0KLfe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HxdR91OMk8JG2g-HPVpTnfbjONw="
+            }
+        },
+        {
+            "comment_id": 551521415284,
+            "parent_comment_id": 458548585248,
+            "create_time": "2017-03-23T15:16:37.138+0800",
+            "owner": {
+                "user_id": 228241422821,
+                "name": "绿玉",
+                "avatar_url": "https://images.zsxq.com/Fl546WYb2toKpJmmY-rwQFJ0KLfe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HxdR91OMk8JG2g-HPVpTnfbjONw="
+            },
+            "text": "我刚才的想法是 选择不同渠道 比如小程序免费 但油管就多数收费 亦仁在帖子里提到的我还没验证；要是功能无法收费 流量大 可以放广告",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk="
+            }
+        },
+        {
+            "comment_id": 828258482842,
+            "parent_comment_id": 458548585248,
+            "create_time": "2017-03-23T15:18:57.176+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "油管本身就是获取到的免费流量，也可以直接在油管上去听，导到网站的已经过过滤了一层",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228241422821,
+                "name": "绿玉",
+                "avatar_url": "https://images.zsxq.com/Fl546WYb2toKpJmmY-rwQFJ0KLfe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HxdR91OMk8JG2g-HPVpTnfbjONw="
+            }
+        }
+    ],
+    "likes_count": 36,
+    "rewards_count": 2,
+    "comments_count": 12,
+    "reading_count": 1885,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-23T12:51:40.975+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

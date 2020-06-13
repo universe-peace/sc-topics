@@ -1,0 +1,273 @@
+{
+    "topic_id": 244185218222811,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 51544821414554,
+            "name": "飞",
+            "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA="
+        },
+        "text": "<e type=\"hashtag\" hid=\"5414881544\" title=\"%23%E8%96%85%E7%BE%8A%E6%AF%9B%23\" /> \n大家好，鉴于你以为大家都知道的事，起码有一亿人不知道，潜水这么久，我也来分享一个低价电影票的背后的逻辑\n\n起初是我手里有两张万达皮卡丘的电影票，我嫌远就买了别的电影院看了，就想着转卖出去，不知道多少钱合适，就去咸鱼参考一下价格，然后在鱼塘对低价电影票产生了兴趣\n\n根据我之前薅羊毛的经验，我猜测就是利用信息差，优惠券变现的手段，但是在鱼塘里看到很多免费收代理，188 收徒，传授出票技术，轻松月入过万，我就纳闷了这里面有什么高深的技术？\n\n身为程序员，肯定是先搜索一番了，于是我搜索了「低价电影票」「低价电影票出票」，结果如「假装有图 1」「假装有图 2」\n\n一个个帖子浏览过去没有什么实际内容，全是告诉你出票技术很容易，月入过万很容易，各种交易图，还有一张淘宝图「假装有图 3」\n\n去淘宝搜索了一下，确实销量很高，看到前三的店铺销量都是过万的，说明需求确实存在，不了解的人可能就心动了，然后文章结尾各种引流到微信、公众号、淘宝店、QQ 群的\n\n根据帖子肯定是没什么结果了，我想到之前我学习薅羊毛就是用潜水 QQ 群的方式的，就去加了几个低价电影票的 QQ 群，进群观察一段时间应该是外围群，每天都有人发招代理，收徒的消息，偶尔夹杂曝光骗子的\n\n有一次一个收徒的人谈起出票技术说到有本事的去百度云搜索，没本事的就花钱买，我平时不用百度云，都忘记这个了，然后用云盘精灵去搜索，结果如「假装有图 4」，应该没错了，然后打开一看，一句卧槽涌上心头，妥妥的智商税\n\n基本的原理就是我猜想的那样，一方想要优惠券变现，一方想要低价买票，双方不认识，就出现了一个中间人帮忙牵线。\n\n这里面主要的问题在于优惠券 / 低价票的来源，根据我掌握的资料，主要有以下几个方面：\n\n1. APP 活动\n\n各种第三方购票 APP 以及影院官方 APP 之间为了扩大市场发布的活动，比如新用户礼包、首单立减、节日抽奖、凑单满减、好友砍价、预售活动等\n\n羊毛党可以结合接码平台批量参与活动\n\n2. 会员福利\n\n分为影城会员和购票渠道会员，前者针对自家影院比如万达，后者针对自家渠道比如淘票票会员。主要的活动有会员价、会员日特惠、会员礼包等\n\n3. 观影卡\n\n这个是在咸鱼上看到的，有个平台叫「嗨影」，宣称全国首个无限观影平台，最低 2 元观影，模式是售卖次数卡，100 次卡每次 2 张票 1999 元\n\n但是网上查询据说涉嫌欺诈，大多数影院用不了，我也看不出这种模式的盈利点，也有人说是庞氏骗局，还有一个叫做「粒体映像」，不了解\n\n4. 企业福利\n\n典型的是银行的信用卡活动，比如中信的 9.9 观影、招商最近的周末半价观影，不过都有名额需要抢。另外就是企业一些福利，比如生日送电影票，很多国企也经常送电影票\n\n5. 供货商\n\n这个需要有人脉资源，认识内部人员可以拿到最低价的票，一般人没渠道\n\n作为中间人，有两种模式：\n\n一种是拿到客户订单之后找有资源的人代下，赚取差价，这种需要有一个代下的群，可以买，也可以自己引流做，优点是无风险，缺点是出票慢，用户体验差；\n\n另一种模式是自己批量购买优惠券，然后自己直接代下，购买渠道有某宝、咸鱼、发卡平台、做代理，优点是出票快，用户体验好，缺点是囤货有风险。\n\n这里面有一些坑做过的人才会知道，比如猫眼限制异地出票，也就是说只能购买当前所在城市，安卓可以通过修改定位破解，iOS 无解。有些券限制账号使用次数，比如一个账号只能使用同类型一张，所以有券还不行，还需要账号。\n\n「思考」\n如果换做自己来做，有哪些可以做的点？\n\n1. 作为程序员，是否可以写一个比价的软件或者脚本，自动判断出使用优惠券后最低价是哪个平台，然后卖给做这些的人\n\n2. 善于引流的人，是否可以建群 —— 引流 —— 卖群，重复这个过程，因为薅羊毛的人其实还是很好引流的，起码我观察到的群里什么二维码都直接扫，什么连接都直接点，什么群都直接加\n\n3. 有供货渠道的人，是否可以将其中套路写成文章然后引流到群里，将这部分人转化为代理\n\n当然这个东西利润肯定不大，可能对于学生党吸引力会比较大\n\n我是做游戏开发的，工作近四年的 Erlang 服务端开发，对于信用卡和薅羊毛有点了解，请各位大佬轻拍\n\n微信：Fisher1008"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-08T16:18:28.279+0800",
+            "owner": {
+                "user_id": 88811544412412,
+                "name": "郑小焦",
+                "avatar_url": "https://images.zsxq.com/Fktqhv5AatapuiviVACXtcpLziYV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kD0PGNrpac3wA9BFOVvSqc3ubpo=",
+                "number": 6048
+            }
+        },
+        {
+            "create_time": "2020-01-12T16:41:38.886+0800",
+            "owner": {
+                "user_id": 51521852282114,
+                "name": "谭lucky",
+                "avatar_url": "https://images.zsxq.com/FjWXp7rOAeCKz6RiPeXpz8hpLae8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Nx-yrXnKlxxyUq21P5_7lxmKbU=",
+                "number": 4171
+            }
+        },
+        {
+            "create_time": "2019-12-21T17:10:32.528+0800",
+            "owner": {
+                "user_id": 548145544452284,
+                "name": "张瑞卿",
+                "avatar_url": "https://images.zsxq.com/FhsQWGePZ3-uXGNW7btbwA5h7BSo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TJmeMA1nfjNofYrKx7hx2Wc6Lbk=",
+                "number": 6564
+            }
+        },
+        {
+            "create_time": "2019-11-09T12:35:17.275+0800",
+            "owner": {
+                "user_id": 15284821254182,
+                "name": "燃烧的节拍器",
+                "avatar_url": "https://images.zsxq.com/Fsq8tHIL7Xm48GzsnfiFYaIcCIZx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2zkd3COLoBC0jO6JhIxA6sWW29Q=",
+                "number": 1726
+            }
+        },
+        {
+            "create_time": "2019-09-27T22:46:18.147+0800",
+            "owner": {
+                "user_id": 421888882521818,
+                "name": "猿来如此",
+                "avatar_url": "https://images.zsxq.com/FhXGuxfOwS1I6OjyW8PDgO_1ldRj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:earu4Gh97a_aKcG5wGOdrT0OgEg=",
+                "number": 6210
+            }
+        },
+        {
+            "create_time": "2019-05-22T23:14:04.280+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-05-21T14:09:17.402+0800",
+            "owner": {
+                "user_id": 481414241548,
+                "name": "浑水",
+                "avatar_url": "https://images.zsxq.com/FmVyg48707xdRQ84BFuywSJJRLAQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:a16YbOAjI9zI34saptc46-O_URc=",
+                "number": 4202
+            }
+        },
+        {
+            "create_time": "2019-05-21T13:50:12.642+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-05-21T06:15:25.375+0800",
+            "owner": {
+                "user_id": 51425541845254,
+                "name": "黄娜",
+                "avatar_url": "https://images.zsxq.com/FoR4aLlamE3lL09Mc21n8PsQfnJH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y8dCQA4_z3jwLLnQ_EkiaUhuzsE=",
+                "number": 5689
+            }
+        },
+        {
+            "create_time": "2019-05-20T22:49:10.561+0800",
+            "owner": {
+                "user_id": 885552452,
+                "name": "森淼",
+                "alias": "森淼",
+                "avatar_url": "https://images.zsxq.com/FpHXcpJbbHK_j9_R20yD1ABkBka7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yXZDYSLxOxvBbK0nkfPbqersr4s=",
+                "number": 865
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-20T09:28:13.714+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "amount": 188
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841584185888212,
+            "create_time": "2019-05-20T09:07:56.015+0800",
+            "owner": {
+                "user_id": 241585418421151,
+                "name": "大白兔白不白",
+                "avatar_url": "https://images.zsxq.com/FhGke5kGotxp2ST-Nis4iw2IHT15?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rA89QqaMeTA-n4f0EA79myf5qPU="
+            },
+            "text": "薅羊毛算我一个[捂脸]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421482184882188,
+            "parent_comment_id": 841584185888212,
+            "create_time": "2019-05-20T09:11:50.014+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA="
+            },
+            "text": "哈哈哈，可以一起交流啊",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 241585418421151,
+                "name": "大白兔白不白",
+                "avatar_url": "https://images.zsxq.com/FhGke5kGotxp2ST-Nis4iw2IHT15?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rA89QqaMeTA-n4f0EA79myf5qPU="
+            }
+        },
+        {
+            "comment_id": 118251852145112,
+            "create_time": "2019-05-20T09:58:06.555+0800",
+            "owner": {
+                "user_id": 145512581142,
+                "name": "马浩楠",
+                "avatar_url": "https://images.zsxq.com/FndfKFHhmL6HsYQjl3C9Ui6EYAIW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zP0Pl_aaoIGRDQwrkBPpholxM8g="
+            },
+            "text": "之前v2ex上有人整合淘宝上这些低价电影票渠道资源到公众号里，发猫眼截图到公众号里会自动帮你对接",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "images": [
+                {
+                    "image_id": 111182244854852,
+                    "type": "png",
+                    "thumbnail": {
+                        "url": "https://images.zsxq.com/Fky5HQWov9NLnR44Z-f-kwJeivUI?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QbLcmIh4WnLVQ5OaS1VldVO3qBY=",
+                        "width": 320,
+                        "height": 569
+                    },
+                    "large": {
+                        "url": "https://images.zsxq.com/Fky5HQWov9NLnR44Z-f-kwJeivUI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tARsiqcBqoyTVtt2q-X6DEVxbW8=",
+                        "width": 750,
+                        "height": 1334
+                    }
+                }
+            ],
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421482184255458,
+            "parent_comment_id": 118251852145112,
+            "create_time": "2019-05-20T09:58:46.197+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA="
+            },
+            "text": "嗯这个公众号我关注了，在想怎么自动化的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 145512581142,
+                "name": "马浩楠",
+                "avatar_url": "https://images.zsxq.com/FndfKFHhmL6HsYQjl3C9Ui6EYAIW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zP0Pl_aaoIGRDQwrkBPpholxM8g="
+            }
+        },
+        {
+            "comment_id": 548214811511524,
+            "create_time": "2019-05-20T11:10:56.136+0800",
+            "owner": {
+                "user_id": 551858824484,
+                "name": "单申甲",
+                "avatar_url": "https://images.zsxq.com/FkczeaGnnKPHRgomtFuo7752V94Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jHfShT2b1knq1NOE4aVfK9VEQhU="
+            },
+            "text": "这套路我比较了解，有朋友在玩，我问问看他愿不愿意分享出来",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 118251855482822,
+            "parent_comment_id": 548214811511524,
+            "create_time": "2019-05-20T11:30:12.238+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA="
+            },
+            "text": "期待ing",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 551858824484,
+                "name": "单申甲",
+                "avatar_url": "https://images.zsxq.com/FkczeaGnnKPHRgomtFuo7752V94Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jHfShT2b1knq1NOE4aVfK9VEQhU="
+            }
+        },
+        {
+            "comment_id": 241584188212151,
+            "create_time": "2019-05-20T11:33:13.806+0800",
+            "owner": {
+                "user_id": 111885151144442,
+                "name": "谢献锋",
+                "avatar_url": "https://images.zsxq.com/Fsy9bdXFzCNic3n5iptfdLJkPtZL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TZTeVUESC-nt0kKjVl7veRDmC-M="
+            },
+            "text": "iOS修改地理位置市场上有产品",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 14
+        },
+        {
+            "comment_id": 241584188211851,
+            "parent_comment_id": 241584188212151,
+            "create_time": "2019-05-20T11:34:22.668+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA="
+            },
+            "text": "以前App Store上搜索到的都是假的，求指教",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111885151144442,
+                "name": "谢献锋",
+                "avatar_url": "https://images.zsxq.com/Fsy9bdXFzCNic3n5iptfdLJkPtZL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TZTeVUESC-nt0kKjVl7veRDmC-M="
+            }
+        }
+    ],
+    "likes_count": 49,
+    "rewards_count": 1,
+    "comments_count": 41,
+    "reading_count": 13305,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-20T08:25:06.587+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "topic_id": 548241488122844,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n大家好，又到周五啦！每周五，鱼丸给大家带来一篇海外生财之术，带你一起赚美元~\n\n今天分享的案例是一款Saas工具—Gravity，作者通过取消产品的低价版本，最终利润率达到90%。\n\n星球里有很多开发者圈友，相信大家在打造产品和服务时，也会常常遇到是否收费，如何定价的问题，左右为难。Gravity的作者Kyle是一位具有多年经验的开发者和创业者，他的经历可能会带来一些启发。\n\n以下便是作者几条经验的分享。\n\n一、是什么促使你开始Gravity项目?\n\nGravity是在开发时的一个副产品。当时正处于测试和构建软件想法的阶段，在不断构建产品时发现很多过程会重复，我花了太多时间设计界面、构建登录表单和计费系统，而不是构建人们愿意为之付费的功能。我想要简化这个过程，所以我创建了一个模板，我可以用它来快速部署新产品。\n\n之后我把它展示给了另一位开发者，他让我相信我所做的事情绝对是有市场的，我应该将它打包并出售。此外，即使产品价值没有被验证也是可接受的，我需要产品来解决我自己的问题，即使没有人买它，我自己也会从中获得巨大的价值。\n\n二、最初的产品是如何发布的?\n\n我花了大约8个星期的晚上和周末来组装一个合适的MVP，自己编码和设计产品，除了花费时间外几乎不存在成本。\n\n当我创造了自认为值得让别人付钱给我的产品，便在Indie hacker网站上发布了一个链接，售价99美元，不到两周，第一批客户就注册了。\n\n最初的版本虽远远不够完美，但客户一直在提供反馈，帮助改进产品和制定未来的路线图。花精力于建立良好的客户关系是非常值得的。\n\n三、如何吸引用户和增长?\n\n1.寻找活跃的社区冷启动，比如Indiehackers，一个测试和发行产品的好地方，最初的客户都来自于此。\n\n2.写一个简短的8页指南，介绍如何产生有利可图的软件创业点子，然后通过Facebook广告推广。\n\n3.搜索。我所处的行业几乎没有竞争，所以能够在“node.js saas”这样的关键词上排名第一。此外，还可在博客同步更新产品内容。\n\n4.获取访客的电子邮件。我有一个演示应用程序在网站上，人们可以注册邮箱使用。之后我会通过邮件进行问卷调查。虽然不是每个人都能提供很好的反馈或任何反馈，但即使是弄清楚有多少人愿意提供反馈也是很重要的。\n5.对定价进行测试。免费版的Gravity，它的转化率是20%。精简版售价47美元，但并不畅销。所以仍需继续测试。\n\n在这个问题上，我能给出的最好的建议就是对不同的营销渠道不偏不倚。跟上最新的潮流很容易，但有时更传统的方法效果最好。尝试尽可能多的渠道，看看什么适合你的业务，然后在这些渠道上加倍。\n\n四、你的收费模式是怎样的？如何扩大利润？\n\n产品的第一个版本就是付费的，以99美元的年费计划开始，这给潜在客户带来了些困惑，最终改为99美元的一次性支付方式。\n\n之后发现我还是低估了Gravity的价格，之后提价到397美元。开始几天比较紧张，但最终有更多的客户通过高价购买，一些人说他们甚至愿意付更多的钱。\n\n独立产品应该从第一天就开始收费。\n\n许多开发者对此感到担忧，认为产品还没有准备好，但免费产品会导致一些问题:\n\n1.它会延迟验证用户是否接受付费模式的日期。你必须知道你是否能尽快赚钱。\n\n2.它使产品本身贬值。比起免费得到的东西，人们更珍惜的是用自己的血汗钱换来的东西。\n\n五、在创业过程中，你也哪些建议?\n\n投资自己和投资生意一样重要。要留时间分配给个人发展，这会在工作，生活，健康等方方面面带来回报。\n\n保持乐观、创业精神归根结底是一种过于乐观的心态，企业家相信他们可以实现别人认为不可能的事情。这是区分那些做了和不做的人的关键。发展你的思维，建立情绪弹性，提高你的注意力，学习如何管理自我怀疑和消极情绪对成功可能比实际技能更重要，比如编程。\n\n多尝试一些想法，但不要过早地依赖它们。很多人爱上了自己的想法，花了几年的时间去实现它，如果失败了，他们会彻底崩溃。我认为最好是花点时间列出一个想法清单，然后进行测试。你不需要把它们全部建立起来，你只需要创建一个登陆页面，然后吸引一些流量来衡量兴趣就可以了。\n\n如果一个想法失败了，你可以继续下一个想法。\n\n好啦，以上便是今天一起赚美元的分享，觉得不错记得给鱼丸一个赞哦~~\n\n原文链接：<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fhow-i-stopped-underpricing-and-reached-a-90-profit-margin-e1a749ed8c\" title=\"How+I+Stopped+Underpricing+and+Reached+a+90%25+Profi...\" />",
+        "images": [
+            {
+                "image_id": 118252254521552,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtyYb6Jo9g6f45tfjIitl1ZC3-Sk?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:spYtGg1Ybgd0ox1woxBZfq1vfn0=",
+                    "width": 320,
+                    "height": 242
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtyYb6Jo9g6f45tfjIitl1ZC3-Sk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eL5fiHpp2KyI1JOzJW-v39gmnGU=",
+                    "width": 754,
+                    "height": 571
+                }
+            },
+            {
+                "image_id": 421484485842888,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FghqPMgyMhI1GNEA84FYRHKmWQj9?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TC_lBVn5CAMEe8BMT3_M8j3qf3w=",
+                    "width": 320,
+                    "height": 233
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FghqPMgyMhI1GNEA84FYRHKmWQj9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HbnBsZE_b0E0O82V214msImk61g=",
+                    "width": 705,
+                    "height": 513
+                }
+            },
+            {
+                "image_id": 241585582854851,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fhm-fJZ_50KVTVhcjAvQDuy96_vE?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PElbzRHQ7E8p4W-EbnR8NGlk_5o=",
+                    "width": 320,
+                    "height": 225
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fhm-fJZ_50KVTVhcjAvQDuy96_vE?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Da5FT-zXxCzLWyv5pFcSRvOLIs4=",
+                    "width": 800,
+                    "height": 562
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fhm-fJZ_50KVTVhcjAvQDuy96_vE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r8YDKh1OKOqgMThG0Kzu8lGDTUs=",
+                    "width": 1452,
+                    "height": 1020,
+                    "size": 59949
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-24T03:33:05.976+0800",
+            "owner": {
+                "user_id": 15558221458822,
+                "name": "三也",
+                "avatar_url": "https://images.zsxq.com/FjTDM2i2qEH-rdHF1gPPRvwzDd8j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OHAIy30hHxLapC5wacs6-KW3W0I=",
+                "number": 1627
+            }
+        },
+        {
+            "create_time": "2019-12-27T09:20:02.431+0800",
+            "owner": {
+                "user_id": 142455125122,
+                "name": "stark.wang",
+                "avatar_url": "https://images.zsxq.com/FnZp5l4KbwqtWTcky_VstxpPlPJZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Z3D_26sK6lCHGYtVGaKL993hOXY=",
+                "number": 4831
+            }
+        },
+        {
+            "create_time": "2019-12-11T00:39:47.777+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ=",
+                "number": 810
+            }
+        },
+        {
+            "create_time": "2019-12-10T01:03:47.337+0800",
+            "owner": {
+                "user_id": 15115152241452,
+                "name": "zane",
+                "avatar_url": "https://images.zsxq.com/FshsBsZY_abweOwjaFq8R_I0ulaE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CgZ9sqZqYHRKTQbeh1m8xlwbUmc=",
+                "number": 4342
+            }
+        },
+        {
+            "create_time": "2019-12-09T09:42:44.640+0800",
+            "owner": {
+                "user_id": 15285181245252,
+                "name": "张冲&ray",
+                "avatar_url": "https://images.zsxq.com/FgwZJ9MSzHvb5jDEtfU4FIAEqmAy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c1U_MQWTlOGtfzowOPPdNOjCCZs=",
+                "number": 3301
+            }
+        },
+        {
+            "create_time": "2019-12-08T22:22:55.573+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc=",
+                "number": 4659
+            }
+        },
+        {
+            "create_time": "2019-12-08T19:08:05.112+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-12-08T14:51:24.257+0800",
+            "owner": {
+                "user_id": 488415418,
+                "name": "CaptainAm",
+                "avatar_url": "https://images.zsxq.com/Fq0u13XiT6z_1ggjymjlfB-suZ3G?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GzCZBBJwPql-qYMYbQqAEXRwQtY=",
+                "number": 3506
+            }
+        },
+        {
+            "create_time": "2019-12-08T10:10:32.338+0800",
+            "owner": {
+                "user_id": 48884828555828,
+                "name": "北风",
+                "avatar_url": "https://images.zsxq.com/FlFG7WHTlKyOJWK6FLi-IYLaSCmn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KLjxpSYx9zqhLwSf4dWoRv7mn7I=",
+                "number": 3871
+            }
+        },
+        {
+            "create_time": "2019-12-08T03:47:26.825+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU=",
+                "number": 348
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-12-30T23:55:28.075+0800",
+            "owner": {
+                "user_id": 454218544518,
+                "name": "Bluekou",
+                "alias": "Bluekou-温虾米",
+                "avatar_url": "https://images.zsxq.com/FoDXBpsrCgE7yn77Yd40E8lqqul1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z4sURrvi8iaGNT3lMItHCvvQiFo="
+            },
+            "amount": 640
+        },
+        {
+            "create_time": "2019-12-09T20:20:46.202+0800",
+            "owner": {
+                "user_id": 5581144214,
+                "name": "1/0 二事",
+                "avatar_url": "https://images.zsxq.com/Fpz6Vv35TuDuqoyqYcuE0Wed4JXh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oDr8c2PNXSB-TYhug9EVkMu6jUU="
+            },
+            "amount": 80
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548824112151114,
+            "create_time": "2019-12-07T17:15:21.087+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "独立产品应该从第一天就开始收费。賺钱要趁早呀！",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 40,
+    "rewards_count": 2,
+    "comments_count": 1,
+    "reading_count": 10723,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-12-06T22:37:23.959+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

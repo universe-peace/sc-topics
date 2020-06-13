@@ -1,0 +1,247 @@
+{
+    "topic_id": 28452221181511,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5458545854,
+            "name": "Tom叔聊运营增长",
+            "alias": "Tom叔聊运营增长",
+            "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />  <e type=\"hashtag\" hid=\"4218511418\" title=\"%23%E7%8E%A9%E7%9A%84%E5%B0%B1%E6%98%AF%E5%A2%9E%E9%95%BF%23\" />  <e type=\"hashtag\" hid=\"518858482184\" title=\"%23ASO%23\" />  \n\n下图第一张（图有点小😂），是跑过的A/B TEST中效果最好的之一，提高应用商店浏览到安装的转化率10个百分点，就是变相地节约10%的获客成本（粗略估计，几个点还是有的）\n\n在大部分公司，往往只重视了买量那头，忽视了广告素材和应用商店落地页的联动。\n\n或者初创企业资源有限，资源倾斜到ASO，积分墙刷榜，薅羊毛小聪明，但其实也并没有真正重视商店的CVR。\n\n之所以说“不够重视”，就是我翻一些亿级App的AppAnnie上的timeline时间轴，永远只是version release（版本发布）最勤快，而商店icon和头图，测试不够勤快，绝大部分3个月换一次，有的半年才换一次，有的一年都换不上一次。殊不知这其中的用户审美情趣、流行时尚风潮，可能一年内都发生了几次大的转变了。更别提一些节庆假日的创意，可以明显提升转化率（比如CM那个复活节的icon装饰）\n\n而90%以上的更换，还不是上架人员主观意愿想要去测试转化率，而是几个被动原因。比如因为产品UI重大改版（比如《得到》的猫头鹰图标），其次原因是上新的OS系统（比如iOS12，Android9.0），再其次是设计语言规范（Material design等）或者旗舰机发布（君不见iPhone X 出来后，各家跟风，上架图一夜间全换成刘海）\n\n理论上，上架图和icon，应该每周都要测，永不间断，不管有没有足够多的样本数据。icon要相对谨慎，但头图可以多测。测试多了后，你会发现不同国家的审美差异真的大相径庭。有些真是「大家来找茬」的区别，我们设计师还被虐哭过。比如阿拉伯地区喜欢的绿色，和印度地区的绿色，色值饱和度是完全不一样的。\n\n针对体量大、发布国家多的产品，还要分国家、分语言精细化测。甚至颜色渐变、字体样式、摆放组合等都要注意。\n\n这点猎豹移动做得很不错，我辈榜样。再附上个测试比较勤快的案例《Any Books》，一个多月测了4个icon，佩服佩服！\n\nTom叔强烈建议把买量团队和商店运营ASO团队放到同一个growth team，有共同的KPI指标，不要互相推诿踢皮球。\n\n最近两年，Media Buy和ASO都是合并起来我管的，目标一致，效果杠杠的！商店CVR提升，买量CPI也下来，双赢！投放和ASO不也都能请到更多预算么？[奸笑][奸笑]\n\n关于App Store的A/B test，推荐一篇文章：<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzMJ1VkSnS5Rd0MqRdDHjLg\" title=\"Google+Play%26App+Store+%E5%A6%82%E4%BD%95%E5%81%9AA%2FB+Test%EF%BC%9F\" cache=\"\" />\n\n引用如下：\nApp Store现在官方还不提供专门的工具，进行A/B Test，可以使用第三方工具，如SplitMetrics、TestNest、StoreMaven、Tune、Gummicube，测试方法是将付费和拥有的流量发送到应用商店副本（Web），注意事项为注意不要使用误导用户的素材、自然流量则排除在外、不要突然增加成本。",
+        "images": [
+            {
+                "image_id": 15411458425542,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fpmoj3CMiY3TXMvUNNMF7-D6-Dri?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NB-4YiA4pSUir5gcOH7wROY41l8=",
+                    "width": 320,
+                    "height": 43
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fpmoj3CMiY3TXMvUNNMF7-D6-Dri?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e-__Ygv1FBVX4yaufR4yG7oK1Y0=",
+                    "width": 750,
+                    "height": 101
+                }
+            },
+            {
+                "image_id": 48522581548858,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqtZKOLDKLR-WCNQmpTlGJndiMYC?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vzm1Sv-Ky1GOcIg_tmcKcBFVV_U=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqtZKOLDKLR-WCNQmpTlGJndiMYC?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MK7NGxBU-h4xC-KVOflRQY_kZHU=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqtZKOLDKLR-WCNQmpTlGJndiMYC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e0OAlaOWHAH8qAlDD9BVaUhi8U4=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 845223
+                }
+            },
+            {
+                "image_id": 88244281258822,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvnBBiLi1pW7M8IzQdP-hDtw0AED?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SiQa3pWlVelQMlwW9ZwgmYQAZNU=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvnBBiLi1pW7M8IzQdP-hDtw0AED?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Rtw3F_K59H7RKKUBuV3B05v8q4A=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvnBBiLi1pW7M8IzQdP-hDtw0AED?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o2DaiH4PKrFmkXS1stk4lJ4WdP0=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 480393
+                }
+            },
+            {
+                "image_id": 51544518521154,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fmrb5jA8OT1ZTFrcIb5fd40P6xlG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aqK-7NbVR6n31C0Nq7_TjWaV9T0=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fmrb5jA8OT1ZTFrcIb5fd40P6xlG?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0FiCAlyKnXiwOcoq_H_X8H4ATiU=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fmrb5jA8OT1ZTFrcIb5fd40P6xlG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oIrAufLf4hzHqdvw-KQMsMWEJCQ=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 994240
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-23T11:06:24.680+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-05-09T22:49:47.605+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T20:20:51.362+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-20T12:58:57.488+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-10-22T15:54:34.576+0800",
+            "owner": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc=",
+                "number": 1324
+            }
+        },
+        {
+            "create_time": "2018-09-24T09:34:03.163+0800",
+            "owner": {
+                "user_id": 481128188448,
+                "name": "四爷",
+                "alias": "四爷(Joseph)",
+                "avatar_url": "https://images.zsxq.com/FhnOgPcQYEcpBaXOxR_xbvsZ65oJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TQ-DmYFoXu7oDXVH94dBt8CAWqg=",
+                "number": 2021
+            }
+        },
+        {
+            "create_time": "2018-09-20T12:06:23.427+0800",
+            "owner": {
+                "user_id": 28455118451421,
+                "name": "张啟炜",
+                "avatar_url": "https://images.zsxq.com/FmefNF2SdPOjO6bXorNLRvIeaKAP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dm0PMRCc2kVaeSFDO2wjXT4hQUI=",
+                "number": 2247
+            }
+        },
+        {
+            "create_time": "2018-09-20T09:50:43.638+0800",
+            "owner": {
+                "user_id": 15558221458822,
+                "name": "三也",
+                "avatar_url": "https://images.zsxq.com/FjTDM2i2qEH-rdHF1gPPRvwzDd8j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OHAIy30hHxLapC5wacs6-KW3W0I=",
+                "number": 1627
+            }
+        },
+        {
+            "create_time": "2018-09-20T00:41:39.609+0800",
+            "owner": {
+                "user_id": 552185414544,
+                "name": "老何为人民服务",
+                "avatar_url": "https://images.zsxq.com/FpH0VsFaPYQdrSVihNqbtZOizoPs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NRaqIUPgYZGBbjwcINQnM_YfU7g=",
+                "number": 1716
+            }
+        },
+        {
+            "create_time": "2018-09-19T11:22:18.132+0800",
+            "owner": {
+                "user_id": 4215151258,
+                "name": "gaoxiaofei",
+                "avatar_url": "https://images.zsxq.com/FmpVZ3KuEvt8Xuu2eFgvzGSoBkki?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hLV4BuEffcITASUgBG-kXuoW_Ic=",
+                "number": 1783
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 422251821814528,
+            "create_time": "2018-09-19T05:29:46.745+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "说到这个，想到了小程序分享文案和卡片，分享能拉到多少人，就看这两个了。应该也遵循这个思路，不断迭代，优化转化率。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 111148584111882,
+            "parent_comment_id": 422251821814528,
+            "create_time": "2018-09-19T12:15:08.453+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "道理是一样的，太阳底下无新鲜事",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            }
+        },
+        {
+            "comment_id": 111182858411422,
+            "create_time": "2018-10-22T15:55:26.462+0800",
+            "owner": {
+                "user_id": 48418241125488,
+                "name": "洪琦🚩",
+                "avatar_url": "https://images.zsxq.com/Fiyoor4xgIA8W4B2ta776RSQvwjn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lw2q14QYIfm2MV7Fzu2K5J9Lbpc="
+            },
+            "text": "点很赞 关键环节都要做a/btest 但是监测点呢？盼着大神说一说",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 17,
+    "rewards_count": 0,
+    "comments_count": 3,
+    "reading_count": 6469,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-09-18T23:55:35.005+0800",
+    "modify_time": "2018-09-19T00:13:02.312+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

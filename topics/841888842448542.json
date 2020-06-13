@@ -1,0 +1,373 @@
+{
+    "topic_id": 841888842448542,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 88824282115452,
+            "name": "Sepp",
+            "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s="
+        },
+        "text": "看了亦仁老师这篇 《通过Google挖掘细分市场的一个案例》的文章，动手实践了一下。找到了一个围绕Instagram赚美元的案例，和大家分享。\n\n网站名叫linktr.ee，网站的创始人Alex Zaccaria利用这个简单的网站，每年赚到大约200万美元。据Alex说，linktr.ee在启动时没有投入一分钱用于营销推广，完全是靠自然传播获取用户的。\n\nInstagram有一个“one link policy”，即在Instagram中，你是无法在你发的帖子中或其他任何地方放置链接的，唯一能够让你放置链接的地方只有你个人profile处的网站。这就意味着，如果你希望你的粉丝可以通过不同的链接跳转到不同的landing page是无法实现的（FB广告投放除外）。这个对于很多IG上的网红和商家来说很不友好。比如很多商家有自己的Amazon店铺、独立站，网红需要给不同的雇主带货、宣传，他们希望他们的粉丝能够跳转到不同的地方，而IG的政策限制了他们这样的行为。而linktr.ee就是抓住这个痛点。\n\nlinktr.ee本质上就是一个landing page，它帮助你生成中间页的网站，在中间页中你可以放不同网站的跳转链接，实现让你的粉丝跳转到不同的地方。linktr.ee的PRO版，提供了更加完整的数据追踪和页面装饰功能，帮助这些有烦恼的IG用户更好的追踪链接的效果和突出自身的品牌特色。\n\nlinktr.ee没有其他的盈利方式，它所有的收入都来源于用户购买它的PRO版。",
+        "images": [
+            {
+                "image_id": 841545114142822,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhI5z7zOXVDaMdXKJ8FDZBEEykRH?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NWFrdWnFHdJFWF0A9yjQBHFj8JE=",
+                    "width": 320,
+                    "height": 139
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhI5z7zOXVDaMdXKJ8FDZBEEykRH?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b5x2Z9l0zpcIxBmfl8muOg5gMRM=",
+                    "width": 800,
+                    "height": 346
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhI5z7zOXVDaMdXKJ8FDZBEEykRH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hdoW2ptUNYVWTerSB39w1C9-UOc=",
+                    "width": 2152,
+                    "height": 932,
+                    "size": 199625
+                }
+            },
+            {
+                "image_id": 548242884845154,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrfXgXeXKUuZNa2w9v48zITS9e36?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zhjN4LfyqMT8x4OO56zADmXHOmo=",
+                    "width": 320,
+                    "height": 186
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrfXgXeXKUuZNa2w9v48zITS9e36?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_ZbwJVAG3cqbweO7zs9DNlhZJRM=",
+                    "width": 800,
+                    "height": 464
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrfXgXeXKUuZNa2w9v48zITS9e36?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:i9w9X738djm8L1DgWeVt0NlPquk=",
+                    "width": 1080,
+                    "height": 627,
+                    "size": 90931
+                }
+            },
+            {
+                "image_id": 118212881814422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fklfk0nZ9Q-1c0ELWiaUQVbCzHnI?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BaoPMjcOhcBTpuUnf1MLEgbmc-4=",
+                    "width": 320,
+                    "height": 185
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fklfk0nZ9Q-1c0ELWiaUQVbCzHnI?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:42e_ywVgsKOj0CsNcr9_uZSV-DE=",
+                    "width": 800,
+                    "height": 464
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fklfk0nZ9Q-1c0ELWiaUQVbCzHnI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e8jzWwPaum7KK4y86twbmVRDGhw=",
+                    "width": 1080,
+                    "height": 626,
+                    "size": 101439
+                }
+            },
+            {
+                "image_id": 548242884845524,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FmvjjNWSA8vvT_tvEQ1IryhqZxZs?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F521XnDFVflBzE-NZqoNwxP3LWk=",
+                    "width": 320,
+                    "height": 148
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FmvjjNWSA8vvT_tvEQ1IryhqZxZs?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-PEzhrP2ynDoOvAtu1WwZUVS8CQ=",
+                    "width": 800,
+                    "height": 370
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FmvjjNWSA8vvT_tvEQ1IryhqZxZs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NqYwlCnsKcc72V8HAJu0C9qo3iI=",
+                    "width": 1424,
+                    "height": 658,
+                    "size": 65970
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-12T16:26:19.009+0800",
+            "owner": {
+                "user_id": 15158128222482,
+                "name": "大头",
+                "avatar_url": "https://images.zsxq.com/FtGnlPzGsznZF1QzquIwJrcTuhd5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zut23eJGfJOuyvsXXIAm9SeqqLI=",
+                "number": 3385
+            }
+        },
+        {
+            "create_time": "2020-03-02T12:34:21.840+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8=",
+                "number": 5525
+            }
+        },
+        {
+            "create_time": "2020-02-29T22:57:00.645+0800",
+            "owner": {
+                "user_id": 841888228148552,
+                "name": "蓝鸢尾༅",
+                "avatar_url": "https://images.zsxq.com/FjsNOicH8j8i9fllMWreqKeAjgWY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:APyt1bJ_rxxWaZsqtcWlm5NGOf0=",
+                "number": 6246
+            }
+        },
+        {
+            "create_time": "2020-02-26T00:32:05.846+0800",
+            "owner": {
+                "user_id": 512822114,
+                "name": "条形马",
+                "avatar_url": "https://images.zsxq.com/FjfBLucywFjv6knjWRPeu3gxokLq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lcn7yNEDP38AmsaLEzrn2vlj5Zo=",
+                "number": 392
+            }
+        },
+        {
+            "create_time": "2020-02-22T13:35:45.858+0800",
+            "owner": {
+                "user_id": 145584524252,
+                "name": "Rancho",
+                "avatar_url": "https://images.zsxq.com/Fs03t9lH4OjXLZ1lpmaLynvWukEt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B7ozw8Y_SLjrBNyeEBrAE5oZD0=",
+                "number": 6483
+            }
+        },
+        {
+            "create_time": "2020-02-21T00:13:06.073+0800",
+            "owner": {
+                "user_id": 244114514152211,
+                "name": "Bonny. P",
+                "alias": "邦尼小姐1206",
+                "avatar_url": "https://images.zsxq.com/Fh5K_cLDaczXLyRr1DJ38pWNRpE1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:a4d2OUeY1swCnXceqjf4j_DbNQM=",
+                "number": 4304
+            }
+        },
+        {
+            "create_time": "2020-02-20T21:49:32.421+0800",
+            "owner": {
+                "user_id": 4288858848,
+                "name": "Michael",
+                "avatar_url": "https://images.zsxq.com/Fsr95dILTHyl79v5I-_X0LUqQdvt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ujhfca4qgldH0Cano7vdAGZoXEI=",
+                "number": 2879
+            }
+        },
+        {
+            "create_time": "2020-02-20T21:32:55.641+0800",
+            "owner": {
+                "user_id": 48254428824528,
+                "name": "马良",
+                "avatar_url": "https://images.zsxq.com/FrrO7rklRepjpTNiQuuYk5mY4pJI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qu7Uf_wvrpcpjODyhTl1aXOIfkw=",
+                "number": 5407
+            }
+        },
+        {
+            "create_time": "2020-02-20T08:55:24.024+0800",
+            "owner": {
+                "user_id": 844421145528812,
+                "name": "郭磊",
+                "avatar_url": "https://images.zsxq.com/Fg6szCZ6Yagg7t2AWP1hNLDuQNjb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:K0HNdZv4p9R4mVqazIc6qSZwZCA=",
+                "number": 6730
+            }
+        },
+        {
+            "create_time": "2020-02-20T00:55:59.273+0800",
+            "owner": {
+                "user_id": 28518824848411,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fp2ZyxCqJRAjOJS3dg-doHv9xXfy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t-add1GcppuIyW0mDN8xV1P_xFw=",
+                "number": 4940
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-03-29T22:26:11.052+0800",
+            "owner": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            },
+            "amount": 85
+        },
+        {
+            "create_time": "2020-03-22T18:49:54.227+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-29T22:26:35.458+0800",
+            "owner": {
+                "user_id": 455485811558,
+                "name": "70x",
+                "avatar_url": "https://images.zsxq.com/Fr_M6f1FmRUZEm3XK6_xiSTv3x6X?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j4wL34frUwTODZ_xElHWtlPv30g="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-19T11:40:38.938+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 134
+        },
+        {
+            "create_time": "2020-02-18T19:56:04.058+0800",
+            "owner": {
+                "user_id": 5425285114,
+                "name": "张秋兴",
+                "alias": "张秋兴",
+                "avatar_url": "https://images.zsxq.com/Fuc52gHR07NTNS-m8W8TLXceQtjU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rnNE8sLKRlZvloPOIDgJglSzB34="
+            },
+            "amount": 80
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548844844155884,
+            "create_time": "2020-02-18T19:19:06.278+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "思路真的好。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241144144158521,
+            "create_time": "2020-02-18T19:57:48.375+0800",
+            "owner": {
+                "user_id": 28824858112251,
+                "name": "唐葫芦",
+                "avatar_url": "https://images.zsxq.com/FlkS_rOyPrqiHVUpgYpGEzmK9K9t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j0RGGUPmGrB31SoLnEp5YrreHDA="
+            },
+            "text": "发现痛点，解决问题，赚到美刀",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118811818225512,
+            "create_time": "2020-02-18T20:06:07.001+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "赞，很好的点。 另外，请问盈利数据是这个创业者公布的吗",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 548844848215514,
+            "create_time": "2020-02-18T20:11:06.773+0800",
+            "owner": {
+                "user_id": 222812411111,
+                "name": "王路飞",
+                "avatar_url": "https://images.zsxq.com/FnefE5ua1tn4nQ2RETHU6mJeGIOY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5vjoUyMrHsysQj6r9lP997oXbFE="
+            },
+            "text": "原文链接在哪儿\n￼",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 421122121421458,
+            "parent_comment_id": 118811818225512,
+            "create_time": "2020-02-18T20:23:02.684+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s="
+            },
+            "text": "是的，盈利数据是这个创业者自己公布的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            }
+        },
+        {
+            "comment_id": 548844882812214,
+            "parent_comment_id": 548844848215514,
+            "create_time": "2020-02-18T20:25:45.167+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s="
+            },
+            "text": "没有原文链接，自己总结的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 222812411111,
+                "name": "王路飞",
+                "avatar_url": "https://images.zsxq.com/FnefE5ua1tn4nQ2RETHU6mJeGIOY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5vjoUyMrHsysQj6r9lP997oXbFE="
+            }
+        },
+        {
+            "comment_id": 841144115182452,
+            "parent_comment_id": 548844848215514,
+            "create_time": "2020-02-18T20:29:04.471+0800",
+            "owner": {
+                "user_id": 222812411111,
+                "name": "王路飞",
+                "avatar_url": "https://images.zsxq.com/FnefE5ua1tn4nQ2RETHU6mJeGIOY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5vjoUyMrHsysQj6r9lP997oXbFE="
+            },
+            "text": "《通过Google挖掘细分市场的一个案例》",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s="
+            }
+        },
+        {
+            "comment_id": 548844881412524,
+            "create_time": "2020-02-18T21:46:47.259+0800",
+            "owner": {
+                "user_id": 145512841852,
+                "name": "糖^_^瓶",
+                "avatar_url": "https://images.zsxq.com/Fr_zfQHmLmk9ROHsL47qlvfZoUph?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HQXZid-SgZoqRzMmuS5I65CPDRw="
+            },
+            "text": "没明白，怎么让不同的用户看到某个相同链接能直接跳转到不同页面。应该是中间页放置了各种不同链接，然后让用户们自己选择点哪个链接跳转到各自对应的着陆页？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        }
+    ],
+    "likes_count": 86,
+    "rewards_count": 3,
+    "comments_count": 15,
+    "reading_count": 12901,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-02-18T19:17:56.054+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

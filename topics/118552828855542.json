@@ -1,0 +1,282 @@
+{
+    "topic_id": 118552828855542,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 51188451511484,
+            "name": "阿荣",
+            "avatar_url": "https://images.zsxq.com/FnDEoRpj9jX49QlpHC2IEO64hOH4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6cveraRRcjfvDzPO7CSMlQb49bQ="
+        },
+        "text": "#港股多户打新小记\n\n19年9月初，在网上了解到港股打新，网上有些大V写的年化比较夸张，很诱人，刚好离职了有时间，就研究了一下，觉得可行，就开干了。\n\n从预约开卡到今天，大概5个月（主要11、12月），打新370次（10个账号打同一个股，算10次），中签142次，大概56W港币，浮盈大概9.7W港币。\n\n9月12号预约了银行见证开户，9月19号开通港卡账户，9月20开通第一香港券商账户。然后有朋友介绍工作，去了解情况，再加上一些杂事、放假，开了第一个账号后的一个月打了10来个股，行情虽好，可惜单账户、大肉没中，也就没赚什么钱。10月中下旬，推掉了朋友介绍的工作，回过神来发现已经错失了10月份的行情。重新开始开户，我自己的先开了大概10个券商账户，另外买手机、买手机号码，找了两个亲戚，预约去香港办了两个香港银行卡，回来也分别开了大概10个券商账户，到11月底12月初，总的应该是申请了39个账户，开通了38个，用过的有32个。\n\n上面说觉得可行，就开干了。实际上我还是研究了一下的，毕竟也是辛苦钱，投机也看胜率、看赔率。\n\n首先我了解了港股IPO的一些基本规则，术语。比如回拨、分配机制、绿鞋、基石、保荐人、稳价人之类的。学着看新股的招股书，梳理了一些主要的关注点。另外我爬取了历年港股新股数据，从发行价、超购倍数、板块、行业、地区等维度进行了统计和分析。总的来说，低价股、创业板、字母股、医药科技类、保荐人历史战绩优秀这些都是属于加分项。\n\n第二从可行性上来说：\n* 根据历年的港股新股数据，加权算单账户收益率，很可观；\n* 港股的中签率比A股高很多，百分之几十的中签率很正常；\n* 一年下来，发行的股票数量不少（2018年205只股）；\n* 可以多券商打同一个新股，这样多户打可以带来中签率的均值回归；\n* 港股的招股一般是区间定价，对于热门票不怕上限定价，一般的最终定价会留有一些余地。\n\n第三从风险上来说：\n* 港股不像A股，上市门槛高，狼多肉少，中签就是吃肉，港股新股存在破发的风险，有时候中签如中枪；\n* 交易成本（手续费、融资费用）也是需要考虑的，不然搞半天就给券商打工了；\n* 多账户操作不当容易漏打、漏卖、来不及卖；\n* 汇率波动的风险，人民币在相对低点，再跌的可能性小些；\n* 贸易战、大盘不稳，如果有金融危机那就更惨。\n对于这些风险，可能破发那只能有选择性地打，交易成本方面选择一些低成本的互联网券商，多账户做好记录（利用excel计算），汇率这个没办法，对于更大的系统性风险，那就要更小心，慎重融资，控制大概的中签金额不要超过一半（这里的所谓控制，也是估算的，不一定准，融资一定得慎重！）。\n\n总结一下注意的点：\n不要炒，不要捂，不要怂，不要抱太高的期望。\n* 不要炒，打新不炒新，炒新乱人心；\n* 不要捂，中签了不论盈亏首日卖掉（分时分批卖掉），不要捂股；\n* 不要怂，虽说挑着打，也不能太挑，主要关注点不算差，行情一般、人气不高也可以打；\n* 不要抱太高的期望，港股打新，虽说开港卡这一关就难住了很多人，但是有利可图，打新的人就会越来越多。不可能总像10月、12月这样的行情，总的收益率会降下来。当然申购的人一多，定价就可以往上限定，庄家的镰刀一出，就会有人退出，市场就又会冷下来，人少定价低，行情又可能网上走。\n\n如果继续做，可以尝试的点：\n* 纯打新的角度，开更多的账户；\n* 流量的角度，港股历史新股数据的分析、港股的一些关注点，可量化点，做成根据招股书提取（人工录入），自动生成分析报告，吸引一些用户，给券商引流，开户收佣；\n* 工具的角度，提供打新工具，个股分析、多账号记录、多账户集成等。\n\n对了，忘了自我介绍了。\n我是阿荣，来自深圳，微信id：choucr，毕业于师范院校，经管专业，毕业后从事软件开发。\n\n去年年初加入星球，一来去年离职的事搞了很久，二来也是觉得自己太普通，就没有发过言。这次亦仁鼓励我分享下打新经历，这点文字写了近两个小时，看来还是总结少了。\n\n最后祝大家健康快乐！"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-08T23:33:52.765+0800",
+            "owner": {
+                "user_id": 28885851241211,
+                "name": "杭漂小灰灰",
+                "avatar_url": "https://images.zsxq.com/FrnVRQZXaME22KD8k4jEHVFYpDGl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pu0t7Uc79Nr4IFsJS2ephgocjrE=",
+                "number": 6266
+            }
+        },
+        {
+            "create_time": "2020-03-17T19:32:35.691+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s=",
+                "number": 6034
+            }
+        },
+        {
+            "create_time": "2020-03-16T06:32:58.435+0800",
+            "owner": {
+                "user_id": 458512542188,
+                "name": "鸣略",
+                "avatar_url": "https://images.zsxq.com/Fv_nQETlCT77VYeeRo9EWhgRA5g4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VpuiBBjo-IKFz_DdsyXMTiCDv0I=",
+                "number": 1499
+            }
+        },
+        {
+            "create_time": "2020-02-29T08:33:00.360+0800",
+            "owner": {
+                "user_id": 512111284,
+                "name": "微凉季节",
+                "avatar_url": "https://images.zsxq.com/FrZ3MmJPA9WoyAh1WWjyS3YiEzhC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:y4tg-iRnYi3ginwct_IefesaKfo=",
+                "number": 5328
+            }
+        },
+        {
+            "create_time": "2020-02-27T15:05:47.014+0800",
+            "owner": {
+                "user_id": 28281414118581,
+                "name": "张大器",
+                "avatar_url": "https://images.zsxq.com/Fo6OLvInrbrTPg1VvvAExngjN7-_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXu0qb50L_YHhS-Vvmkf4C5-PV8=",
+                "number": 1479
+            }
+        },
+        {
+            "create_time": "2020-02-25T20:52:03.314+0800",
+            "owner": {
+                "user_id": 15285241425442,
+                "name": "冯云云",
+                "avatar_url": "https://images.zsxq.com/FkA_HCh4Pw11ko9rJNed3WN8jwlx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yeJ04l4CFn2QX_cQ4pobVRi_p0w=",
+                "number": 6781
+            }
+        },
+        {
+            "create_time": "2020-02-23T00:00:43.080+0800",
+            "owner": {
+                "user_id": 454552815248,
+                "name": "张晴天天天天天",
+                "avatar_url": "https://images.zsxq.com/Fh1Zhvju28yaSDjF4kaY2_CCQcxG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iZROBHoMipf7A6I3l5Xh8pc-QkQ=",
+                "number": 3696
+            }
+        },
+        {
+            "create_time": "2020-02-22T22:23:28.236+0800",
+            "owner": {
+                "user_id": 145584524252,
+                "name": "Rancho",
+                "avatar_url": "https://images.zsxq.com/Fs03t9lH4OjXLZ1lpmaLynvWukEt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B7ozw8Y_SLjrBNyeEBrAE5oZD0=",
+                "number": 6483
+            }
+        },
+        {
+            "create_time": "2020-02-22T01:17:18.192+0800",
+            "owner": {
+                "user_id": 5422818584,
+                "name": "石头",
+                "avatar_url": "https://images.zsxq.com/FrxO_vWJY1pRM2Y2w967OzTCXCbg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ksKejhEyRPDctk0NBvZwgrb1tGE=",
+                "number": 4956
+            }
+        },
+        {
+            "create_time": "2020-02-19T16:00:28.329+0800",
+            "owner": {
+                "user_id": 454584511258,
+                "name": "司徒K",
+                "avatar_url": "https://images.zsxq.com/FvayXLEKjMmDluyMVTI9jhzi0PLj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uDYqIWoT3csXzjvtAYVXXiKHko0=",
+                "number": 3061
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-02-15T08:29:44.548+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1520
+        },
+        {
+            "create_time": "2020-03-31T10:01:42.581+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-29T22:36:42.287+0800",
+            "owner": {
+                "user_id": 455485811558,
+                "name": "70x",
+                "avatar_url": "https://images.zsxq.com/Fr_M6f1FmRUZEm3XK6_xiSTv3x6X?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j4wL34frUwTODZ_xElHWtlPv30g="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-15T14:51:00.544+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 134
+        },
+        {
+            "create_time": "2020-02-15T12:24:58.487+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-15T10:34:16.979+0800",
+            "owner": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            },
+            "amount": 96
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841144812211842,
+            "create_time": "2020-02-15T10:35:16.021+0800",
+            "owner": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            },
+            "text": "我有招行的香港一卡通，有哪些可以在线开户的证券吗",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421122815145888,
+            "create_time": "2020-02-15T11:07:40.939+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "很受益啊 学习了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241144811455211,
+            "create_time": "2020-02-15T11:37:31.628+0800",
+            "owner": {
+                "user_id": 422185512421518,
+                "name": "秦国梁",
+                "avatar_url": "https://images.zsxq.com/FtQycqiV6Zm-dKsY3lhCX6VNqILq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WkMLPA48_xNUGYMJROreOUKPSls="
+            },
+            "text": "打新风险很高的，去年打新了三支明星股阿里巴巴、九毛九和鲁大师[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 5
+        },
+        {
+            "comment_id": 421122811145828,
+            "create_time": "2020-02-15T12:04:01.267+0800",
+            "owner": {
+                "user_id": 825225414442,
+                "name": "Dave",
+                "avatar_url": "https://images.zsxq.com/Fqg1RDtDzDtJNEQ6XvdfsdiMk7G3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Gl7Jl9VFCJw5vxC9Ilp8OkqdrI="
+            },
+            "text": "请问出金你是怎么出的呢？入金容易出金难，我用的民生香港卡，现在不让汇到大陆，问了民生的朋友说外汇管制很严，而且一直规定汇入不能大于汇出额",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 548844188811514,
+            "create_time": "2020-02-15T12:11:24.384+0800",
+            "owner": {
+                "user_id": 1122858452,
+                "name": "三丰",
+                "avatar_url": "https://images.zsxq.com/FqspSG0648DLJUpnQK6g7dIJDGBv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q3IvQyXjwdXo1Vk9GQYYIyi_PZo="
+            },
+            "text": "深圳的位置优势体现出来了，打新最难的部分就是先开一张港卡，第一步走出来，接下来就容易多了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 548844188811884,
+            "parent_comment_id": 841144812211842,
+            "create_time": "2020-02-15T12:13:17.640+0800",
+            "owner": {
+                "user_id": 51188451511484,
+                "name": "阿荣",
+                "avatar_url": "https://images.zsxq.com/FnDEoRpj9jX49QlpHC2IEO64hOH4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6cveraRRcjfvDzPO7CSMlQb49bQ="
+            },
+            "text": "有很多，比如：辉立证券、耀才证券、友信证券、玖富、利弗莫尔、尊嘉、东财国际、富途、华盛通、雪盈证券、国都香港、复星恒利、东方证券（香港）。\n各有优缺点，一般我会优先选前面几个（便宜或者融资方便），从软件友好程度来说，富途和华盛通更好。后面几个很少用（贵、麻烦）。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            }
+        },
+        {
+            "comment_id": 548844188814244,
+            "parent_comment_id": 241144811455211,
+            "create_time": "2020-02-15T12:14:15.784+0800",
+            "owner": {
+                "user_id": 51188451511484,
+                "name": "阿荣",
+                "avatar_url": "https://images.zsxq.com/FnDEoRpj9jX49QlpHC2IEO64hOH4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6cveraRRcjfvDzPO7CSMlQb49bQ="
+            },
+            "text": "风险不算低，但从风险收益比来说呢[微笑]。A股打新风险低，中签收益高，一般万几的中签率。\n港股打新，执行力很重要，执行力不只在开卡、开户、打新，还在于严格执行卖出策略。\n我总的打了51只股，前面16只还没有开太多账户，行情很好，但是只赚了几K，全部打了这么多，利润主要来自4只股（康宁、启明、保利、九毛九）。中国抗体第一天亏20%不舍得出，第二天出的，这个股总的亏36%。。。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 422185512421518,
+                "name": "秦国梁",
+                "avatar_url": "https://images.zsxq.com/FtQycqiV6Zm-dKsY3lhCX6VNqILq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WkMLPA48_xNUGYMJROreOUKPSls="
+            }
+        }
+    ],
+    "likes_count": 69,
+    "rewards_count": 6,
+    "comments_count": 33,
+    "reading_count": 14970,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-02-15T03:44:55.144+0800",
+    "modify_time": "2020-03-04T23:59:33.045+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

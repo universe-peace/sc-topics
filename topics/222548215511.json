@@ -1,0 +1,228 @@
+{
+    "topic_id": 222548215511,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 142181418542,
+            "name": "七",
+            "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+        },
+        "text": "分享一个想法，来自社区。如何用社群的方式让大家健身互动，并且持续活跃？\n\n痛点：众所周知 健身是一件枯燥乏味的事情\n\n设计理念：游戏是一件让人很开心的事情，那么 健身+游戏呢\n\n设计内容：你在游戏里面怎么玩的，就怎么健身，游戏让大家欲罢不能的核心------荣耀。游戏玩家角色从小白的时候就让你无时无刻不感觉到荣耀。那么健身也可以\n\n游戏;小白打小怪 升级 得经验，获得装备\n\n健身：小白挑战基础训练，升级，得经验，获得装备\n\n基础训练有：PLANK 一分钟 或者 8的速度跑步 30分钟\n\n验证方式就是视频，当你开始挑战时，你的手机会自动打开摄像头，开始记录，评判者是所有APP在线的伙伴们。\n\n升级：完成基础任务后才能进入到下一阶段的任务；完成规定的任务，退回押金；不能完成，押金部分退回。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-12-20T08:49:43.859+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-03T17:48:17.891+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T15:46:42.618+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-07-28T08:34:00.312+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-05-23T12:27:17.152+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2018-10-20T22:44:56.790+0800",
+            "owner": {
+                "user_id": 142425812542,
+                "name": "利弗莫尔",
+                "avatar_url": "https://images.zsxq.com/FlANFdop1oQpYw47w1QpUrSPxpyx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXmDmKC6M7MYOpfCT77G2AheGmE=",
+                "number": 1605
+            }
+        },
+        {
+            "create_time": "2017-03-31T00:26:56.279+0800",
+            "owner": {
+                "user_id": 454588482218,
+                "name": "黄晓斌",
+                "avatar_url": "https://images.zsxq.com/Fh-KX_6kM-n08mdHij75VTyzrqPt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lMKIO9CE5ao_ZWr3J6wO38lp7lg=",
+                "number": 305
+            }
+        },
+        {
+            "create_time": "2017-03-31T00:15:53.633+0800",
+            "owner": {
+                "user_id": 158851848252,
+                "name": "Grey",
+                "avatar_url": "https://images.zsxq.com/FiKdHPl30YhIbZBmycnd93IXhPM2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YEFej1zBQZ-PmGcM_60sV9AKuTU=",
+                "number": 52
+            }
+        },
+        {
+            "create_time": "2017-03-30T20:28:47.401+0800",
+            "owner": {
+                "user_id": 145818584552,
+                "name": "wuwo",
+                "alias": "无我",
+                "avatar_url": "https://images.zsxq.com/Fj8gb7N4-XGzb4BNjti1NoXg9KVM?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NZgDAN-aqwqSf-PuQHkPfA9uaLU=",
+                "number": 637
+            }
+        },
+        {
+            "create_time": "2017-03-30T17:03:11.576+0800",
+            "owner": {
+                "user_id": 454581542288,
+                "name": "钱串串",
+                "avatar_url": "https://images.zsxq.com/Flx2cej6iGX68VWfCFAGaHHvslxX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ch26ClFkfLeF2N1DuTTsv-z7IJk=",
+                "number": 210
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 228211252851,
+            "create_time": "2017-03-30T15:09:38.648+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "text": "我要上精选，选我选我哈。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 228211224181,
+            "create_time": "2017-03-30T16:15:22.740+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "text": "还可以邀请好友挑战，具体参见“冰桶挑战”",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 228158442481,
+            "create_time": "2017-03-30T20:23:55.350+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34="
+            },
+            "text": "种子习惯有这方面的功能，但是不是为啥没有游戏的感觉，可以着重在代入感上。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458145882828,
+            "create_time": "2017-03-30T23:29:50.898+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "觉得这个比较难，游戏的设计，模式的推广，场景上是否格式，都有很大的门槛。 \n主要是我不了解健身这个行业，平常也不怎么健身😅",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 228152245181,
+            "create_time": "2017-03-31T03:06:43.919+0800",
+            "owner": {
+                "user_id": 458815528828,
+                "name": "EatMelon.S",
+                "avatar_url": "https://images.zsxq.com/FufvokhwkuT6WEc5kvw-ZDEPNarG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1BSfD-G4nQT11tT_0e75zqCAl8c="
+            },
+            "text": "健身是反人性的，是一个很明显过程痛苦，超长的延时回报周期，这两点和游戏即时反馈的要求差的有点多。即使加上惩罚，以及围观也不容易缩小两者之间的差距。自律始终是小众才能达成的目标",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 458145224588,
+            "create_time": "2017-03-31T08:14:55.820+0800",
+            "owner": {
+                "user_id": 518121454114,
+                "name": "羲吾",
+                "avatar_url": "https://images.zsxq.com/FoJlUa9HacHcwElk5ZOUISajaq8Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zF5SnfDKK2Im_fw2y5dM13k31Js="
+            },
+            "text": "刚开始健身的人其实是要经历痛苦的做hiit或tabata那些减脂过程的，开心健身的荣耀感虚荣心针对肥胖人群未必有效，对一定程度的才能有效，而这些一定程度的也未必需要这个东西了。对想减肥的社群最好的应该还是互助会那种模式吧。而且直播健身对于胖妹子来说绝对是反感的。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 458145225188,
+            "create_time": "2017-03-31T08:32:03.750+0800",
+            "owner": {
+                "user_id": 518121454114,
+                "name": "羲吾",
+                "avatar_url": "https://images.zsxq.com/FoJlUa9HacHcwElk5ZOUISajaq8Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zF5SnfDKK2Im_fw2y5dM13k31Js="
+            },
+            "text": "而且底子差或有基础疾病的人没有教练指导和医生的建议的话很容易把自己搞残",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 828185455122,
+            "parent_comment_id": 228152245181,
+            "create_time": "2017-03-31T17:53:37.827+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "text": "确实是反人性的，自律很难坚持。如果前期吸引用户，引入的动机除了自己变好，还有年前人群的社交，比如都是健身爱好者，通过社群维系，直播增加互动。比如Keep，单纯靠工具，做不大，人家的社区很活跃，满足了人群的交友、炫耀需求。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458815528828,
+                "name": "EatMelon.S",
+                "avatar_url": "https://images.zsxq.com/FufvokhwkuT6WEc5kvw-ZDEPNarG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1BSfD-G4nQT11tT_0e75zqCAl8c="
+            }
+        }
+    ],
+    "likes_count": 13,
+    "rewards_count": 0,
+    "comments_count": 9,
+    "reading_count": 2446,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-30T15:08:59.255+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

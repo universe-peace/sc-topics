@@ -1,0 +1,374 @@
+{
+    "topic_id": 51288182541814,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 228214485841,
+            "name": "Jason",
+            "alias": "JasonLee",
+            "avatar_url": "https://images.zsxq.com/Ftbym-tzOBZ26mFA21Ca1rs64ASm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_So2l851p2qR-1oMMudfU5ypuv0="
+        },
+        "text": "#投资观点#  投资的思维模型第三篇，围绕区块链说说近日感言。（谢晨哥和馋嘴猫指路）\n在一个阶段性涌现的、靠韭菜指数级增长来支撑的投机浪潮中，花10w块钱买一个上市当天翻到400w的机会，同时承担一定概率10w资产归零的风险，有没有吸引力？\n假如过去数据来看，归零概率小于20%呢？\n那么把10w拆成5份买5个项目如何？\n“踩在时代的前列腺上思考问题”真是件有趣的事😏",
+        "images": [
+            {
+                "image_id": 88514111212812,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnF_6B_qejdQ0iqIR0-ERo_b3AAb?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ublIk4Jik8fTZgfMDTng-fDj-gc=",
+                    "width": 540,
+                    "height": 8280
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnF_6B_qejdQ0iqIR0-ERo_b3AAb?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1pyLwOstzc0YdfEdbx2IZYSPSEQ=",
+                    "width": 800,
+                    "height": 12267
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FnF_6B_qejdQ0iqIR0-ERo_b3AAb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jtBeaCc1u25ZqKe_Xk7_Tv5Z6Bw=",
+                    "width": 990,
+                    "height": 15180,
+                    "size": 2609953
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-15T10:24:48.805+0800",
+            "owner": {
+                "user_id": 111844548182812,
+                "name": "莎拉",
+                "avatar_url": "https://images.zsxq.com/FsUUjnFoJnDOwYP07RAXg12p2vQe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t5KV8vNOYyg7Qw1-DlzZVDKQxD0=",
+                "number": 3345
+            }
+        },
+        {
+            "create_time": "2020-03-30T14:02:48.086+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-01-21T12:40:40.611+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2020-01-05T20:19:41.479+0800",
+            "owner": {
+                "user_id": 458512542188,
+                "name": "鸣略",
+                "avatar_url": "https://images.zsxq.com/Fv_nQETlCT77VYeeRo9EWhgRA5g4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VpuiBBjo-IKFz_DdsyXMTiCDv0I=",
+                "number": 1499
+            }
+        },
+        {
+            "create_time": "2019-10-13T05:31:29.932+0800",
+            "owner": {
+                "user_id": 48811428548188,
+                "name": "大象帮主",
+                "avatar_url": "https://images.zsxq.com/FumDsxq52rqM4czaGv_5NQEvtWv7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1U67KVASkRTNsEqph0tGCQtS3mE=",
+                "number": 5414
+            }
+        },
+        {
+            "create_time": "2019-09-17T17:10:20.774+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-08-08T17:21:49.753+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-08-04T12:28:24.691+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-03T11:43:54.156+0800",
+            "owner": {
+                "user_id": 28514421541181,
+                "name": "朝天阙",
+                "avatar_url": "https://images.zsxq.com/FgPD2jWxyYpHM6YlHhhSpEllkbJe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:buLKT-RNtKSLufuS_G8DWnEY-Ss=",
+                "number": 3615
+            }
+        },
+        {
+            "create_time": "2019-06-05T20:28:08.150+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-18T15:50:00.475+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6333
+        },
+        {
+            "create_time": "2017-06-18T20:30:03.013+0800",
+            "owner": {
+                "user_id": 225814854821,
+                "name": "杨涛",
+                "avatar_url": "https://images.zsxq.com/FifpSTY8YbAbI3iRSjrizCwJoa8v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jsPiQAh9mq-4fg3PUDCxznPmFgE="
+            },
+            "amount": 633
+        },
+        {
+            "create_time": "2017-06-19T21:00:58.940+0800",
+            "owner": {
+                "user_id": 822252424542,
+                "name": "张天天",
+                "avatar_url": "https://images.zsxq.com/FugAFjZ7lhgZEEz611sVu_k9H7MB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zx2C6FX_u-pv2bkX6kqTebH1Qyg="
+            },
+            "amount": 844
+        },
+        {
+            "create_time": "2017-06-19T13:34:51.633+0800",
+            "owner": {
+                "user_id": 1484114222,
+                "name": "罗宏",
+                "avatar_url": "https://images.zsxq.com/FjDVKXzrUXQaR4W1ZjKTLUgi2Byl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Iw6Tvirv4wHp3C5BQhVEztYl8tI="
+            },
+            "amount": 179
+        },
+        {
+            "create_time": "2017-06-19T00:04:34.748+0800",
+            "owner": {
+                "user_id": 512155454,
+                "name": "锋度",
+                "avatar_url": "https://images.zsxq.com/FpBm3I9cPVn9OGK9x22S3md6Eahb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q_L06td0hO1yaIJS9Jsg5kPN0IU="
+            },
+            "amount": 633
+        },
+        {
+            "create_time": "2017-06-18T23:23:16.743+0800",
+            "owner": {
+                "user_id": 8188845422,
+                "name": "Light微光",
+                "avatar_url": "https://images.zsxq.com/FhU77pbHjijA2a0sh5BroCUjoXHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfu5nVncAT9Y8gdh0FDCQoazVTw="
+            },
+            "amount": 633
+        },
+        {
+            "create_time": "2017-06-18T20:30:27.585+0800",
+            "owner": {
+                "user_id": 2421418811,
+                "name": "三月沙(wecatc*",
+                "avatar_url": "https://images.zsxq.com/FiiaUuLjkfCkSmkzybaBu1XGi7jw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8zC_drv23iaRZp5e4HnvEz2PCCI="
+            },
+            "amount": 401
+        },
+        {
+            "create_time": "2017-06-18T18:49:16.356+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs="
+            },
+            "amount": 255
+        },
+        {
+            "create_time": "2017-06-18T18:33:02.277+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 844
+        },
+        {
+            "create_time": "2017-06-18T17:48:08.672+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "amount": 559
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28855584121241,
+            "create_time": "2017-06-18T16:35:36.256+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "好喜欢你的文笔哈，看了一些相关资料，正在逐步从 投机形态转为投资心态，希望可以坚持持有下去。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 15522258518852,
+            "parent_comment_id": 28855584121241,
+            "create_time": "2017-06-18T18:17:41.292+0800",
+            "owner": {
+                "user_id": 228214485841,
+                "name": "Jason",
+                "alias": "JasonLee",
+                "avatar_url": "https://images.zsxq.com/Ftbym-tzOBZ26mFA21Ca1rs64ASm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_So2l851p2qR-1oMMudfU5ypuv0="
+            },
+            "text": "😬😬",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            }
+        },
+        {
+            "comment_id": 15522258581142,
+            "parent_comment_id": 28855584121241,
+            "create_time": "2017-06-18T18:33:24.178+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "补个赞赏，8.88",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228214485841,
+                "name": "Jason",
+                "alias": "JasonLee",
+                "avatar_url": "https://images.zsxq.com/Ftbym-tzOBZ26mFA21Ca1rs64ASm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_So2l851p2qR-1oMMudfU5ypuv0="
+            }
+        },
+        {
+            "comment_id": 88855528225442,
+            "create_time": "2017-06-18T20:34:21.148+0800",
+            "owner": {
+                "user_id": 2421418811,
+                "name": "三月沙(wecatc*",
+                "avatar_url": "https://images.zsxq.com/FiiaUuLjkfCkSmkzybaBu1XGi7jw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8zC_drv23iaRZp5e4HnvEz2PCCI="
+            },
+            "text": "最近在学金融相关的知识，懂了一点皮毛，稍微能做到跳出来看投资，再看你写的文章，更是受教了。一种思维模式一种境界。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15522245142142,
+            "create_time": "2017-06-18T21:06:22.344+0800",
+            "owner": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            },
+            "text": "股票插播区块链？😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 15522245144242,
+            "parent_comment_id": 15522245142142,
+            "create_time": "2017-06-18T21:09:31.236+0800",
+            "owner": {
+                "user_id": 225814854821,
+                "name": "杨涛",
+                "avatar_url": "https://images.zsxq.com/FifpSTY8YbAbI3iRSjrizCwJoa8v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jsPiQAh9mq-4fg3PUDCxznPmFgE="
+            },
+            "text": "一切流…✌",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            }
+        },
+        {
+            "comment_id": 88855528441882,
+            "create_time": "2017-06-18T21:28:29.435+0800",
+            "owner": {
+                "user_id": 828281444412,
+                "name": "烟台李飞刀",
+                "alias": "烟台飞刀哥",
+                "avatar_url": "https://images.zsxq.com/FgIF71n-fq7frDxSU4iFi_WnXcEP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jYltANBxheum6ZxOaVlr0S0JHfo="
+            },
+            "text": "充满启发性!",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88855522885822,
+            "parent_comment_id": 15522245142142,
+            "create_time": "2017-06-18T22:43:58.552+0800",
+            "owner": {
+                "user_id": 228214485841,
+                "name": "Jason",
+                "alias": "JasonLee",
+                "avatar_url": "https://images.zsxq.com/Ftbym-tzOBZ26mFA21Ca1rs64ASm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_So2l851p2qR-1oMMudfU5ypuv0="
+            },
+            "text": "听说偶尔暴力的插入会有额外的快感😉",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            }
+        }
+    ],
+    "likes_count": 46,
+    "rewards_count": 11,
+    "comments_count": 17,
+    "reading_count": 2960,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-18T15:33:19.695+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

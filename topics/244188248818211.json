@@ -1,0 +1,296 @@
+{
+    "topic_id": 244188248818211,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "赞同。\n\n另外，我把这个理解为“完整做完一件事情”的能力，或者说“是否有完整的作品”，面对恐惧和陌生，要有“死猪不怕开水烫”的精神。\n\n再难也要把一件事情做完整，做完一件事和做到一半可不是 1/2 的经验的区别，而是几倍甚至十倍的区别。\n\n我招人的时候看重：这个人有没有完整的做完过一件事，多次半途而废的人不值得招，他们习惯于干到一半找各种借口说干不下去，已经形成习惯了。\n\n干到一半，等于白干。",
+        "images": [
+            {
+                "image_id": 111182182888482,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FmOyzWs14YYpKoOo89bdQmmRdINF?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HEcdD52RUQ0H7JTl9FcyoFs7PVw=",
+                    "width": 540,
+                    "height": 630
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FmOyzWs14YYpKoOo89bdQmmRdINF?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KQxq-Rc2NaUrrKj9_tCQ_3Omv14=",
+                    "width": 800,
+                    "height": 934
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FmOyzWs14YYpKoOo89bdQmmRdINF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8EP6QzznghP16uXzRA8oucP8BTU=",
+                    "width": 1125,
+                    "height": 1314,
+                    "size": 167292
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-27T22:25:07.770+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2020-02-04T10:16:45.780+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-12-12T18:00:30.475+0800",
+            "owner": {
+                "user_id": 4225521518,
+                "name": "sam.zhang",
+                "avatar_url": "https://images.zsxq.com/FkaDD9tKSC5T7JD2rG5aw5wDjGZE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8EzdlDaGCsauF8S1sdWGhwNKamk=",
+                "number": 6498
+            }
+        },
+        {
+            "create_time": "2019-06-28T22:22:39.246+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-06-22T23:46:19.114+0800",
+            "owner": {
+                "user_id": 548214852488244,
+                "name": "张凯",
+                "alias": "张小白",
+                "avatar_url": "https://images.zsxq.com/Fig1fhLRTUmynXA0DK7oU810tCJ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2bvcBogsjIKWzkUF0G1Yd6aw1Gk=",
+                "number": 5934
+            }
+        },
+        {
+            "create_time": "2019-06-19T02:43:02.253+0800",
+            "owner": {
+                "user_id": 4512228288,
+                "name": "m5Rero",
+                "avatar_url": "https://images.zsxq.com/FlpAk3jOKsY7ukzc3IgA2DR9Ua5y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Me0nU8N_-p0zfnvjuQfbmvCfYQ=",
+                "number": 1961
+            }
+        },
+        {
+            "create_time": "2019-06-16T16:38:15.036+0800",
+            "owner": {
+                "user_id": 228228188251,
+                "name": "多闻",
+                "avatar_url": "https://images.zsxq.com/Fp3oEP_piXVbERft5uOJn9_npa_n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5XFLKJaGY8pPfTGu6BDkDzq06NM=",
+                "number": 2505
+            }
+        },
+        {
+            "create_time": "2019-06-12T14:05:30.706+0800",
+            "owner": {
+                "user_id": 28518218822841,
+                "name": "今宵",
+                "avatar_url": "https://images.zsxq.com/Fual4Jvuc05gKGPyD9XyleLQuUNW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MV1gLUg1z2YCIgz5oIJ8UUQPorc=",
+                "number": 3521
+            }
+        },
+        {
+            "create_time": "2019-06-12T00:50:48.267+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-06-11T19:08:12.100+0800",
+            "owner": {
+                "user_id": 142114884812,
+                "name": "QuincySx",
+                "avatar_url": "https://images.zsxq.com/Fv8HtCo6Du2pRZ55yP0J6Fk1jEVs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NTcnpFQKC2gMr4TcI3BH2PWfY88=",
+                "number": 3717
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-31T15:24:51.054+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 198
+        },
+        {
+            "create_time": "2019-06-01T21:10:14.433+0800",
+            "owner": {
+                "user_id": 824454555482,
+                "name": "Mark",
+                "avatar_url": "https://images.zsxq.com/FkP9Zm83Rjnx_P2qfJm6ewdfNut9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XaMCseQs54xTlW0vWtDbXkfzXMw="
+            },
+            "amount": 200
+        },
+        {
+            "create_time": "2019-05-28T09:25:18.328+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "amount": 588
+        },
+        {
+            "create_time": "2019-05-27T16:46:42.596+0800",
+            "owner": {
+                "user_id": 88281254222142,
+                "name": "TUPAO",
+                "alias": "tupao",
+                "avatar_url": "https://images.zsxq.com/FtdIRxVUkUTM_AIcL6QQph4SX-gT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xZ5ui_Ixn9Mx_I2KQFk74Ts2JXo="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-05-27T16:28:38.267+0800",
+            "owner": {
+                "user_id": 5425285114,
+                "name": "张秋兴",
+                "alias": "张秋兴",
+                "avatar_url": "https://images.zsxq.com/Fuc52gHR07NTNS-m8W8TLXceQtjU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rnNE8sLKRlZvloPOIDgJglSzB34="
+            },
+            "amount": 268
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241524542244511,
+            "create_time": "2019-05-27T16:28:56.402+0800",
+            "owner": {
+                "user_id": 5425285114,
+                "name": "张秋兴",
+                "alias": "张秋兴",
+                "avatar_url": "https://images.zsxq.com/Fuc52gHR07NTNS-m8W8TLXceQtjU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rnNE8sLKRlZvloPOIDgJglSzB34="
+            },
+            "text": "很有触动和启发",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241524542458451,
+            "create_time": "2019-05-27T16:47:03.318+0800",
+            "owner": {
+                "user_id": 88281254222142,
+                "name": "TUPAO",
+                "alias": "tupao",
+                "avatar_url": "https://images.zsxq.com/FtdIRxVUkUTM_AIcL6QQph4SX-gT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xZ5ui_Ixn9Mx_I2KQFk74Ts2JXo="
+            },
+            "text": "赞同",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118241214188442,
+            "create_time": "2019-05-27T17:06:16.452+0800",
+            "owner": {
+                "user_id": 488415418,
+                "name": "CaptainAm",
+                "avatar_url": "https://images.zsxq.com/Fq0u13XiT6z_1ggjymjlfB-suZ3G?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GzCZBBJwPql-qYMYbQqAEXRwQtY="
+            },
+            "text": "赞同，之前我也遇到过，譬如一个流量平台，针对他们的各种规则做对应。把一件事深挖到底，事情的本质。\n譬如我之前看Google搜索引擎优化指南我能看一个月。每个相关的东西全部给他深挖到不能挖掘。\n\n我也遇到很多遇到一个困难就放弃了，不愿意脱离自己的舒适区。差别很大。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 241524542411411,
+            "create_time": "2019-05-27T17:07:15.454+0800",
+            "owner": {
+                "user_id": 48828525881428,
+                "name": "小白",
+                "avatar_url": "https://images.zsxq.com/Fs7gNHsLT7hDc3m93bPb_6sjcBHl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sSvM-UPrWV_dSHNbpjRbMNcGK0U="
+            },
+            "text": "说的可能是我[偷笑][偷笑]，亦仁大佬快骂醒我",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118241211122222,
+            "create_time": "2019-05-27T19:00:58.364+0800",
+            "owner": {
+                "user_id": 225812841111,
+                "name": "跳动的草",
+                "avatar_url": "https://images.zsxq.com/FuS_Wjd-qTnzUloLeNDja5P-Gm40?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AUQiBSntfYWBMqMx-Eu1zx3-NiM="
+            },
+            "text": "老板经常安慰我们的话，能有多大的事儿（这里需要带有语气，儿要拉长音）",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548254248128124,
+            "create_time": "2019-05-27T20:47:51.946+0800",
+            "owner": {
+                "user_id": 28514421541181,
+                "name": "朝天阙",
+                "avatar_url": "https://images.zsxq.com/FgPD2jWxyYpHM6YlHhhSpEllkbJe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:buLKT-RNtKSLufuS_G8DWnEY-Ss="
+            },
+            "text": "李笑来也多次强调过这个。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118241281145182,
+            "create_time": "2019-05-28T09:25:34.902+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "text": "说的就是我[捂脸]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241524858514521,
+            "create_time": "2019-05-28T11:01:09.708+0800",
+            "owner": {
+                "user_id": 88448282211222,
+                "name": "vince",
+                "avatar_url": "https://images.zsxq.com/FrG-eUBRnKIbqgBracbJcUYoloVN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZM8amBR5-8L5soxrbzaJCsU9k7g="
+            },
+            "text": "做一件事要坚持，道理懂，但是有多少人能做到？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 106,
+    "rewards_count": 5,
+    "comments_count": 12,
+    "reading_count": 26632,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-05-27T16:25:15.646+0800",
+    "modify_time": "2019-05-27T16:26:50.759+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "topic_id": 48548122118118,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"4245425418\" title=\"%23%E5%B0%8F%E7%A8%8B%E5%BA%8F%23\" />   <e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />   \n\n推荐几款小程序。 \n\n产品设计模式值得借鉴\"猫卡\"和\"有张名片\"小程序：这两个小程序有明显区别于其他小程序的特点，用户进了他们用户群后，会自发且非常高频的分享小程序，因为满足社群运营中“一反”原则：即用户互相对其他用户有需求。 无需运营参与，用户自然活跃，模式设计上很值得学习借鉴，有兴趣的可以潜水进他们的群观摩。\n\n抓热点必备：微信指数，如果有最新的热点，我们互联网人的朋友圈相对会刷新的比较快。但在刷到我们朋友圈之前，微信指数会更早知道这件事。比如之前的旅行青蛙， 我大约提前两天判断出热点，如果有心的话，可以提前写文章或者注册公众号或者开发小程序去抓这波热点，应该可以获取到不少流量。再比如前不久很火的网易第五人格游戏，可能你朋友圈还没刷到，但已经火了。 \n\n知己知彼：微信法务小小程序，在微信生态下获取流量做产品，绕不开各种规则，微信法务小程序可以比较方便的查找小程序、公众号、个人账号、开放平台的规则。\n\n另外，小程序数据助手、公众平台助手、微信支付商户助手这几款小程序我每天都会很高频的打开使用。 \n\nASO100小程序：有中国、日本、韩国、美国四个国家、分类目、分时间段的TOP500 APP榜单，刷刷榜单经常能看到一些新的思路和案例。\n\n飞鸟听听小程序：我们团队开发的一款小程序，可以很方便的将文章转成音频。 通常的场景是点开收藏夹一篇文章，路上听完，这样每天都多看好几篇文章。",
+        "images": [
+            {
+                "image_id": 51184285842224,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhvH8MyHyrfVbqN9zlWBAcgS5vnV?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IfgKaRP6Y6S4MMcK3F5sKOQyBSM=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhvH8MyHyrfVbqN9zlWBAcgS5vnV?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3H9ymgPcIIL0Jg13gAzf9rpI3nM=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhvH8MyHyrfVbqN9zlWBAcgS5vnV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fa1v11yDFynXG-BVWhWgdJFPHQg=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 303049
+                }
+            },
+            {
+                "image_id": 28814512145551,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpC6ADuH33w1cAjPJt5NayP6UnRC?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mlCAzVuzeIq2Qe1yJtnZV3JTnPI=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpC6ADuH33w1cAjPJt5NayP6UnRC?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X63mZaT85YNcln9AXfd5d6VVrpE=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpC6ADuH33w1cAjPJt5NayP6UnRC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Np8M5M2weG_9gBiOHkcofvJfTMw=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 256911
+                }
+            },
+            {
+                "image_id": 15581284812252,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fjjrk6bZt3RH_OnC0W_QsFgPAOwC?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-8eWJtAAWd6OMhYgVDBPfDYjuwA=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fjjrk6bZt3RH_OnC0W_QsFgPAOwC?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iBQXGqD7b1Dkscktd4ZLVSgyI6A=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fjjrk6bZt3RH_OnC0W_QsFgPAOwC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-t4oCUvJ_AUWL5fLxzVtKLLR03g=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 251374
+                }
+            },
+            {
+                "image_id": 48812415124488,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqHUF4gn2w2zzfxoqM4SbpplPfX0?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mkruBQyXiqAZE7qWFl9gfqjnkC0=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqHUF4gn2w2zzfxoqM4SbpplPfX0?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WZzsnQJGOSsvZJH9IVLjoCu8Uh8=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqHUF4gn2w2zzfxoqM4SbpplPfX0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4cpMp_cHBC2k5ZTD3mO_feKau6M=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 124538
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T19:55:06.696+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-02-05T12:00:29.137+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-11-30T22:58:03.099+0800",
+            "owner": {
+                "user_id": 544455221515424,
+                "name": "JM",
+                "avatar_url": "https://images.zsxq.com/Fk-s3kWIugL6st9VqAec49qzv2hY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h668XhXQ23lLUlv7qS77B6oXwWw=",
+                "number": 6035
+            }
+        },
+        {
+            "create_time": "2019-06-20T23:51:27.959+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T23:50:17.179+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-27T16:22:54.415+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-06-07T20:44:58.858+0800",
+            "owner": {
+                "user_id": 5454848244,
+                "name": "王六六",
+                "avatar_url": "https://images.zsxq.com/FjoEggTJXg0GLhFKLn_iorf4P59Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ri9uHackkQeE-KOwebEfmaM-3AM=",
+                "number": 1464
+            }
+        },
+        {
+            "create_time": "2018-05-14T11:16:27.644+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        },
+        {
+            "create_time": "2018-05-07T01:43:03.205+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-24T14:57:18.537+0800",
+            "owner": {
+                "user_id": 15584422144512,
+                "name": "安妮",
+                "avatar_url": "https://images.zsxq.com/FmSFaXLKrmKTXdlkIQMYLfE6giwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eH2trwJFQLzgu_Cf3bvngBnhpRI=",
+                "number": 2004
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241551254111251,
+            "create_time": "2019-04-19T17:09:41.842+0800",
+            "owner": {
+                "user_id": 8212814222,
+                "name": "贤庭",
+                "avatar_url": "https://images.zsxq.com/Fp8CtN_kX5I3Imdbfuv8WAEI52fw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WsnDou5rYWI6J0R0B8oBU3RWOOA="
+            },
+            "text": "老板，微信指数并没有提供热点榜单功能，该如何及时发现热点趋势呢？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 48,
+    "rewards_count": 0,
+    "comments_count": 1,
+    "reading_count": 6775,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-08T12:40:52.450+0800",
+    "modify_time": "2018-04-08T12:42:36.738+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

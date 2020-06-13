@@ -1,0 +1,258 @@
+{
+    "topic_id": 15454215141442,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 15414841424452,
+            "name": "渣渣辉在路上",
+            "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+        },
+        "text": "#请教#\n\n有一个思路想跟各位圈友探讨下，大家应该都通过活码进过群，活码其实可以简单理解成一个动态换群二维码并且记录你的入群信息的二维码系统，那么有没有办法不被这个活码记录你的进群信息呢，这样每次都可以进入到最新的群里面去，也就是说获取到这个活码背后的若干群二维码？"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-09T16:17:59.923+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-06-22T13:37:02.731+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-15T23:26:57.825+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-07T21:56:17.148+0800",
+            "owner": {
+                "user_id": 28482822224211,
+                "name": "沈小善",
+                "avatar_url": "https://images.zsxq.com/Fsmuz-CvC1byWqrD9Hc0qirzxmIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqKBYdsKKVvJI--mRFFt_WY57S0=",
+                "number": 2558
+            }
+        },
+        {
+            "create_time": "2018-05-07T02:09:01.543+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-27T09:33:47.243+0800",
+            "owner": {
+                "user_id": 152845512,
+                "name": "苏",
+                "avatar_url": "https://images.zsxq.com/Fj8ntRD_r4p8TOv-kAaVFkDgY0EZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL86jQGAFyFF-A70trmQdjbCkNI=",
+                "number": 1520
+            }
+        },
+        {
+            "create_time": "2018-04-27T09:28:31.513+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        },
+        {
+            "create_time": "2018-04-27T08:40:10.401+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k=",
+                "number": 1574
+            }
+        },
+        {
+            "create_time": "2018-04-26T22:59:25.453+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro",
+                "number": 1
+            }
+        },
+        {
+            "create_time": "2018-04-26T16:56:59.459+0800",
+            "owner": {
+                "user_id": 28514814551581,
+                "name": "铮铮铁骨",
+                "avatar_url": "https://images.zsxq.com/FlRr47TmtzuQuQAUEJWf5TTx2vqn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oXgAOel1CffddffqCF1yPSJYICc=",
+                "number": 1680
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 15484151151142,
+            "create_time": "2018-04-26T12:50:39.521+0800",
+            "owner": {
+                "user_id": 225125211441,
+                "name": "ffzzkk",
+                "avatar_url": "https://images.zsxq.com/FhycJ5UgdOyL1WWG3fCEOcDldz1h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:daoxmCHJh7375HoTgAYsEAZ8c64="
+            },
+            "text": "没事就用爬虫访问一下，把历史二维码都抓下来？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88212484422552,
+            "parent_comment_id": 15484151151142,
+            "create_time": "2018-04-26T12:56:28.713+0800",
+            "owner": {
+                "user_id": 15414841424452,
+                "name": "渣渣辉在路上",
+                "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+            },
+            "text": "爬不了啊，要微信授权",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 225125211441,
+                "name": "ffzzkk",
+                "avatar_url": "https://images.zsxq.com/FhycJ5UgdOyL1WWG3fCEOcDldz1h?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:daoxmCHJh7375HoTgAYsEAZ8c64="
+            }
+        },
+        {
+            "comment_id": 51585414455414,
+            "create_time": "2018-04-26T12:58:46.210+0800",
+            "owner": {
+                "user_id": 88514514441522,
+                "name": "黎明",
+                "alias": "宸宸",
+                "avatar_url": "https://images.zsxq.com/FqV5beDCJkWlqwA99nmcFpT0IV2w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NG8hfvSidHoDMhz8B1GK0YKlo2I="
+            },
+            "text": "我来回下吧，我是做活码的技术。拿二维码解析工具解析出地址，然后重复打开这个地址就得到真实地址了。[得意] 叫我雷锋",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 6
+        },
+        {
+            "comment_id": 88212484412822,
+            "parent_comment_id": 51585414455414,
+            "create_time": "2018-04-26T13:19:20.932+0800",
+            "owner": {
+                "user_id": 15414841424452,
+                "name": "渣渣辉在路上",
+                "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+            },
+            "text": "雷锋爸爸！",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88514514441522,
+                "name": "黎明",
+                "alias": "宸宸",
+                "avatar_url": "https://images.zsxq.com/FqV5beDCJkWlqwA99nmcFpT0IV2w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NG8hfvSidHoDMhz8B1GK0YKlo2I="
+            }
+        },
+        {
+            "comment_id": 51585418225814,
+            "parent_comment_id": 51585414455414,
+            "create_time": "2018-04-26T13:54:40.119+0800",
+            "owner": {
+                "user_id": 4281522828,
+                "name": "潇潇",
+                "alias": "潇潇",
+                "avatar_url": "https://images.zsxq.com/Fjuy8KF93PqJ4IWA55pmcg_l4ViC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ggLQnbNeiXqq4cbGY_kL8XqA0zs="
+            },
+            "text": "赞",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88514514441522,
+                "name": "黎明",
+                "alias": "宸宸",
+                "avatar_url": "https://images.zsxq.com/FqV5beDCJkWlqwA99nmcFpT0IV2w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NG8hfvSidHoDMhz8B1GK0YKlo2I="
+            }
+        },
+        {
+            "comment_id": 51585418215884,
+            "parent_comment_id": 51585414455414,
+            "create_time": "2018-04-26T14:07:25.278+0800",
+            "owner": {
+                "user_id": 281285422581,
+                "name": "拔刀刘",
+                "avatar_url": "https://images.zsxq.com/FnHI-GZSEJ4y19LZPBF0bnq0Mp5M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OWi22mujXhjv_tmsQR9nlJbTtfo="
+            },
+            "text": "这样真的可以吗？据我了解他会调用微信默认授权的接口，每个微信号只可能看到唯一一个二维码，除非用不同微信号进入",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88514514441522,
+                "name": "黎明",
+                "alias": "宸宸",
+                "avatar_url": "https://images.zsxq.com/FqV5beDCJkWlqwA99nmcFpT0IV2w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NG8hfvSidHoDMhz8B1GK0YKlo2I="
+            }
+        },
+        {
+            "comment_id": 51585418121284,
+            "create_time": "2018-04-26T14:20:14.479+0800",
+            "owner": {
+                "user_id": 4281118888,
+                "name": "Stone",
+                "avatar_url": "https://images.zsxq.com/FlEKce_7FMXsFSsGI2ch7doTVjyP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KJjzgMADzRpf14pxnRU8bgAEchM="
+            },
+            "text": "验证过，没问题，几行代码的事儿",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 51585451222584,
+            "parent_comment_id": 51585418121284,
+            "create_time": "2018-04-26T18:54:51.757+0800",
+            "owner": {
+                "user_id": 15414841424452,
+                "name": "渣渣辉在路上",
+                "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+            },
+            "text": "求分享",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4281118888,
+                "name": "Stone",
+                "avatar_url": "https://images.zsxq.com/FlEKce_7FMXsFSsGI2ch7doTVjyP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KJjzgMADzRpf14pxnRU8bgAEchM="
+            }
+        }
+    ],
+    "likes_count": 11,
+    "rewards_count": 0,
+    "comments_count": 15,
+    "reading_count": 4873,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-26T12:44:56.402+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

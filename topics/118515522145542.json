@@ -1,0 +1,317 @@
+{
+    "topic_id": 118515522145542,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "周五来了，<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> 也到啦[爱心]\n\n每周鱼丸带来一篇赚美元的案例，带大家开眼看世界如何“生财有术”~\n\n今天分享的主人公是一家独立软件公司创始人，主打应用 Exist 是一款个人数据分析App。\n\n通过结合你使用过的所有服务数据（如Fitbit、Apple Watch、Todoist、GitHub、Twitter等），发现你可能没有发现的趋势和相关性，目前每月收入为1.4万美元左右，已经初步完成了公司冷启动。\n\n他是如何做到的呢？以下是全文分享\n\n一、是什么促使你有Exist的想法?\n\n在移动应用第一次流行起来，通过手机内置的加速计来跟踪步数后不久，我们就开始了Exist的工作。\n\n人们对增加步数的新鲜感很快就消失了，当时刚刚出现了一些健身数据追踪软件，如Fitbit和Jawbone。\n\n我们看到的问题是，当新鲜感消退、“数字疲劳”开始出现时，人们开始尝试移动或购买Fitbit，但不久就放弃了追踪自己的活动。我们想找到一种方法，把这些数字转换成容易理解的见解和知识，帮助人们理解他们的行为。\n\n所以我们开始连接来自多个数据源的数据，试图发现用户行为中的相关性和趋势。\n\n二、最初的产品是如何启动的？\n\nExist是作为一个副业项目开始的，Josh在业余时间开发MVP，而我则负责我们的市场营销工作，直到发布beta版。\n\n早期阶段，我们建立了一个登陆页面，上面有一个邮件列表，人们可以通过加入来了解我们什么时候发布。这对我们很有帮助，既保持了我们的动力(因为我们知道人们会感兴趣)，也给了我们一个起点，一旦产品准备好发布，我们就可以找到我们的第一批客户。\n\n之后发起了一场众筹活动，为我们的开发提供资金，并争取到首批付费用户。支持者可以预先购买一份年度订阅，与我们随后推出的订阅相比，订阅的价格会更低。\n\n在2014年4月，我们向那些早期的支持者开放了我们的测试版，成功获得了一些收入，并让真正的用户尝试产品并提供反馈。\n\n三、你是如何吸引用户并成长起来的？\n\n我们对Exist做的最好的事情就是在发布之前大力市场营销。\n\n1.登陆页面注册邮件列表\n当产品上线时用户会收到通知，我们很幸运地在产品发布前阶段得到了一些宣传让邮件列表增加了很多。\n\n2.博客内容营销\n定期发布量化的自我运动、自我跟踪相关主题，同时联系其他知名网站转载。在业绩最好的几个月里，我们的博客点击率达到了33000，成为网站访问量的一大推动因素。\n\n3.Podcast播客营销\n几个有大量听众的博主在他们的节目中提到过我们几次，他们主动试用了产品很久并在节目中推荐，带来了很多用户。\n\n4.主流媒体报导\n我们早期在电台和网络上做了一些采访，甚至在《GQ》杂志上也有提及，但效果不大，最后仍主要采用网络营销。\n\n四、你的收费模式是怎样的?\n\nExist有每月和每年的订阅选项。月度计划6美元，年度计划57美元，如果你每年付费，你可以节省两个半月的费用。\n\n我们使用Stripe来处理免费试用和信用卡交易 ，这意味着用户必须输入信用卡才能创建帐户。\n\n这无疑加大了尝试该产品的难度，但这也意味着人们更有可能转向付费用户。虽然注册人数更少，但质量更高，到目前为止，我们对这种折衷感到满意。\n\n五、你所面临的最大挑战和克服的障碍是什么？\n\nExist是一个依赖于其他公司数据的业务，这是非常困难的。我们的整合来了又走，因为公司死了(比如Jawbone)，或者他们改变了谁可以访问他们的API，以及如何访问(比如Instagram很快将只允许企业使用他们的API)。\n\n对此，我们的策略是分散数据源，不把所有的鸡蛋放在一个篮子里。当Jawbone死后，我们不得不移除集成，使用其他几个提供活动和睡眠数据。\n\n这在社交媒体等行业很难做到，Instagram和Gmail等特定服务已经垄断了市场，但在可能的情况下，我们会尝试将我们的依赖扩展到多个服务，以减轻依赖其他公司来获得产品价值的压力。\n\n六、你对那些刚刚起步的独立创业者有什么建议?\n\n1.在产品发布之前就开始营销\n\n这将帮助你验证市场，提高你的信心，并在第一个版本推出后带来巨大帮助。\n\n2.如果找到一个行之有效的营销渠道，就坚持下去，ALL-in\n\n要弄清楚哪些营销渠道或方法对你的企业有效是非常困难的(而且要花费大量的时间和金钱)，所以不要浪费那些看起来有效的渠道或方法。\n\n3.dogfooding，即自己使用自己的产品\n\n它不仅帮助我们捕捉bug和改善用户体验，而且还有助于我们开发产品的远景，并有信心拒绝与我们的想法不一致的特殊请求避免落入添加用户建议的每一个小功能的陷阱，而是对新功能如何融入整个产品做出更多深思熟虑的决定。\n\n以上就是今天一起赚美元的分享啦，评论区留下对你的启发 [呲牙]\n\n喜欢的圈友请给鱼丸点个赞哦，每周五和大家不见不散～\n\n原文链接：<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fhow-i-grew-my-app-to-14k-mo-by-using-other-apps-data-506709a593\" title=\"How+I+Grew+My+App+to+%2414k%2FMo+by+Using+Other+Apps%27+...\" />",
+        "images": [
+            {
+                "image_id": 421844241224118,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FuGnBFraBZwEmCDcu7pBUEvugvdz?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f8DmGFlTl5c3z9vrFfcgvsjF1Ac=",
+                    "width": 320,
+                    "height": 265
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FuGnBFraBZwEmCDcu7pBUEvugvdz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x55rpAAF5MjqvuFZJuYRam-qsxs=",
+                    "width": 798,
+                    "height": 662
+                }
+            },
+            {
+                "image_id": 841855451445112,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FoJuMSUvQSiSE3Y08dFZZkYuCwoo?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cRSBTXK-gVQ80x2Hf3yUgNXbyiw=",
+                    "width": 320,
+                    "height": 214
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FoJuMSUvQSiSE3Y08dFZZkYuCwoo?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UglW9PVrqWNGp4dvge0OMr4TEmM=",
+                    "width": 800,
+                    "height": 535
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FoJuMSUvQSiSE3Y08dFZZkYuCwoo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aXQJZWWn4BrECfuCA2qSqCTlFLI=",
+                    "width": 990,
+                    "height": 662,
+                    "size": 78157
+                }
+            },
+            {
+                "image_id": 548122428442884,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fuh7V6q9pBeyj-duFDVod5eF9jNR?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TmOKOGARgrPmNBT3lxixkqJug1k=",
+                    "width": 320,
+                    "height": 199
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fuh7V6q9pBeyj-duFDVod5eF9jNR?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:puqJCYsOqT1BejqQla1rcFxm9B8=",
+                    "width": 800,
+                    "height": 498
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fuh7V6q9pBeyj-duFDVod5eF9jNR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:he9skBYY2-WoR1GS7pTsIdEAFHY=",
+                    "width": 1063,
+                    "height": 662,
+                    "size": 102098
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-17T15:50:01.671+0800",
+            "owner": {
+                "user_id": 544811512444844,
+                "name": "杭杭",
+                "avatar_url": "https://images.zsxq.com/FrDT2jlSgk5Zt_Jab3cmc5qFDp4F?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5IVJC4CWPqHg15kIZR1e4IQ07Vs=",
+                "number": 4927
+            }
+        },
+        {
+            "create_time": "2020-04-07T21:52:21.431+0800",
+            "owner": {
+                "user_id": 51112445188154,
+                "name": "linkr",
+                "avatar_url": "https://images.zsxq.com/FvbvDu_WERCyEoonr2bGELNCpMOR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qau1C7A9tQxY2g-ZcyqqyJB9adA=",
+                "number": 3240
+            }
+        },
+        {
+            "create_time": "2020-04-04T23:32:02.544+0800",
+            "owner": {
+                "user_id": 1481418412,
+                "name": "忠忠",
+                "avatar_url": "https://images.zsxq.com/Fs_AeINd9WZwdkcWqIFcJRjCrDrJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Dh3okmhNkFwjkK7IaGtzQcffw0=",
+                "number": 3953
+            }
+        },
+        {
+            "create_time": "2020-03-29T01:25:36.951+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow=",
+                "number": 2827
+            }
+        },
+        {
+            "create_time": "2020-03-28T19:58:30.728+0800",
+            "owner": {
+                "user_id": 841411224245842,
+                "name": "枫哥leaves",
+                "avatar_url": "https://images.zsxq.com/FgQPRAqHmEj0FvirPBufCwQQcNtf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fflR4pB04J1nQCl6M7I5OrPPsI8=",
+                "number": 6654
+            }
+        },
+        {
+            "create_time": "2020-03-28T16:04:13.116+0800",
+            "owner": {
+                "user_id": 48881582841418,
+                "name": "疯魔盖子",
+                "alias": "疯魔盖子",
+                "avatar_url": "https://images.zsxq.com/FjHz8bdM7bLxJPrK5xwD1iYLpygW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:npoh5tBjlohu8EAjim58wLdVcew=",
+                "number": 4514
+            }
+        },
+        {
+            "create_time": "2020-03-28T14:02:30.680+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2020-03-28T13:49:21.783+0800",
+            "owner": {
+                "user_id": 88811544412412,
+                "name": "郑小焦",
+                "avatar_url": "https://images.zsxq.com/Fktqhv5AatapuiviVACXtcpLziYV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kD0PGNrpac3wA9BFOVvSqc3ubpo=",
+                "number": 6048
+            }
+        },
+        {
+            "create_time": "2020-03-28T10:33:07.677+0800",
+            "owner": {
+                "user_id": 555558448544,
+                "name": "徐骁",
+                "avatar_url": "https://images.zsxq.com/Fp1UfuazGLJltuioIT4zs_E2wag-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YQvKWqU7wYEcyN0ypPRgijRh2f8=",
+                "number": 5721
+            }
+        },
+        {
+            "create_time": "2020-03-28T09:54:29.653+0800",
+            "owner": {
+                "user_id": 28258158451581,
+                "name": "佳友",
+                "avatar_url": "https://images.zsxq.com/Fr6ukr6nFthuqLBh2Ifc8wyr_I6n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jQisYy-4ejkacJy_3xtUDFZRIe0=",
+                "number": 5389
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-03-31T10:25:48.595+0800",
+            "owner": {
+                "user_id": 142425544852,
+                "name": "阿澜",
+                "avatar_url": "https://images.zsxq.com/Fn2vfWnerXuiNOaJK4-1rAXohbxJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FfYBo12Ly9LJ3GpqeXQI3Er6zXc="
+            },
+            "amount": 97
+        },
+        {
+            "create_time": "2020-03-30T20:52:37.125+0800",
+            "owner": {
+                "user_id": 15552854145582,
+                "name": "冰之泪",
+                "avatar_url": "https://images.zsxq.com/Fhk6ASlRfKGhkUhxNJrGH3eABDfj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CLYlJavxyY-9cdunhEqHa8DfiXI="
+            },
+            "amount": 89
+        },
+        {
+            "create_time": "2020-03-29T23:35:03.588+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-03-28T19:24:43.846+0800",
+            "owner": {
+                "user_id": 454855218288,
+                "name": "三树",
+                "avatar_url": "https://images.zsxq.com/FkXYjflaTYGjW6tMR-Rhpi6I0ewm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zj0rATegn2WaAhscvz9lgGDTBiw="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-03-28T16:13:34.328+0800",
+            "owner": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            },
+            "amount": 85
+        },
+        {
+            "create_time": "2020-03-28T16:04:33.119+0800",
+            "owner": {
+                "user_id": 48881582841418,
+                "name": "疯魔盖子",
+                "alias": "疯魔盖子",
+                "avatar_url": "https://images.zsxq.com/FjHz8bdM7bLxJPrK5xwD1iYLpygW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:npoh5tBjlohu8EAjim58wLdVcew="
+            },
+            "amount": 88
+        },
+        {
+            "create_time": "2020-03-28T10:14:40.136+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 160
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 582252585414554,
+            "create_time": "2020-03-27T23:15:22.573+0800",
+            "owner": {
+                "user_id": 244122821854411,
+                "name": "威海爱丽丝花冠鲜花",
+                "avatar_url": "https://images.zsxq.com/FqOXkFYgSVM6739_NzzD836J3HuJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rIxPuV_SXJWy4wKWs_RH4VfP96I="
+            },
+            "text": "没看懂",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 215525458211551,
+            "create_time": "2020-03-28T09:47:50.454+0800",
+            "owner": {
+                "user_id": 15414881425212,
+                "name": "峰哥",
+                "avatar_url": "https://images.zsxq.com/Fq2Tvv5DdI_CpVkOVv0wRYq6olEF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RqpVwbBtMvwojHEeMUM8yXPZoIA="
+            },
+            "text": "很生",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 182242125825422,
+            "create_time": "2020-03-28T10:13:54.275+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "text": "登录首页留邮箱这个可以，要给营销带来的流量留一个出口，不止看，还要有动作，方便后续触达。\n放在移动端app就是关注，点赞，转发，私信等等，比如这两天很火的罗永浩，抖音一个视频就沉淀150w+关注了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "images": [
+                {
+                    "image_id": 421844154181118,
+                    "type": "jpg",
+                    "thumbnail": {
+                        "url": "https://images.zsxq.com/FuUJ7rj_lS1YSGsYLlrDr436bZyf?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2_k1DVu1t116hODIF0KSRiK6-tk=",
+                        "width": 320,
+                        "height": 622
+                    },
+                    "large": {
+                        "url": "https://images.zsxq.com/FuUJ7rj_lS1YSGsYLlrDr436bZyf?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bL6AbjlyAmRSeMi77bj0tft-cZU=",
+                        "width": 800,
+                        "height": 1554
+                    },
+                    "original": {
+                        "url": "https://images.zsxq.com/FuUJ7rj_lS1YSGsYLlrDr436bZyf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4X1YM_APE5vei0uZnQkbUku3CzM=",
+                        "width": 1440,
+                        "height": 2797,
+                        "size": 197189
+                    }
+                }
+            ]
+        },
+        {
+            "comment_id": 582252412515824,
+            "create_time": "2020-03-28T14:03:45.100+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY="
+            },
+            "text": "我们对Exist做的最好的事情就是在发布之前大力市场营销。[强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 28,
+    "rewards_count": 7,
+    "comments_count": 4,
+    "reading_count": 20560,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-03-27T22:09:58.144+0800",
+    "modify_time": "2020-03-27T22:10:21.355+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

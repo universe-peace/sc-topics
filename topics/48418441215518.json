@@ -1,0 +1,260 @@
+{
+    "topic_id": 48418441215518,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"#思路分享#\" />  <e type=\"hashtag\" hid=\"1124218142\" title=\"#如何变现#\" />  \n\n前几天有圈友问每天有几万的查违章流量如何变现，今天有空来仔细回答下这个问题， 希望能给一些参考。 \n\n核心思路：根据流量的上下游路径以及流量特点设计变现方式， 下面是我思考到的14种变现方式。 \n\n1. 提供查询数据api给下游第三方，按使用量或者按年收费 （已将各大交管平台的查询接口聚合的话）\n2. 记录用户查询数据，直接卖数据给广告商，如保险公司或者二手车公司，或者直接做车险与二手车的cps服务。 \n3. 用户查询违章结束之后卖电子狗等针对性车品，或者淘宝客。 \n4. 违章短信和邮件提醒按月收费服务，部分用户也许有这个提醒的需求。\n5. 提供二手车估值服务，数据卖给二手车公司，如果信息足够丰富，价格也许会非常高？\n6. 牌照的吉凶测试，车牌的估值查询， 为车牌代拍公司提供广告，还有临时车牌的服务。 \n7. 是否违章的人工咨询服务。 很多人对自己是否违章并不清晰，会在百度贴吧上传图片问，但几乎没人回答，这里面就是需求。 可以开一个付费小密圈，进入之后会有人工专门解答是否违章的问题。 \n8. 知识付费，比如整理一本《常见的100个违章》电子书标价9.99元， 付费解锁等。 或者整理出基于用户所在城市的常见违章位置，比如《杭州前100的违章点》，售价19.99元， 这种在查询之后顺势推荐给用户，转化率会非常可怕。 \n9. 搭建本地社群服务，组织本地车友聚会收费等。\n10. 常见查违章软件评测平台，如果自己没有能力做app，导流给这些软件做CPI。\n11.  与处理交通事故的律师合作， 按照cps付费。 \n12. 常见本地限行区域、应急电话、交通标志聚合、违章短信模板、交规聚合，收费解锁。 \n13. 驾照分代扣平台（灰黑？）\n14. 违章代扣代缴服务，或者聚合平台。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-12T10:13:38.094+0800",
+            "owner": {
+                "user_id": 4212422558,
+                "name": "Hmy",
+                "avatar_url": "https://images.zsxq.com/FsiEdXCqDtNzh9xB5D_I5N7jIZUO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OqA5dxrVuMZ6eU13-AOXqyP_lsc=",
+                "number": 1993
+            }
+        },
+        {
+            "create_time": "2020-01-02T23:32:29.050+0800",
+            "owner": {
+                "user_id": 422211244414558,
+                "name": "安神",
+                "avatar_url": "https://images.zsxq.com/FgPfh-qkhFyfW81PAN2qleGx8MSD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3zrON9PPd1fzRYeKQ2A36grxOfw=",
+                "number": 6550
+            }
+        },
+        {
+            "create_time": "2019-09-02T21:17:34.506+0800",
+            "owner": {
+                "user_id": 51514112411414,
+                "name": "谷木",
+                "avatar_url": "https://images.zsxq.com/Fmp5Gcmvbz5KWVD5p8rMBmnetvQY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zir6dd0RW1CiqtkAmSjnj0WbUAI=",
+                "number": 3272
+            }
+        },
+        {
+            "create_time": "2019-08-10T02:02:17.762+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-30T23:15:51.682+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-17T14:49:15.252+0800",
+            "owner": {
+                "user_id": 2418228511,
+                "name": "in",
+                "avatar_url": "https://images.zsxq.com/Fit8G3KegcWN5wUo7vHTkp7tF6Jc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CvugGVycK6VTolCtTmiTWJgBqTk=",
+                "number": 970
+            }
+        },
+        {
+            "create_time": "2019-05-31T12:32:13.473+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-06T08:02:19.473+0800",
+            "owner": {
+                "user_id": 1155542482,
+                "name": "张一二",
+                "avatar_url": "https://images.zsxq.com/Fj0ytatP5rQetvENNX_SkF8dEstq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E6Tw0hjBQ7eyRDxOqo7w3tvOzCM=",
+                "number": 5548
+            }
+        },
+        {
+            "create_time": "2019-05-01T00:22:59.485+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-12-04T20:00:06.328+0800",
+            "owner": {
+                "user_id": 224554851811,
+                "name": "法师",
+                "avatar_url": "https://images.zsxq.com/FltG5j07BeLXFk3n-4dKtdE_2Qey?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bw6IYQXnvknrbqXnTPxICJALeM8=",
+                "number": 2418
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-30T18:54:19.516+0800",
+            "owner": {
+                "user_id": 881181511452,
+                "name": "有没有那么一首歌",
+                "avatar_url": "https://images.zsxq.com/Fgf_-9Cun5hVVY8qd7mRyAo3e9S-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Knm6dKRhr0LdrXqfAnuu5H2bAro="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2017-04-30T18:18:27.371+0800",
+            "owner": {
+                "user_id": 222814415141,
+                "name": "HDavid",
+                "avatar_url": "https://images.zsxq.com/FrVfiqr2PHEQQ0q-tCKCb9fk_tiQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DAvY_FBJjOiMmgrwG2Y6Z4tH0lw="
+            },
+            "amount": 999
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 824215811552,
+            "create_time": "2017-04-30T17:09:12.771+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "<e type=\"mention\" uid=\"222814415141\" title=\"@徐鹤David\" />",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 452514545588,
+            "create_time": "2017-04-30T17:31:19.995+0800",
+            "owner": {
+                "user_id": 481125415828,
+                "name": "欧奈尔的琴弦",
+                "avatar_url": "https://images.zsxq.com/FsGtZpMwzcBFUQA1_13Wu0i8-joF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bWGWg8h6Fe4kOx3WRRsU8G_LrNY="
+            },
+            "text": "博思软件",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 824215252452,
+            "parent_comment_id": 824215811552,
+            "create_time": "2017-04-30T17:32:50.623+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "我已经跟他说cps和消分",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 141482481282,
+            "parent_comment_id": 824215811552,
+            "create_time": "2017-04-30T18:20:23.084+0800",
+            "owner": {
+                "user_id": 222814415141,
+                "name": "HDavid",
+                "avatar_url": "https://images.zsxq.com/FrVfiqr2PHEQQ0q-tCKCb9fk_tiQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DAvY_FBJjOiMmgrwG2Y6Z4tH0lw="
+            },
+            "text": "看得很兴奋，多谢。执行中，后续定期反馈",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 554582424814,
+            "create_time": "2017-04-30T18:55:38.680+0800",
+            "owner": {
+                "user_id": 881181511452,
+                "name": "有没有那么一首歌",
+                "avatar_url": "https://images.zsxq.com/Fgf_-9Cun5hVVY8qd7mRyAo3e9S-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Knm6dKRhr0LdrXqfAnuu5H2bAro="
+            },
+            "text": "如此详细的变现流程大家还能在强求什么呢，打赏走起来",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 224215181481,
+            "create_time": "2017-04-30T20:52:16.871+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "太牛了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 824218124112,
+            "create_time": "2017-05-01T07:07:58.145+0800",
+            "owner": {
+                "user_id": 142181418542,
+                "name": "七",
+                "avatar_url": "https://images.zsxq.com/Fn2e8mr72oMF4CsqRvyhfP9mAOc7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9DUgfQvZB5tdoohVA6eojXGzTEA="
+            },
+            "text": "学到了，系统化思路",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 554584812114,
+            "create_time": "2017-05-01T10:25:30.858+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU="
+            },
+            "text": "太牛了，必须服",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 49,
+    "rewards_count": 2,
+    "comments_count": 8,
+    "reading_count": 2150,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-30T17:03:48.668+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

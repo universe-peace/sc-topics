@@ -1,0 +1,343 @@
+{
+    "topic_id": 51441524812284,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> 前几天，亦仁分享了一篇白鸦关于SaaS的文章，今天<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> 就来一篇新鲜的关于SaaS的案例，案例中的主人公，通过他为房地产经纪人创建的SaaS网站，每个月赚10万美元。 \n\n这个SaaS案例是web4realty.com，它为房产经纪人提供网站建设服务、客户管理系统和邮件营销平台。 \n\n有意思的是，这家公司现在14名全职员工，并且远程协作完成所有的工作。 \n\n案例主人公学生时期，受百万像素网站（格子网站，将一个网页分成100万个格子，每个格子卖1美元，最终成功卖出100万美元）的影响，他们在时代杂志买了两页广告，并且分拆成很多格子，希望将这些格子卖给广告主，虽然最终没有完全卖掉，但还是一个很不错的尝试。 \n\n然后因为他们的一个合伙人进入了房地产行业，想建一个房地产网站，却发现市面上的提供商价格都很高，于是“更低价格更好产品”的想法形成，也就是web4realty。\n\n以下是产品的几个关键细节\n\n1. 调研阶段。装作客户打电话给几十个竞争对手，了解有多少用户，有多少员工，经营多久，入职流程，销售流程以及销售收入等；\n\n2. 产品开发阶段。没有钱请本国的开发者，找海外便宜的外包开发者，最后也成了他们的全职员工之一；\n\n3. 兼职赚钱养活产品阶段，两个创始人刚开始会做一些外包的工作，比如帮助别人运营wordpress博客，赚钱养活团队；\n\n4. 产品推广宣传阶段，得益于房地产经纪人四处传播他们的联系方式的特性，要联系到这些人，要做的仅仅是去收集，也许就够了，然后挨个发送电子邮件进行营销；\n\n5. 营销自动化，随着有稳定的客户和收入，他们开始用一些付费的工具提高效率，并且确实发现对业务进展有很大帮助；\n\n6. 扩展成为真正的SaaS，内容营销建立信任，并将60%的免费用户转化为付费用户，并且将目前这套解决方案拓展到海外市场。",
+        "images": [
+            {
+                "image_id": 48288228241258,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsVsYJxeQ2LxujxaBnniMA1HF8j6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NRwWNWGMcx0nbcJVNXSLlvlp5AI=",
+                    "width": 320,
+                    "height": 124
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsVsYJxeQ2LxujxaBnniMA1HF8j6?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4UBPo6OzyGX4kwxpsixnpyLH4LY=",
+                    "width": 800,
+                    "height": 310
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FsVsYJxeQ2LxujxaBnniMA1HF8j6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AEZKiY7YVbxw74v_bPb9kXnE7hc=",
+                    "width": 2388,
+                    "height": 926,
+                    "size": 520645
+                }
+            },
+            {
+                "image_id": 88488448451422,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvsWOFdQX4FHkFeLj7Lfp3mIXEEz?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zRr7zUKWQLj5Ebf8uylHnvXOLXE=",
+                    "width": 320,
+                    "height": 190
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvsWOFdQX4FHkFeLj7Lfp3mIXEEz?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9oFGwxTEhZFwjY-_M-3pIvLx6cQ=",
+                    "width": 800,
+                    "height": 474
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvsWOFdQX4FHkFeLj7Lfp3mIXEEz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wnDagJ4RvK-IW2q7YLTfmL5qsKo=",
+                    "width": 2278,
+                    "height": 1350,
+                    "size": 241703
+                }
+            },
+            {
+                "image_id": 28488448451421,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgMFZdlqfSxcguLiPDuz1FC2L6n7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ufJVECS0rw2b7SBAUeCwXGBRiu4=",
+                    "width": 320,
+                    "height": 158
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgMFZdlqfSxcguLiPDuz1FC2L6n7?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqo5z4_BDo2rfD5IL7YMsiw9Q90=",
+                    "width": 800,
+                    "height": 395
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgMFZdlqfSxcguLiPDuz1FC2L6n7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rScBUkqhuP15IOBVbEc5TyFWml4=",
+                    "width": 4620,
+                    "height": 2280,
+                    "size": 559698
+                }
+            },
+            {
+                "image_id": 15155115128112,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqfrGOX33srhteRRYkBrsj1WdVLm?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6YHBwvS7umdzrTAWjg8PBnOzWlI=",
+                    "width": 320,
+                    "height": 255
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqfrGOX33srhteRRYkBrsj1WdVLm?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6fSQPHRXmPHUC7hl5atN3jeohUE=",
+                    "width": 800,
+                    "height": 637
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqfrGOX33srhteRRYkBrsj1WdVLm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BNWKQ-VZ9PLoUJNzSz6Ayi7RI44=",
+                    "width": 4152,
+                    "height": 3308,
+                    "size": 1045988
+                }
+            },
+            {
+                "image_id": 88488442152212,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqkEYUndPeXklJ1rL27K2zHeRCUL?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yVXRinLAwin3G1aDFsWqezJDb6M=",
+                    "width": 320,
+                    "height": 241
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqkEYUndPeXklJ1rL27K2zHeRCUL?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:y1esEwotaSDkN4hprAvi7cOL0Ow=",
+                    "width": 800,
+                    "height": 603
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqkEYUndPeXklJ1rL27K2zHeRCUL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T0Ghaz2efyGy62XTrF2JDYtnWeg=",
+                    "width": 1039,
+                    "height": 783,
+                    "size": 182780
+                }
+            },
+            {
+                "image_id": 48288225142548,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FulOgnaU9UTJf5DjMbpFTFIsh-8T?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B5qYFNkX-ppCt8VUS5dlmtX8n0=",
+                    "width": 320,
+                    "height": 148
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FulOgnaU9UTJf5DjMbpFTFIsh-8T?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XTVMsatyWVf-z-jggQVm79cOt30=",
+                    "width": 800,
+                    "height": 370
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FulOgnaU9UTJf5DjMbpFTFIsh-8T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6r0_oZf07zXGpUTFgus5HJv3dK4=",
+                    "width": 1029,
+                    "height": 476,
+                    "size": 57589
+                }
+            },
+            {
+                "image_id": 88488442154252,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fl9qQR3sVGKkXZQADRdCijkfrbGP?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1uvikcEpyKajqf-tZh17p_oTnQc=",
+                    "width": 320,
+                    "height": 283
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fl9qQR3sVGKkXZQADRdCijkfrbGP?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Ykny8ntxo1uDDmFx5m8jVO7BEE=",
+                    "width": 800,
+                    "height": 707
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fl9qQR3sVGKkXZQADRdCijkfrbGP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Sde2vr8z3i7Wb6lusRFjYVh7SGk=",
+                    "width": 1023,
+                    "height": 904,
+                    "size": 411246
+                }
+            },
+            {
+                "image_id": 51411445824524,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FinGtuUy04LJE0XiQJZ0d8nj1fFZ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zF_IwIj1OyHcV9Qee5V-L-6OVNI=",
+                    "width": 320,
+                    "height": 389
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FinGtuUy04LJE0XiQJZ0d8nj1fFZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5zrjwS3VYESmUOBLObIrNfMOvq0=",
+                    "width": 754,
+                    "height": 916
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-23T21:29:46.799+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-08-25T14:21:31.943+0800",
+            "owner": {
+                "user_id": 145424452812,
+                "name": "无忌",
+                "avatar_url": "https://images.zsxq.com/FkfoK47mprW3flchsAtt6_4X5Nxc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1KBXF2WJqY6K0rndfJDVaH0l_M=",
+                "number": 6121
+            }
+        },
+        {
+            "create_time": "2019-06-06T05:25:18.094+0800",
+            "owner": {
+                "user_id": 224528451581,
+                "name": "梓琳",
+                "avatar_url": "https://images.zsxq.com/Fm6x4agjPNgakuSXrYpOJJ8ZnqNp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B1qrXUE_n_GqE2rQG5JnEeqVdNA=",
+                "number": 1881
+            }
+        },
+        {
+            "create_time": "2019-05-13T12:18:15.311+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-04-26T18:22:39.036+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-19T09:38:02.731+0800",
+            "owner": {
+                "user_id": 28444552241451,
+                "name": "闻末",
+                "avatar_url": "https://images.zsxq.com/Fl9HFbmzSxhW4eBpWX3hXfry3Rmw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jUEpoqy15S45nOpp2UaS9lyFwqA=",
+                "number": 3171
+            }
+        },
+        {
+            "create_time": "2019-04-18T20:35:39.589+0800",
+            "owner": {
+                "user_id": 28442855242881,
+                "name": "房博士",
+                "avatar_url": "https://images.zsxq.com/Fqh-kQeG4zDy2foH9771mHnJkX2D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3eRIYEIRb0a_ZwNy9Mxc0hlkgIk=",
+                "number": 3991
+            }
+        },
+        {
+            "create_time": "2018-12-12T10:00:13.946+0800",
+            "owner": {
+                "user_id": 844411221142552,
+                "name": "Story",
+                "avatar_url": "https://images.zsxq.com/Fh1jgJuTWqEOvVwBlERlnfuh1jJZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ti0BboQBupiIihZUiUuTLIZTOJs=",
+                "number": 2425
+            }
+        },
+        {
+            "create_time": "2018-12-09T09:05:03.242+0800",
+            "owner": {
+                "user_id": 551518815444,
+                "name": "Reddy xu",
+                "avatar_url": "https://images.zsxq.com/Fip7Eq0-CW36_iHNOzBlF81EPVXr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kI0Qt7x4Q1gN0GvcbQXqC6r1LfE=",
+                "number": 406
+            }
+        },
+        {
+            "create_time": "2018-12-09T00:01:45.796+0800",
+            "owner": {
+                "user_id": 825818421252,
+                "name": "Paul 彭",
+                "avatar_url": "https://images.zsxq.com/FnPkN15Onn7Gaknp69YYKbBLVZ_J?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zcePnO68W2W6k7HUdgGimcQqiDE=",
+                "number": 1032
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 244151252458141,
+            "create_time": "2018-12-08T13:29:49.069+0800",
+            "owner": {
+                "user_id": 5412448484,
+                "name": "fantasybei",
+                "avatar_url": "https://images.zsxq.com/FkqpBtAERd21qNIWdwb3Ux8XixUw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GUR-S922DEWckQOfPn21g7YHQ5s="
+            },
+            "text": "鱼丸，这些案例都是哪里搞来的啊",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 244151225114841,
+            "parent_comment_id": 244151252458141,
+            "create_time": "2018-12-09T17:08:48.787+0800",
+            "owner": {
+                "user_id": 48418414552288,
+                "name": "🐶🐶🐶",
+                "avatar_url": "https://images.zsxq.com/FvbEPj-clj5hZl-_z8LncjiFakwt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2NGoBPPEbT_LJ5rZVg6bxrf-aBY="
+            },
+            "text": "同问鱼丸哈哈哈",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5412448484,
+                "name": "fantasybei",
+                "avatar_url": "https://images.zsxq.com/FkqpBtAERd21qNIWdwb3Ux8XixUw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GUR-S922DEWckQOfPn21g7YHQ5s="
+            }
+        },
+        {
+            "comment_id": 244151414851281,
+            "create_time": "2018-12-10T21:48:25.092+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Fproducts\" title=\"Products+by+Indie+Hackers\" cache=\"\" />这里有不少",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 244151188184151,
+            "parent_comment_id": 244151252458141,
+            "create_time": "2018-12-11T20:46:24.680+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "indiehackers.com",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5412448484,
+                "name": "fantasybei",
+                "avatar_url": "https://images.zsxq.com/FkqpBtAERd21qNIWdwb3Ux8XixUw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GUR-S922DEWckQOfPn21g7YHQ5s="
+            }
+        }
+    ],
+    "likes_count": 20,
+    "rewards_count": 0,
+    "comments_count": 4,
+    "reading_count": 10901,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-07T22:35:28.657+0800",
+    "modify_time": "2018-12-08T10:41:37.747+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

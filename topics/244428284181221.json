@@ -1,0 +1,159 @@
+{
+    "topic_id": 244428284181221,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 1142185122,
+            "name": "astone",
+            "avatar_url": "https://images.zsxq.com/FtugTMGBO7JCdLM7YS6AmJuOwo05?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5QQ4uMP_6i1k-epuxBbek3NiQs0="
+        },
+        "text": "上一篇和大家讲解了我理解的网络数据采集爬虫系统的使用场景与价值，以及常见的几种语言实现的爬虫框架大致分析，这些框架基本都是围绕开源的技术实现展开的，其实商业化非开源的爬虫产品也有很多，这个在市场上毕竟还是个香饽饽，今天就和大家从技术实现，产品，盈利模式等方面来评测一下;\n\n\n\n\n\n\n\n首先我来翻一下国外的爬虫和数据挖掘的公司:\n\ndiffbot，这是被腾讯资本加持的一家人工智能公司，通过人工智能技术，让“机器”识别网页内容，抓取关键内容，并输出软件可以直接识别的结构化数据，并且该公司号称自己拥有业界最大的知识图谱，怪不得它能被腾讯看上，敢情是披上了人工智能的外衣的高级数据采集公司，目前该公司拥有三款产品，主要是saas模式，算是目前了解的爬虫技术公司里博得头筹的一家公司了，当然一些大厂，比如谷歌，雅虎内部也有这样的系统，但没有轻易示人。\n\n\n\nimport.io，相比较diffbot，这家爬虫技术公司从产品到解决方案输出，还是覆盖得比较全面，同时也提供了强大的可视化爬虫界面，少却了人工智能的马甲，也是爬虫界里踏踏实实的一家公司了，主要模式也是saas，同时提供数据抽取解析转换，然后通过api的方式输出，至于用到的技术还没发深入细究。\n\n\n\nscrapinghub，官网:<e type=\"web\" href=\"https%3A%2F%2Fscrapinghub.com%2F\" title=\"Turn+websites+into+data\" cache=\"\" />，它作为scrapy开源框架背后的商业公司，首先给一个大大的赞，毕竟把scrapy这么优秀的爬虫框架开源了，还是造福了不少爬虫工程师啊，只不过scrapinghub作为云上版本，退出了一些付费服务，包括代理ip，splash，cloud等，同时scrapinghub的开源版本也提供了portia这样可视化的功能，相信对于不少爬虫小白还是相当友好的，但个人认为使用场景有限，如何玩转scrapinghub，我也会在后续的爬虫技术篇中帮大家一起来梳理实战一下，总之对于想从事爬虫事业的同学来说，这个项目和产品是不得不关注的。\n\n\napify，该公司提供的产品从页面和功能，就是我比较喜欢的范，简单大方实用，为什么实用呢？首先它的定位就是面向一线开发者，提供了利用js代码实现爬虫逻辑，我这里不是说可视化爬虫技术就多么不好，只是我理解爬虫从一开始就不是一个人人可用可玩的玩具或者消费品，当然我后面也会讲为什么我这么理解，既然提供了可编程的模式，我相信apify的实用性，同时apify也提供了一些类似actor这样的高级特性，笔者猜测只是使用了一些虚拟化的技术来让实现租户资源权限隔离。\n\n\n\n国外的公司就先列出以上这四家比较具有代表性的公司，其它大大小小的公司肯定也是不少的，在此就不一一列举了，接下来该上点中国菜了。\n\n\n\n神箭手，作为国内我首推的爬虫技术公司，它的定位是大数据+AI的云os，定位归定位，我看到的它只是一家卖爬虫和数据的公司，AI能力我反正是看不到，就不和diffbot做比较了，实在没有可比性，当然作为国内市场的爬虫一哥，它也是有自己独特之处的，比如它也提供了js可编程能力的爬虫视窗，而且最近也提供了基于scrapy框架的云爬虫开发环境，说白了，他们提供的js开发爬虫环境功能凑合，笔者也是做了专门研究，底层不是使用v8引擎来实现的，而是通过java8的Nashorn引擎做的，整个技术栈基本围绕java+php，但我还是觉得他们产方向和定位还是不错，还需要提升自己来打破市场证明自己。\n\n\n\n八爪鱼，作为深圳的一家爬虫技术公司，和神箭手的定位还是有所差异，毕竟从产品设计上来看，神箭手更偏互联网化，而八爪鱼更像是在提供一个工具，面向B端客户，更保守一点，同时也提供了可视化客户端帮助爬虫小白快速入手，也提供了一些行业解决方案，尽管它也提供了saas收费模式。\n\n\n\n造数，从官网和产品设计风格来看，该公司主打的是可视化爬虫和互联网玩法，但不得不说，产品功能稍显粗糙，且对于爬虫的理解不是非常深刻，有可能是我比较片面吧。\n\n\n\n以上也分析了国内国外7家爬虫产品，基本内核就是将web的非结构化数据结构化的工程，这应该爬虫技术的内核吧，只是说使用的技术和产品表达形式有差异而已，不管你是用人工智能深度学习，还是使用简单粗暴的方式，解决的只是规模化和人力成本问题，但愿这些对你有所启发，到此竞品篇以结束，也许还很浅薄，但愿后面还能有时间精力把这些竞品分析得更彻底完整一点吧\n\n\n关于我对爬虫技术与产品，及其商业化的理解，目前漫谈篇三讲已更新，接下来是架构与具体项目实战，有心的同学结合亦仁的如何挖掘互联网的工具产品应该有很好的化学反应，公号: NoFootBird，可以关注一起碰撞。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-10T17:47:43.889+0800",
+            "owner": {
+                "user_id": 28458222528211,
+                "name": "satellite",
+                "avatar_url": "https://images.zsxq.com/FmUW51rrOi9DDEwcQOl4jsdbdPGF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vZptdisYVwNf_Af4hBdw6w1_jM4=",
+                "number": 4711
+            }
+        },
+        {
+            "create_time": "2019-06-11T18:59:43.962+0800",
+            "owner": {
+                "user_id": 544882824585454,
+                "name": "福米",
+                "avatar_url": "https://images.zsxq.com/FkHV2Pu0CW_RfqV8K5NDoPehXv3I?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0yTC7mJmaE3_-Q1NhJB5Hpc0pRE=",
+                "number": 5691
+            }
+        },
+        {
+            "create_time": "2019-06-03T16:46:37.313+0800",
+            "owner": {
+                "user_id": 158585121512,
+                "name": "Popeye",
+                "avatar_url": "https://images.zsxq.com/FsglBzkmrOlHQG3AOJ3V4nmCyAUL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mS_JK37DRGzX4aQKpACygFsXXAw=",
+                "number": 3386
+            }
+        },
+        {
+            "create_time": "2019-05-12T00:38:19.326+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-05-04T14:24:19.466+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-26T22:16:32.127+0800",
+            "owner": {
+                "user_id": 111184551858442,
+                "name": "JASON",
+                "avatar_url": "https://images.zsxq.com/Fvy5pbIgqUgmxhQfj0Pxj7D9emsZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mkRLx4PLqdxWggcrbBF2TWZhX7k=",
+                "number": 4378
+            }
+        },
+        {
+            "create_time": "2019-04-24T20:55:43.277+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T17:36:32.615+0800",
+            "owner": {
+                "user_id": 555224488584,
+                "name": "安之",
+                "avatar_url": "https://images.zsxq.com/FnHLqSXEG_17RCOxa_fxYWdOqxVk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NGfvLsUiFsWED7n4ItoPV24KAg4=",
+                "number": 2761
+            }
+        },
+        {
+            "create_time": "2019-04-23T10:12:12.935+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-23T08:59:19.317+0800",
+            "owner": {
+                "user_id": 881251881842,
+                "name": "王坏坏",
+                "avatar_url": "https://images.zsxq.com/FuSZXXjmLIh_mmxdAdooRKPwb6u3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:glgbQED-DgTFgIVC3SZ9hT-J__w=",
+                "number": 3740
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-01-16T09:54:34.183+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1990
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 422155851842858,
+            "create_time": "2019-01-16T10:21:44.638+0800",
+            "owner": {
+                "user_id": 1142185122,
+                "name": "astone",
+                "avatar_url": "https://images.zsxq.com/FtugTMGBO7JCdLM7YS6AmJuOwo05?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5QQ4uMP_6i1k-epuxBbek3NiQs0="
+            },
+            "text": "感谢亦仁，潜水近两年，19年会是输出的一年。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118255528851842,
+            "create_time": "2019-05-04T14:24:33.264+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI="
+            },
+            "text": "八爪鱼有了解，用过",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 33,
+    "rewards_count": 1,
+    "comments_count": 2,
+    "reading_count": 10471,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-01-15T09:37:41.125+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

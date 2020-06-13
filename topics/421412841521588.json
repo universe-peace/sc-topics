@@ -1,0 +1,389 @@
+{
+    "topic_id": 421412841521588,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 158585255552,
+            "name": "张佳",
+            "avatar_url": "https://images.zsxq.com/FrjDQuz6xY_a8IeB-epUV_1WAacN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X1sIWLZ4nL98WL6FVzrQCR0zlUU="
+        },
+        "text": "<e type=\"hashtag\" hid=\"481881524418\" title=\"%23%E6%8A%96%E9%9F%B3%23\" /> 如果你是个专注于抖音的创作者，如果你依然认为抖音是个“玄学”APP，如果你无法在抖音获取到稳定的流量，下面的内容请仔细阅读，因为它可能会颠覆你的认知。\n\n我尽量把内容写的让所有人都能看懂。\n\n\n\n先从抖音的核心分发逻辑说起\n\n\n\n什么是“分发”？\n\n创作者生产的内容，如果想被其他人看到，就需要把内容放到用户能看到的地方，比如转发到他们的聊天框或者朋友圈，或者推送后等着粉丝自己点进来看。\n\n在博客或者公众号时代，你的内容想要获得更多曝光的方法只有一个，那就是获得足够多或者足够优质的粉丝，并鼓励他们转发出去。一个零起步的公众号/博客，获取曝光的唯一办法就是作者自己发布到朋友圈，或者不要脸的群发分享给好友/群。\n\n这非常不效率，因为创作者的主动权很小。\n\n如果平台能够帮忙把你的内容放在很显眼的位置（比如网站的首页）或者卖力的帮你把你内容发布到每一个用户的面前，那内容的曝光量就非常可观了。\n\n抖音就是这样帮你分发的。\n\n但是抖音并不会把每一个创作者生产的内容都分发到抖音的用户面前，这非常不现实。一个是因为内容创作者太多了，即便把内容推荐给用户，用户也没时间看完；另一个是，不同的用户有不同的喜好，如果把一篇足球相关的内容推荐给一个喜欢化妆的女孩面前，这对于女孩来说非常不好。\n\n这就需要抖音用一种策略来优化它的分发方式，好让好的内容被更多的人看到，也好让用户只看到自己喜欢的内容。\n\n抖音的采用的优化方法叫做“算法分发”，并且是以一种叫做“协同过滤”为主的分发方法。\n\n这个词非常晦涩，你不需要记住它，只要知道它的原理就好了。用两个简单的词来形容的话，就是“物以类聚，人以群分”。两个词分别对应两种方法：基于物体的协同过滤和基于用户的协同过滤。\n\n什么是“基于物体的协同过滤”？\n\n假设A1、A2和A3是同一类内容（比如都是NBA相关的），当某个用户喜欢了A1这条视频，那么理论上他也会喜欢A2和A3。反过来，如果用户看到A1和A2这两条视频后没有点赞（喜欢），那么也不应该再把A3推荐给他。\n\n（图1）\n\n在这种推荐算法下，当系统想要给用户推荐内容的时候，需要两个步骤：\n\n1）分析用户喜欢过的内容；\n\n2）找到与该内容相似的内容，推荐给用户。\n\n对于抖音来说，这种方法有以下几个麻烦：\n\n1）每天产生的视频太多了，抖音要对每条内容做识别分类；\n\n2）视频内容识别太麻烦了，除了需要识别视频画面中出现的物品以及他们之间的关系外，还要识别视频的背景音乐、台词。\n\n显然对于以视频为主要内容的抖音来说，选择这种推荐算法是极其不明智的。好在还有第二种算法。\n\n什么是“基于用户的协同过滤”？\n\n假设A1、A2和A3是同一类人，他们有相同的喜好。如果A1和A2点赞（喜欢）了某条视频，理论上A3也会喜欢它。反过来，如果A1和A2看到某条视频后没有点赞（喜欢），那也不应该把这条内容推荐给A3。\n\n（图2）\n\n在这种推荐算法下，当系统想要给某个用户推荐内容的时候，需要两个步骤：\n\n1）找到跟这个用户相似的目标群体；\n\n2）把该群体用户喜欢过的内容推荐给这个用户。\n\n你会发现在这里种推荐算法里面，压根就没有内容什么事！算法不必知道某条内容是什么，只需要看到某一群人都喜欢这条内容就可以把这群人归到同一类人里。\n\n所以，在这种推荐算法里，当我们以上帝视角去观看抖音里的用户时，其中的一个维度应该是这样的：\n\n（图3）\n\n喜欢了相同内容的用户被打上相同的标签，当某条视频被该类人群中的部分人喜欢后，系统会把这条内容推荐给具有该标签的其他用户。\n\n在这个逻辑下，螺旋推荐、养号、再发一遍就会火等“玄学”说法就都找到原因了。\n\n这只是开始，下面我要基于上面的基础知识，尝试颠覆你的固有认知了：“你是谁”比“你拍了什么”更重要。\n\n你被困扰的以下玄学疑问，可以同步被解决：\n\n·为什么要养号？\n\n·再发一遍为什么会火？\n\n·为什么我的视频都是500播放？\n\n·为什么抖音账号定位比任何时候都重要？\n\n·为什么剧情类内容火？\n\n\n\n正文开始\n\n\n\n“内容为王”是最近几年创作者已经达成的共识，生产一条让用户能看懂、愿意分享的内容是每一个创作者苦苦追寻的。因为你发布的内容是直接跟用户“对话”的，只有用户看懂了、愿意分享了，你的内容才能被更多的人看到。用户是整个内容传播过程中非常核心的因素。\n\n而在抖音，你对话的对象不再是用户，而是“算法”。你要先让算法理解你的内容（其实是你），才能把你的内容分发到正确的用户面前。\n\n如果你的内容没有被算法识别，那么即便你笃定内容非常优质，它依然没有机会跟用户见面，或者出现“一条非常优质的机械键盘测评视频，被推荐给亟需买支口红的女孩子”的尴尬场面。\n\n我们来简单梳理一下一条视频被发布后所经历的流程：\n\n（图4）\n\n这个流程中最核心的一步，就是“算法识别”。算法会识别你发布视频内容包含什么标签、被带有什么标签的用户喜欢么？这显然是低效的。\n\n我们试着换个角度来思考这个问题，一切就拨云见日了：\n\n用户发布的视频是不是可以代表这个用户的喜好？算法把A1用户发布的视频推荐给具有相同喜好的A2、A3用户会不会得到他们的喜欢？\n\n答案是肯定的，并且这种方法比识别视频内容的方法高效的多。\n\n“你是谁”比“你发了什么“更重要。\n\n于是，“养号”这个问题的疑问解决了：把账号的喜好明确的表达给算法，好让他能准确的把你发布的内容分发到正确的人群里。\n\n但这里面有一个问题：A1用户只有一个喜好么？\n\n显然不是。\n\n如果你前面读的仔细，应该可以看到“抖音用户的聚类”那张图片前面我用了“其中一个维度”来描述。实际上，因为每个用户会有多种喜好，所以抖音的用户聚类应该是个多维空间，也就是在这个维度下A1和A2、A3在一起，但在另一个维度下，A1是和a2和a3聚合在一起的。\n\n多维聚类示意图\n\n（图5）\n\n基于此，“再发一遍就会火”这个玄学问题也得到了解答：相同的内容第二遍发布时算法把它推荐到你正确的那个标签下。\n\n举例来讲会更容易理解：\n\n你有两个喜好标签，分别是篮球和汽车。你拍了一条关于汽车的视频，系统第一次推荐时把视频推荐给了你篮球喜好那个群体，所以视频止步500播放。第二次发布时，算法选择了汽车那个标签，于是火了。\n\n那么这里你一定会有问题：第一次推荐没有火以后，抖音为什么不试着把视频推荐给另一个喜好的人群？\n\n没有得到足够的“喜欢”，这个结果对于系统来说无非两个原因：\n\n1）你的视频不够优质，连可能喜欢的人都不会喜欢；\n\n2）视频被推荐给了错误的目标用户。\n\n作为创作者的你一定希望当没有得到足够喜欢的时候，系统会选择第二个原因，然后把你的内容推荐给另外500人看看他们会不会喜欢；但同时作为抖音用户的你，当你每天被抖音的算法“试错”刷到很多自己不喜欢的内容时，你一定很烦躁。\n\n为了保证用户体验，系统只能认为获赞不够多的原因是“你的内容不够优质”，于是曝光止步500不再增加。\n\n所以，作为专业的内容创作者，我们显然不能靠“第二遍能火”这样极具不确定性的方法来获取流量。\n\n于是你应该可以想到，想要获得稳定的系统推荐，你账号的喜好应该越少越好，甚至最好只有一个！\n\n所以，账号的定位比任何时候都重要，如果你在最开始“养号”的时候，给了账号一个不那么清晰的定位，就会导致账号有不那么明确的喜好，于是算法也不能给你明确的推荐。\n\n正确的抖音账号定位是“账号具有边界清晰、尽量单一的喜好”。\n\n从社会学角度，我们相信再“偏僻”的喜好也会有一大群人；但是从内容生产成本角度，你应该选择一个可以快速被定义出来的人群标签。\n\n如何判断某个人群标签是否清晰？\n\n举个例子，我曾经想在抖音运营一个类似这个公众号生产“互联网黑科技”相关内容的账号，在我养号的时候发现，这个定位一直在“程序员教编程”、“马云雷军”和“黑科技3C发明”之间游离，无法精准的定位出边界。\n\n于是放弃，改做口红试色。\n\n说了这么多，但还不能清晰定位自己的账号怎么办？我推荐你去做“剧情类”账号。\n\n当你不能定位出一个边界清晰、喜好单一的账号，那么你可以去它的反面，那就是所有人都会喜欢，不分边界的内容：剧情/幽默/情感/正能量……\n\n所以你知道为什么这类内容会火了吧？\n\n这类内容压根不存在人群标签，只要内容足够好，不论推荐给什么样的人都会被点赞！",
+        "images": [
+            {
+                "image_id": 841584514424152,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fhf136To2fedlKI68kKP_QUUimZW?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H3fN7kkwrohqxSFGoticx2A04HU=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fhf136To2fedlKI68kKP_QUUimZW?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5cfHJosQ2TWmoaHkYkEkULRZM40=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fhf136To2fedlKI68kKP_QUUimZW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2iYfgE7uSk50x0k9XXAFoe0Zvc0=",
+                    "width": 2560,
+                    "height": 1440,
+                    "size": 136783
+                }
+            },
+            {
+                "image_id": 118251281141842,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5TZ1_1Abq_J-xd20_GLVITSjYg=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3uRC4DvTcSpotTgP481CinUOULk=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9TIFPh8ycFiOQ5zx4uchzRIEJWM=",
+                    "width": 2560,
+                    "height": 1440,
+                    "size": 145878
+                }
+            },
+            {
+                "image_id": 548214284454854,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5TZ1_1Abq_J-xd20_GLVITSjYg=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3uRC4DvTcSpotTgP481CinUOULk=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fg4T9IBV3u0aUKrIDtzuYue3iJJW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9TIFPh8ycFiOQ5zx4uchzRIEJWM=",
+                    "width": 2560,
+                    "height": 1440,
+                    "size": 145878
+                }
+            },
+            {
+                "image_id": 421482412252128,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fv_jXpDyuynP9DS3PYpkRjeKK5ho?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zft0LO1XeqKR47cR5t_KxPPKm6c=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fv_jXpDyuynP9DS3PYpkRjeKK5ho?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XeKeFOkkuRNnBV07iV1-r5Wi9w8=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fv_jXpDyuynP9DS3PYpkRjeKK5ho?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SaMDt7iP87PcE-yDWRQPrkRs3zk=",
+                    "width": 2560,
+                    "height": 1440,
+                    "size": 231278
+                }
+            },
+            {
+                "image_id": 841584514424142,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgWXdzW_PHYitfz9Drr4gWU7lMdj?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7c9dKRlUVhyI2nuw-A8JVesZZRw=",
+                    "width": 320,
+                    "height": 567
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgWXdzW_PHYitfz9Drr4gWU7lMdj?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rDr1RwB8DW2SR7-Hf2wKtXJPU1A=",
+                    "width": 800,
+                    "height": 1418
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgWXdzW_PHYitfz9Drr4gWU7lMdj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:d4-Fk-d_w4lCo8ht3fIpkn6pw2M=",
+                    "width": 960,
+                    "height": 1701,
+                    "size": 71587
+                }
+            },
+            {
+                "image_id": 241584514424141,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtInsa-a5bjP7rJvESt2Y2G7_6Ty?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UQG2PIXI_Zl0fxNg_P4shWLm0sg=",
+                    "width": 320,
+                    "height": 180
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtInsa-a5bjP7rJvESt2Y2G7_6Ty?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:N1Yp3OCrK8RvfdSdDHJqsCe4Juo=",
+                    "width": 800,
+                    "height": 450
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FtInsa-a5bjP7rJvESt2Y2G7_6Ty?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:upVyARPen4PitBtYSOQGsrawzHs=",
+                    "width": 2560,
+                    "height": 1440,
+                    "size": 208675
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-11T14:44:37.723+0800",
+            "owner": {
+                "user_id": 844182252245522,
+                "name": "白家石头铺 愿彼此温*",
+                "avatar_url": "https://images.zsxq.com/FrRIHXJqXZ4ymMoy-6uu91uUNwMR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RV5gZtjtC5JSl-t_rkNSEcObSGE=",
+                "number": 6345
+            }
+        },
+        {
+            "create_time": "2020-04-11T10:36:55.549+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2020-04-02T11:13:46.452+0800",
+            "owner": {
+                "user_id": 548281858258414,
+                "name": "皮皮",
+                "avatar_url": "https://images.zsxq.com/FvCxQZXFSOeZEAVgH1RlaCZS-Ln4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hEqVZhHokbxxY0arJRkwJ_iOSV4=",
+                "number": 6768
+            }
+        },
+        {
+            "create_time": "2020-03-17T20:06:23.063+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s=",
+                "number": 6034
+            }
+        },
+        {
+            "create_time": "2020-03-05T13:21:22.153+0800",
+            "owner": {
+                "user_id": 15151411555222,
+                "name": "曹家蒙",
+                "avatar_url": "https://images.zsxq.com/FqtYyZryaxpfpB3N-BRqwoxZCphj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CBkvYNOoVb21ONgZS4cQCPrYqRU=",
+                "number": 6708
+            }
+        },
+        {
+            "create_time": "2020-03-03T23:28:09.747+0800",
+            "owner": {
+                "user_id": 244114458114111,
+                "name": "乌鸦少年",
+                "avatar_url": "https://images.zsxq.com/Fqlz16sY_hVaRT3hF-J1IGZ021s8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DWR4Uqet44aDFpfkX2sa4GTgSNE=",
+                "number": 6623
+            }
+        },
+        {
+            "create_time": "2020-03-01T15:35:04.811+0800",
+            "owner": {
+                "user_id": 15481824245812,
+                "name": "阿三",
+                "avatar_url": "https://images.zsxq.com/FoPdwR9TPGpVKVqWVPhGJRQTjGTz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wz-kerXe8flm3M-V0-F-gxQGnQ4=",
+                "number": 6798
+            }
+        },
+        {
+            "create_time": "2020-02-20T16:52:24.201+0800",
+            "owner": {
+                "user_id": 822525555842,
+                "name": "周森Forest",
+                "avatar_url": "https://images.zsxq.com/FkX6xUbeuxsqNkXMPJ7wCJWYsSZU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_MeTg9TQl5b6UH7vkt6mfi0oyrw=",
+                "number": 6566
+            }
+        },
+        {
+            "create_time": "2020-02-20T01:33:49.553+0800",
+            "owner": {
+                "user_id": 2485182551,
+                "name": "韩俊杰",
+                "alias": "Mmos",
+                "avatar_url": "https://images.zsxq.com/FvxFxEbsIOezTjwDmFmUh0ZVhJ1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f8MmfcoqxtqKUx6AZtfzKtzoCF8=",
+                "number": 11
+            }
+        },
+        {
+            "create_time": "2020-02-19T10:00:13.176+0800",
+            "owner": {
+                "user_id": 455554124128,
+                "name": "夜空中的星星",
+                "avatar_url": "https://images.zsxq.com/Fg_ZgP5zOGxlZ1FbVLS_MBVqdhi_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UbeC_0S06ihvMIup0TSNTNA98Xk=",
+                "number": 6744
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-01-31T11:01:27.802+0800",
+            "owner": {
+                "user_id": 51141558541444,
+                "name": "Andy大嘴师迪",
+                "avatar_url": "https://images.zsxq.com/FvRe9Gcz4IhgT_pm5EUxFJvQFIww?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9e7fn1P9XPVxLfqhnlfMiyYPPN8="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-01-06T19:19:09.337+0800",
+            "owner": {
+                "user_id": 822288855852,
+                "name": "子见",
+                "avatar_url": "https://images.zsxq.com/FpNDWFF8xFRFvNsd61_CqBo3vlPb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xv0dGJFkJCQlMXIDFm4D29TWa9k="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-01-05T08:42:04.084+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-01-05T00:25:58.744+0800",
+            "owner": {
+                "user_id": 8421255142,
+                "name": "凡不易",
+                "avatar_url": "https://images.zsxq.com/FgmxwVhlGt5RlzLZDy3D886ozQK8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:231ElbmmAWXUWVU10DGdsPQcnUQ="
+            },
+            "amount": 150
+        },
+        {
+            "create_time": "2020-01-03T22:06:42.680+0800",
+            "owner": {
+                "user_id": 5581144214,
+                "name": "1/0 二事",
+                "avatar_url": "https://images.zsxq.com/Fpz6Vv35TuDuqoyqYcuE0Wed4JXh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oDr8c2PNXSB-TYhug9EVkMu6jUU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-01-03T19:03:53.162+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "amount": 640
+        },
+        {
+            "create_time": "2020-01-03T18:05:38.848+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q="
+            },
+            "amount": 533
+        },
+        {
+            "create_time": "2020-01-03T16:33:07.746+0800",
+            "owner": {
+                "user_id": 15284848244822,
+                "name": "克里斯说",
+                "avatar_url": "https://images.zsxq.com/FkMPor6OeZSfo-QVrNZ7Tow93HL1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C-_6EGNI7e6l95WxzjrxjKqmrdw="
+            },
+            "amount": 150
+        },
+        {
+            "create_time": "2020-01-03T13:11:39.502+0800",
+            "owner": {
+                "user_id": 88281254222142,
+                "name": "TUPAO",
+                "alias": "tupao",
+                "avatar_url": "https://images.zsxq.com/FtdIRxVUkUTM_AIcL6QQph4SX-gT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xZ5ui_Ixn9Mx_I2KQFk74Ts2JXo="
+            },
+            "amount": 186
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548818818142184,
+            "create_time": "2020-01-03T11:08:16.877+0800",
+            "owner": {
+                "user_id": 158585255552,
+                "name": "张佳",
+                "avatar_url": "https://images.zsxq.com/FrjDQuz6xY_a8IeB-epUV_1WAacN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X1sIWLZ4nL98WL6FVzrQCR0zlUU="
+            },
+            "text": "图文并茂版 <e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU1MTAwNzY4Mg%3D%3D%26mid%3D2247485383%26idx%3D1%26sn%3Db0b81f215616f2685b8a671c85405b63%26chksm%3Dfb96a36acce12a7c73bcbd4101babe45411a80f55c794dff2daebd835a761c1101ab3a371991%26token%3D154718579%26lang%3Dzh_CN%23rd\" title=\"%E6%8A%96%E9%9F%B3%E4%B8%8D%E6%98%AF%E7%8E%84%E5%AD%A6%EF%BC%8C%E6%98%AF%E4%BD%A0%E8%BF%98%E6%B2%A1%E6%9C%89%E6%90%9E%E6%87%82%E5%AE%83\" cache=\"\" />",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841181128541552,
+            "create_time": "2020-01-03T14:50:21.610+0800",
+            "owner": {
+                "user_id": 8458254142,
+                "name": "十里内",
+                "alias": "十里",
+                "avatar_url": "https://images.zsxq.com/FoPRtTcUnjV3ZiNuoGpmWds6Zh_J?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RQwG6sL7t5PAAt977Y_MGJvUJp8="
+            },
+            "text": "把抖音“玄学”总结成了白话文[强]😄",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241181121551141,
+            "create_time": "2020-01-03T18:06:34.002+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q="
+            },
+            "text": "大佬，这篇收获很大!",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548852285222114,
+            "create_time": "2020-01-04T14:11:20.479+0800",
+            "owner": {
+                "user_id": 15115152241452,
+                "name": "zane",
+                "avatar_url": "https://images.zsxq.com/FshsBsZY_abweOwjaFq8R_I0ulaE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CgZ9sqZqYHRKTQbeh1m8xlwbUmc="
+            },
+            "text": "讲得很通俗易懂了，感谢。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 414425581855588,
+            "create_time": "2020-04-11T11:08:14.869+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI="
+            },
+            "text": "分析的太透彻了[强]！搞技术的应该都会明白，机器算法是不可能知道发的视频在讲什么东西，那么就要从别的维度来判断该视频了，核心可能就是基于用户的推荐和过滤",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 73,
+    "rewards_count": 9,
+    "comments_count": 5,
+    "reading_count": 8203,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-01-03T11:07:23.347+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

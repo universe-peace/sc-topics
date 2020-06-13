@@ -1,0 +1,232 @@
+{
+    "topic_id": 222554445421,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 225812224511,
+            "name": "华安知",
+            "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w="
+        },
+        "text": "关于短视频，国外的视频不太好看到，而且国外搬运的有语言问题，做个软件，调用Google语音转文字，然后再转翻译中文，可以再用语音合成转声音，或者不转也可以，这个可能还有大神有方法转得更好，这个不止自媒体搬运工有需求，做原创的也会需要这些素材的，现在做原创好痛苦的，没那么多时间拍片的，所以会要很多素材加工剪辑。同样，这个需求在短视频这么火的情况下，能自己搞一个类似今日头条的平台，专门搞国外视频？会有人看？"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-22T21:14:45.449+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-06T09:22:53.036+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-09T21:19:14.528+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T10:40:41.204+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-27T23:05:15.317+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-20T23:18:28.984+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-03-28T07:23:22.866+0800",
+            "owner": {
+                "user_id": 158422118152,
+                "name": "雨果僧",
+                "avatar_url": "https://images.zsxq.com/Fj2FoYI5HYO8lOSdkldoLezc9GwZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B3pkhIYP3vOJzR5FeLSOoD7kd-Q=",
+                "number": 349
+            }
+        },
+        {
+            "create_time": "2017-03-28T00:04:01.841+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ=",
+                "number": 1950
+            }
+        },
+        {
+            "create_time": "2017-03-27T09:57:51.083+0800",
+            "owner": {
+                "user_id": 225812122451,
+                "name": "肥鱼",
+                "avatar_url": "https://images.zsxq.com/FiV1TpjrY_s5fRQumygO44kX2upz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dxGfwxj7KmuyY5r1azENhM52nJc=",
+                "number": 294
+            }
+        },
+        {
+            "create_time": "2017-03-26T22:11:43.807+0800",
+            "owner": {
+                "user_id": 4512215848,
+                "name": "    M J",
+                "avatar_url": "https://images.zsxq.com/Fj7fykqI04uipU1eie7jOhE0tfh1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P2Bq7S5rtjjpi7hdAVNwaLKLxwg=",
+                "number": 514
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 551552555454,
+            "create_time": "2017-03-26T11:51:40.945+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "英文视频=>英文语音=>英文文本=>中文文本=>中文音频=>中文视频\n\n这个脑洞大啊！ \n补充一点，YouTube上面的视频基本都可以自动识别出来字幕的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 228225222141,
+            "parent_comment_id": 551552555454,
+            "create_time": "2017-03-26T11:54:30.290+0800",
+            "owner": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w="
+            },
+            "text": "怎么识别呀？用哪个插件吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 828225224852,
+            "parent_comment_id": 551552555454,
+            "create_time": "2017-03-26T11:57:10.252+0800",
+            "owner": {
+                "user_id": 552184288284,
+                "name": "黄亮",
+                "avatar_url": "https://images.zsxq.com/FtRQ4E4zocdkjCR2UoV5M3YS8Cef?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oOUvZvMdg9WDbMbhq96biTFUNFs=",
+                "description": "全能跨界，供应链专家，创业者"
+            },
+            "text": "平台自己的功能，而且还蛮准确通顺的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w="
+            }
+        },
+        {
+            "comment_id": 828225224882,
+            "parent_comment_id": 551552555454,
+            "create_time": "2017-03-26T11:57:51.346+0800",
+            "owner": {
+                "user_id": 225812224511,
+                "name": "华安知",
+                "avatar_url": "https://images.zsxq.com/Fm7bP4XMvj4gIAYjzyW97pXQuFj8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OAu6gNkEjQ17LtLtXuKQkaFkk2w="
+            },
+            "text": "嗯嗯，我试下，谢谢😄",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552184288284,
+                "name": "黄亮",
+                "avatar_url": "https://images.zsxq.com/FtRQ4E4zocdkjCR2UoV5M3YS8Cef?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oOUvZvMdg9WDbMbhq96biTFUNFs=",
+                "description": "全能跨界，供应链专家，创业者"
+            }
+        },
+        {
+            "comment_id": 145411145842,
+            "create_time": "2017-03-28T17:59:39.501+0800",
+            "owner": {
+                "user_id": 828228554542,
+                "name": "六六很六",
+                "avatar_url": "https://images.zsxq.com/FvZsWtBlhogZlLdFAYK8fQ7FHYRB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YT_qL6i8hM03zcA0gGUV8SMwL7k="
+            },
+            "text": "但也有部分没有字幕选项，这个问题有人碰到过么？",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51422225185514,
+            "create_time": "2018-05-13T18:51:16.176+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "YouTube自带功能",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421844588288888,
+            "create_time": "2019-07-28T10:42:45.204+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4="
+            },
+            "text": "现在做搬运到抖音快手上😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 19,
+    "rewards_count": 0,
+    "comments_count": 7,
+    "reading_count": 2109,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-26T11:37:41.095+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

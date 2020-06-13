@@ -1,0 +1,271 @@
+{
+    "topic_id": 51288888888854,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5442518184,
+            "name": "王君",
+            "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> <e type=\"hashtag\" hid=\"1484815482\" title=\"%23%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB%23\" /> <e type=\"hashtag\" hid=\"8214422422\" title=\"%23%E9%9C%80%E6%B1%82%E6%8C%96%E6%8E%98%23\" /> \n\n今天和朋友聊天，他最近开发了一款针对餐馆的小程序，在餐馆的每张桌子上贴一个小程序二维码，消费者只需扫描此二维码，就可以接入小程序，就能看见餐馆的菜单，从而完成点菜，支付等交易。同时餐馆的前台、后厨也可以看到菜单。\n\n他们目前正在火锅店、快餐店做推广，据说餐馆老板都表现出了很大的兴趣，表示愿意花钱使用他们的小程序服务。\n\n所以今天我又研究了一下小程序，通过分析，我发现小程序比较有价值的几种应用场景分别是：\n\n1.  O2O服务小程序： 如餐馆，理发店，洗车店，美甲店等这类线下商家服务类小程序；\n \n2.  公众号+小程序： 最值得期待的是公众号+小程序做电商；\n\n3.  工具及生活服务类小程序： 如查快递，查天气、查单词等；\n\n相比较而言，我发现最容易产生利润的类型还是O2O服务类的小程序，\n\n因为对于线下商家来说，他们确实有会员管理的需求，如消费、优惠、提醒、推荐等，但做一个app相对不现实，这类属于低频刚需、用完即走，用户不可能去下载APP安装，\n而如果消费者只需要扫描一下二维码，就可以接入小程序，接入后会留下用户信息，相当于微信直接给商家对接了会员体系，小程序只需要针对业务做好会员管理即可，所以小程序的开发难度也低、成本就低，用户的接受程序也高，所以微信小程序作为轻型应用，很有可能会成为未来移动互联网应用的主要形式。\n\n特别是微信推出“发现-小程序”里的“附近的店”找到附近的小程序，这样一来用户能更便捷地看到附近还有哪些小程序，那么对于商家来说，小程序所带来的客流量还是不容忽视的。对于微信来说，想通过小程序来打通更多应用场景，后期也会开放更多的API和权限。\n\n如果开发一款小程序，可以很好的解决某一类商家的需求，然后通过地推找商家推广，如果自己没有地推能力，也可以找代理来做地推，这一类市场也是有比较成熟的团队在做，也很容易找得到。\n\n所以小程序还是很值得去研究一下，好好把握小程序的红利机会。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-16T21:23:44.373+0800",
+            "owner": {
+                "user_id": 28452212812821,
+                "name": "一条肠粉",
+                "alias": "长期奋斗的肠粉",
+                "avatar_url": "https://images.zsxq.com/FqZIQC9H7gvTTSBhzFMa_sSMFnMU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jf1GCHz8MfzO9JjtQX_4OzOBL2Y=",
+                "number": 4078
+            }
+        },
+        {
+            "create_time": "2019-09-17T16:53:37.356+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-08-10T16:22:17.433+0800",
+            "owner": {
+                "user_id": 111145148128252,
+                "name": "当年",
+                "avatar_url": "https://images.zsxq.com/FuC1Db_SrZLB-HqXyIzMp70pBWUs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5qTFAsaXQDu7mNdy_OKeMLC9SMw=",
+                "number": 5663
+            }
+        },
+        {
+            "create_time": "2019-08-08T19:07:00.924+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-06T14:22:51.534+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-28T22:10:03.465+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-05-14T10:00:40.331+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        },
+        {
+            "create_time": "2017-12-17T19:52:36.634+0800",
+            "owner": {
+                "user_id": 458581141818,
+                "name": "心想事成",
+                "avatar_url": "https://images.zsxq.com/Fvm8-T2TEOaAWun-iCvW1H29VDF1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y37PJDi_Lqk7Y3WMMo8VQY-cqw4=",
+                "number": 357
+            }
+        },
+        {
+            "create_time": "2017-07-15T17:24:53.928+0800",
+            "owner": {
+                "user_id": 828215821442,
+                "name": "甜橙",
+                "avatar_url": "https://images.zsxq.com/FglapTKMl3SnZ4e-TXzgSY5edYZT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1yOEmiOlvZsH9jWRBn6KqtyjBtM=",
+                "number": 323
+            }
+        },
+        {
+            "create_time": "2017-06-29T16:42:24.048+0800",
+            "owner": {
+                "user_id": 145824551882,
+                "name": "真皮哥邓坤伟",
+                "alias": "真皮哥邓坤伟",
+                "avatar_url": "https://images.zsxq.com/Fn_oK5iFJQJFLJjIT-Vb8k8NaO8D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c7ZfWlzB-npgfijGTQbDhE8MIes=",
+                "number": 433
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-06-27T08:52:05.640+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1899
+        },
+        {
+            "create_time": "2017-06-27T08:16:35.574+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 570
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88858544552542,
+            "create_time": "2017-06-27T08:18:14.538+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "小程序现在依然在冷启动阶段，这三种形态的产品确实值得一试",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 51121244258144,
+            "create_time": "2017-06-27T08:56:08.532+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "线下的这个扫码结账我以为已经全民化了？ 还有很多餐馆不知道么？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28858544884241,
+            "create_time": "2017-06-27T09:14:46.531+0800",
+            "owner": {
+                "user_id": 552528448884,
+                "name": "xiaodian",
+                "avatar_url": "https://images.zsxq.com/FiKvbKq9dIMA9weuIjU9D2oVuF9N?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ROVbGhAys8czsHyeILlwtJ7iOTk="
+            },
+            "text": "餐馆扫描二维码小程序下单体，有验过，挺不错，这个过程几乎不需要服务员，下单之后送上来",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28858544822881,
+            "parent_comment_id": 51121244258144,
+            "create_time": "2017-06-27T09:21:37.311+0800",
+            "owner": {
+                "user_id": 512155454,
+                "name": "锋度",
+                "avatar_url": "https://images.zsxq.com/FpBm3I9cPVn9OGK9x22S3md6Eahb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q_L06td0hO1yaIJS9Jsg5kPN0IU="
+            },
+            "text": "扫码结账是全面化了，但是扫码点餐还不普及，所以才会有美味不用等这种餐饮服务软件的大举进军。个人觉得这块市场还有很大空间。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 51121244545124,
+            "create_time": "2017-06-27T10:05:46.891+0800",
+            "owner": {
+                "user_id": 144415548512,
+                "name": "VZ",
+                "avatar_url": "https://images.zsxq.com/Frnhi5wQC4vjbEfkxNi1VjsQjzCB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:O0qtcD6jbMd0vpLnXPmMRCkAvzY="
+            },
+            "text": "扫码点餐，二维火应该已经领先至少一个身位了啊",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28858515445281,
+            "parent_comment_id": 51121244258144,
+            "create_time": "2017-06-27T12:13:58.636+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E="
+            },
+            "text": "对，这类服务小程序除了结账，还有会员卡管理，优惠券管理等等其它功能，",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 15525282115182,
+            "create_time": "2017-06-27T12:16:29.882+0800",
+            "owner": {
+                "user_id": 881824442282,
+                "name": "盖瑞Gary",
+                "alias": "盖瑞-Gary",
+                "avatar_url": "https://images.zsxq.com/FrACxz90cfw6T3YgPLk-zxoGtHRf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DrvMNWmnePM0m2t_nSO2Beo9NpY="
+            },
+            "text": "在深圳平常吃饭的地方就有好多家点餐的竞争，什么美味易点，厨将好多",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88858515448122,
+            "parent_comment_id": 51121244545124,
+            "create_time": "2017-06-27T12:16:56.127+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E="
+            },
+            "text": "嗯，有些已经在此领域走的很远了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 144415548512,
+                "name": "VZ",
+                "avatar_url": "https://images.zsxq.com/Frnhi5wQC4vjbEfkxNi1VjsQjzCB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:O0qtcD6jbMd0vpLnXPmMRCkAvzY="
+            }
+        }
+    ],
+    "annotation": "<e type=\"hashtag\" hid=\"4245425418\" title=\"%23%E5%B0%8F%E7%A8%8B%E5%BA%8F%23\" />",
+    "likes_count": 25,
+    "rewards_count": 2,
+    "comments_count": 15,
+    "reading_count": 2449,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-27T00:52:51.115+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

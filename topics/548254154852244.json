@@ -1,0 +1,194 @@
+{
+    "topic_id": 548254154852244,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \r\n\r\n大家好，又到周五啦！每周五，鱼丸给大家带来一篇海外生财之术，带你一起赚美元~\r\n\r\n亚马逊上的商家在售卖商品的时候都必须经过一个流程：打印标签贴纸，贴在每一件发往亚马逊的商品和包装箱上。\r\n\r\n今天的一起赚美元的主角Keith Brink就从这个流程中发现了商机，开发了azlabel，获得约6500美元利润，带来了超3000个用户。他是怎么做出azlabel并让这个产品取得一个不错的发展呢？\r\n\r\n以下便是作者自己分享的经历\r\n\r\n1、简单介绍一下azlabel和促使你开发azlabel的缘由\r\n\r\n我是基斯·布林克(Keith Brink)，目前正在运营azlabel，它可以让亚马逊卖家又快又好地在热敏打印机上打印出想要的便签。\r\n\r\n自从2017年5月推出azlabel以来，它已经发展到有约6500美元利润, 3000个用户。预计为用户打印了约900万个印刷标签，节省了七年的劳动时间。\r\n\r\n继续往下讲，为什么我会开发azlabel呢？\r\n\r\n我自己是一个亚马逊卖家，每天需要花一个小时的时间来打印标签。效率十分低下。每个亚马逊卖家都必须给每个发往亚马逊的产品和箱子均贴上标签。所以我们需要购买热敏打印机打印标签以此来节约时间和金钱。\r\n\r\n然而，将标签转换成热敏打印机能够工作的格式是一个麻烦的过程。我不得不在两种情况中做出选择，一种是每次发货需要耗费20-30分钟的漫长手工过程，另一种是借助于一些又贵又慢且没有任何客服服务的的古老软件。\r\n\r\n在我花了几个月的时间构建一个自动化解决方案之后，我意识到可能有其他卖家也有可能遇到了同样的问题。所以我建立了一个基本的登陆页面，看看是否有人有兴趣购买我的产品。\r\n\r\n这就是开发azlabel的由来。\r\n\r\n2、你是如何吸引用户并发展azlabel的?\r\n在我发布了azlabel的第一个版本后，我给几个人发了电子邮件，邀请他们开始使用它，目的是帮助发现我没有发现过的问题。我发现一个不错的办法能吸引用户，就是告诉他们一旦你发布了这个产品，你会给他们省多少钱，然后等到产品上线且足够稳定后再给他们优惠。\r\n\r\n在那之后，我向网站中注册名单上的20个人发起了一个项目，要求他们每月支付5美元来打印他们想打印的标签。他们中有一半人注册了，这个是个好兆头，而且看到Stripe账户每月50美元也很不错。当时，我的目标是每月收入达到1000美元，作为一份体面的副业收入。\r\n\r\n在那之后，我开始尝试各种各样不同的方法来吸引用户：Reddit，亚马逊卖家论坛，博客上发帖；Quora上回答了关于打印热标签的问题；在竞争对手的平台上投放谷歌广告；Youtube发布用azlabel打印标签的视频，邀请有影响力的亚马逊卖家加入联盟计划（这个是我们目前最成功的渠道，卖出了约1/3的销售额）\r\n\r\n尽管市场营销绝对不是我的强项，但我认为尝试几种策略是很重要的，因为你永远不知道哪种方式何时会引起爆发。我很想找到一个真正能完全成功的营销策略。但到目前为止尚未找到，不过我也在很多不同的地方收获了一些小的成果。\r\n\r\n3、你的商业模式是什么?\r\n我们的商业模式一直随着azlabel发展进行调整，总体基调就是简单\r\n\r\n一开始是全免费\r\n\r\n三个月后：每月付5美元，无限张标签。保持简单是有意义的，因为产品本身很简单。\r\n\r\n当我们每个月能赚500美元的时候，我们就推出了一个分级定价系统:每月100张标签免费，每月5美元1000张标签，或者每月20美元无限张标签。\r\n\r\n这一定价主要是由我们的联盟计划;我们希望在azlabel价格有足够的空间，能支付我们的子公司很好发展，并也能够提供促销折扣给我们的客户。价格上涨的原因是我们的客户之间存在巨大差异:一些客户每月打印数十万张标签，而另一些客户每月只打印几千张。但是两类顾客付的钱是一样的。我觉得我们还有价格优化的空间。同时，为了提高打印速度和更多综合服务，我们也对azlabel做了一些重大的升级，所以现在应该是永久取消无限制计划的一个合适时机。\r\n\r\nazlabel面临的主要挑战是如何区别于竞争对手。我不想卷和同行的价格战。我更专注于azlabels比其他家是否更容易使用,打印速度和客户服务速度能否更好更快,更多的融合到用户的工作流程中,并始终无缺陷。\r\n\r\n提价的另一个原因是，我特地声明azlabel不是一个低成本、低质量的选择。我们对我们的速度和工作流程的整合非常有信心，我们可以支付我们所做的一切。时间会证明这个选择是否正确。\r\n\r\n我可以肯定的一点是，更高的定价在某种程度上降低了客户流失率。新定价生效后，我们的月客户流失率从4%下降到2.5%。当然，用户流失率的降低也可能由于我们产品速度提升或功能改进。\r\n\r\n4、你未来的目标是什么?\r\n\r\n我最近明白了一点：你应该总是想着你的下一个10倍。我总是在问，怎样才能在收入/利润数据的最后再加上一个0 ?这有助于我把注意力集中在可实现的目标上。这意味着我正在寻找方法，使这项业务成为每年100万美元的业务。\r\n\r\n我学到的一点是，无论你有什么目标，你需要去找到你的关键指标——即哪些指标可以预测收入/客户满意度？\r\n\r\n例如，我知道30%的客户在注册后平均需要30-40天才能成为付费客户。所以用户注册数量预测了我未来的收入增长，而网站流量预测注册人数。因此我在谷歌广告和内容营销上的花费就可以预测我的网站流量。\r\n\r\n所以，如果我把注意力集中在领先的关键指标上，对它有更多的控制，那么我就可以实现我的目标。富兰克林·柯维(Franklin Covey)的《执行的四个原则》(The four discipline of Execution)就是很好的例子。\r\n\r\n\r\n5、你有没有发现什么特别有用或有利的事情?\r\n我尽量不让自己做任何日常工作，所以我雇佣了一些承包商来做客户服务、市场营销、记账、会计、内容创作和销售等工作。这些费用加起来每月约为1000美元，但这笔钱花得值，因为它让我专注于改进产品和争取新客户。\r\n\r\n我雇佣我的一个开营销公司的朋友。他每个月为我的公司工作10个小时。他把公司从500万美元增长了10倍，达到5000万美元\r\n\r\n我真的很感谢他们，如果没有他们，我不会喜欢管理这家公司。\r\n\r\n2、对我有帮助的书籍\r\n\r\n这些年来，我读过几本书，它们真的塑造了我的思维:\r\n吉姆·柯林斯《从优秀到卓越》\r\n安迪·格鲁夫《高产量管理》\r\n本·霍洛维茨《硬物之硬物》\r\n\r\n当我阅读GitLab员工手册时，我爱上了他们的方法，并为我的团队复制了他们的系统。\r\n\r\n\r\n6、我的建议\r\n1、机会/需求来源于你能不能通过某些捷径帮助别人更好更快地完成他/她的事情\r\n2、每当觉得自己快要成功之时，提醒自己爆发的机会可能还没有想象中那么快的到来。比如，之前我已经和一些非常成功的有影响力的人建立了关系，他们特别推荐了我，当时我确信我将获得数百个新客户，但是最终并没有一个转化。\r\n\r\n以上就是今天一起赚美元的分享啦，觉得不错记得给鱼丸一个赞哦[害羞]~\r\n\r\n原文链接：<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Ffrom-amazon-seller-to-saas-startup-founder-cae35e57cb\" title=\"From+Amazon+Seller+to+SaaS+Startup+Founder+-+Indie...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-24T11:38:36.552+0800",
+            "owner": {
+                "user_id": 88811544412412,
+                "name": "郑小焦",
+                "avatar_url": "https://images.zsxq.com/Fktqhv5AatapuiviVACXtcpLziYV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kD0PGNrpac3wA9BFOVvSqc3ubpo=",
+                "number": 6048
+            }
+        },
+        {
+            "create_time": "2019-12-09T22:58:01.362+0800",
+            "owner": {
+                "user_id": 28211822512551,
+                "name": "辣条",
+                "avatar_url": "https://images.zsxq.com/Fn-fZETOj4da42qnT1qGrGvbb__n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k3jzf7muJuNSchWMi3AUElmCm84=",
+                "number": 6431
+            }
+        },
+        {
+            "create_time": "2019-11-22T02:27:59.407+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-11-14T07:59:05.528+0800",
+            "owner": {
+                "user_id": 28425445884821,
+                "name": "棒子-老虎-鸡",
+                "avatar_url": "https://images.zsxq.com/Fhi5Iy4VQJfqtv3ptNfe5vBly15j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PL1CwlM3-FfNytofoD7y_EpS1Vs=",
+                "number": 5746
+            }
+        },
+        {
+            "create_time": "2019-11-12T03:32:12.526+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ=",
+                "number": 810
+            }
+        },
+        {
+            "create_time": "2019-11-11T21:27:58.773+0800",
+            "owner": {
+                "user_id": 244418181282821,
+                "name": "安宁",
+                "avatar_url": "https://images.zsxq.com/FlLcoKYe5lhml7_m8RBztobYYguc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAgJbEcJ8GcWBEl5eprOpEd9aoE=",
+                "number": 6193
+            }
+        },
+        {
+            "create_time": "2019-11-11T12:21:00.941+0800",
+            "owner": {
+                "user_id": 15554445222842,
+                "name": "莫一多",
+                "avatar_url": "https://images.zsxq.com/FkM-QeupYW74zDZ5SBACYOBa6Q8g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rBhvtL5e5ln6LW4ay38O6G0iip0=",
+                "number": 3538
+            }
+        },
+        {
+            "create_time": "2019-11-10T20:45:35.905+0800",
+            "owner": {
+                "user_id": 144845142212,
+                "name": "生意人",
+                "avatar_url": "https://images.zsxq.com/FggZKuNS24cyOoQMA8Ft4WHg4Yw2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gVrr5fwAJdbhpbh2vkum_kXeRvw=",
+                "number": 2562
+            }
+        },
+        {
+            "create_time": "2019-11-10T14:03:56.269+0800",
+            "owner": {
+                "user_id": 15115152241452,
+                "name": "zane",
+                "avatar_url": "https://images.zsxq.com/FshsBsZY_abweOwjaFq8R_I0ulaE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CgZ9sqZqYHRKTQbeh1m8xlwbUmc=",
+                "number": 4342
+            }
+        },
+        {
+            "create_time": "2019-11-09T18:37:42.649+0800",
+            "owner": {
+                "user_id": 145411528422,
+                "name": "小鹏",
+                "avatar_url": "https://images.zsxq.com/FigTV8D_Vd9xLgUspxILuCm6OTjN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NLTaoQNAV66Wz1KjpotzN-vb_Xc=",
+                "number": 4064
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548488452581424,
+            "create_time": "2019-11-08T23:06:08.569+0800",
+            "owner": {
+                "user_id": 88214125888252,
+                "name": "荔枝小一萌",
+                "avatar_url": "https://images.zsxq.com/FhlCVRdrm704WvF0MSDb7gVjILZ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cvFyOyCG5vLhgwYIG9T2oL4mPAs="
+            },
+            "text": "沙发。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421211254212888,
+            "create_time": "2019-11-08T23:40:49.269+0800",
+            "owner": {
+                "user_id": 28518842428121,
+                "name": "用卡屋",
+                "avatar_url": "https://images.zsxq.com/Fsza_VX_enZKeMZSMQ98nZuKs-PG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jdSWbLxCBlSv76e8DvpgWz8H7yI="
+            },
+            "text": "赞",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548488452824214,
+            "create_time": "2019-11-08T23:56:34.859+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "text": "The Hard Thing about Hard Things最近刚被安利，中信出版社译本是《创业维艰》~",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548488451542814,
+            "create_time": "2019-11-09T08:38:59.687+0800",
+            "owner": {
+                "user_id": 51512882521154,
+                "name": "入海",
+                "avatar_url": "https://images.zsxq.com/FkPiPCWecZD8EjWr9XiBSnk0I0pL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oHqwshqQDoarJ52zD1WYQxX6lVM="
+            },
+            "text": "打法共通点越来越多，赚钱的路上殊途同归",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548488454851524,
+            "create_time": "2019-11-09T11:51:08.646+0800",
+            "owner": {
+                "user_id": 48418215882148,
+                "name": "Eric",
+                "avatar_url": "https://images.zsxq.com/FhjR0F1DF0gYVdz22ilxig2RjiF3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VShzVrK4tv-gZk0Q2avIynquMPU="
+            },
+            "text": "这个对于做亚马逊的我来说很有用",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548488458241224,
+            "create_time": "2019-11-09T12:44:17.671+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow="
+            },
+            "text": "谢谢鱼丸分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 33,
+    "rewards_count": 0,
+    "comments_count": 6,
+    "reading_count": 12907,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-11-08T20:59:27.877+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

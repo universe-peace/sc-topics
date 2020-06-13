@@ -1,0 +1,216 @@
+{
+    "topic_id": 111115515414482,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n你是否想了解哪些微信好友删除了你？ \n\n即使不愿意去很脑残的做“僵尸粉”检测，我相信大多普通人内心是想知道的。\n\n类似的，作为一个Instagram的普通Po主，你可能希望知道哪些朋友取关了你，然而Instagram并不提供这个功能，甚至它的API也不支持这个功能。 \n\n不过这个难不倒想赚钱的开发者，上有政策下有对策。比如抓取你的Instagram粉丝列表，每次查询的时候再抓取一遍，通过比对得出新增取关人员。\n\n虽说是一个很小的细分需求，但是通过AppAnnie等数据观察，单苹果应用市场，一年至少千万级利润，赚钱靠广告和付费会员。\n\n可研究案例： unfollowers for instagram+"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-12-01T19:48:47.175+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-11-14T07:59:33.228+0800",
+            "owner": {
+                "user_id": 144845142212,
+                "name": "生意人",
+                "avatar_url": "https://images.zsxq.com/FggZKuNS24cyOoQMA8Ft4WHg4Yw2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gVrr5fwAJdbhpbh2vkum_kXeRvw=",
+                "number": 2562
+            }
+        },
+        {
+            "create_time": "2019-10-02T20:57:05.489+0800",
+            "owner": {
+                "user_id": 144845522882,
+                "name": "Amy大米",
+                "avatar_url": "https://images.zsxq.com/FuNzxVhkpp6OSFEkpeOpXHg-MoOx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FO_IXySOzDtEMnb6p20Q7nlr4UI=",
+                "number": 6173
+            }
+        },
+        {
+            "create_time": "2019-09-06T21:27:04.725+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-05-03T11:09:13.288+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-30T08:58:12.305+0800",
+            "owner": {
+                "user_id": 225444552551,
+                "name": "HelloCsl",
+                "avatar_url": "https://images.zsxq.com/FgyGThoxTNU8dF3hWlifDYdiTlVl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:i_HumzOGf0Hkt6rba00wnQ-VC54=",
+                "number": 946
+            }
+        },
+        {
+            "create_time": "2019-04-24T15:26:05.406+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-04-21T21:03:20.296+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-21T17:51:17.599+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-20T22:52:18.863+0800",
+            "owner": {
+                "user_id": 51111145851124,
+                "name": "五折",
+                "avatar_url": "https://images.zsxq.com/Fi-7SxBa6WCWENlTUV_yvt7op_R7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bd2_cXI1UcYIi6qJtslJMqecO2s=",
+                "number": 3312
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 422118441244818,
+            "create_time": "2019-03-06T00:00:09.743+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "老板真心爱钻研，我上次给你导的数据，已经写了四五篇了吧[强]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 422118441248288,
+            "parent_comment_id": 422118441244818,
+            "create_time": "2019-03-06T00:02:01.913+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "最近招人考核的重要能力就是钻研能力",
+            "likes_count": 4,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        },
+        {
+            "comment_id": 544881215184284,
+            "create_time": "2019-03-06T08:54:49.011+0800",
+            "owner": {
+                "user_id": 222815184281,
+                "name": "午前畅言",
+                "avatar_url": "https://images.zsxq.com/FkaiLy6449dUdovZtbvaZ3c508Tm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Y5tZ1vp6v_zB3B3Mp2iH0OXf8F0="
+            },
+            "text": "这么小的应用能搞到千万一年？美金？不可思议",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 544881251825844,
+            "create_time": "2019-03-06T14:25:43.389+0800",
+            "owner": {
+                "user_id": 5584281844,
+                "name": "高涛杰",
+                "avatar_url": "https://images.zsxq.com/FpIEBy8lzvsEZowaFGsS8r0t1_wr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0rdK7hUj2BGyt6zro5JgjhDq0wA="
+            },
+            "text": "亦仁老大。想请问下\n现在主流的都是玩国外的市场嘛？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 844118528185522,
+            "parent_comment_id": 544881251825844,
+            "create_time": "2019-03-06T14:28:36.837+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "看各自的资源，国内也有玩的风生水起的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5584281844,
+                "name": "高涛杰",
+                "avatar_url": "https://images.zsxq.com/FpIEBy8lzvsEZowaFGsS8r0t1_wr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0rdK7hUj2BGyt6zro5JgjhDq0wA="
+            }
+        },
+        {
+            "comment_id": 118255285828552,
+            "create_time": "2019-05-03T11:09:38.091+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI="
+            },
+            "text": "这个很棒。我做过类似的微信检测软件",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 41,
+    "rewards_count": 0,
+    "comments_count": 6,
+    "reading_count": 23291,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-03-05T23:58:01.012+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

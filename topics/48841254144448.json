@@ -1,0 +1,202 @@
+{
+    "topic_id": 48841254144448,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 142548485442,
+            "name": "不许变懒的猫",
+            "alias": "柚子（别摸我头会长不大）",
+            "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />  第17期\n\n今天给大家分享的这个案例很简单也很有意思，但需求却是真实存在也很强烈的，原作者的分享给我们带来了很多痛点挖掘和产品开发上面的启发。\n\n基本情况\n1. 产品名称： Salem Software\n2. 产品功能：圣经西班牙语版本iOS App\n3. 安装量：130万以上\n4. 月收入： $10,000以上\n\n产品从0到1给我们带来的4个启发：\n\n1. 作者懂西班牙语，于是将圣经做了一份西班牙语言版本的iOS app，并在一段时间后出了西班牙音频版本的APP；\n\n2. 他提到快速找到真实需求的一个方法：翻App Store榜单， 从上到下找评价不太好的应用，然后将其复制到其他语言模式去，因为这些需求已经确认，模式已经走通， 只需要改动一些新的变量，就可以很快的盈利， 比如改变语言变量，改变渠道变量等；\n\n3. 除了做出一份文字版本的西班牙语圣经，作者提到他收入增长非常关键的一个操作就是将这些免费内容做了一份语音版的，大幅度提高了他的被动收入。 给我们的启示就是除了语言、渠道等变量， 媒介形式也是一种变量， 文字、图片、音频、视频，任何一种媒介形式都有其对应的需求存在，我们需要做的只是去寻找和发现市场上面的空缺；\n\n4. 从这个案例，我们还可以获取到的一个启发就是：找公用版权领域的作品，进行再加工再制作，使得其更符合大众的需求，比如水浒传、红楼梦， 进行再加工再传播。 \n\n更多内容请阅读原文\n<e type=\"web\" title=\"Indie+Hackers%3A+Learn+from+Profitable+Online+Busine...\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Fbusinesses%2Fsalem-software\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T13:37:45.821+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-03T08:12:57.503+0800",
+            "owner": {
+                "user_id": 51514112411414,
+                "name": "谷木",
+                "avatar_url": "https://images.zsxq.com/Fmp5Gcmvbz5KWVD5p8rMBmnetvQY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zir6dd0RW1CiqtkAmSjnj0WbUAI=",
+                "number": 3272
+            }
+        },
+        {
+            "create_time": "2019-08-17T00:26:51.968+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-07-20T13:13:31.054+0800",
+            "owner": {
+                "user_id": 48882151221228,
+                "name": "东向",
+                "alias": "东向",
+                "avatar_url": "https://images.zsxq.com/FhUG87jnSXLBcj8SxZHX1RjwKodN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3yWRj1aI2dbFIle9Fd8_gzrX_RQ=",
+                "number": 5953
+            }
+        },
+        {
+            "create_time": "2019-06-19T00:33:00.577+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-06-13T06:10:07.281+0800",
+            "owner": {
+                "user_id": 28885415241811,
+                "name": "权宇凡",
+                "avatar_url": "https://images.zsxq.com/FiGLjlaB3gI-P-0u-_3uAFowCAk_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Jg8ENc-HJRH7CUYGCWbft2YW0BE=",
+                "number": 5857
+            }
+        },
+        {
+            "create_time": "2019-06-06T14:08:23.283+0800",
+            "owner": {
+                "user_id": 51421554882814,
+                "name": "林向南",
+                "alias": "林向南",
+                "avatar_url": "https://images.zsxq.com/FoybMlrCacmCZlTTAxvJqVJK4Uli?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAnmxIK7SIUsYFZ8O6sWlxmicn8=",
+                "number": 5835
+            }
+        },
+        {
+            "create_time": "2019-04-28T16:11:23.829+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-26T02:45:52.411+0800",
+            "owner": {
+                "user_id": 28452225558851,
+                "name": "陈超",
+                "alias": "markecc超",
+                "avatar_url": "https://images.zsxq.com/FscnepyKYQnbqEhk3nCyksRTHhw4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YSYdx6LwsxxpMa7hKf0RPqCgEjI=",
+                "number": 3314
+            }
+        },
+        {
+            "create_time": "2019-04-21T22:25:19.328+0800",
+            "owner": {
+                "user_id": 88514811848822,
+                "name": "千喜",
+                "avatar_url": "https://images.zsxq.com/FphTvtT4laVBuhLqZfVyLgBMYz2j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:579Yo4dFAnAljQkZmCQaQlF-cak=",
+                "number": 3523
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-07-15T08:40:06.752+0800",
+            "owner": {
+                "user_id": 4212481818,
+                "name": "此岸",
+                "avatar_url": "https://images.zsxq.com/Fh4T1Ogs5Q8OgCiQ5_3XFle6TA7y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9_kgUzPwc2QqOTET0yGDqLeVm_0="
+            },
+            "amount": 190
+        },
+        {
+            "create_time": "2017-07-14T23:44:15.616+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo="
+            },
+            "amount": 221
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 48888218818548,
+            "create_time": "2017-07-14T23:44:03.503+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo="
+            },
+            "text": "确实是很棒的思路",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15555824428222,
+            "create_time": "2017-07-15T22:02:15.175+0800",
+            "owner": {
+                "user_id": 4281541428,
+                "name": "子沫",
+                "alias": "木龙江流",
+                "avatar_url": "https://images.zsxq.com/Ft9pUOxeLEPypLhlTLjdI70tDAaK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AsWBFiLhPR4ESShJtEt7KCqwBfM="
+            },
+            "text": "不涉及版权的再加工，好思路",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241122585528241,
+            "create_time": "2020-01-19T14:19:56.021+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI="
+            },
+            "text": "挖掘真实需求的这个方法有启发，赞[强]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 241122254281241,
+            "parent_comment_id": 241122585528241,
+            "create_time": "2020-01-22T05:27:52.369+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "开心对你有帮助啊 哈哈",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI="
+            }
+        }
+    ],
+    "likes_count": 46,
+    "rewards_count": 2,
+    "comments_count": 4,
+    "reading_count": 3623,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-07-14T15:54:32.414+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

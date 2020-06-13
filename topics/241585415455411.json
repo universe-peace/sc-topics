@@ -1,0 +1,308 @@
+{
+    "topic_id": 241585415455411,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454581445488,
+            "name": "一条枸杞",
+            "avatar_url": "https://images.zsxq.com/FtjMAMbo87Y-3GRSTIbxsk_jCEby?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bxYZwmmCX_ORB7FKBrFDRDSBaA8="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2424852581\" title=\"%23%E5%A4%A7%E8%88%AA%E6%B5%B7%E8%AE%A1%E5%88%92%23\" /> \n说说昨天亦仁大大发朋友圈的视频 - Illustrator自动化。\n很多大航海群里关注技术的小伙伴已经看到我在群里转发的教程了，\n来自知乎专栏，用Google一搜就能搜到。\n<e type=\"web\" href=\"https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F44211501\" title=\"%E6%9C%BA%E6%A2%B0%E9%87%8D%E5%A4%8D%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%B7%A5%E4%BD%9C%EF%BC%8C%E8%AE%A9+illustrator+%E8%87%AA%E5%8A%A8%E5%8E%BB%E5%81%9A%EF%BC%81+-+%E7%9F%A5%E4%B9%8E\" cache=\"\" />\n这个教程本质上没有技术门槛，大家都可以试试，只需要注意几点：\n1.搞成CSV文件之前，一定把所有单元格用上【文本】格式\n2.嵌入图片无法变量化，改成非嵌入图片即可\n3.实用这套教程前一定要先定版，避免中途出错不好从头再来\n……\n但这件事只是一个技术问题吗？\n\n亦仁大大说过了，这还是一种产品化的思维；\n同时，这也是一种行动思维。\n对于和我一样的技术小伙伴，看这套教程都是一看就懂的，多少人面对这个需求会直接去搜索方案、并付诸行动来踩坑呢？我觉得比例并不高。\n而这种比例放到大航海里面，最终踩过坑并且拆解出前前后后所有执行计划的，应该只有我一个了……（所以显得很突出）\n我相信生财里也一定有很多程序员、或者程序员出身的小伙伴，我相信这种技术对你们来说不是难题，你们或许也经常能听到身边很多\n“这个呀，我也能做，只不过他做的比较早”\n“奥，没啥难度，谁会需要这个啊”\n“这个我听说不行的呀”\n之类的话。我的建议是，行动起来，一切都会很不一样。\n\n之前亦仁大大非常直接地po出「给我一面国旗」的机会，大家可以看到，还是有非常多小伙伴得到了可观流量收益的，这就是行动思维的好处，想到就做到。\n\n围观，还是出击，都是自己选的。好在这样的选择每天都有。\n\n我在自我迭代方面的经验是：\n1.用自己的技能，多利他。\n2.空杯，打破玻璃心，多去找刺激。\n3.信心繁杂时拓广度，心静时打深度。\n4.不要停止搜索，用好前辈留下的资源。\n5.想到就做到，因为各种原因没时间做就记下来，甚至把idea送给别人（验证比空想更重要，哪怕验证的人都不是自己）\n6.不要怂，就是上。\n\n程序员及其他专业领域技能者们，也请你们挥动手中的刀刃，斩击一切所能触及之处，劈开荆棘，那时所在的路，会比现在更平坦。",
+        "images": [
+            {
+                "image_id": 244145488181481,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrWpobh9F6a4WHsA15U6BSPAX8IG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AxFp8V5bgxKphqEzkLRVWJF_mqw=",
+                    "width": 320,
+                    "height": 1119
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrWpobh9F6a4WHsA15U6BSPAX8IG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lpVlB1u26a3pz_7iGb3Ro6wv_sk=",
+                    "width": 640,
+                    "height": 2238
+                }
+            },
+            {
+                "image_id": 111812155858182,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpPbs3kIIDn3NuSuPNP4ofv3-em6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4lY8R4SKCW7K2R34vp2LtVPwEjc=",
+                    "width": 320,
+                    "height": 1316
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpPbs3kIIDn3NuSuPNP4ofv3-em6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WSA0VGnf-17aRSbewRivq_tkGBk=",
+                    "width": 640,
+                    "height": 2632
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-31T09:20:54.928+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-12-27T01:44:59.905+0800",
+            "owner": {
+                "user_id": 142455125122,
+                "name": "stark.wang",
+                "avatar_url": "https://images.zsxq.com/FnZp5l4KbwqtWTcky_VstxpPlPJZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Z3D_26sK6lCHGYtVGaKL993hOXY=",
+                "number": 4831
+            }
+        },
+        {
+            "create_time": "2019-10-10T00:55:54.826+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ=",
+                "number": 810
+            }
+        },
+        {
+            "create_time": "2019-10-06T11:00:57.208+0800",
+            "owner": {
+                "user_id": 28811585142441,
+                "name": "Tom and Je*",
+                "avatar_url": "https://images.zsxq.com/Fgw1Bhb0AXlGoG00KZjlNvXVyWRz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UosAbyFvw7ElYFkhGV7u7csuSdc=",
+                "number": 3311
+            }
+        },
+        {
+            "create_time": "2019-10-06T10:24:22.924+0800",
+            "owner": {
+                "user_id": 88258842855482,
+                "name": "小辜",
+                "avatar_url": "https://images.zsxq.com/FuN7lPpVvqcz70aMJjUZvN8BbwIG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pJCsss2suCIGnqx-HOz3QxhqHRA=",
+                "number": 2753
+            }
+        },
+        {
+            "create_time": "2019-10-03T06:59:22.576+0800",
+            "owner": {
+                "user_id": 51118251222824,
+                "name": "杰克船长",
+                "avatar_url": "https://images.zsxq.com/FlhmpZsZ0xoyWhAPLEMdlaEjsSJD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PPZxVmnN_oG8TGlpkFah9frO2j8=",
+                "number": 4332
+            }
+        },
+        {
+            "create_time": "2019-10-03T03:02:33.031+0800",
+            "owner": {
+                "user_id": 88284844458252,
+                "name": "方文欠",
+                "avatar_url": "https://images.zsxq.com/Fox0-MLqs9L-QF9f3VPafhswX2bl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_wPpJKuIenN_EfTEv66yLQuSZPw=",
+                "number": 3342
+            }
+        },
+        {
+            "create_time": "2019-10-03T01:53:09.631+0800",
+            "owner": {
+                "user_id": 455551218588,
+                "name": "zuma",
+                "avatar_url": "https://images.zsxq.com/FgsurRVWJV2R56b9IQ3IQIJq97eD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qS66u3M8XsdLQ0CRkMijZNJKvBM=",
+                "number": 818
+            }
+        },
+        {
+            "create_time": "2019-10-02T17:45:22.919+0800",
+            "owner": {
+                "user_id": 48885581151128,
+                "name": "Xiu",
+                "avatar_url": "https://images.zsxq.com/FnxtTXeVLqZvcXqAliTHL5mcTahP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vVs5DvNDkAhqnuqSJN-ei-EEbjc=",
+                "number": 4878
+            }
+        },
+        {
+            "create_time": "2019-10-02T09:13:41.691+0800",
+            "owner": {
+                "user_id": 554555114124,
+                "name": "王文波",
+                "avatar_url": "https://images.zsxq.com/Fnz2CP84s4WnO9e6UCmpZhtnp2OC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:882Of_26rlTI3JMpUYTiW_fw9l8=",
+                "number": 3335
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-09-29T10:14:09.476+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 7920
+        },
+        {
+            "create_time": "2019-09-29T15:03:24.070+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 640
+        },
+        {
+            "create_time": "2019-11-21T11:54:47.269+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2019-09-29T10:18:34.999+0800",
+            "owner": {
+                "user_id": 28845258544121,
+                "name": "白杨seo",
+                "avatar_url": "https://images.zsxq.com/FrpyjpBq0i5L3-YUUfEqMISgmGGE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:crklZBvlJ2-Q7wx-bAqQBjhM0Z4="
+            },
+            "amount": 186
+        },
+        {
+            "create_time": "2019-09-29T10:08:04.710+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2019-09-29T09:55:59.249+0800",
+            "owner": {
+                "user_id": 844184512451442,
+                "name": "阿思",
+                "avatar_url": "https://images.zsxq.com/FpRCmvQLgU4P26vaQGYIOZQ-56cF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFjQa2wd96RvtyH-lkThfb7iRho="
+            },
+            "amount": 230
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241845541828511,
+            "create_time": "2019-09-29T10:35:20.061+0800",
+            "owner": {
+                "user_id": 88214125888252,
+                "name": "荔枝小一萌",
+                "avatar_url": "https://images.zsxq.com/FhlCVRdrm704WvF0MSDb7gVjILZ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cvFyOyCG5vLhgwYIG9T2oL4mPAs="
+            },
+            "text": "前排沙发，先坐下，为枸杞打call.",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548142248148154,
+            "create_time": "2019-09-29T10:54:18.283+0800",
+            "owner": {
+                "user_id": 8444858882,
+                "name": "小鸟",
+                "alias": "小鸟在前面带路",
+                "avatar_url": "https://images.zsxq.com/FlkzLctz9pLfbMRsmuj8Ockuh2QZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DBQll41exL_GvcaD9_tK6ysxot8="
+            },
+            "text": "太赞了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241845541284211,
+            "create_time": "2019-09-29T10:59:19.017+0800",
+            "owner": {
+                "user_id": 885552452,
+                "name": "森淼",
+                "alias": "森淼",
+                "avatar_url": "https://images.zsxq.com/FpHXcpJbbHK_j9_R20yD1ABkBka7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yXZDYSLxOxvBbK0nkfPbqersr4s="
+            },
+            "text": "打 call [鼓掌][鼓掌][鼓掌]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241845541418281,
+            "create_time": "2019-09-29T12:04:45.958+0800",
+            "owner": {
+                "user_id": 28882558282211,
+                "name": "叫我猫哥",
+                "avatar_url": "https://images.zsxq.com/Fj5C9_ITcbb9W9HINHTUMc4UUOgX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BuxesSYObL1RNInw4N2D9i17ENo="
+            },
+            "text": "嗯   ~~~ 保温杯准备好了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548142248825244,
+            "create_time": "2019-09-29T12:16:33.321+0800",
+            "owner": {
+                "user_id": 88511888248212,
+                "name": "Tyler durd*",
+                "avatar_url": "https://images.zsxq.com/FkQ2zd5ONJPpl-wkEnR0sa4ch54u?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ELlysmSCnFAXdlTugCjzjz8tZfU="
+            },
+            "text": "连我这个小白都看看懂了，很棒",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841845515412182,
+            "create_time": "2019-09-29T15:12:23.731+0800",
+            "owner": {
+                "user_id": 28244124122281,
+                "name": "张小柒",
+                "avatar_url": "https://images.zsxq.com/FsciffdWcpzH3_Z3qPrnyuzu0s3d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UuopmSCMVfonJbZYqcFLUpWcTJY="
+            },
+            "text": "虽然不懂技术，但还是加了枸杞的星球，就为了行动思维[强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118512581284152,
+            "create_time": "2019-09-29T18:25:50.133+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            },
+            "text": "前排！瓜子花生保温杯～😂",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241845254455221,
+            "create_time": "2019-09-30T13:02:45.328+0800",
+            "owner": {
+                "user_id": 822245814882,
+                "name": "啦啦猫",
+                "avatar_url": "https://images.zsxq.com/FidpT7xhVWGGJc4j9HjDoU34s216?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VvEwZ_-zn9YpqsySLR1_hlk9hro="
+            },
+            "text": "一年前就有应用[得意]",
+            "likes_count": 1,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 89,
+    "rewards_count": 6,
+    "comments_count": 9,
+    "reading_count": 11141,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-09-29T09:45:34.948+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "topic_id": 118251184225222,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "看完图中这段话，再看大航海计划。\n\n这次航海给了大家一把放大镜，近距离看航海过程中出现的各种问题，也看到不少运营做的不好的地方，有些人包括参与者可能会觉得“也就这样，磕磕绊绊，有这么多点没做好”。 \n\n确实，也就这样，大多数做成的事情，也就是那样，没想象的那么难。\n\n但另外也有一点，大多数做成的事情，没想象的那么完美，没PR稿说的那么满分。因为离的远，只看到一个结果，哇，好优秀。但是离得近，你会发现其实都是问题。\n\n我去阿里的第一年，用我的眼睛，看到了很多“阿里要完蛋”的点，现在回头看，当时还是太年轻了。只是因为太近距离，发现了很多细节问题，用望远镜看，这些都不是事。\n\n成熟做事的人，知道理解并接受这种“75分”状态，先做到75分，拿到75分，不错了，庆祝一下，再往85分走。",
+        "images": [
+            {
+                "image_id": 244118124515551,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FlRIwax4oUwxoRw8zi8pZkTz4BfH?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k5lRowywUvsXRdSaBEA5WAotK8U=",
+                    "width": 540,
+                    "height": 2664
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FlRIwax4oUwxoRw8zi8pZkTz4BfH?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfTAmvRF996l5iIs1A9JQyWDq-0=",
+                    "width": 800,
+                    "height": 3947
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FlRIwax4oUwxoRw8zi8pZkTz4BfH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vu3lz5_ouvhEgwQLkfrg9zIQRgM=",
+                    "width": 1080,
+                    "height": 5328,
+                    "size": 871482
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-29T18:25:34.601+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-12-05T22:15:48.462+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-11-20T15:37:23.580+0800",
+            "owner": {
+                "user_id": 455811148248,
+                "name": "百川",
+                "avatar_url": "https://images.zsxq.com/Fg2OdZf2Iu9qrCueJQEdkUODDyHz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KFpf8rfOzcb81aTTlmEgaB0kdew=",
+                "number": 4574
+            }
+        },
+        {
+            "create_time": "2019-11-11T20:57:51.948+0800",
+            "owner": {
+                "user_id": 28452212812821,
+                "name": "一条肠粉",
+                "alias": "长期奋斗的肠粉",
+                "avatar_url": "https://images.zsxq.com/FqZIQC9H7gvTTSBhzFMa_sSMFnMU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jf1GCHz8MfzO9JjtQX_4OzOBL2Y=",
+                "number": 4078
+            }
+        },
+        {
+            "create_time": "2019-11-05T21:28:49.585+0800",
+            "owner": {
+                "user_id": 88845545888242,
+                "name": "拯直",
+                "avatar_url": "https://images.zsxq.com/FqHgNUKpXn4rmYtTk2MCw1WRppgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:id9Mv6d2ESA24IC4p1OJ15bTVPA=",
+                "number": 2588
+            }
+        },
+        {
+            "create_time": "2019-11-05T01:33:50.337+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ=",
+                "number": 810
+            }
+        },
+        {
+            "create_time": "2019-11-03T19:54:08.886+0800",
+            "owner": {
+                "user_id": 28281414118581,
+                "name": "张大器",
+                "avatar_url": "https://images.zsxq.com/Fo6OLvInrbrTPg1VvvAExngjN7-_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OXu0qb50L_YHhS-Vvmkf4C5-PV8=",
+                "number": 1479
+            }
+        },
+        {
+            "create_time": "2019-11-01T19:36:01.564+0800",
+            "owner": {
+                "user_id": 51558548442414,
+                "name": "返源",
+                "avatar_url": "https://images.zsxq.com/FpoUY3vO4zYS-wPPkxROAFQVCHfp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T9SNs3_JgEVv-wqr_5JV6K3lFrY=",
+                "number": 6387
+            }
+        },
+        {
+            "create_time": "2019-10-31T10:41:50.798+0800",
+            "owner": {
+                "user_id": 555541452844,
+                "name": "瓜叔",
+                "alias": "瓜叔",
+                "avatar_url": "https://images.zsxq.com/FrzuX0d7nIgjA9JBwx9Bpiycg3F5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fN1nGfPFW3hs4Xl6qz3Ok6E-fM0=",
+                "number": 2529
+            }
+        },
+        {
+            "create_time": "2019-10-31T01:29:35.253+0800",
+            "owner": {
+                "user_id": 228821481421,
+                "name": "随念",
+                "avatar_url": "https://images.zsxq.com/FqsG_dRuXNKd4PpPLMDxUxVTnjK_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:snAn8ecILUB1gkpVVvLMFwbyHiI=",
+                "number": 1596
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-10-29T13:57:41.300+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 94
+        },
+        {
+            "create_time": "2019-10-27T12:24:34.131+0800",
+            "owner": {
+                "user_id": 15554852824512,
+                "name": "Richard.颜过",
+                "avatar_url": "https://images.zsxq.com/FvCMBDYrVBFHPYFzpRDDXsg223KX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:173yjKqD6VOQ_LSTfzd_Z6lEXtI="
+            },
+            "amount": 835
+        },
+        {
+            "create_time": "2019-10-27T12:06:05.806+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 783
+        },
+        {
+            "create_time": "2019-10-27T11:40:14.222+0800",
+            "owner": {
+                "user_id": 225258154151,
+                "name": "老谢啊",
+                "avatar_url": "https://images.zsxq.com/FkjedViLTZSI4NM6LSg2VQU9NQXo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sjwFdKoIBjqLdElbXOa9-CiSfDc="
+            },
+            "amount": 397
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 421822881284858,
+            "create_time": "2019-10-27T11:12:54.091+0800",
+            "owner": {
+                "user_id": 15484485511442,
+                "name": "沐文",
+                "alias": "沐文",
+                "avatar_url": "https://images.zsxq.com/FtXjMTW_v0RoXGB7sDvSQvWG--F-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9QK4qYZpDXzer8za-2ImZ-cNwU="
+            },
+            "text": "受教了[强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841844881188112,
+            "create_time": "2019-10-27T11:54:24.577+0800",
+            "owner": {
+                "user_id": 281544588541,
+                "name": "IVAN",
+                "avatar_url": "https://images.zsxq.com/Fq3UebI0IIIWcmbcqCx6AI0ZWSFr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bUgXd37uQLwBm_PMpRhHYukOerQ="
+            },
+            "text": "分享一篇相关的文章\n<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FG9fld9EPMlSoyYvbTYaClw\" title=\"%E9%AB%98%E5%BA%A6%E6%95%8F%E6%84%9F%EF%BC%8C%E4%BD%8E%E5%BA%A6%E8%87%AA%E5%B0%8A\" cache=\"\" />",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241844825511281,
+            "create_time": "2019-10-27T13:41:26.019+0800",
+            "owner": {
+                "user_id": 828225548812,
+                "name": "黄北钦",
+                "avatar_url": "https://images.zsxq.com/FuJ2Uz9oAUobXzG_bm_9T6ZsBSOD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NfTADqWlg8LCD2gLH6j_s1dvfE="
+            },
+            "text": "完成比完美更重要",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548144154488444,
+            "create_time": "2019-10-27T21:14:51.501+0800",
+            "owner": {
+                "user_id": 28514421541181,
+                "name": "朝天阙",
+                "avatar_url": "https://images.zsxq.com/FgPD2jWxyYpHM6YlHhhSpEllkbJe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:buLKT-RNtKSLufuS_G8DWnEY-Ss="
+            },
+            "text": "先野蛮生长，然后再理想丰满。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421822851825828,
+            "create_time": "2019-10-27T22:34:51.576+0800",
+            "owner": {
+                "user_id": 5445811244,
+                "name": "男宾",
+                "avatar_url": "https://images.zsxq.com/FoXGP4wteh7BcliIV36BGmGch20D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P6McFqzi9I2O7s4Egam3knnLM9k="
+            },
+            "text": "完成比完美更重要",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841844814248122,
+            "create_time": "2019-10-28T21:25:12.844+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow="
+            },
+            "text": "说的就是我",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 93,
+    "rewards_count": 4,
+    "comments_count": 6,
+    "reading_count": 22344,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-10-27T11:11:14.881+0800",
+    "modify_time": "2019-10-27T11:12:18.443+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

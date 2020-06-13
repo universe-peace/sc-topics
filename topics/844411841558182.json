@@ -1,0 +1,338 @@
+{
+    "topic_id": 844411841558182,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 828121828242,
+            "name": "Bin",
+            "avatar_url": "https://images.zsxq.com/FkAVOvDigY1rSdjSdPnmRigf7aBo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tFbVpsazk1l86hFR4phtl3SUKdM="
+        },
+        "text": "<e type=\"hashtag\" hid=\"5418825424\" title=\"%23%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%23\" /> <e type=\"hashtag\" hid=\"481252148248\" title=\"%23%E7%AC%AC%E4%B8%80%E6%A1%B6%E9%87%91%23\" /> \n【昵称】Bin\n【城市】在南京读大学，老家福建\n【微信ID】s562218\n【个人经历】\n目前大四，即将读研，一名孤独的技术（宅）爱好者，通过技术赚取到了人生第一桶金，第一个 100 万。\n\n我是小学时在网吧无意中接触到编程（代码全是中文的易语言），一下子就对它一见钟情，从此省吃俭用，走上了在网吧听别人打游戏看自己敲代码的不归路，在初三时又自学了 Java，到高一终于有了自己的电脑。\n\n第一桶金是高一即将暑假时帮人做了个自动加 QQ 好友软件，赚了 1500，突然就从月零花钱 100 的屌丝逆袭成“有钱人”，紧接着就如同被佛祖开了光一样又被动接了几个单，暑假两个月赚了 1 万。\n\n后面认识了个软件代理，把我前面做的几个软件（开发时没有任何协议）授权给他卖最后再分成，之后每个月基本收入 1 万以上，到高中毕业赚了差不多 20 万，随后软件失效也开发不出新的，收入就断了。\n\n有点惭愧，软件定做者和代理都是自己找上门的，软件是按别人要求做的，也是别人帮忙卖的，没什么经验可分享，细节也不说了，算是自己突然来了运气。\n\n时间再回到高一，那会智能机刚开始普及，有点 Java 基础的我就去自学了安卓开发，写出了款 APP——MT管理器（某马桶让我挺郁闷的），功能简单地说就是 root 权限文件管理，以及在手机上修改别人的 APP，是一把属于玩机爱好者的瑞士军刀。MT 迭代更新到高三前，高考冲刺就断更一年，到高考完一共自然增长了 20 万用户，有了一定口碑。\n\n后来我看到课外开发的 APP 居然能有这么多用户，加上对自己两年多前写的代码嗤之以鼻，于是重新开发了第二代版本。用了几乎整整一个大一的时间，在功能上超越了第一代，并增加了一部分收费功能，在收入断了一年，积蓄即将见底后（高中收入已经超过父母，经济上完全自理，所以当时压力挺大的），终于开始有了新的收入，并不断增长。\n\n后面几年我的技术路线都是围绕 MT 的功能开发，有些东西随着日积月累总是能慢慢领悟出来，MT 也越做越强大，用户也一直不断增加。\n\n17 年底注册了公司（其实是为了申请支付宝和微信支付接口），同时累计用户数达到 160 万，去北京参加 Google Android 全国大学生移动互联网挑战赛拿了全国冠军。\n\n18 年参加“创青春”全国大学生创业大赛，为学校拿回第一个全国金奖，作为创始人，接着获得了校年度人物、校长嘉奖令、保研资格。\n\n六年多了，MT 直到现在我仍然在更新，代码量 60 多万行，不算开源的有将近一半自己写的，MT 在手机端的逆向工具 APP 可以说是 No.1，根本无惧竞争对手，部分功能连 PC 端工具都比不上。\n\n目前累计用户 400 多万，用户主要是热爱技术的学生群体，我没有做任何推广，只依靠自然传播，更新只发 QQ 群，后面多了 MT 论坛、酷安和 Google Play。\n\n曾经遥不可及的 100 万目标在本科毕业前达成了，特别是去年收入超过之前总和。当然跟星球里的很多大佬还是完全不能比，但对于曾经一个月零花钱只有 100 元的我来说，感觉像是上了好几个阶级。\n\n最后自己总结下 MT 成功的几个点：\n1. 进入时间早，无竞争对手，同时通过免费、功能强大、操作方便等优势完成用户的原始积累，形成良好的品牌和口碑。\n2. 有了一定用户后，果断放弃旧版本（落后的UI和杂乱的代码架构）从零开发第二代，同时为收费埋下伏笔。\n3. 第一代的功能代码更多是来自开源项目，目的是让功能丰富起来，第二代则更多是通过自己研发来升级或增加新功能，形成技术壁垒。虽然耗时耗精力，但长远看更有意义。\n4. 通过强大的功能吸引一部分核心用户，再由他们自发地在各类玩机和技术论坛上发布教程，零成本源源不断获取大量用户。（MT 这种有技术门槛的 APP 很难像普通应用那样去推广）\n5. 强大的防破解保护，工具类APP最怕的就是破解了，这点上我没有选择市场上各类加固壳（不然早被脱得裤子都没了），而是自己研发了一套技术，关于这个也有一些故事这边就不说了。\n6. 以上都是事后诸葛亮。唯有坚持，运气，还有热爱。",
+        "images": [
+            {
+                "image_id": 844421541882112,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fk081JhUCQL5wrNTWECR7pp84XF2?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:i3AMMmVN3HMea1jJaBjYd5k4lMY=",
+                    "width": 540,
+                    "height": 404
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fk081JhUCQL5wrNTWECR7pp84XF2?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AlHzwa2_C8M9X8adJNP75pryNP8=",
+                    "width": 800,
+                    "height": 599
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fk081JhUCQL5wrNTWECR7pp84XF2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pj2BqkECCBPt1lxrBdy6QJ2Vxd0=",
+                    "width": 1080,
+                    "height": 808,
+                    "size": 320149
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-02T11:16:42.462+0800",
+            "owner": {
+                "user_id": 28211822512551,
+                "name": "辣条",
+                "avatar_url": "https://images.zsxq.com/Fn-fZETOj4da42qnT1qGrGvbb__n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k3jzf7muJuNSchWMi3AUElmCm84=",
+                "number": 6431
+            }
+        },
+        {
+            "create_time": "2020-03-29T23:27:00.602+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2020-03-26T19:57:37.622+0800",
+            "owner": {
+                "user_id": 88882818818452,
+                "name": "IT大飞说",
+                "avatar_url": "https://images.zsxq.com/FuMfWo8nPwQp06MlWmfNNoljCEBV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tybYXPd-zf0xHVFcky1pCMiQgfE=",
+                "number": 4716
+            }
+        },
+        {
+            "create_time": "2020-03-04T17:29:40.372+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2020-02-15T21:06:21.121+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-12-19T19:01:17.934+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2019-12-06T00:29:59.800+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-10-11T14:22:31.445+0800",
+            "owner": {
+                "user_id": 455124815188,
+                "name": "Ri工工工",
+                "avatar_url": "https://images.zsxq.com/FuxFi-ksn_XxIor3Uk45mBEehcCm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E-RETkxRoRbBGp2Pq9XNkzh81M8=",
+                "number": 4192
+            }
+        },
+        {
+            "create_time": "2019-09-30T01:19:28.582+0800",
+            "owner": {
+                "user_id": 144845522882,
+                "name": "Amy大米",
+                "avatar_url": "https://images.zsxq.com/FuNzxVhkpp6OSFEkpeOpXHg-MoOx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FO_IXySOzDtEMnb6p20Q7nlr4UI=",
+                "number": 6173
+            }
+        },
+        {
+            "create_time": "2019-09-16T20:02:48.049+0800",
+            "owner": {
+                "user_id": 51512882521154,
+                "name": "入海",
+                "avatar_url": "https://images.zsxq.com/FkPiPCWecZD8EjWr9XiBSnk0I0pL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oHqwshqQDoarJ52zD1WYQxX6lVM=",
+                "number": 6176
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-04-23T08:52:50.511+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        },
+        {
+            "create_time": "2019-05-30T23:56:09.472+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2019-04-23T23:38:12.231+0800",
+            "owner": {
+                "user_id": 225814854821,
+                "name": "杨涛",
+                "avatar_url": "https://images.zsxq.com/FifpSTY8YbAbI3iRSjrizCwJoa8v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jsPiQAh9mq-4fg3PUDCxznPmFgE="
+            },
+            "amount": 888
+        },
+        {
+            "create_time": "2019-04-23T17:14:21.071+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 3200
+        },
+        {
+            "create_time": "2019-04-30T17:19:35.689+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 888
+        },
+        {
+            "create_time": "2019-04-29T14:35:11.604+0800",
+            "owner": {
+                "user_id": 555555518824,
+                "name": "子布",
+                "avatar_url": "https://images.zsxq.com/FkvbpBYvTsNiEG2gVbC4eGAKKfIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxwyj7QQ1SgzG_buXEa0LQTujgM="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-04-26T13:42:39.762+0800",
+            "owner": {
+                "user_id": 484858288,
+                "name": "杭州小蚂蚁",
+                "avatar_url": "https://images.zsxq.com/FpmIhW3Luuk0TbdpqbrsLM0U89iB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:99Pjzgk71gdXh4gGMd-k05FlgNQ="
+            },
+            "amount": 288
+        },
+        {
+            "create_time": "2019-04-23T22:41:49.041+0800",
+            "owner": {
+                "user_id": 141454221882,
+                "name": "溪桥",
+                "avatar_url": "https://images.zsxq.com/FoIcB0FQR5GB5lwW5p17Uwhcu4AT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4-MCvPtr0msWcM1kd5e5iI98FmM="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-04-23T16:39:55.005+0800",
+            "owner": {
+                "user_id": 1148282412,
+                "name": "李晨",
+                "avatar_url": "https://images.zsxq.com/FjYVZa1Y7jJkQkWByM97ynsgBxPu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bzDEZdYqzB1ZVoIutFqNnwQxagQ="
+            },
+            "amount": 999
+        },
+        {
+            "create_time": "2019-04-23T16:13:41.555+0800",
+            "owner": {
+                "user_id": 225821128551,
+                "name": "帝都牛人",
+                "avatar_url": "https://images.zsxq.com/FkHQgahdzGz9c1D3b5k64DSsApgS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rY8Hq3WWc6Nnni83EYA5PoltThM="
+            },
+            "amount": 150
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 118228148825452,
+            "create_time": "2019-04-23T07:49:37.607+0800",
+            "owner": {
+                "user_id": 141421411482,
+                "name": "瓜神",
+                "alias": "瓜神",
+                "avatar_url": "https://images.zsxq.com/Fs5yhH2v_4o21PcHLek_mQvwSB7d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zpahbv_FnCTP4AADXmha5MdkDrw="
+            },
+            "text": "厉害，加油～",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841551421158222,
+            "create_time": "2019-04-23T07:50:07.596+0800",
+            "owner": {
+                "user_id": 4515154588,
+                "name": "sitin",
+                "avatar_url": "https://images.zsxq.com/Fjbt7S8zivSCm64YDTZ469ztT9Sg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_mOaet5MiZAUa-wGbS8c2St1x8Q="
+            },
+            "text": "厉害👍",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118228148824212,
+            "create_time": "2019-04-23T07:53:38.867+0800",
+            "owner": {
+                "user_id": 825818421252,
+                "name": "Paul 彭",
+                "avatar_url": "https://images.zsxq.com/FnPkN15Onn7Gaknp69YYKbBLVZ_J?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zcePnO68W2W6k7HUdgGimcQqiDE="
+            },
+            "text": "厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241551421185841,
+            "create_time": "2019-04-23T08:01:34.639+0800",
+            "owner": {
+                "user_id": 145512245512,
+                "name": "shine_fore*",
+                "avatar_url": "https://images.zsxq.com/FkIEbffpqoMcBvAjRhwa7tyeMYOQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LSxsRcHwk5wQG7EV6N5-ToDqEqQ="
+            },
+            "text": "厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241551445585451,
+            "create_time": "2019-04-23T08:36:35.777+0800",
+            "owner": {
+                "user_id": 15284181845822,
+                "name": "叶晓宇",
+                "avatar_url": "https://images.zsxq.com/FolbIoy73uQddaSZ3VJdekqQNO4O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k6L7dZua_gp4G6FrfzB0AzWLsaQ="
+            },
+            "text": "好棒👍",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421441224481528,
+            "create_time": "2019-04-23T08:43:13.776+0800",
+            "owner": {
+                "user_id": 828241444422,
+                "name": "焦广民",
+                "alias": "焦广民",
+                "avatar_url": "https://images.zsxq.com/Fmsh-QRGzmnX06cGAi04eoWAuVJY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:csCYIn8rcSm4OynDuKiazhw7g54="
+            },
+            "text": "了不起，初中就开始赚钱了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421441224458288,
+            "create_time": "2019-04-23T08:46:28.536+0800",
+            "owner": {
+                "user_id": 51122428412424,
+                "name": "FangXY",
+                "avatar_url": "https://images.zsxq.com/FlSV6ASmU4VyxPUAX3Psz__-JpNr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gQKYTFH7NoJTvRx3vjq90ZtR1_E="
+            },
+            "text": "厉害厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841551445545442,
+            "create_time": "2019-04-23T08:52:35.104+0800",
+            "owner": {
+                "user_id": 51185848825424,
+                "name": "欲睡",
+                "avatar_url": "https://images.zsxq.com/Fj7d2nfMf4ELvw-ZrAYKndI5GmQJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D0FyixoTPT094PSbf_K151YeUg4="
+            },
+            "text": "厉害厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 274,
+    "rewards_count": 20,
+    "comments_count": 77,
+    "reading_count": 35893,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-04-23T07:46:50.796+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "topic_id": 28288458284841,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481884815128,
+            "name": "Lin",
+            "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+        },
+        "text": "<e type=\"hashtag\" hid=\"518145845214\" title=\"%23%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3%E5%88%86%E4%BA%AB%23\" /> \n\n视频类目前抖音绝对是大热，但在视频这个大类下还有很多灰色地带，比如韩剧tv、月亮播放器；\n\n他们的核心一个是vip一个是禁韩令，之前在AppStore上搜索韩剧，把相关的app都下载，一个个抓他们的接口，分析出他们的三个解析方案：\n1.直接获取优酷爱奇艺(包括vip)等，直接解析播放；\n2.存在百度网盘，解析播放；\n3.存在某个云端直接播放，这个可能是爬到别人的资源直接拿来用。\n韩剧相关的app其实他们都没有存储视频到自己的云端(也跟成本有关)，要么破解要么网盘(中国最大的盗版聚集地)，并且申明网络收集可邮件要求删除；\n说个数据：上海以韩剧tv做出名的公司，一个广告位一天5k打底；\n\n那么他们数据哪里爬的，其实都来自韩剧网或者综艺网，以我还在追的running man来说，app端播放的视频和<e type=\"web\" href=\"http%3A%2F%2Fwww.runningman-fan.com%2F\" title=\"http%3A%2F%2Fwww.runningman-fan.com%2F\" />该网站是一个源，极有可能是拿了他们数据；\n\n这里引出了韩剧或者running man fan网，这类型网站可能大家还停留在网站广告收益上，但他们也在与时俱进，现在就算vip视频都有植入广告，所以这些网站除了去翻译，还在视频中嵌入广告，如下：\n1.视频内广告，视频开始以及中间部分插入视频广告；\n2.视频内开始阶段放入二维码广告，好像是购买的。\n第二种的效果估计不好，没多久就停了，视频广告效果应该是很不错的，以前段时间插入的91抓娃娃广告为例，放了差不多2个月，由于用户较为精准，转化率相信很不错，同时又被app爬走，扩散能力更强；\n\n再说月亮播放器，这个是最近一个朋友推荐的，说是换了好几次名字了，估计被封了好几次，说下他的2个点：\n1.打开app首页没啥特别，都是很老的剧，在看第二个tab，世界打开了最新的电影电视剧综艺都在这里；\n2.以优酷最近上的飞虎3为例，vip每周五可以看5集，而月亮选择百度网盘源可以看6集！！！\n月亮日下载量目前不高，估计是换了名字的原因，但他背后的资源太可怕了，估计也是量起来后会再换名字，比较他的第二点太违规了。\n\n综合以上说两个灰色思路：\n1.既然百度云盘能解决这么多问题，那么在百度网盘建群，从其他地方引流(目前没流量思路)过来，提供追剧提醒，这种流量相对精准，洗一波变现不难或者做其他思考；\n2.说个网站破解vip的，github上面有源码，直接放到服务器买个域名就能上线，而源码里面的破解链接都来自网上收集，有些人就这样简单的部署上线在做推广引流，赚广告费；\n我个人比较良心，隐藏在自己的网站里面，没有任何入口也没任何广告只供自己和朋友用，当然其实我有需求时候都是直接买vip的。\n\n视频类另一种，nba、欧冠等直播，目前有类似A8体育等app在做，他们破解方案有两种：\n1.通过链接破解直播源；\n2.买会员，在直播放出去；\n目前大部分是破解直播源，比如有时候腾讯那边会封掉，这时候他们会买会员在直播出来；\n当然目前a8也在做其他的尝试，比如直播会员，不过效果不明显。\n\n这里提供一个思路，是一个朋友想的(他加入得到盗版网盘群)：\n自己买会员，建付费群，通过群进行比赛直播，这也跟韩剧一样，用户相对精准。\n\n从第一期进圈后，看了各种各样的例子，之后也养成看到一个东西就去思考可能的做法在不断的否定或者快速尝试，进步还算不错，有正常也有灰色思路，可能我的内心是阴暗的，哈哈。\n\n不管国内还是国外的，大流量网站或者app只要有vip这一说，都会有其下的相对需求或者灰色地带，多看多挖掘可以得到很多。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-09T13:59:55.765+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-06T23:34:28.696+0800",
+            "owner": {
+                "user_id": 88884252451182,
+                "name": "谢导",
+                "avatar_url": "https://images.zsxq.com/FqAuuwVYlbqKQijQi01sMmgRrM7D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J5pifcnOwSjxTlSfHG11crNqMnM=",
+                "number": 5376
+            }
+        },
+        {
+            "create_time": "2019-06-22T09:33:39.367+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T08:51:48.673+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-02T12:02:20.990+0800",
+            "owner": {
+                "user_id": 481811282258,
+                "name": "shijinzhan",
+                "avatar_url": "https://images.zsxq.com/FliijMsDh3nCImaUJ815PfrN5bzz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWAe7GRFNmdaAFdntK-FR7s_z5s=",
+                "number": 5431
+            }
+        },
+        {
+            "create_time": "2019-04-27T13:59:46.648+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-21T14:16:24.197+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-07-06T09:52:55.574+0800",
+            "owner": {
+                "user_id": 228152248811,
+                "name": "周宁奕",
+                "avatar_url": "https://images.zsxq.com/FqNU8NGINDA1psBmbQqRe6KTVsZU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eBrqF2NRyMHuYBP1brBgUdj8OtU=",
+                "number": 2167
+            }
+        },
+        {
+            "create_time": "2018-05-10T00:35:10.189+0800",
+            "owner": {
+                "user_id": 152845512,
+                "name": "苏",
+                "avatar_url": "https://images.zsxq.com/Fj8ntRD_r4p8TOv-kAaVFkDgY0EZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL86jQGAFyFF-A70trmQdjbCkNI=",
+                "number": 1520
+            }
+        },
+        {
+            "create_time": "2018-05-07T01:51:24.453+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 48522512515518,
+            "create_time": "2018-04-21T11:38:18.470+0800",
+            "owner": {
+                "user_id": 88812555185512,
+                "name": "跃钟",
+                "avatar_url": "https://images.zsxq.com/Fkf8FpA7QyXi8bqt36fO5Iyriq7S?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4Jp5dLG4G2LWWRidqaukXiBy1Wk="
+            },
+            "text": "不错，可以沟通下",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15411852415522,
+            "create_time": "2018-04-21T23:09:45.730+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "世界很大，我们得开放，已加精。",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 32,
+    "rewards_count": 0,
+    "comments_count": 2,
+    "reading_count": 2933,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-21T11:33:22.624+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

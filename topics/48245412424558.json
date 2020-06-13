@@ -1,0 +1,254 @@
+{
+    "topic_id": 48245412424558,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"881121885252\" title=\"%23%E7%BB%99%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%8F%90%E9%9C%80%E6%B1%82%23\" />   \n\n最近在产品上不容易感受到知识星球产品的更新，作为深度用户，既是星主又是近百个星球的成员，我梳理了我的一些需求，发出来给大家讨论，同时供<e type=\"mention\" uid=\"827828127\" title=\"@wulujia\" />    <e type=\"mention\" uid=\"147455187\" title=\"@刘容Caroline\" />    参考，出发点是希望知识星球越做越好。 \n\n1. 星球成员的自我介绍以及资源沉淀模块\n\n我一直认为，自我介绍是进入社群非常重要的一个仪式，可以让新加入的成员比较快地融入到社群中。 目前很多社群通过各种各样的方式满足这种需求，但也遇到了各种问题，比如查询、更新、隐私保护等。 \n\n如果知识星球能产品上支持自我介绍，想必会很受生财有术成员欢迎。\n\n2. 给星球成员发红包、发福利、抽奖的功能\n\n之前在生财有术发过多次红包，作为感谢社群成员的一种形式，后来回头看，每次都有不小比例的红包被非社群成员抢走，挺伤星主积极性。\n\n如果能在社群内部实现发红包、抽奖等功能，对提升社群内部的信任值以及凝聚力会很有帮助吧。\n\n<e type=\"mention\" uid=\"1484141222\" title=\"@Caoz\" />    曹大应该很有这方面的需求。\n\n3. 星球成员的积分体系\n\n非常期待这个功能，一个持续活跃且价值较大的社群，不太可能只靠星主一个人，或者依靠星主组织的团队，还需要社群里面很多人的支持，如何将这些支持量化，进而衡量贡献，希望知识星球考虑这个需求。 \n\n目前看到的实现方案是星主手动去统计点赞数、回答数、评论数，也有利用爬虫。 \n\n4. 嘉宾的打通与运营支持\n\n我几乎没有看到很好的搭建并运营起嘉宾体系的社群，一般来说，嘉宾都是很愿意支持星主，但如果只是通过目前“提问”的方式，社群成员与嘉宾的关联度会比较低，可以尝试考虑支持嘉宾“小专栏”，从产品上引导嘉宾输出与分享，降低星主运营的压力。 \n\n5. 精华/历史内容阅读的体验\n\n这个被其他成员吐槽无数次了，希望能够被关注到并改进，主要考虑的是新加入社群成员对历史内容的阅读需求，建议考虑增加标记、快速收藏、生成PDF阅读、分享清单等功能。\n\n6. “特别关注”功能\n\n某些人我们希望能够特别关注，包括他在不同圈子的发言、评论、收藏，包括他在我未加入的一些圈子的动态，通过我们关注的人来帮助发现更大的世界，会很有吸引力。\n\n7. 不活跃用户的召回\n\n知识星球在产品和用户召回上一直比较克制，但对于星主来说，这个真的是刚需，很多时候，用户不回来真的是因为忘掉了，如果有一些手段，比如CRM支持开放给星主，并将可能的用户过度干扰的风险也转移给星主，星主会运营的更加有力。 \n\n8. 动态的快速点赞与评论，类似于动态圈\n\n朋友圈是一个圈子，付费的行业圈、兴趣圈也是一个圈子，目前知识星球的动态阅读都需要点进来，之后才能进行互动：点赞、评论， 如果能够支持在汇总的动态列表就能进行点赞、评论、转发分享等，社群的活跃度我认为会有大的提升。 \n\n9. 对同一份内容发多个圈子限制\n\n经常看到同一份内容在几分钟之内被发到若干个圈子，这种体验对于订阅多个圈子的人来说，体验很不好，形成干扰。\n\n10. 社群内部KOL/联合运营/合伙人的功能支持\n\n就一个目的：让星主运营社群更轻松，同时让联合运营人的利益从产品上可视化与得到保障。\n\n11. 收藏功能的优化\n\n加入付费社群很多时候是为了获得有价值的信息，很多信息希望收藏下来下次查阅，但目前的收藏功能实在是鸡肋，我目前只能曲线救国通过将内容分享到微信收藏。\n\n12. 日报/一周速览/一周精华功能的支持\n\n个人需求，可能非大多数星主的需求。\n\n13. 搜索功能的优化 \n\n能理解是不得已而阉割，但需求是真的非常大，希望即使不能支持搜索，也能想办法去满足检索的需求。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-06-23T15:05:31.968+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-09T22:51:31.087+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-24T20:44:49.718+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-11-09T15:15:14.897+0800",
+            "owner": {
+                "user_id": 458155884548,
+                "name": "friree",
+                "avatar_url": "https://images.zsxq.com/Flai0ROLOJdRYxXhUgBNDYxeHpgV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hin3h3W-BuM-1eAXn9oLzbUnmmM=",
+                "number": 539
+            }
+        },
+        {
+            "create_time": "2018-09-28T23:00:36.757+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro",
+                "number": 1
+            }
+        },
+        {
+            "create_time": "2018-09-26T23:34:40.967+0800",
+            "owner": {
+                "user_id": 881112158452,
+                "name": "Max Guo",
+                "alias": "Max Guo",
+                "avatar_url": "https://images.zsxq.com/Fi87pELO2IqBCV4V-rimrifwGqWJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6M2dl1CR1yOjZOnucKN7V8fZ21I=",
+                "number": 445
+            }
+        },
+        {
+            "create_time": "2018-09-19T20:43:29.319+0800",
+            "owner": {
+                "user_id": 51121241484454,
+                "name": "风云",
+                "avatar_url": "https://images.zsxq.com/FoKLx0L5LZMzI6KtJV7mn3g1BIyA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-VlhYIC60AQG6ed4YglsSpqdhuw=",
+                "number": 1869
+            }
+        },
+        {
+            "create_time": "2018-09-19T12:21:31.820+0800",
+            "owner": {
+                "user_id": 15514142411582,
+                "name": "大米",
+                "avatar_url": "https://images.zsxq.com/Fk0OBXBANZtY9CsEbZtDWrMr_F1g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IJme3LUBY6djZbu4fWk4oDZOS_k=",
+                "number": 2068
+            }
+        },
+        {
+            "create_time": "2018-09-19T10:12:03.762+0800",
+            "owner": {
+                "user_id": 511255414,
+                "name": "小白- 厦门",
+                "avatar_url": "https://images.zsxq.com/FqYlTcBvyQwXIsuVTEWovddLCiEY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:e_1sa_NCZUrQf0NoCTy2NU67rMU=",
+                "number": 506
+            }
+        },
+        {
+            "create_time": "2018-09-19T01:15:36.319+0800",
+            "owner": {
+                "user_id": 152824512,
+                "name": "auroroa",
+                "avatar_url": "https://images.zsxq.com/FgQt2ehKBUA39nDQKufX4AdqnBW7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1u6b2HTmionQ29w0211H1xE_0Y0=",
+                "number": 2055
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2018-09-18T12:00:15.849+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 20000
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111148281852182,
+            "create_time": "2018-09-16T22:45:29.868+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "大家有哪些需求评论区也可以提一下，<e type=\"mention\" uid=\"827828127\" title=\"@wulujia\" />  吴老师正在赶来的路上。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 111148281854512,
+            "create_time": "2018-09-16T22:48:23.706+0800",
+            "owner": {
+                "user_id": 147455187,
+                "name": "刘容",
+                "alias": "知识星球刘容",
+                "avatar_url": "https://images.zsxq.com/Fp5K29dJzCs1pwucPzWLTp30FdJX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6WkjyEWCCsKSPin8I5vZqB2_AfA="
+            },
+            "text": "欢迎大家评论区，分享你对知识星球的建议，其他朋友看到后，觉得很好的评论，欢迎给该评论点赞。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111148281854822,
+            "create_time": "2018-09-16T22:49:37.977+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "作为十几年的BBS老斑竹，大多数也是我的痛点",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 422251412185148,
+            "create_time": "2018-09-16T22:49:39.814+0800",
+            "owner": {
+                "user_id": 147455187,
+                "name": "刘容",
+                "alias": "知识星球刘容",
+                "avatar_url": "https://images.zsxq.com/Fp5K29dJzCs1pwucPzWLTp30FdJX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6WkjyEWCCsKSPin8I5vZqB2_AfA="
+            },
+            "text": "谢谢亦仁老师的梳理，我先多看几遍，你说的自我介绍，我看到很多星球用标签在做，或者置顶主题，的确是值得思考的。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 422251412181558,
+            "create_time": "2018-09-16T22:52:08.224+0800",
+            "owner": {
+                "user_id": 147455187,
+                "name": "刘容",
+                "alias": "知识星球刘容",
+                "avatar_url": "https://images.zsxq.com/Fp5K29dJzCs1pwucPzWLTp30FdJX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6WkjyEWCCsKSPin8I5vZqB2_AfA="
+            },
+            "text": "给星球成员「发红包」，主题「赞赏主题功能」可以支持这个需求吗？还是说直接能给星友发红包？比如，通过成员列表，找到某人发红包？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 844421514181452,
+            "create_time": "2018-09-16T22:52:34.333+0800",
+            "owner": {
+                "user_id": 147455187,
+                "name": "刘容",
+                "alias": "知识星球刘容",
+                "avatar_url": "https://images.zsxq.com/Fp5K29dJzCs1pwucPzWLTp30FdJX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6WkjyEWCCsKSPin8I5vZqB2_AfA="
+            },
+            "text": "积分体系，也看看曹老师怎么先说[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111148281842552,
+            "parent_comment_id": 422251412181558,
+            "create_time": "2018-09-16T22:54:15.000+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "群发红包或者抽奖，类似于咪蒙这两天通过抽奖助手给粉丝发抽奖福利，私发红包通过微信能满足。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 147455187,
+                "name": "刘容",
+                "alias": "知识星球刘容",
+                "avatar_url": "https://images.zsxq.com/Fp5K29dJzCs1pwucPzWLTp30FdJX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6WkjyEWCCsKSPin8I5vZqB2_AfA="
+            }
+        },
+        {
+            "comment_id": 422251412154558,
+            "create_time": "2018-09-16T22:55:00.917+0800",
+            "owner": {
+                "user_id": 2212441511,
+                "name": "张五哥",
+                "alias": "张五哥",
+                "avatar_url": "https://images.zsxq.com/FgG0X9EnxRQVlX6M5uH1Ftrc3KNv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W5htuLUMsu-oyJkDnSBmlG6Sdd0="
+            },
+            "text": "有没有可能加上，普通用户拉黑功能，亦仁的星球可能门票高，还没发现过，但是在曹大的星球看到过对骂的，虽然曹大删了，但还是有一段时间被大家看到了。看不顺眼的人互相拉黑估计互相攻击的可能性小些。\n相反的可以设置几个特别关注的人，优先看到他们的动态可能也是有需求的",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 36,
+    "rewards_count": 1,
+    "comments_count": 23,
+    "reading_count": 5551,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-09-16T22:41:38.005+0800",
+    "modify_time": "2018-09-17T18:18:51.433+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

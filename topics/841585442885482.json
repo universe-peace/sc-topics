@@ -1,0 +1,256 @@
+{
+    "topic_id": 841585442885482,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "运营人得有产品化思维：重复的事情想办法产品化。来个刚出锅的案例。\n\n366页生财日历内容填充环节，涉及到：格式，字体，年份，日期，星期几，月份，农历，作者姓名，366张二维码，特殊节日，位置，颜色。\n\n一开始，请12位船员负责内容填充，每个人花半天时间填充完成，虽然大家很努力很认真，但仍然难免出现了各种不统一和小错误，校对起来特别费劲，头疼。\n\n然后，船员<e type=\"mention\" uid=\"454581445488\" title=\"@%E4%B8%80%E6%9D%A1%E6%9E%B8%E6%9D%9E\" /> 出现，（大家记住这个名字，关键时刻出现了很多次），很快搞定一个程序，于是出现了下面自动填充日历内容的视频，几分钟搞定366页，还不会出错。\n\n12个人填充大半天+1个人头昏脑胀校对一整天\nVS\n几分钟\n\n后者完胜。\n\n可以不会这个程序技能，但产品化的思维一定得有。",
+        "images": [
+            {
+                "image_id": 111812121148442,
+                "type": "gif",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhSqNEVmXmqVOTBkJ5aUPiu-U5tY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Qg09VqJFmUvfpnJJI9AqncQ1NM=",
+                    "width": 320,
+                    "height": 200
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhSqNEVmXmqVOTBkJ5aUPiu-U5tY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9Qg09VqJFmUvfpnJJI9AqncQ1NM=",
+                    "width": 320,
+                    "height": 200
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-05T19:24:22.365+0800",
+            "owner": {
+                "user_id": 88518542125442,
+                "name": "阿凯",
+                "avatar_url": "https://images.zsxq.com/FjMrcz3MtF9RMFYA3g_CPO4V5lpc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZFtnB10N5rPhBbbDT0B8pY4c_qo=",
+                "number": 1156
+            }
+        },
+        {
+            "create_time": "2020-01-31T09:21:56.549+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-11-07T22:54:22.926+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-10-23T01:18:41.836+0800",
+            "owner": {
+                "user_id": 2485182551,
+                "name": "韩俊杰",
+                "alias": "Mmos",
+                "avatar_url": "https://images.zsxq.com/FvxFxEbsIOezTjwDmFmUh0ZVhJ1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f8MmfcoqxtqKUx6AZtfzKtzoCF8=",
+                "number": 11
+            }
+        },
+        {
+            "create_time": "2019-10-15T15:23:00.937+0800",
+            "owner": {
+                "user_id": 28242851214521,
+                "name": "蕉言蕉语",
+                "avatar_url": "https://images.zsxq.com/FuE7XdcRDwqwmHsYPzrS7g1YLw2j?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:owW_QaBCXYpC9syzelIBsYp1glg=",
+                "number": 2362
+            }
+        },
+        {
+            "create_time": "2019-10-13T22:30:18.917+0800",
+            "owner": {
+                "user_id": 88845545888242,
+                "name": "拯直",
+                "avatar_url": "https://images.zsxq.com/FqHgNUKpXn4rmYtTk2MCw1WRppgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:id9Mv6d2ESA24IC4p1OJ15bTVPA=",
+                "number": 2588
+            }
+        },
+        {
+            "create_time": "2019-10-11T12:12:43.785+0800",
+            "owner": {
+                "user_id": 15558144248812,
+                "name": "乔流",
+                "alias": "奕高",
+                "avatar_url": "https://images.zsxq.com/Fo7X8CxDnq81IhXWTyqLGVxn5iVw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gp6pS2axg1h5ThMPfNVpvuytsqA=",
+                "number": 1977
+            }
+        },
+        {
+            "create_time": "2019-10-09T07:38:33.719+0800",
+            "owner": {
+                "user_id": 144428241142,
+                "name": "刘洋",
+                "avatar_url": "https://images.zsxq.com/FhJ7sPnOdN6whXj9xTXDQxI_vPW2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JWfJmH-07QMLRfBhy7hcPIux3kA=",
+                "number": 5112
+            }
+        },
+        {
+            "create_time": "2019-10-09T04:16:58.496+0800",
+            "owner": {
+                "user_id": 4215182228,
+                "name": "Tiger",
+                "avatar_url": "https://images.zsxq.com/FqHJNAp0Wh7stpKgAKAuVsV7yb94?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vxU3qxnCewWmciWgFDvTiNVadgs=",
+                "number": 2517
+            }
+        },
+        {
+            "create_time": "2019-10-08T12:00:10.950+0800",
+            "owner": {
+                "user_id": 48411448151488,
+                "name": "老九",
+                "avatar_url": "https://images.zsxq.com/FhPl8WOoEo0UQPu37VCgAd_nY_R1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B4uyKE3CCVVBQOl6gaGJO6aCFaM=",
+                "number": 2881
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-10-29T14:16:01.977+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 94
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548142242814244,
+            "create_time": "2019-09-28T21:56:55.717+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "动图，可以点开。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548142242855184,
+            "create_time": "2019-09-28T22:06:27.507+0800",
+            "owner": {
+                "user_id": 458484182288,
+                "name": "Easy",
+                "avatar_url": "https://images.zsxq.com/Fv6vDNNH4b_Ap6tPZ85ftF0th4EQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kIIExEioHsbhUxIa7Xe76ljC__k="
+            },
+            "text": "枸杞牛逼",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421824424121858,
+            "create_time": "2019-09-28T22:26:24.934+0800",
+            "owner": {
+                "user_id": 8421255142,
+                "name": "凡不易",
+                "avatar_url": "https://images.zsxq.com/FgmxwVhlGt5RlzLZDy3D886ozQK8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:231ElbmmAWXUWVU10DGdsPQcnUQ="
+            },
+            "text": "对，不止运营，生活中也需要批量化处理的思维，实习的时候有一次公司有一堆数据，同事们都在人工对，我不懂excel函数，但隐约觉得能用函数更快完成，上网查excel函数，找到方法很快就搞定了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241845548521541,
+            "create_time": "2019-09-28T22:46:18.947+0800",
+            "owner": {
+                "user_id": 2212441511,
+                "name": "张五哥",
+                "alias": "张五哥",
+                "avatar_url": "https://images.zsxq.com/FgG0X9EnxRQVlX6M5uH1Ftrc3KNv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W5htuLUMsu-oyJkDnSBmlG6Sdd0="
+            },
+            "text": "昨天新加了<e type=\"mention\" uid=\"454581445488\" title=\"@%E4%B8%80%E6%9D%A1%E6%9E%B8%E6%9D%9E\" /> 的星球，内容做的很用心，能感受到很靠谱",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241845548521451,
+            "create_time": "2019-09-28T22:48:22.950+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "一条枸杞的星球<e type=\"web\" href=\"https%3A%2F%2Ft.zsxq.com%2FMz3JQrB\" title=\"https%3A%2F%2Ft.zsxq.com%2FMz3JQrB\" />",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548142241244544,
+            "create_time": "2019-09-28T23:00:04.275+0800",
+            "owner": {
+                "user_id": 28845258544121,
+                "name": "白杨seo",
+                "avatar_url": "https://images.zsxq.com/FrpyjpBq0i5L3-YUUfEqMISgmGGE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:crklZBvlJ2-Q7wx-bAqQBjhM0Z4="
+            },
+            "text": "枸杞牛逼",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118512215284522,
+            "create_time": "2019-09-28T23:10:45.358+0800",
+            "owner": {
+                "user_id": 5458222114,
+                "name": "Dylan",
+                "alias": "Dylan",
+                "avatar_url": "https://images.zsxq.com/FmmW0dCXOHPOu_FrFcc9XqWZpDIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FBMkOeGZ52474A5T98bIk3QJS8g="
+            },
+            "text": "船长那天在群里召集人手用PS填充日历页，我就想到需要用脚本来完成，一是机器不会出错，可以保证输出质量，二是生成速度快。但是转念又一想，我会写这个脚本么？不会。懂PS么？不懂。加上船长要的急，于是就默默上班去了。。枸杞的执行力真的点赞，我和枸杞之间差10000点执行力。加油！",
+            "likes_count": 3,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548142241181854,
+            "create_time": "2019-09-28T23:56:48.747+0800",
+            "owner": {
+                "user_id": 15484485511442,
+                "name": "沐文",
+                "alias": "沐文",
+                "avatar_url": "https://images.zsxq.com/FtXjMTW_v0RoXGB7sDvSQvWG--F-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9QK4qYZpDXzer8za-2ImZ-cNwU="
+            },
+            "text": "是的，运营思路和产品思维，都是非常重要的",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 111,
+    "rewards_count": 1,
+    "comments_count": 25,
+    "reading_count": 26493,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-09-28T21:56:35.075+0800",
+    "modify_time": "2019-09-28T22:50:11.056+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "topic_id": 844421422584112,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 281515818451,
+            "name": "萧遥",
+            "avatar_url": "https://images.zsxq.com/FsurLbkQq-G5zJLVU_S_SdwHVTGO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GJqgfNiwftE-_9zwPTPFtbImT2s="
+        },
+        "text": "分享个案例，我在Medium 看到的。 思路很清晰，值得学习： \n一个俄罗斯小哥，Alex 发现在VK.com （俄罗斯的FB）上定制菜单是一个强需求，所以先研究了网站的API，然后动手做了MVP，然后写软文推广，验证了需求的真实。 \n然后，做了价格策略，完全随机做了价格区间的转化率对比，最后得到最佳的定价策略。 \n之后做了产品优化，商业化\n再然后做了产品升级和少量推广。\n据原文说，大约２０１６年的时候可以每月赚１０００刀。　\n原链接：　\n<e type=\"web\" href=\"https%3A%2F%2Fhackernoon.com%2Fhow-i-made-a-saas-webservice-earning-1000-monthly-profit-6d2b782b95c8\" title=\"https%3A%2F%2Fhackernoon.com%2Fhow-i-made-a-saas-webservic...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-08-10T13:23:13.005+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-05-30T07:48:47.346+0800",
+            "owner": {
+                "user_id": 118228155811852,
+                "name": "亚光",
+                "avatar_url": "https://images.zsxq.com/FkrRZHKkUYMQbY8ft_OYTwpYHmKz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HFeVw4W0EN5i-VYS3VkrfP6_tXM=",
+                "number": 5705
+            }
+        },
+        {
+            "create_time": "2019-05-03T14:46:22.108+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-23T18:55:27.111+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-20T20:17:41.727+0800",
+            "owner": {
+                "user_id": 552885518514,
+                "name": "米吸",
+                "avatar_url": "https://images.zsxq.com/Fteq-fcYX18srB7lXm8dY6J0DpV2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PZWoLvMLIGMxJGOOWzsysPgrPPQ=",
+                "number": 5110
+            }
+        },
+        {
+            "create_time": "2019-02-23T13:28:20.968+0800",
+            "owner": {
+                "user_id": 145884814482,
+                "name": "pscj",
+                "avatar_url": "https://images.zsxq.com/FjxkwlFrJOJAsluYa658QaSDNNEu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dRA0Ht_DiXeW3h8N1VcsbJXtzgk=",
+                "number": 1995
+            }
+        },
+        {
+            "create_time": "2019-02-23T11:26:20.744+0800",
+            "owner": {
+                "user_id": 881812212282,
+                "name": "猫先生",
+                "avatar_url": "https://images.zsxq.com/Fr4VUmgfjp42f_6hgYGWOtcXEdHg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h9P7GfMjsMy8st82ckPoaaCOjOA=",
+                "number": 1599
+            }
+        },
+        {
+            "create_time": "2019-02-23T11:03:25.836+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic=",
+                "number": 153
+            }
+        },
+        {
+            "create_time": "2019-02-22T09:16:01.821+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ=",
+                "number": 1033
+            }
+        },
+        {
+            "create_time": "2019-02-21T18:24:05.753+0800",
+            "owner": {
+                "user_id": 458142141228,
+                "name": "林家弘",
+                "avatar_url": "https://images.zsxq.com/FtBWifj0VYlrQTgGKoO_a1UPlnzF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQyhSuPelkZRXKcbnnJVsBH9iWs=",
+                "number": 2173
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111815252518522,
+            "create_time": "2019-02-22T09:17:46.359+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "Vk是俄罗斯Facebook，有点牛。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111815121442522,
+            "create_time": "2019-02-26T06:04:08.544+0800",
+            "owner": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            },
+            "text": "挺老的文章了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241588511515541,
+            "create_time": "2019-05-03T14:47:12.743+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI="
+            },
+            "text": "厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 11,
+    "rewards_count": 0,
+    "comments_count": 3,
+    "reading_count": 13537,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-02-21T09:53:02.163+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

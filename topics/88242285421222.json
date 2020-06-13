@@ -1,0 +1,239 @@
+{
+    "topic_id": 88242285421222,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 158541881182,
+            "name": "汉超.",
+            "avatar_url": "https://images.zsxq.com/FtISSE4faUpQmnCHbb6PpVPOkHQC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FgS3u8Z8LPFOfEnardAs-p72moc="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2424852581\" title=\"%23%E5%A4%A7%E8%88%AA%E6%B5%B7%E8%AE%A1%E5%88%92%23\" /> <e type=\"hashtag\" hid=\"881481584842\" title=\"%23dropship%23\" /> \n感谢船长@jersy领路，昨天顺利完成航行目标\n借此分享一些航行过程中的笔记：\n1.借助搜索引擎找到跟你卖同一款产品的Shopify店铺:site:myshopify.com+产品特征\n[1]参考产品描述、图片、评论信息\n[2]产品是否在店铺热销榜中\n[3]看能不能找到该店铺的facebook page(Info Ads，你懂得)\n[4]收集做dropshipping店铺，后期选品可能会用得上\n\n2.checkout页面小技巧\n[1]因为要修改checkout页面需要加入Shopify Plus计划，但这并不适合新手。\n这里有个小技巧，可以把JS放到谷歌统计里：<e type=\"web\" href=\"http%3A%2F%2Ft.cn%2FRdi97Kz\" title=\"Adding+JavaScript+to+Shopify+Checkout+%E2%80%93+Freakdesig...\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201807%2F58bb5e74567ad23dc3b264380b5d0932b0f4fe1c81e93ea828b38ef9ad06caef\" />，完全免费。\n[2]主题checkout按钮修改为红色或者绿色，让按钮更为突出。\n\n3.到Shopify大卖店铺，下单不付款留邮箱，看看大卖家怎么做abandonment召回。\n\n4.销售漏斗\n广告展现 -> 用户点击 -> 加购 -> 成交\n这里每一个流程都会逐层减少，需要累计一定数据才可以判断为一个可盈利的广告，不然出单也可能只是偶然单。\n广告展现让用户可以发现你，用户点击让用户了解更多关于产品的信息，有需求+信任你才会加购成交。\n\n5.广告投放进行A/B测试\n[1]广告内容：文案、素材\n[2]受众定位：年龄、性别、相似受众受众规模拆分(人群拆分)\n[3]广告目标：PPE、WC\n\n让我完成航行目标的这款产品是被验证过的,以及船长提供的信息创建相似受众，然后广告就开始做广告目标、文案、素材、人群拆分各种对比测试，最终测试出能盈利的广告组。\n选品、人群定位还没有什么经验，这也后面要学习的方向。\n新手上路还有很多不懂的地方，有哪里说得不对的，望指出纠正。",
+        "images": [
+            {
+                "image_id": 88284128285882,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhhKeGdYXBNllgAYRCbOhco3a4JF?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UeTVYP8Ctw0HV5YnL4f8JJqAEC4=",
+                    "width": 540,
+                    "height": 360
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhhKeGdYXBNllgAYRCbOhco3a4JF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MWHDIp8gXK4lE6RFZOlop3nkmm0=",
+                    "width": 373,
+                    "height": 249
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-08-22T22:58:40.424+0800",
+            "owner": {
+                "user_id": 28514421541181,
+                "name": "朝天阙",
+                "avatar_url": "https://images.zsxq.com/FgPD2jWxyYpHM6YlHhhSpEllkbJe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:buLKT-RNtKSLufuS_G8DWnEY-Ss=",
+                "number": 3615
+            }
+        },
+        {
+            "create_time": "2019-08-14T13:54:34.372+0800",
+            "owner": {
+                "user_id": 48882151221228,
+                "name": "东向",
+                "alias": "东向",
+                "avatar_url": "https://images.zsxq.com/FhUG87jnSXLBcj8SxZHX1RjwKodN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3yWRj1aI2dbFIle9Fd8_gzrX_RQ=",
+                "number": 5953
+            }
+        },
+        {
+            "create_time": "2019-05-14T10:57:00.398+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-05-11T17:58:20.516+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-02T06:57:37.108+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-04-25T10:56:01.125+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-20T13:36:46.990+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-11-20T12:11:42.750+0800",
+            "owner": {
+                "user_id": 88882281441452,
+                "name": "江北爆单郎",
+                "avatar_url": "https://images.zsxq.com/Fkeqicb9jGKfHElVHtd6FYcXJVPf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7OdKHC3StrxDd6UdXhGaQhpCol4=",
+                "number": 2395
+            }
+        },
+        {
+            "create_time": "2018-11-06T12:51:37.252+0800",
+            "owner": {
+                "user_id": 458142141228,
+                "name": "林家弘",
+                "avatar_url": "https://images.zsxq.com/FtBWifj0VYlrQTgGKoO_a1UPlnzF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQyhSuPelkZRXKcbnnJVsBH9iWs=",
+                "number": 2173
+            }
+        },
+        {
+            "create_time": "2018-08-02T22:17:17.125+0800",
+            "owner": {
+                "user_id": 8424545842,
+                "name": "本旺",
+                "avatar_url": "https://images.zsxq.com/FhiNnRrkcQMHZiHkT76a_LRkXwh1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oolLbjYFL0wfrMyoi3Ba7m-S3Cg=",
+                "number": 1120
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-05-11T17:57:21.223+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 15145254512242,
+            "create_time": "2018-07-08T10:40:26.173+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "谢谢分享，已加精华。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88448481584882,
+            "create_time": "2018-07-27T18:02:41.136+0800",
+            "owner": {
+                "user_id": 28851428818251,
+                "name": "Dennis ҉҉҉*",
+                "avatar_url": "https://images.zsxq.com/FgiHRO98Js1voLpH0m11MvXczANJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gnd7Id2N5mXsraa1PxKj4UKH53s="
+            },
+            "text": "hello，怎么样加入这个计划啊？有门槛吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 51441854848514,
+            "parent_comment_id": 88448481584882,
+            "create_time": "2018-07-28T09:41:44.016+0800",
+            "owner": {
+                "user_id": 158541881182,
+                "name": "汉超.",
+                "avatar_url": "https://images.zsxq.com/FtISSE4faUpQmnCHbb6PpVPOkHQC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FgS3u8Z8LPFOfEnardAs-p72moc="
+            },
+            "text": "<e type=\"web\" href=\"https%3A%2F%2Ft.zsxq.com%2Fi6IqFIa\" title=\"https%3A%2F%2Ft.zsxq.com%2Fi6IqFIa\" />",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28851428818251,
+                "name": "Dennis ҉҉҉*",
+                "avatar_url": "https://images.zsxq.com/FgiHRO98Js1voLpH0m11MvXczANJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gnd7Id2N5mXsraa1PxKj4UKH53s="
+            }
+        },
+        {
+            "comment_id": 48228152121248,
+            "parent_comment_id": 88448481584882,
+            "create_time": "2018-07-28T09:42:32.530+0800",
+            "owner": {
+                "user_id": 28851428818251,
+                "name": "Dennis ҉҉҉*",
+                "avatar_url": "https://images.zsxq.com/FgiHRO98Js1voLpH0m11MvXczANJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gnd7Id2N5mXsraa1PxKj4UKH53s="
+            },
+            "text": "3x，但这期好像结束了[快哭了]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 158541881182,
+                "name": "汉超.",
+                "avatar_url": "https://images.zsxq.com/FtISSE4faUpQmnCHbb6PpVPOkHQC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FgS3u8Z8LPFOfEnardAs-p72moc="
+            }
+        },
+        {
+            "comment_id": 421885482218258,
+            "create_time": "2019-08-22T22:58:48.627+0800",
+            "owner": {
+                "user_id": 28514421541181,
+                "name": "朝天阙",
+                "avatar_url": "https://images.zsxq.com/FgPD2jWxyYpHM6YlHhhSpEllkbJe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:buLKT-RNtKSLufuS_G8DWnEY-Ss="
+            },
+            "text": "感谢分享",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421142225888288,
+            "create_time": "2019-12-11T14:28:11.648+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "一个新的领域有好多老师带，真的很重要。自己的用心实践也很重要。加油",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 37,
+    "rewards_count": 1,
+    "comments_count": 6,
+    "reading_count": 19497,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-07-07T18:09:22.669+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

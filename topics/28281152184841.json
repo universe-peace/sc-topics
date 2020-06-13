@@ -1,0 +1,291 @@
+{
+    "topic_id": 28281152184841,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 825288545282,
+            "name": "梁文斌",
+            "alias": "梁文斌",
+            "avatar_url": "https://images.zsxq.com/FvD31roPvniy4SZjZQnHimLVO-ky?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:epgiPUlXgymuKZGZIUza83u8P1I="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" />  个人号机器人进驻微信群赚钱的思路\n\n最近深度合作了一个个人号机器人，我把这个思路大致拆解一下，看看对大家有没有参考价值。 恩，就是这个链接里提到的： \n\n<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6esrbfpaNZVdi0uNbX-UYw\" title=\"%E3%80%90%E7%A4%BE%E7%BE%A4%E5%B7%A5%E5%85%B7%E3%80%910%E6%88%90%E6%9C%AC%EF%BC%8C%E6%80%8E%E6%A0%B7%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%9A%E9%92%B1%EF%BC%9F\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201805%2F31e1187b9647d8b82ccfe4788f2aed664ef0400de6a115fb186ccc433ad90b04\" />\n\n逻辑是：\n\n1. 后台生成个人号机器人池\n\n2. 用户注册后，分派一个小熊（个人号机器人）给到用户\n\n3. 用户加这个小熊为好友\n\n4. 用户把这个小熊拖入到微信群中，注意，此处无需用户是群主\n\n5. 开始产生收益\n\n如何赚钱分成两个角度\n\n从用户的角度来说，几个方面的收益：\n\n1. 只要拖入微信群，用户就有收益，平台方按微信群个数给钱\n\n2 小熊会在群内发广告，只要有人点击，就会产生收益。这些广告会根据群的人群属性来做投放。 那么，如何判断微信群的人群属性呢？ 现在看，是从微信群名。\n\n3 最关键的是，这个小熊还能发展下级（最多2级），下级的进群和广告点击收益，上一级可以分成！\n\n\n从平台方的角度来看：\n\n1. 无数个个人号机器人（小熊）进驻到多个微信群中，这些微信群统统变成渠道。\n\n2. 这些个人号（小熊）的朋友圈可以展示广告\n\n2. 这些微信群可以上游对接广告，做内容分发\n\n3. 同时，个人号（小熊）在这些群里还有可能会做其他的拓展，比方说爬取聊天数据，加人等等，这些数据也是很有价值的。\n\n恩，这个思路拓展出去，可以到别的行业：\n\n1. 在自己的细分领域里，打造自己的个人号机器人，比方说上次 @亦仁 提到的币圈和英语学习机器人\n\n2. 采用分销或者派现机制，把这些机器人推到尽可能多的微信群中去。\n\n3. 对接广告方，在这些微信群中投放，并且对微信群数据做爬取来获取更多转化。\n\n\n希望我已经把这个事情讲清楚了，或者加我 aweige2046 交流[坏笑]",
+        "images": [
+            {
+                "image_id": 51521818258424,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpflZLmty8tSlNZwkK9JstBlBbYs?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:q5Xgsx_V7S_7bMDVKefDQhT-_l0=",
+                    "width": 320,
+                    "height": 486
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpflZLmty8tSlNZwkK9JstBlBbYs?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8nEDHUYS06r9nvXX4GV6WVmnLmQ=",
+                    "width": 800,
+                    "height": 1214
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpflZLmty8tSlNZwkK9JstBlBbYs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:02yxzdkFlB6tiZozA3OhpevJjLg=",
+                    "width": 1080,
+                    "height": 1640,
+                    "size": 47983
+                }
+            },
+            {
+                "image_id": 15425858248142,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fje98OA61LpoD6wMx11Kz3XV3oXP?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JcQGMsG5loBFp1HNld4oiDId-VE=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fje98OA61LpoD6wMx11Kz3XV3oXP?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hpDAqQFm9oU-E7MI0sQIflpCtNU=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fje98OA61LpoD6wMx11Kz3XV3oXP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t9Qr5uq7kLkCUeJ_vifkOGTOaDo=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 103513
+                }
+            },
+            {
+                "image_id": 48548181451258,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FoHkrvUe2xo4mGd-0hEI4jGyf16Q?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wq9D4OX2W8KaKOWAhPGR7lS7l6o=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FoHkrvUe2xo4mGd-0hEI4jGyf16Q?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:g1-Ds5QEvSJ6TLeo990cVbr96Rg=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FoHkrvUe2xo4mGd-0hEI4jGyf16Q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E8SRJGF8Z4MaGUUru1KauFYKnz0=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 125215
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-16T16:13:55.422+0800",
+            "owner": {
+                "user_id": 51115424254884,
+                "name": "拂晓",
+                "avatar_url": "https://images.zsxq.com/Fku404gGmB3PRAAgoAMNJqhtPW2m?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XY00omREzkFQgrUzQvOixLixIUA=",
+                "number": 4826
+            }
+        },
+        {
+            "create_time": "2019-05-13T19:14:49.962+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-07T21:19:20.666+0800",
+            "owner": {
+                "user_id": 28482822224211,
+                "name": "沈小善",
+                "avatar_url": "https://images.zsxq.com/Fsmuz-CvC1byWqrD9Hc0qirzxmIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqKBYdsKKVvJI--mRFFt_WY57S0=",
+                "number": 2558
+            }
+        },
+        {
+            "create_time": "2019-04-25T19:20:40.432+0800",
+            "owner": {
+                "user_id": 481211215818,
+                "name": "重复灰兔",
+                "avatar_url": "https://images.zsxq.com/Ft12rcW1DnBZQV__hXDMTFpekZS9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qtdSqF9OXRB-WkyuvV21H8OxT68=",
+                "number": 2623
+            }
+        },
+        {
+            "create_time": "2018-08-25T17:37:15.853+0800",
+            "owner": {
+                "user_id": 225442111441,
+                "name": "geekfeng",
+                "avatar_url": "https://images.zsxq.com/FggPp9-khKbYR4wCdKKUcqUAOWog?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TMPo2HaAyisjEDrEKr1gYEFEoy4=",
+                "number": 2224
+            }
+        },
+        {
+            "create_time": "2018-08-09T13:40:34.609+0800",
+            "owner": {
+                "user_id": 228585112221,
+                "name": "恩冬",
+                "avatar_url": "https://images.zsxq.com/Fk7lfR-0Kila7ZcsKfArH4si0alc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zafs0B8jsW1a3RyroLmKTQhR8IA=",
+                "number": 2197
+            }
+        },
+        {
+            "create_time": "2018-07-31T09:56:03.924+0800",
+            "owner": {
+                "user_id": 1481151552,
+                "name": "张云飞",
+                "avatar_url": "https://images.zsxq.com/FshifIjQDnukjJHMkgIAY6puJpQ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:neRoZJahnpZ3CAKqXdEF48iPOe0=",
+                "number": 2162
+            }
+        },
+        {
+            "create_time": "2018-06-09T13:51:17.311+0800",
+            "owner": {
+                "user_id": 15281454552242,
+                "name": "李先生",
+                "avatar_url": "https://images.zsxq.com/Ftwy9stT0SYHpAwzKmV3D6Js2b_f?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hV_69xqLzUuhd46gLRUxiu6ZSbE=",
+                "number": 2002
+            }
+        },
+        {
+            "create_time": "2018-05-25T10:45:54.408+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ=",
+                "number": 1033
+            }
+        },
+        {
+            "create_time": "2018-05-23T23:58:39.231+0800",
+            "owner": {
+                "user_id": 88512142424542,
+                "name": "李胜利",
+                "avatar_url": "https://images.zsxq.com/FpTTK13DNxO5Z4L4hs2tiZxaAIJY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sU6gmB6_MzQ3EjA90Yz4tm_imXY=",
+                "number": 1303
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 51421528121854,
+            "create_time": "2018-05-23T05:09:45.954+0800",
+            "owner": {
+                "user_id": 552184288284,
+                "name": "黄亮",
+                "avatar_url": "https://images.zsxq.com/FtRQ4E4zocdkjCR2UoV5M3YS8Cef?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oOUvZvMdg9WDbMbhq96biTFUNFs=",
+                "description": "全能跨界，供应链专家，创业者"
+            },
+            "text": "讲清楚了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 28458222282551,
+            "create_time": "2018-05-23T20:10:41.367+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo="
+            },
+            "text": "可是我拉它进群，一下午都没同意邀请",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 51421555514544,
+            "parent_comment_id": 28458222282551,
+            "create_time": "2018-05-23T20:13:47.904+0800",
+            "owner": {
+                "user_id": 825288545282,
+                "name": "梁文斌",
+                "alias": "梁文斌",
+                "avatar_url": "https://images.zsxq.com/FvD31roPvniy4SZjZQnHimLVO-ky?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:epgiPUlXgymuKZGZIUza83u8P1I="
+            },
+            "text": "刚刚上线。。常常出问题。。。[捂脸][捂脸][捂脸]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo="
+            }
+        },
+        {
+            "comment_id": 51421554245544,
+            "create_time": "2018-05-23T21:44:26.924+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo="
+            },
+            "text": "稳定了就再说一声",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88458224115112,
+            "create_time": "2018-05-23T23:41:46.512+0800",
+            "owner": {
+                "user_id": 881824481282,
+                "name": "春哥纯爷们",
+                "avatar_url": "https://images.zsxq.com/Fqy1LofPDDerGyCVVWI3SLfPD0Vh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7q00CXuy840y8V2lh03mDA2HaEo="
+            },
+            "text": "棒棒的",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 48224814225548,
+            "create_time": "2018-07-17T00:51:08.287+0800",
+            "owner": {
+                "user_id": 222554144521,
+                "name": "ray",
+                "avatar_url": "https://images.zsxq.com/Fp2VzuRvNdqe77Day5GbqRyWQPe5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CUvXcr33G6sLrY_32wN2QCSRVQY="
+            },
+            "text": "nb啊这个。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 844412288828512,
+            "create_time": "2018-11-05T23:56:09.340+0800",
+            "owner": {
+                "user_id": 28458142148481,
+                "name": "抑或",
+                "avatar_url": "https://images.zsxq.com/FrrkpRH339ctuDbtI0lyA_kKerO_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kSyNKDsldSixdu4nO0CNcwJPYp4="
+            },
+            "text": "现在稳定了吗",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118215854124812,
+            "create_time": "2019-06-21T02:08:11.334+0800",
+            "owner": {
+                "user_id": 15514522548822,
+                "name": "Cn",
+                "avatar_url": "https://images.zsxq.com/FoU2_OxZ3SkkPn8HWLfWgbewkAdf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hl_DnAq8VqDzGDDGr6MA01VlTPk="
+            },
+            "text": "拉进去发广告会被秒踢啊，可能还会双踢吧",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 21,
+    "rewards_count": 0,
+    "comments_count": 8,
+    "reading_count": 15420,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-05-22T21:27:22.975+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

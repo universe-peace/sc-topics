@@ -1,0 +1,301 @@
+{
+    "topic_id": 844421122881842,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5458545854,
+            "name": "Tom叔聊运营增长",
+            "alias": "Tom叔聊运营增长",
+            "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> <e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n\n背景：\n1、美国畅销榜Top200的非游戏App里，有3-4款填色/涂鸦/像素产品。\n2、排第一的是巴西的开发商，Tom叔猜测一天收入保底30万美金以上。\n原因：\n1）AppAnnie给出IAP收入，15-20万美刀/天，\n2）根据eCPM和DAU，我拍了个广告收入：10-15万美刀/天。\nPS，欧美休闲游戏广告已经可以做到20刀的eCPM了。\n\n和 <e type=\"mention\" uid=\"552158581144\" title=\"@亦仁\" />   以及「VIP游戏研习社」群友讨论，为什么像素/涂色/解谜类产品，在国外（欧美为主）的收入那么高？而国内几乎没有特别大的玩家呢？\n\n总结几点：\n1、中国有时间的用户往往受教育程度一般，受教育程度高的往往很忙没时间玩这类游戏，欧美很多既有时间有比较愿意思考的玩家，与游戏设定很契合。\n\n2、中国用户，还是要玩节奏快，烈度高的游戏。填色/涂鸦/像素/解谜类，都太温吞水了。\n\n3、宣传是可以涂的很美，但实际上涂出来大多很丑，不如那些专业美术的人，所以有落差，得不到正向反馈，所以涂不完，久而久之也没兴趣了。据观察，很多人因为秘密花园的宣传画很美而买，买完了自己涂就很丑，不论是配色还是创意。\n\n4、主要定位成熟女性，但是大部分中国女性没这闲情，没这耐心去玩这个。收入靠iOS订阅，GP做不了的，大部分订阅都来自北美女性。不过后续有做广告变现的，也是行得通。\n套路就是让用户尝试订阅后忘记去取消，然后持续扣费，因为之前很多国家的扣费只会在月结的时候才收到信用卡账单，如果不是有太大的数额，基本上没多少人留意。但是这套路在国内行不通，毕竟一扣费就收到短信了。\n一代的填色产品的成本在于画本，那个真的不简单（类似第3点说的）。后来才有了二代的像素填色。\n\n也许，随着中国用户的审美情趣提升，以及老龄化社会的到来，未来几年，这类产品在国内也会火起来。各位老板可以提前布局。",
+        "images": [
+            {
+                "image_id": 88448584288222,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FmYVKe9rUnaDpB-ZOpbueFGgeIOr?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vaqJyfXIjm-s9ah3aCiy4IY30E4=",
+                    "width": 320,
+                    "height": 395
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FmYVKe9rUnaDpB-ZOpbueFGgeIOr?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lohbnxnZItcz_by44zGun58I83c=",
+                    "width": 800,
+                    "height": 988
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FmYVKe9rUnaDpB-ZOpbueFGgeIOr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:g4ma6EKylOmxMaReafd5fmxY2GA=",
+                    "width": 1242,
+                    "height": 1534,
+                    "size": 308087
+                }
+            },
+            {
+                "image_id": 51441214511584,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/lsCetNi6ACrcNS-meSU1zYzDCSk6?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rPefuPbpps087_kGryT927eLoxs=",
+                    "width": 320,
+                    "height": 693
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/lsCetNi6ACrcNS-meSU1zYzDCSk6?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J6NLBPlNATd3J3gB1rpbKKLxKVU=",
+                    "width": 800,
+                    "height": 1731
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/lsCetNi6ACrcNS-meSU1zYzDCSk6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OoNy_hNuXL3d-qZWEb5RcCNj4ng=",
+                    "width": 1242,
+                    "height": 2688,
+                    "size": 4948453
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T21:58:32.140+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-12-10T21:56:37.833+0800",
+            "owner": {
+                "user_id": 8455412242,
+                "name": "细细的红线",
+                "avatar_url": "https://images.zsxq.com/FqQ81ULIgQWLS0Emlh9xC4hnT3Uw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iHZDNRZudMruiGGJcA6mhKuB7Lc=",
+                "number": 5554
+            }
+        },
+        {
+            "create_time": "2019-08-25T13:04:41.784+0800",
+            "owner": {
+                "user_id": 145424452812,
+                "name": "无忌",
+                "avatar_url": "https://images.zsxq.com/FkfoK47mprW3flchsAtt6_4X5Nxc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1KBXF2WJqY6K0rndfJDVaH0l_M=",
+                "number": 6121
+            }
+        },
+        {
+            "create_time": "2019-06-09T15:34:16.178+0800",
+            "owner": {
+                "user_id": 881515112222,
+                "name": "Arman",
+                "avatar_url": "https://images.zsxq.com/FjyOxM8rB8CpfRs16A85CR0L2L59?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hXZTSbm-7HbpBNGBLIm7PPZTAn4=",
+                "number": 4948
+            }
+        },
+        {
+            "create_time": "2019-05-03T14:15:09.757+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-23T08:00:18.249+0800",
+            "owner": {
+                "user_id": 881251881842,
+                "name": "王坏坏",
+                "avatar_url": "https://images.zsxq.com/FuSZXXjmLIh_mmxdAdooRKPwb6u3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:glgbQED-DgTFgIVC3SZ9hT-J__w=",
+                "number": 3740
+            }
+        },
+        {
+            "create_time": "2019-04-22T14:45:31.483+0800",
+            "owner": {
+                "user_id": 484184858,
+                "name": "Dom",
+                "avatar_url": "https://images.zsxq.com/FnlL2RNVx3FLR-4FERQGNBRiGlVC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:S3GIvS8UpCEjHaAizhiFWBTmvqM=",
+                "number": 1146
+            }
+        },
+        {
+            "create_time": "2019-04-20T19:18:07.437+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-04-19T16:59:14.524+0800",
+            "owner": {
+                "user_id": 51418455142824,
+                "name": "罗必流",
+                "avatar_url": "https://images.zsxq.com/FqH3eYqJ4B3Yyg5c28V-34qsioFe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4-A6zqFwhmxjLWr_X-EMOy3lNsU=",
+                "number": 3063
+            }
+        },
+        {
+            "create_time": "2019-03-23T21:22:42.464+0800",
+            "owner": {
+                "user_id": 825852282452,
+                "name": "LewisliuMr",
+                "avatar_url": "https://images.zsxq.com/Fo-NWCBMpqiIR0-YfktZaljEmPcg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ixF0TBuKXlitXBxwMbZEoMe60ZU=",
+                "number": 1169
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-02-24T00:38:27.727+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 6666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 844148854515242,
+            "create_time": "2019-02-24T00:45:55.583+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "感谢亦仁赞赏。我觉得中国开发者有机会搞一波，这个产品目测研发成本不高。可以和欧美有高审美鉴赏能力的UI/UX设计师合作（甚至外包）。然后源源不断解锁出热门IP的皮肤theme就好了，还可以做关键词ASO/SEO。",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 544841124282444,
+            "create_time": "2019-02-24T00:47:12.934+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "门槛不在产品技术，而在设计审美，投放能力，商业化能力。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 111815554884122,
+            "create_time": "2019-02-24T17:51:07.368+0800",
+            "owner": {
+                "user_id": 825285582842,
+                "name": "Keyon",
+                "alias": "灿阳",
+                "avatar_url": "https://images.zsxq.com/Fp2Uh8zFIQoBoBHo75QW5BQ3Bbzu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TBMjTsopOEmlBECHcjNgCYFPLb0="
+            },
+            "text": "解压游戏",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 844148454281482,
+            "create_time": "2019-02-26T05:42:55.391+0800",
+            "owner": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            },
+            "text": "请问“GP做不了的”中的gp是什么意思？",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 422128241521188,
+            "parent_comment_id": 844148454281482,
+            "create_time": "2019-02-26T09:34:34.774+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "Googleplay",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            }
+        },
+        {
+            "comment_id": 111815154112442,
+            "parent_comment_id": 844148454281482,
+            "create_time": "2019-02-26T12:25:51.363+0800",
+            "owner": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            },
+            "text": "哦",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        },
+        {
+            "comment_id": 844118211454142,
+            "create_time": "2019-03-09T08:14:45.693+0800",
+            "owner": {
+                "user_id": 454554884148,
+                "name": "鸟人",
+                "avatar_url": "https://images.zsxq.com/Ftkok4xZkDwXnl4BOP5Qan8yivye?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2hCLdZJhFd1FevCmwDU609hKRJI="
+            },
+            "text": "不知道下面途径是否可行: 开发出来，在学校推广。学校以提高学生审美能力的想法来让学生下载，然后交作业。由于学生肯定不会画得那么美，或者说画得不正常，然后推销团队找出比较有意思的做对比，然后出知名度！",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 111885122221882,
+            "parent_comment_id": 844118211454142,
+            "create_time": "2019-03-09T09:20:17.480+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "可以有",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454554884148,
+                "name": "鸟人",
+                "avatar_url": "https://images.zsxq.com/Ftkok4xZkDwXnl4BOP5Qan8yivye?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2hCLdZJhFd1FevCmwDU609hKRJI="
+            }
+        }
+    ],
+    "likes_count": 31,
+    "rewards_count": 1,
+    "comments_count": 10,
+    "reading_count": 25165,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-02-23T22:34:07.987+0800",
+    "modify_time": "2019-02-24T09:31:36.035+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

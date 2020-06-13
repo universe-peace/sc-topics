@@ -1,0 +1,212 @@
+{
+    "topic_id": 15142442884242,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />  亦仁之前提过，某短视频编辑工具月流水上千万。\n\n今天这篇帖子讲的就是这么一款工具，会结合一些时下流行的图标，各种造型，gifs，emojis等模板，帮助用户创作好玩的视频，而且这款视频编辑工具，还能快速、简便地对视频和字幕进行合并，生成各种自定义、不同风格的有创意的视频。\n\n在18年5-7月期间，营收达到了4834美元的收入，这期间新增的下载量为1625，网站曝光次数为25681。\n\n一、想法由来\n\n故事的主人公是一个大学还没毕业的小哥哥，因为朋友的安利和观察到的短视频崛起红利，让他萌生了做视频编辑工具的想法，尽管当时已经有名气很大、用户量很多、营收颇为可观的Viva Video等竞品，但他仔细研究了用户对竞品不同功能的点赞和吐槽，扬长补短，简化了创作视频的过程，小白也可以轻松使用，这款app的名称是Veme.ly\n\n二、冷启动&产品推广：\n\n1.先将粗糙的β版本发布在app store里，根据收集到用户反馈，快速迭代。\n\n2.创建网站，附上下载链接，并发布用这款软件做出来的一些炫酷的视频。\n\n3.有了网站后，在Instagram等社交媒体上，发布一些娱乐性强、好玩的视频增加曝光。（能吸引来用户，但付费意愿较低）\n\n4.在App Store 上做ASO，博客、网站上做SEO，增加自然流量。（效果不错）\n\n5.在Facebook、Instagram，Google和Youtube上做一些测试付费广告。（Google的付费搜索广告来的用户，付费意愿最强）\n \n三、收入模式：\n\n免费版：开放基础功能\n\nPRO版：付费解锁高级功能，按月收费（$9.99）和按年收费（$79.9），占了总收入的85%\n\n一次服务收费：如去水印，可以为这个功能单独付费。\n\n四、未来的目标：\n\n将每月的平均收入提高到15000美元，也就是每月需要1500名订阅者。\n相信这个小哥哥实现这个目标指日可待～",
+        "images": [
+            {
+                "image_id": 51421224428814,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fve0nSd68a6U4fMYnvpEQ4islEne?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ogw8qY8vhJm-dt9l8lSbRpA6_qA=",
+                    "width": 320,
+                    "height": 223
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fve0nSd68a6U4fMYnvpEQ4islEne?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nEn2FwAgKgTvV8l58yk-Xs2tfEk=",
+                    "width": 800,
+                    "height": 556
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fve0nSd68a6U4fMYnvpEQ4islEne?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o1KMIzfg-ekKVAIt7BuKRaZnhjc=",
+                    "width": 1461,
+                    "height": 1016,
+                    "size": 195029
+                }
+            },
+            {
+                "image_id": 28458554451181,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Frtanq3O3pN0oi0R5WEAzh0JHVM3?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jMnDxwTeb_7jguno-H_lrvv9EsA=",
+                    "width": 320,
+                    "height": 114
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Frtanq3O3pN0oi0R5WEAzh0JHVM3?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dmJYndLlf4c6_Pa5-SJT7MYWLS8=",
+                    "width": 800,
+                    "height": 284
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Frtanq3O3pN0oi0R5WEAzh0JHVM3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3Krg6vNJg-mIsPQFPoPW3QiBL4Q=",
+                    "width": 1653,
+                    "height": 587,
+                    "size": 759477
+                }
+            },
+            {
+                "image_id": 15125221128842,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrakgSeqagrY4J2CmxH4nmzs_RFC?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PrvwSFSWlfPb56aooF0_y7KLqZc=",
+                    "width": 320,
+                    "height": 187
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrakgSeqagrY4J2CmxH4nmzs_RFC?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4IFYdv71k2OPc57hPYXGx8P8mDU=",
+                    "width": 800,
+                    "height": 468
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrakgSeqagrY4J2CmxH4nmzs_RFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HYEfL-eULKvMO1h87suV8BF_MM8=",
+                    "width": 1686,
+                    "height": 986,
+                    "size": 216151
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-08T08:51:59.886+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T23:47:38.218+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-19T20:27:12.041+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2018-11-10T22:27:27.162+0800",
+            "owner": {
+                "user_id": 15541521552452,
+                "name": "吉光",
+                "avatar_url": "https://images.zsxq.com/Fv9OEsLNj3a-gXSd2dEZedf1z1-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nurQhkL_jUbvVP_k_czetUQnWn8=",
+                "number": 2359
+            }
+        },
+        {
+            "create_time": "2018-11-10T18:14:56.849+0800",
+            "owner": {
+                "user_id": 4515221488,
+                "name": "迦勒底",
+                "alias": "迦勒底Σ(ﾟдﾟlll)",
+                "avatar_url": "https://images.zsxq.com/Fkyot-qhElWVjfGVOqzuWcSSSB63?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DZlwWTKu44WMhQlgVwGnzPa4uNY=",
+                "number": 1935
+            }
+        },
+        {
+            "create_time": "2018-11-10T17:19:48.481+0800",
+            "owner": {
+                "user_id": 452421522548,
+                "name": "江湖",
+                "avatar_url": "https://images.zsxq.com/FtTGpQWAfRcIiUaT0GS27yySfktq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9QuUpllAMI5r-hSvUlXwxGFz1d0=",
+                "number": 902
+            }
+        },
+        {
+            "create_time": "2018-11-10T09:28:10.809+0800",
+            "owner": {
+                "user_id": 51128814452544,
+                "name": "好山好水",
+                "avatar_url": "https://images.zsxq.com/FhJyabjJ1MX5lpMc2nDtNIbxWQIR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x8OxbVMuXg06FgyyjGK6KTUacOc=",
+                "number": 2344
+            }
+        },
+        {
+            "create_time": "2018-11-10T00:23:06.744+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ=",
+                "number": 347
+            }
+        },
+        {
+            "create_time": "2018-11-09T22:49:41.625+0800",
+            "owner": {
+                "user_id": 8188845422,
+                "name": "Light微光",
+                "avatar_url": "https://images.zsxq.com/FhU77pbHjijA2a0sh5BroCUjoXHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfu5nVncAT9Y8gdh0FDCQoazVTw=",
+                "number": 967
+            }
+        },
+        {
+            "create_time": "2018-11-09T22:24:57.969+0800",
+            "owner": {
+                "user_id": 881155452442,
+                "name": "阿正",
+                "avatar_url": "https://images.zsxq.com/Frp3JUcpNPY_K8Ug3dZstD11YteR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vxLjG2f2gA_ujDf-zqH9XwFXB6s=",
+                "number": 2113
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111184812445482,
+            "create_time": "2018-11-09T19:29:09.769+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "在这位小哥哥所用的5种推广手段里，Google的付费搜索广告，对转化效果最好，其次SEO和ASO，对他们帮助很大，鱼丸在之前做项目时也发现搜索而来的流量，付费转化率最好，用户带着很明确的需求而来，更愿意为产品的增值服务买单。",
+            "likes_count": 2,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841585555585512,
+            "create_time": "2019-04-23T23:51:07.662+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY="
+            },
+            "text": "关注新兴产品、做周边工具满足特定需求（需求需被验证）",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 0,
+    "comments_count": 2,
+    "reading_count": 7957,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-11-09T19:26:15.805+0800",
+    "modify_time": "2018-11-09T19:26:59.585+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

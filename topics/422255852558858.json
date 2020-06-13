@@ -1,0 +1,226 @@
+{
+    "topic_id": 422255852558858,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n一个来自北爱尔兰的设计师兼开发小哥哥，做了一套HTML电子邮件模板，从18年6月到11月，每月躺赚1700美元。\n这个工具适用于什么场景呢？可以说，各种我们邮箱里收到的广告邮件，都套用了某种模板，排版精美，重点突出。\n比如，商家发给用户的商品促销邮件；银行每月发过来的信用卡电子账单等；\n\n一、想法由来：\n\n这个小哥哥，在实际写代码的过程中发现，虽然有发送和接收电子邮件的组件和API，但程序猿真的不喜欢为邮件编写HTML，而且有各类电子邮件客户端要测试，每种客户端呈现界面也不一样。\n\n小哥哥将开发HTML电子邮件的经验教训写在了博客和github上，并且开源了一些基本的模板，发现有非常多的人对这个感兴趣，由此，激发了他做模板直接出售的想法。\n\n\n二、冷启动\n1.小哥哥有个人博客，每周会分享3到4个有用的设计模板链接；\n2.在Dribble和Twitter上发布产品介绍，并鼓励有兴趣的人留下电子邮箱；\n3.给一些KOL免费模板，引导他们转发；\n4.产品提交到Product Hunt，幸运地成为了当日最佳，导了了很多流量；\n5.发布一些营销活动，引导用户留下电子邮箱，方便之后促销触达；\n\n三、商业模式\n\n从产品第一天上线起就开始收费，可能很多人会质疑市面上有那么多免费的模板，用户愿意为这个东西付费吗？\n实际上在18年6月到11月期间，每月的收入基本维持在1500-2000美元之间。如图1：\n\n基础版：10个模板，售价49美元\n高级版：售价299美元，适用于机构和大公司\n\n\n四、未来的目标\n\n目前，他们专注于面向销售人员的电子邮件模板，同时，还在做适用于邮件开发人员的其他工具，包括Sketch设计系统，CSS inliner和测试电子邮件发送工具等。",
+        "images": [
+            {
+                "image_id": 28425482444181,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrrgVay4s_Iqz8-14d_yhLLq83yz?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hqKNgL8b1Nt4T0EWqegzpIJ6ti0=",
+                    "width": 320,
+                    "height": 183
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrrgVay4s_Iqz8-14d_yhLLq83yz?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NOXKtyRpWV8yCu-gQZuBD-yKNh4=",
+                    "width": 800,
+                    "height": 459
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrrgVay4s_Iqz8-14d_yhLLq83yz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p4j02U5H-JaFzobvna-c7zDvUF0=",
+                    "width": 872,
+                    "height": 500,
+                    "size": 26277
+                }
+            },
+            {
+                "image_id": 15142154111842,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FokzlL41-GsEZ1xny3-AB6-onOOc?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wUBZ0c33jkR8GXjDVMbaX5xsy7I=",
+                    "width": 320,
+                    "height": 578
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FokzlL41-GsEZ1xny3-AB6-onOOc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P4fox85QxKVj8nG5WH_yPIM3w2A=",
+                    "width": 664,
+                    "height": 1200
+                }
+            },
+            {
+                "image_id": 15142154111822,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FkNEztmkfwqqhmlLEtNZigMAU8R7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Oo3rcEubDt0pODSGgAZ-oshtsdQ=",
+                    "width": 320,
+                    "height": 326
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FkNEztmkfwqqhmlLEtNZigMAU8R7?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IbQtke4KKkQ5SHlFhKLdZtPpN-I=",
+                    "width": 800,
+                    "height": 816
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FkNEztmkfwqqhmlLEtNZigMAU8R7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HzR54UAK8uKYxunjXoc0Gh33IpU=",
+                    "width": 1177,
+                    "height": 1200,
+                    "size": 458482
+                }
+            },
+            {
+                "image_id": 88425482444182,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fou87F_saZTBpN9XhAgveA5tsL20?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wSpC24VcW9mcPhQR3zxqdsoKq-0=",
+                    "width": 320,
+                    "height": 203
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fou87F_saZTBpN9XhAgveA5tsL20?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3yJTo0pHtW3pAJKIupNxo8X1swI=",
+                    "width": 800,
+                    "height": 507
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fou87F_saZTBpN9XhAgveA5tsL20?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cqB2uqEHKB2UjnyLLlE9pEO4QIg=",
+                    "width": 1200,
+                    "height": 760,
+                    "size": 308550
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-05-16T17:03:15.732+0800",
+            "owner": {
+                "user_id": 2488212121,
+                "name": "李笨笨",
+                "avatar_url": "https://images.zsxq.com/FhFbHcnVIDxjnJ1-TjFxpXnLNo_T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vGG2UconwVT2493R9vPSwx0Dbug=",
+                "number": 3412
+            }
+        },
+        {
+            "create_time": "2019-05-12T00:07:40.493+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-05-04T11:00:52.460+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-24T13:53:13.860+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-22T09:41:46.164+0800",
+            "owner": {
+                "user_id": 555224488584,
+                "name": "安之",
+                "avatar_url": "https://images.zsxq.com/FnHLqSXEG_17RCOxa_fxYWdOqxVk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NGfvLsUiFsWED7n4ItoPV24KAg4=",
+                "number": 2761
+            }
+        },
+        {
+            "create_time": "2019-04-21T10:23:34.059+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-04-19T22:26:19.372+0800",
+            "owner": {
+                "user_id": 145448828512,
+                "name": "薛嘉琪",
+                "avatar_url": "https://images.zsxq.com/FmhL3cRWEqmb7psayEzld-cKqohG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ASfLsywWqAHLOL_tZqE4bUirvVA=",
+                "number": 4583
+            }
+        },
+        {
+            "create_time": "2019-04-18T23:45:53.437+0800",
+            "owner": {
+                "user_id": 28444552241451,
+                "name": "闻末",
+                "avatar_url": "https://images.zsxq.com/Fl9HFbmzSxhW4eBpWX3hXfry3Rmw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jUEpoqy15S45nOpp2UaS9lyFwqA=",
+                "number": 3171
+            }
+        },
+        {
+            "create_time": "2019-04-17T20:36:13.514+0800",
+            "owner": {
+                "user_id": 458485825248,
+                "name": "Wilson",
+                "avatar_url": "https://images.zsxq.com/FvHg-qPinpORdndAVIPdlt2yqrZF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4yqNzaDQ8onQYWnIhZGrlelRWAU=",
+                "number": 1559
+            }
+        },
+        {
+            "create_time": "2019-01-30T20:30:41.145+0800",
+            "owner": {
+                "user_id": 225225151281,
+                "name": "韩龙",
+                "alias": "海贼王",
+                "avatar_url": "https://images.zsxq.com/Fs82wyy8wwV7m2v6NGWYkqxnMG6E?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2vgjVPHYn757g7lb8OamJ5ECN6I=",
+                "number": 102
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-01-25T17:06:26.096+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 118255528252182,
+            "create_time": "2019-05-04T11:01:15.098+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI="
+            },
+            "text": "技术圈的业务，范围就难么大",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 29,
+    "rewards_count": 1,
+    "comments_count": 1,
+    "reading_count": 13827,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-01-25T17:01:00.629+0800",
+    "modify_time": "2019-01-25T17:05:07.120+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

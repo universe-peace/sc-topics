@@ -1,0 +1,323 @@
+{
+    "topic_id": 15451854228482,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5458545854,
+            "name": "Tom叔聊运营增长",
+            "alias": "Tom叔聊运营增长",
+            "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />    <e type=\"hashtag\" hid=\"4218511418\" title=\"%23%E7%8E%A9%E7%9A%84%E5%B0%B1%E6%98%AF%E5%A2%9E%E9%95%BF%23\" />    \n\n<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVxB_wismKD6MQwHsoDaWeQ\" title=\"%E6%B8%B8%E6%88%8F%E5%87%BA%E6%B5%B7%E6%96%B0%E6%9C%BA%E4%BC%9AFacebookInstantGames\" cache=\"http%3A%2F%2Fcache.zsxq.com%2F201805%2F9fc3d3134a4f7b9dd5627ea7932546f4d84658e09644f84654860fda36a43256\" /> \n\nFacebook Instant Game，发财红利期，目前才进去400多款游戏。大中华开发者60多款。\n可以认为是海外版的“小程序”游戏。\n\n划重点：\n比较优秀游戏的留存率参考值：次日留存18%-20%，七日留存8%-10%。\n推荐位置：在Android版本上，有5个推荐位置，全球推荐或者分地区推荐。\n是否可以花钱推广自己的游戏：目前，还没有开放，但是“可能”会在18年第三季度推出。\n\n变现情况：\n目前，已经支持广告和内购两种方式。\n内购：只支持Android版本。付款是通过Facebook Messenger在Google Play的渠道，所以开发者需要在Google抽成之后，在与Facebook进行分成。\n广告：同时支持Android和iOS版本，但是目前只支持插屏Interstitial和激励视频Rewarded Video两种广告格式。\n\n几个重要的API，可以明显帮助提升游戏的留存：\n分享和邀请\n桌面快捷图标 (仅限Android)\n玩家匹配和陌生人拉群\n游戏机器人",
+        "images": [
+            {
+                "image_id": 51521128858544,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FjtU7fSnFak68fECGtJVGCK_fAdS?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2LuIz_Zh-RhAkaeO7YXnaBLdMfo=",
+                    "width": 540,
+                    "height": 1169
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FjtU7fSnFak68fECGtJVGCK_fAdS?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KqS8AO5-FFvEoFAGUjYyTVR9vt8=",
+                    "width": 800,
+                    "height": 1732
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FjtU7fSnFak68fECGtJVGCK_fAdS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KOnouNKRu56XUcJTBGxWlQH51aQ=",
+                    "width": 1125,
+                    "height": 2436,
+                    "size": 1106932
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-12T14:56:32.799+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-10-04T16:35:29.200+0800",
+            "owner": {
+                "user_id": 51284444441444,
+                "name": "白瑞（Barry）",
+                "avatar_url": "https://images.zsxq.com/Fhjyf_HqGtudHKngPCEMBQBEcn_M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9EvHtNzzyJeKdBMHJuYdLtxC2_A=",
+                "number": 3520
+            }
+        },
+        {
+            "create_time": "2019-05-13T20:13:21.505+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-09T00:32:58.008+0800",
+            "owner": {
+                "user_id": 88258815458552,
+                "name": "Rock",
+                "avatar_url": "https://images.zsxq.com/FhQxsT-SU_6Wyi0vws_LVanwwX4O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VZDKLhxTswPWwRSs69S65DLj7Dw=",
+                "number": 2787
+            }
+        },
+        {
+            "create_time": "2019-04-28T16:15:57.274+0800",
+            "owner": {
+                "user_id": 224582852121,
+                "name": "大力",
+                "avatar_url": "https://images.zsxq.com/FjVJ913wGfWJpc2kmC2qhvL9S1zU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HLHpE2X6tsQacYIwhRsx2t03nyk=",
+                "number": 5243
+            }
+        },
+        {
+            "create_time": "2019-04-26T10:04:20.356+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-21T09:59:14.874+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        },
+        {
+            "create_time": "2019-04-11T10:42:01.893+0800",
+            "owner": {
+                "user_id": 4252414118,
+                "name": "mxclover",
+                "avatar_url": "https://images.zsxq.com/FqR1KIC1lE2qc64eeumQP9nbfktB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dr7dRn0oeaUZoPM_oTjjRNbpVkI=",
+                "number": 1694
+            }
+        },
+        {
+            "create_time": "2018-05-25T19:48:01.387+0800",
+            "owner": {
+                "user_id": 551584521844,
+                "name": "理想",
+                "avatar_url": "https://images.zsxq.com/FvPh6HxPvcXYMOW0PDbbxGUmo-wL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dyEWTNuASxrpyRJHpxGnrZ2Z4iY=",
+                "number": 402
+            }
+        },
+        {
+            "create_time": "2018-05-15T08:38:15.210+0800",
+            "owner": {
+                "user_id": 142541442842,
+                "name": "唐僧之妈",
+                "avatar_url": "https://images.zsxq.com/Fm3XulLtwtZXeOGFNzJhQvdBIK7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c4V9J1IrXsxQjE-oBY9gRAM4E-k=",
+                "number": 1574
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88455551815222,
+            "create_time": "2018-05-14T00:08:46.790+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "images": [
+                {
+                    "image_id": 28258885858251,
+                    "type": "png",
+                    "thumbnail": {
+                        "url": "https://images.zsxq.com/FpUymIBOURwnVT6vgzareCXeqsou?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qErzeggBYvva6MlEASW5gD31LoY=",
+                        "width": 320,
+                        "height": 693
+                    },
+                    "large": {
+                        "url": "https://images.zsxq.com/FpUymIBOURwnVT6vgzareCXeqsou?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uSXrR02PsZQBMTvs_u9MphyMNtk=",
+                        "width": 800,
+                        "height": 1732
+                    },
+                    "original": {
+                        "url": "https://images.zsxq.com/FpUymIBOURwnVT6vgzareCXeqsou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bUe984eqi_G1QKmYIsumJmjsgP8=",
+                        "width": 1125,
+                        "height": 2436,
+                        "size": 516166
+                    }
+                }
+            ]
+        },
+        {
+            "comment_id": 48244441814528,
+            "create_time": "2018-05-14T00:08:53.447+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "images": [
+                {
+                    "image_id": 15425552525452,
+                    "type": "png",
+                    "thumbnail": {
+                        "url": "https://images.zsxq.com/FiopJGfxDegNeumhoSaA65KufOJB?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8DJaHvUn-DoeRmHJKPCoOKcWYvA=",
+                        "width": 320,
+                        "height": 693
+                    },
+                    "large": {
+                        "url": "https://images.zsxq.com/FiopJGfxDegNeumhoSaA65KufOJB?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fPRlVw9CZfwUicfNx3ywzHVHrY8=",
+                        "width": 800,
+                        "height": 1732
+                    },
+                    "original": {
+                        "url": "https://images.zsxq.com/FiopJGfxDegNeumhoSaA65KufOJB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KIZj_RiVpHY2Cjv1VQqSLdXXqKs=",
+                        "width": 1125,
+                        "height": 2436,
+                        "size": 1120636
+                    }
+                }
+            ],
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28455881525241,
+            "parent_comment_id": 48244441814528,
+            "create_time": "2018-05-14T14:23:30.230+0800",
+            "owner": {
+                "user_id": 458545841818,
+                "name": "_徐",
+                "avatar_url": "https://images.zsxq.com/Fm-42yeWcnK_D4jL9OAcRrDnpt_C?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aLkgaq2N3JaUirp-aOGovyT04NM="
+            },
+            "text": "[强]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        },
+        {
+            "comment_id": 15125225512422,
+            "create_time": "2018-05-20T17:21:43.431+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "感谢分享，已加入精华；",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15125225515552,
+            "parent_comment_id": 15125225512422,
+            "create_time": "2018-05-20T17:25:35.670+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "谢谢，识货[愉快]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 421441521545458,
+            "create_time": "2019-04-21T10:03:09.731+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo="
+            },
+            "text": "现在的情况有些变化，出现了一些月活千万甚至过亿（最高那个140M)的游戏，大部分高活跃的游戏都是问答测试类。\n感兴趣的可以看一下。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 118228418424512,
+            "parent_comment_id": 421441521545458,
+            "create_time": "2019-04-21T10:04:18.384+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "比如哪个？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo="
+            }
+        },
+        {
+            "comment_id": 548228548528244,
+            "parent_comment_id": 421441521545458,
+            "create_time": "2019-04-21T10:08:56.300+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo="
+            },
+            "text": "第一名是OMG，140m，第二名好像是bam，40m。你在ig的问答游戏分类word and trivia里找一下，上10m的都好几个。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        }
+    ],
+    "likes_count": 23,
+    "rewards_count": 0,
+    "comments_count": 10,
+    "reading_count": 9282,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-05-13T22:59:34.053+0800",
+    "modify_time": "2018-05-13T23:00:27.431+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

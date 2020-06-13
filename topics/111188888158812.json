@@ -1,0 +1,195 @@
+{
+    "topic_id": 111188888158812,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552128158114,
+            "name": "～_～李亮🐌",
+            "avatar_url": "https://images.zsxq.com/FskS4x5td831R6SZX_RU3TjUGVbO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yHh7YmFakMl_sJZiSlqZ_2dC1Jk="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4245425418\" title=\"%23%E5%B0%8F%E7%A8%8B%E5%BA%8F%23\" /> \n最近团队业务涉及到外卖，掉了一些坑，分享给大家，希望对各位大佬有帮助。本篇分享涉及，为啥做外卖/部分实操技巧/避免掉坑/一些疑问等。\n\n———已知现状介绍———\n\n1.普通商家佣金超过20％\n2.品牌占据头部流量\n3.大品牌自建➕外卖平台双渠道挤压\n4.小商家不具备精细化能力\n5.一些割韭菜的代运营基本走过一遍了\n6.第三方配送服务基本满足需求\n7.商家自建配送流程很熟悉\n8.商家对外卖订单的处理能力已经很娴熟\n9.服务商可以申请调整微信费率，餐饮商户，提交食品许可，基本都可以过，千三很容易拿到，活动持续到年底。\n\n———关于用户习惯———\n\n初期调研结果是大家习惯用平台，测试结果是：价格不敏感用户习惯也有改变的可能性，从客户客单价来看，价格不敏感的用户客单价普遍偏高（写字楼地址可能存在拼单），商家调整优惠力度，复购有明显提升。\n注：价格不敏感用户的统计纬度应该多元，比如总客单价／满减力度等综合因素判断。\n\n———流量从哪来———\n\n1.微信卡券\n需要把小程序和公众号绑定到开放平台去（300元认证费／年）。\n后绑定商家，老的客户数据没有unionid，升级改造成本较高，目前给的方案是公众号推送优惠H5，引导用户打开授权网页，做一次补漏。\n\n•玩法说明\n打开小程序，引导用户跳转到领取微信卡券列表，批量领取。\n设置有效期技巧是：领取后有效～X天后失效，（这个X可以做的事情很多，比如避开周末等）不建议设置固定有效期。\n金额设置考虑几个因素：新老顾客/起送金额/客单价/配送费用/其他满减/其他红包。\n卡的属性建议要勾选两个选项 “用户领券后可转赠其他好友”和“用户可以分享领券链接”。\n\n2.附近小程序\n这块的入口比较深，用户习惯养成中，但是从目前看到的数据来看，占比不低。\n\n•玩法说明\n把门店都增加到小程序后台去。\n增加多门店的时候，服务项目多填写几个（乱写审核不过）。\n注意公众号的门店展示会影响小程序的展示，如果遇到小程序无法展示，去公众号关闭即可，服务描述写“点我领红包”\n\n3.附近的餐厅（部分城市有）\n入口在发现栏里面，这块没有实操，有操作的朋友可以指点。\n\n4.好物圈\n好物圈没有出现在搜一搜的朋友可以按照以下路径操作（发现－小程序-点搜索输入-好物圈）有过一次操作后，下次搜一搜就有了。\n这块微信迭代很快，有兴趣的朋友多关注一下。\n\n•玩法说明\n把用户购物车的商品推到好物圈的［收藏］选项卡。\n支付成功的订单推送到［订单］选项卡。\n这块埋点跟踪数据不理想，个人建议提前做点小布局，搞不好哪天服务员就告诉你，点一下好物分享，送酸梅汤。\n\n5.用好模版消息\n订餐决策时间很短，这块建议做好侦听用户退出小程序,唤醒文案和时间间隔做好优化。\n已经购买的用户，可以做用餐评价服务通知➕优惠券的方式。\n恶劣天气记得关心一下粉丝。\n\n6.朋友圈广告\n月交易100笔以上可以免费推广，不知道的商家还很多。\n\n7.堂食转化\n推公众号的路再走一下。\n\n8.外卖物料\n随餐送宣传册，义乌小商品＋店面覆盖人群分析，记得把性别、年龄考虑进去，做一些落地留存，别发易入垃圾桶的东西。\n欢迎大家留言，说说你想到的小礼品。\n\n9.公众号\n接触的大部分商家都没有用完四次推送，基本都是怕掉粉，建议做好用户标记，定向推送，这块最好是拿过来权限，自己来操作，一般商家搞不定这块。（掉粉是肯定的，先沟通好，别掉坑，拿不准的粉丝先不动他）。\n公众号菜单的量也很不错，（大部分是商家老的落地推广公众号二维码，扫码进来后点的），改造成进入公众号后就推外送，数据有明显提升。\n\n\n———如何配送———\n\n1.第三方配送都有自己开放平台，对接派单即可。建议开通vip服务，高峰期可以通过给小费来提高接单率。\n\n2.市面上有公司还专门聚合了达达/蜂鸟等第三方配送。\n\n———硬件配套———\n\n云打印机很多，且都正在接外卖平台的单子，网管同学玩的很老练了。系统部署沟通不是问题了。\n\n———建议服务方案———\n\n把商家外卖的整体运营接过来做，每个月跟商家要一定金额的红包操作空间，纯粹提供工具意义不是很大。\n帮助商家用好现有工具，价值也很大，做B服务的朋友，可以快步到曹大公众号(caoz的梦呓)去找旧文，不给贴具体文章了，多爬楼，层层有干货。\n\n———有坑———\n\n1.申请类目很多商家都会选［外卖平台］，实际上应该是［餐饮服务场所］，服务商最好自动创建好，操作手册再大的红字也没人看。\n\n2.有的餐饮是公司主体无餐饮许可，但是门店有，主体注册的公众号快速注册小程序也不能上线。\n重新注册建议走服务商接口，省300大洋（需要法人人脸识别认证）\n\n3.个体户，注册时候管理员必须是法人，一旦写错，只能发邮件，他们内部报备解决。\n\n4.支付的配置非常复杂，帮商家开通支付，手机号最好用自己的，都配置好了再给商家修改。\n\n5.有些商家，用的门店信息注册小程序，支付主体必须是公司（钱不走门店）这个时候要用主体不一致的授权关联，微信会单独审核，要求小程序必须先上线。\n\n———一些思考———\n\n1.中午基本都是不知道吃啥，逛外卖平台确实方便，有时候也是逛烦了，最后就是随便来的感觉。\n\n2.大家基本上都知道附近有啥店，店里什么好吃，在平台看到店，顺手扫一下义乌小礼品，直接转到小程序下岂不是更好吗？\n\n3.公司人员流动，进入另外一个商圈，影响这个人下单的应该是TA的同事。如何激励现有用户邀请应该是比纯粹的拉新更重要。\n\n4.把合作的商家聚合在一个号里面，解决逛的问题是否可行。（落地合作一个商场，让商场的商家先入驻进来，再逐步扩散），大学周边做的据说不错的。\n\n5.商家愿意送一个20元的菜，也不愿意满减20元（想把一毛钱的白菜卖到20元的方法就是炒一下而已）送菜是不是比平台满减更好呢？\n\n6.企业微信或钉钉有无可能做定向福利呢？\n\n———结束———\n\n1.曹大公众号(caoz的梦呓) To B的文章多看看，很有启发。\n\n2.做餐饮口碑第一位的，一切建立在这个基础上。\n\n3.大家可能也感觉到了，基本都是利用可触达用户的通道➕优惠券的形式来做唤醒。很多时候就是这样，好，但没想起来。\n\n4.想试一下小程序外卖的，加我微信strangebank ，报生财有术，给免费名额一枚。\n5. 感谢亦仁提供这么好的平台有机会跟大家学习，写的不对的地方，欢迎大佬指点，感谢。",
+        "images": [
+            {
+                "image_id": 244421448411841,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FkcJvo_7mmwl6ugs3OtTqSv3qJcj?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ypgcpxijID7tvFoMkSND4iTd6zw=",
+                    "width": 320,
+                    "height": 568
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FkcJvo_7mmwl6ugs3OtTqSv3qJcj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7iYfshU1bAfkTEJoxNoSPaCL5PA=",
+                    "width": 501,
+                    "height": 889
+                }
+            },
+            {
+                "image_id": 111148115188582,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FocdUHqk0oAsK-oifhP4bSFmiWgo?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7wLG_Gz9eGV6aWYn2jqOTVaXvLE=",
+                    "width": 320,
+                    "height": 568
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FocdUHqk0oAsK-oifhP4bSFmiWgo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rQH0EsZIpYpxD7Kx4cI3IyUcYdQ=",
+                    "width": 544,
+                    "height": 965
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-09T16:02:16.229+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-12-01T20:38:28.156+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-07-26T09:52:59.805+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-06-04T19:43:23.883+0800",
+            "owner": {
+                "user_id": 88244844128442,
+                "name": "Jiali",
+                "avatar_url": "https://images.zsxq.com/Fk_v0Eu54t4vZzyV7Ku9SgwYRZ7p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ysj-5eiJ2tt0BHfGIT0wmlQHLeY=",
+                "number": 3322
+            }
+        },
+        {
+            "create_time": "2019-05-20T12:49:35.429+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-05-18T14:29:35.651+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0=",
+                "number": 1659
+            }
+        },
+        {
+            "create_time": "2019-05-07T15:59:55.490+0800",
+            "owner": {
+                "user_id": 28482824212841,
+                "name": "Maggie刘翘",
+                "avatar_url": "https://images.zsxq.com/FgFbUG79T2YhhxZbpINNe5WqLqE-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cD6UKsUwLc_7egPSenrlXt_hT58=",
+                "number": 3872
+            }
+        },
+        {
+            "create_time": "2019-05-06T22:07:41.752+0800",
+            "owner": {
+                "user_id": 88884252451182,
+                "name": "谢导",
+                "avatar_url": "https://images.zsxq.com/FqAuuwVYlbqKQijQi01sMmgRrM7D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J5pifcnOwSjxTlSfHG11crNqMnM=",
+                "number": 5376
+            }
+        },
+        {
+            "create_time": "2019-05-05T13:44:12.313+0800",
+            "owner": {
+                "user_id": 881421558452,
+                "name": "杨明峰 嘴哥",
+                "avatar_url": "https://images.zsxq.com/FreCP5FiIzSVb7ZsvVYdxEDRotoV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lW41YFFkHSO-0p8nmyUeJjlpL-Y=",
+                "number": 1495
+            }
+        },
+        {
+            "create_time": "2019-05-05T09:02:44.815+0800",
+            "owner": {
+                "user_id": 552512141414,
+                "name": "逆刘而上",
+                "avatar_url": "https://images.zsxq.com/Fu9x7KRZSbgcDcvKYDVqrdfMY85H?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GRTHThTxwLbNTV7JebG32jBb7kg=",
+                "number": 3692
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-04-30T10:23:11.781+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1900
+        },
+        {
+            "create_time": "2019-05-31T15:47:34.463+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 168
+        },
+        {
+            "create_time": "2019-04-29T14:54:41.145+0800",
+            "owner": {
+                "user_id": 555555518824,
+                "name": "子布",
+                "avatar_url": "https://images.zsxq.com/FkvbpBYvTsNiEG2gVbC4eGAKKfIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxwyj7QQ1SgzG_buXEa0LQTujgM="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 118252118842522,
+            "create_time": "2019-04-29T22:40:36.360+0800",
+            "owner": {
+                "user_id": 228281155481,
+                "name": "雪峰码农",
+                "avatar_url": "https://images.zsxq.com/FqggBtb-DADUxKN8fhHJxv0_NuSu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4TEVISsnITt_b0-iJn2tJXWwV5o="
+            },
+            "text": "微信卡券怎么送出去？一直想把这个用好",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 33,
+    "rewards_count": 3,
+    "comments_count": 1,
+    "reading_count": 35854,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-04-29T08:48:41.854+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

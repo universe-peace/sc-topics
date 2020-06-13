@@ -1,0 +1,271 @@
+{
+    "topic_id": 28421141888151,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />  \n一款基于AI技术的Logo生成器，让这个小哥哥每月躺赚70000美元\n\n前两天有一个很火的AI看面相，今天分享的是另一个盈利非常可观的用AI技术实现的小产品。\n\n一、功能简介：\n\n产品名称：Logojoy，通过AI技术在线生成好看的Logo，鱼丸在他们官网体验了一下具体实现方法，如图1:\n第一步：选择自己喜欢的logo模板\n第二步：选择自己喜好的颜色\n第三步：选择自己偏好的一些符号\n最终做出了如图2、图3的logo，整体感觉很简约，时尚，配色比较高级，看得出这位小哥哥的设计功底。\n\n二、想法由来：\n\n主人公做了12年的设计师，为客户做了够150个Logo，他觉得自己做Logo，很费时间，Logo最终做出来，笔画却很简单。这个小哥哥觉得这是有套路的，可以用AI技术实现自动化。\n\n小哥哥发现“logo maker”的搜索量是“website builder”的三倍之多，这让他更坚定了这个想法是有市场的。\n\nMVP上线，大约花了2个半月，最有挑战性的部分是机器学习，他需要自己去定义规则，他用的技术栈比较老旧：PHP，MySQL，jQuery。\n\n三、结合人工智能，具体是怎么实现的？\n\n我们都知道Logo是一些元素的综合：字体，颜色，布局，符号等。这位小哥哥的这套算法，采用了机器学习去模拟，哪些元素组合在一起会更好。\n\n具体学习的过程是，跟踪用户的操作路径，比如用户选了什么样的灵感来源素材，偏爱的logo样式，对logo做了哪些编辑，目前跟踪的行为有80多种，根据不同的行为给予不同的权重。\n\n\n四、流量获取手段：\n\n1.发布在Product Hunt，以及个人的所有社交网络上上。（ 非常推荐在周二发布，效果完全不一样。）\n\n2.之后就是自发的口碑传播，达到了100%。一天之内，日本用户成了我们最大的目标群，占了所有流量的25%。\n\n所以当产品没有语言障碍，可以将眼光放眼到全球，市场可以大10倍，不用只局限在美国这一块蛋糕上。\n\n3.Google Adwords,每个点击花费0.2美元，每天花费250美元，网站UV能带来1800人。页面每天总计有5000多UV，25%的访客会完整体验完logo创建的过程并进行注册，其中有0.5%的人会付费，他们希望下个月起，可以提高到1-2%。\n\n\n五、收入模式：\n\n用户可以免费创建无数Logo，一旦看到满意的，可以花费20美元带走一个基础版本，也可以花费65美元，带走一个包含各种组建的高级版本。Logojoy发布的那天，就带来了450美元的收入，从那之后就一直在上升，在17年2月，收入达到了70000美元。最后一张图为收入表。\n\n六、未来目标：\n\n1.将Logojoy扩展更多的场景，比如从做logo到做一个广告banner，将其打造成一个世界级的很多人都喜爱的产品。\n2.解决信任问题，让用户相信Logojoy可以达到设计师的水准，即便机器学习可以达到和设计师一样的水准，但现在人们不会像设计师一样那么看待它。",
+        "images": [
+            {
+                "image_id": 48245422848248,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrTIG0LWDVAVXSymmTNKlCFLMAa_?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B5BKObylw_N3LEOSJuQmxM-gL6o=",
+                    "width": 320,
+                    "height": 557
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrTIG0LWDVAVXSymmTNKlCFLMAa_?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T7CA4ZMuc7c8prNwl1pOxTDWAec=",
+                    "width": 800,
+                    "height": 1392
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrTIG0LWDVAVXSymmTNKlCFLMAa_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pguiWjyBhdVm-lH09Hp6IUzfVJI=",
+                    "width": 1000,
+                    "height": 1740,
+                    "size": 441180
+                }
+            },
+            {
+                "image_id": 51425244121424,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FjOTzWj3rhX4r8gdmlHfdidz-_NG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:N_5ZQ8D32firTnymvMKtLlRjysQ=",
+                    "width": 320,
+                    "height": 276
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FjOTzWj3rhX4r8gdmlHfdidz-_NG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3_0G9eKJ6ioj942LQnPVXUGZaY4=",
+                    "width": 466,
+                    "height": 402
+                }
+            },
+            {
+                "image_id": 28452544858451,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpVS2Y2x2R-RQtrCK06N1Hx3ozUh?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xGGmV7KRAZd_Oa_pEzdqdsX98v0=",
+                    "width": 320,
+                    "height": 202
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpVS2Y2x2R-RQtrCK06N1Hx3ozUh?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Gfat-vPIhIQ5AYRGI5QStRt8ZD8=",
+                    "width": 800,
+                    "height": 506
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpVS2Y2x2R-RQtrCK06N1Hx3ozUh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OpqhiF4AMau_z_lar0O7fzBRmew=",
+                    "width": 825,
+                    "height": 522,
+                    "size": 271662
+                }
+            },
+            {
+                "image_id": 48245422848288,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhVc5Ma4Tw3i-Bq3kK5T5PS4jPd1?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:emzs-ghfcy9dwodTOgwAQt-EU-E=",
+                    "width": 320,
+                    "height": 147
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhVc5Ma4Tw3i-Bq3kK5T5PS4jPd1?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ds9kkfnpKETQI9av2ayZY2pJd9o=",
+                    "width": 800,
+                    "height": 366
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhVc5Ma4Tw3i-Bq3kK5T5PS4jPd1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Yy0N19BOjnfwsOaEWvgqi7gB4zw=",
+                    "width": 1528,
+                    "height": 700,
+                    "size": 192535
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-14T22:54:36.122+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-07-10T17:45:53.597+0800",
+            "owner": {
+                "user_id": 28458222528211,
+                "name": "satellite",
+                "avatar_url": "https://images.zsxq.com/FmUW51rrOi9DDEwcQOl4jsdbdPGF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vZptdisYVwNf_Af4hBdw6w1_jM4=",
+                "number": 4711
+            }
+        },
+        {
+            "create_time": "2019-05-21T22:18:23.234+0800",
+            "owner": {
+                "user_id": 141218885542,
+                "name": "tison",
+                "avatar_url": "https://images.zsxq.com/FsSKqOSjuYqzPDTgK1foaGNqbgU1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zBuJIxELISr50asm5zHsNPPKBkQ=",
+                "number": 2978
+            }
+        },
+        {
+            "create_time": "2019-05-11T23:39:25.450+0800",
+            "owner": {
+                "user_id": 48841158411428,
+                "name": "咚",
+                "avatar_url": "https://images.zsxq.com/Fs8D2JsYSU48cniLH2__SJiMv0Uk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k1E6qJz0oaqDc05XT7b-w2QUiCk=",
+                "number": 3548
+            }
+        },
+        {
+            "create_time": "2019-05-11T11:57:58.030+0800",
+            "owner": {
+                "user_id": 28245154184511,
+                "name": "🦄雨雨桐桐",
+                "alias": "🦄雨雨桐桐",
+                "avatar_url": "https://images.zsxq.com/FnQ9_whg8u7xyiT6XgX4Ez3iPJMK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AYciJwXB-U7HmuoPYUbenswnGe8=",
+                "number": 5269
+            }
+        },
+        {
+            "create_time": "2019-05-04T19:20:29.360+0800",
+            "owner": {
+                "user_id": 111848881828182,
+                "name": "阿辉|solas",
+                "avatar_url": "https://images.zsxq.com/FnsDztpOwv7f4I-VldCZFYFdVwFc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rmz3z1vZuqHmnyVqLF-3PYqMy6Q=",
+                "number": 4191
+            }
+        },
+        {
+            "create_time": "2019-05-03T21:39:39.165+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-25T00:12:05.561+0800",
+            "owner": {
+                "user_id": 481811282258,
+                "name": "shijinzhan",
+                "avatar_url": "https://images.zsxq.com/FliijMsDh3nCImaUJ815PfrN5bzz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWAe7GRFNmdaAFdntK-FR7s_z5s=",
+                "number": 5431
+            }
+        },
+        {
+            "create_time": "2019-04-23T22:11:22.173+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-04-19T19:20:46.099+0800",
+            "owner": {
+                "user_id": 111881824524542,
+                "name": "阿斌",
+                "avatar_url": "https://images.zsxq.com/FgFpxfF3czwLCOx6KEOULZRTb2l6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zCAJabU1XCjiYG5UYR6bAAvRWeo=",
+                "number": 4592
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2018-11-24T09:11:31.185+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 200
+        },
+        {
+            "create_time": "2018-11-24T22:07:07.479+0800",
+            "owner": {
+                "user_id": 551518815444,
+                "name": "Reddy xu",
+                "avatar_url": "https://images.zsxq.com/Fip7Eq0-CW36_iHNOzBlF81EPVXr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kI0Qt7x4Q1gN0GvcbQXqC6r1LfE="
+            },
+            "amount": 1000
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 544488555582214,
+            "create_time": "2018-11-23T19:40:46.643+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "图2、图3是鱼丸用他们官网做出来的logo，整体感觉比较简约时尚，也体验了国内一些在线制作logo的网站，效果就要差一些了。这源于这个小哥哥多年做设计师的审美积累，并巧妙地结合了机器学习。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111188448881522,
+            "create_time": "2018-11-23T22:43:05.814+0800",
+            "owner": {
+                "user_id": 15554852824512,
+                "name": "Richard.颜过",
+                "avatar_url": "https://images.zsxq.com/FvCMBDYrVBFHPYFzpRDDXsg223KX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:173yjKqD6VOQ_LSTfzd_Z6lEXtI="
+            },
+            "text": "基于大需求，再往深挖[鼓掌][鼓掌][鼓掌]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 844411241422422,
+            "create_time": "2018-11-24T17:57:03.535+0800",
+            "owner": {
+                "user_id": 152845512,
+                "name": "苏",
+                "avatar_url": "https://images.zsxq.com/Fj8ntRD_r4p8TOv-kAaVFkDgY0EZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL86jQGAFyFF-A70trmQdjbCkNI="
+            },
+            "text": "赞",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 544488881225144,
+            "create_time": "2018-11-27T22:13:44.771+0800",
+            "owner": {
+                "user_id": 142584444422,
+                "name": "刘坚",
+                "avatar_url": "https://images.zsxq.com/FjuVy7ksJsjRfnHorON3JERUfObH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uUazmviGzzothOsyp0B8e26s1Yg="
+            },
+            "text": "做个免费小程序，然后推商标注册如何？",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 33,
+    "rewards_count": 2,
+    "comments_count": 4,
+    "reading_count": 8259,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-11-23T19:23:35.802+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

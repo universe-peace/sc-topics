@@ -1,0 +1,272 @@
+{
+    "topic_id": 48254258488118,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "如果你用苹果手机订阅过某按月付费的app，且自动续费，很大一部分比例的用户会因为找不到退订入口而任由继续订阅。\n\n图1是退订的办法，普通小白用户基本别想找到入口。\n\n“根据苹果公司规定，您需要到苹果设备上登录您开通连续包月服务的 Apple ID来取消续费。\n\n取消方法\niOS手机登录开通续费账号，【设置】进入【 iTunes store与 App Store】>选择AppleID】>点击【查看 AppleID】>在账户设置页面点击【订阅管理】>取消优酷会员的订阅即可”",
+        "images": [
+            {
+                "image_id": 48248544851458,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpU_NWbi3QotjgamCwDpigQYlUJV?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Nm3_DMVezADN0YMZGEq4abIrrKk=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpU_NWbi3QotjgamCwDpigQYlUJV?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:M91cfmWq2LTVVFyp8Ianka1kSIM=",
+                    "width": 800,
+                    "height": 1423
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpU_NWbi3QotjgamCwDpigQYlUJV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-JANZG2M5s35GHz4ileIT6eEYng=",
+                    "width": 1079,
+                    "height": 1919,
+                    "size": 122987
+                }
+            },
+            {
+                "image_id": 88458255821522,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgriZmugOIRxRZ9j9_C4suiMkBN9?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jzSFbx6Dd1lEAmmo1rdPgSzluGM=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgriZmugOIRxRZ9j9_C4suiMkBN9?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wKkdadYPirCSujzcPXpzMz7WyLo=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgriZmugOIRxRZ9j9_C4suiMkBN9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oQW5HcVmaAWcEJ_h6IyKtEpvf4E=",
+                    "width": 1242,
+                    "height": 2208,
+                    "size": 268546
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-14T23:07:24.726+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-05-08T08:34:53.129+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-23T23:09:10.990+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-12-03T18:24:48.950+0800",
+            "owner": {
+                "user_id": 48815121482128,
+                "name": "BlockD",
+                "avatar_url": "https://images.zsxq.com/FrnwDhyw3qGHwVFV_XCT4LI1e32o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:A3jO0WNfQDtuZ2-A1Tcfx-L_8ec=",
+                "number": 2420
+            }
+        },
+        {
+            "create_time": "2018-11-14T22:23:21.540+0800",
+            "owner": {
+                "user_id": 1112488512,
+                "name": "Lento",
+                "avatar_url": "https://images.zsxq.com/Fn1FwYF0VOCw3fLV4kR4LVEDD537?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hzXilHo-p_RPgNsea_8syToPsX8=",
+                "number": 286
+            }
+        },
+        {
+            "create_time": "2018-11-14T00:26:54.451+0800",
+            "owner": {
+                "user_id": 145884814482,
+                "name": "pscj",
+                "avatar_url": "https://images.zsxq.com/FjxkwlFrJOJAsluYa658QaSDNNEu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dRA0Ht_DiXeW3h8N1VcsbJXtzgk=",
+                "number": 1995
+            }
+        },
+        {
+            "create_time": "2018-11-13T19:53:15.297+0800",
+            "owner": {
+                "user_id": 15148181251152,
+                "name": "Morty",
+                "avatar_url": "https://images.zsxq.com/FrZSQfSfGkSV-oFrlWCGZGne6xP4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhTkjxN-nGMo0YnQt_wnI4HEKyg=",
+                "number": 2391
+            }
+        },
+        {
+            "create_time": "2018-11-13T16:36:58.931+0800",
+            "owner": {
+                "user_id": 5484885244,
+                "name": "熙颜",
+                "avatar_url": "https://images.zsxq.com/Fuk4vgT8OhjUbFc5MfOpTwbYIq9L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4CK-8zprZrBWGlF93n0vv0g6zcQ=",
+                "number": 1839
+            }
+        },
+        {
+            "create_time": "2018-11-13T15:47:52.503+0800",
+            "owner": {
+                "user_id": 15555858252412,
+                "name": "刘文",
+                "alias": "刘文",
+                "avatar_url": "https://images.zsxq.com/FnvZtXkVHNWuI-T46YKY9MPpsCa-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PT4AUIOL6kx1O8rIWeRPd02JOw0=",
+                "number": 1504
+            }
+        },
+        {
+            "create_time": "2018-11-13T14:57:37.492+0800",
+            "owner": {
+                "user_id": 142181412142,
+                "name": "一嘉脑师",
+                "avatar_url": "https://images.zsxq.com/FjB0GTwcUk9EIwoYiW-gcM1hChvc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YicEDvGRF2GLpnIr8Q2v_fOUU1M=",
+                "number": 1964
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 544484144818114,
+            "create_time": "2018-11-13T12:07:51.763+0800",
+            "owner": {
+                "user_id": 454548248118,
+                "name": "Benjamin@M*",
+                "avatar_url": "https://images.zsxq.com/Ftl0S5O0xTM08BHt4DO-_0fzOnIX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2MjcJKu_t-XPBP-jS6DxjMLyZNk="
+            },
+            "text": "所以问题来了，如何诱导用户来订阅？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 844414844128482,
+            "parent_comment_id": 544484144818114,
+            "create_time": "2018-11-13T12:12:34.514+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "业内的套路应该是： 七天免费试用，如果不主动取消，则自动开始每个月扣费。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454548248118,
+                "name": "Benjamin@M*",
+                "avatar_url": "https://images.zsxq.com/Ftl0S5O0xTM08BHt4DO-_0fzOnIX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2MjcJKu_t-XPBP-jS6DxjMLyZNk="
+            }
+        },
+        {
+            "comment_id": 844414844124182,
+            "create_time": "2018-11-13T12:17:24.168+0800",
+            "owner": {
+                "user_id": 48841124214448,
+                "name": "Alex",
+                "alias": "Neverland",
+                "avatar_url": "https://images.zsxq.com/FrCjI0OQKtfDKD3tyOCAs5uQzRlg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nvEEYoeaEPZFVT0RaIAnPfFAoiM="
+            },
+            "text": "这个我中招了几次",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111181511815282,
+            "parent_comment_id": 544484144818114,
+            "create_time": "2018-11-13T12:23:30.687+0800",
+            "owner": {
+                "user_id": 4515221488,
+                "name": "迦勒底",
+                "alias": "迦勒底Σ(ﾟдﾟlll)",
+                "avatar_url": "https://images.zsxq.com/Fkyot-qhElWVjfGVOqzuWcSSSB63?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DZlwWTKu44WMhQlgVwGnzPa4uNY="
+            },
+            "text": "爱奇艺也是类似套路",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 244414841442411,
+            "create_time": "2018-11-13T14:32:39.371+0800",
+            "owner": {
+                "user_id": 552845842444,
+                "name": "不眠奶爸Robert",
+                "alias": "不眠奶爸Robert",
+                "avatar_url": "https://images.zsxq.com/FhG5U3zrfSrthzq_lb1W25zzKa2H?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZBpaznk8nZe7moDMwFWx3dAXXJ0="
+            },
+            "text": "深受其害，非常折腾！[抓狂]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111181518815242,
+            "create_time": "2018-11-13T14:57:33.167+0800",
+            "owner": {
+                "user_id": 142181412142,
+                "name": "一嘉脑师",
+                "avatar_url": "https://images.zsxq.com/FjB0GTwcUk9EIwoYiW-gcM1hChvc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YicEDvGRF2GLpnIr8Q2v_fOUU1M="
+            },
+            "text": "我也中过招！后来摸清门道，会在订阅同时设个提醒，提前取消。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111181425558822,
+            "create_time": "2018-11-14T00:27:52.958+0800",
+            "owner": {
+                "user_id": 452514458218,
+                "name": "星佳是个小人物",
+                "alias": "星佳是个小人物",
+                "avatar_url": "https://images.zsxq.com/FkonNNIsUwQqtqoXJK45t32Ey15r?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U5g3eg__yk8YqCZHtgV9aIGd41s="
+            },
+            "text": "直接打苹果客服即可，而且苹果客服web端输入你的号码，人家给你打过来，态度很赞",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 14,
+    "rewards_count": 0,
+    "comments_count": 7,
+    "reading_count": 7415,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-11-13T12:04:13.315+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

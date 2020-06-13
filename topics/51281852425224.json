@@ -1,0 +1,284 @@
+{
+    "topic_id": 51281852425224,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8212282852,
+            "name": "阿彪",
+            "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+        },
+        "text": "做affiliate marketing，我们知道link building从种类上主要有broken linking，guest blog，guestographics，skyscaper等方式。从做事流程上来说主要是scrape 和outreach两块。在开始阶段，我目前先开始做的是broken linking，因为不用写文章，也还是在scrape的阶段。这里对于broken linking介绍几款工具，这些都是这几天自己测试尝试过的。\n免费版：LinkClump浏览器插件+Screaming Frog SEO Spider桌面软件(每次可以免费检查50条URL的broken link)\nLinkClump可以迅速复制粘贴搜索结果里面的所有title和URL。Screaming Frog SEO Spider可以每次批量免费检查50条URL的broken link。\n付费版：ScrapeBox 桌面软件，终身价将近100美金。\n这个软件素有SEO届的瑞士军刀之称，当年用来于批量发poster评论，后来由于该方式受到惩罚也就渐渐冷却了。但是它功能超级强大，用来做白帽SEO也是可以的。比如broken link，你可以直接在软件界面搜索关键词，然后将结果链接直接用来测DA, PR等（不需要导入导出），然后导出筛选高DA的链接，直接又导入该软件测试broken link。所有的活都可以它一个人干完。同样的，这个搜索步骤也适合于用来寻找需要guest blog的，寻找resources，等等。所有与搜索相关，然后对搜索结果进行优质筛选，都可以用它快速解决。\n注意，千万不要一个页面一个页面的用插件去检查他的broken link，那样效率极低！重复性的东西一定要想到是否可以批量化，scale！\n当然，他还有非常多其他和SEO相关的功能。比如：测外链，锚文本，Mass URL shorter等等SEO需要的一些通用功能。具体可以看这下面两个链接：\n<e type=\"web\" href=\"http%3A%2F%2Fwww.scrapebox.com%2Ffeatures\" title=\"Features+-+ScrapeBox\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2Ff268838221a6c36c6e97b5417402e402c23c49dbf5ce9b07845a6ff8fdb1f178\" />\n<e type=\"web\" href=\"http%3A%2F%2Fwww.scrapebox.com%2Faddons\" title=\"Addons+-+ScrapeBox\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2F56304cf11e4b42c2ca4cbfaf76bdcc1d6ce4f74f036a458dbc722d80e857a4ea\" /> \n下面这篇博客也对这个软件的一些白帽用法进行了介绍：<e type=\"web\" href=\"https%3A%2F%2Fwww.quicksprout.com%2Fthe-advanced-guide-to-link-building-chapter-8%2F\" title=\"https%3A%2F%2Fwww.quicksprout.com%2Fthe-advanced-guide-to-...\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201705%2F082dcc4878d6d334a173d2725dd1e37b7c0dec46b6a72801b8fb0c74eb3d5883\" /> \n感想：前面这几种主要的link building的方式，对于不同的niche方向，其有效性是不一样的。目前就我看到找到的这些broken link，其实和自己的文章比较贴切的不多。很多东西在尝试之前，看到博客，看到别人赚钱怎么怎么厉害，非常兴奋。自己去干的时候，其实是并不是那么美好。几天的功夫可能就纯粹证明了这个方法在这个方面可能不适合。所以，要尽快找到合适自己方向的方法，然后下猛药，活力全开。方法不要 多，往往绝招就是那么一两个。关键的是尽快找到那个适合你自己方向的招数。",
+        "images": [
+            {
+                "image_id": 28518418552881,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fv4DhDX0Z7KpZRmx2h6SpfsoFCrC?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Qq9jJGsn1fl7Io275OyBGO1laOY=",
+                    "width": 320,
+                    "height": 290
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fv4DhDX0Z7KpZRmx2h6SpfsoFCrC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iRCYuITK_eJa7ZKZFvA_4hd1xdY=",
+                    "width": 713,
+                    "height": 647
+                }
+            },
+            {
+                "image_id": 15285185224542,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvAvRQGD9ymX-BBpvXrVlHf3e80l?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9khnyQE_wdJeXigL0GMuAYV0ZBY=",
+                    "width": 320,
+                    "height": 175
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvAvRQGD9ymX-BBpvXrVlHf3e80l?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8694ox9fBft1nTC_j3EonLTiptI=",
+                    "width": 800,
+                    "height": 437
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-04T01:22:10.950+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q=",
+                "number": 6312
+            }
+        },
+        {
+            "create_time": "2019-07-31T16:46:43.964+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-01T19:54:00.339+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-29T21:11:52.702+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-04-19T05:36:09.699+0800",
+            "owner": {
+                "user_id": 5418451184,
+                "name": "Kevin",
+                "avatar_url": "https://images.zsxq.com/Fqt-vriLjQdF1rDsBuj3Mddk05e3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zDlNOES1auuSs0Xnn0McelAz4P8=",
+                "number": 1743
+            }
+        },
+        {
+            "create_time": "2017-05-16T14:09:18.809+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk=",
+                "number": 661
+            }
+        },
+        {
+            "create_time": "2017-05-16T10:35:47.610+0800",
+            "owner": {
+                "user_id": 551188155854,
+                "name": "Kris",
+                "avatar_url": "https://images.zsxq.com/FpHQ8ZIsIWSAYVdRb4a9g5f-cdSw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dnHcbTjXCjruEjUV1_Mv5e3Gti0=",
+                "number": 1007
+            }
+        },
+        {
+            "create_time": "2017-05-15T15:22:54.052+0800",
+            "owner": {
+                "user_id": 454148241428,
+                "name": "明",
+                "avatar_url": "https://images.zsxq.com/Fm9ngSpNli4GjtrI-CIPClWqnBXH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FV7r3DsC4h3ZN_L88txMd3d7I_k=",
+                "number": 216
+            }
+        },
+        {
+            "create_time": "2017-05-15T12:40:54.814+0800",
+            "owner": {
+                "user_id": 5585841254,
+                "name": "砌墙工人",
+                "avatar_url": "https://images.zsxq.com/FvlY8NpoBACV8RHzmDrOmZw5ba5l?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oexmPIt6j61RZhLF-rVQI1N7h6M=",
+                "number": 429
+            }
+        },
+        {
+            "create_time": "2017-05-15T09:22:25.460+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s=",
+                "number": 823
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-15T13:16:39.176+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1888
+        },
+        {
+            "create_time": "2017-05-15T09:32:04.914+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s="
+            },
+            "amount": 888
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 48418182244858,
+            "create_time": "2017-05-15T09:23:49.023+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s="
+            },
+            "text": "我也在苦苦摸索中，谢谢分享。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 51281814484524,
+            "parent_comment_id": 48418182244858,
+            "create_time": "2017-05-15T09:55:40.164+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "我们多多交流，谢谢赞赏😄😄😄",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s="
+            }
+        },
+        {
+            "comment_id": 28518184111411,
+            "parent_comment_id": 48418182244858,
+            "create_time": "2017-05-15T10:34:56.854+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s="
+            },
+            "text": "好的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            }
+        },
+        {
+            "comment_id": 88518181214812,
+            "create_time": "2017-05-15T13:15:45.907+0800",
+            "owner": {
+                "user_id": 281515818451,
+                "name": "萧遥",
+                "avatar_url": "https://images.zsxq.com/FsurLbkQq-G5zJLVU_S_SdwHVTGO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GJqgfNiwftE-_9zwPTPFtbImT2s="
+            },
+            "text": "Broken Link 怎么用？告知对方换一个你的链接吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 48418181212558,
+            "create_time": "2017-05-15T13:56:47.550+0800",
+            "owner": {
+                "user_id": 145418148442,
+                "name": "Abbie",
+                "avatar_url": "https://images.zsxq.com/FvwvqOd32ebSUqq0qhDguQQI48Zt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wq2mRfmTrDu86DZw7i4YfpA508c="
+            },
+            "text": "这个guestographics 是用infographic 做外链的意思？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 51281852218584,
+            "parent_comment_id": 88518181214812,
+            "create_time": "2017-05-15T15:04:42.856+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "对啊。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 281515818451,
+                "name": "萧遥",
+                "avatar_url": "https://images.zsxq.com/FsurLbkQq-G5zJLVU_S_SdwHVTGO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GJqgfNiwftE-_9zwPTPFtbImT2s="
+            }
+        },
+        {
+            "comment_id": 51281852218414,
+            "parent_comment_id": 48418181212558,
+            "create_time": "2017-05-15T15:04:49.428+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "是的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 145418148442,
+                "name": "Abbie",
+                "avatar_url": "https://images.zsxq.com/FvwvqOd32ebSUqq0qhDguQQI48Zt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wq2mRfmTrDu86DZw7i4YfpA508c="
+            }
+        }
+    ],
+    "likes_count": 12,
+    "rewards_count": 2,
+    "comments_count": 7,
+    "reading_count": 2152,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-14T23:48:13.400+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

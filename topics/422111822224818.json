@@ -1,0 +1,341 @@
+{
+    "topic_id": 422111822224818,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8214158152,
+            "name": "明白",
+            "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+        },
+        "text": "《产品名字，只有一个目的：降低用户认知成本》\n\n1 \n\n我之前写过一篇文章：<e type=\"web\" href=\"https%3A%2F%2Fwww.jianshu.com%2Fp%2F28a905b3c889\" title=\"%E6%88%91%E5%B0%9D%E8%AF%95%E4%BA%86+99+%E7%A7%8D%E5%BB%BA%E7%AB%99%E6%96%B9%E6%B3%95%EF%BC%8C%E6%8C%96%E6%8E%98%E5%87%BA%E4%B8%80%E4%B8%AA+5+%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA+wordpress+%E7%9A%84%E6%96%B9%E6%B3%95+-+%E7%AE%80%E4%B9%A6\" cache=\"\" />\n\n文章开头，介绍了一个叫「小丁当」的工具，\n一个朋友看到后说，\n这个工具明明是 cPanel，\n叫什么小丁当？\n\n嗯，他说的对，这个软件是叫 cPanel。\n\n我一开始写的也是 cPanel，是这么介绍的 ——\n\n----------------\ncPanel，它是世界上功能强大，容易使用，因而比较受用户欢迎的虚拟主机控制系统。cPanel 是一套在网页寄存业中最享负盛名的商业软件，是基于于 Linux 和 BSD 系统及以 PHP 开发且性质为闭源软件；提供了足够强大和相当完整的主机管理功能，诸如：Webmail 及多种电邮协议、网页化 FTP 管理、SSH 连线、数据库管理系统、DNS 管理等远端网页式主机管理软件功能。\n--------------\n\n文章写完后，被张佳老师看到，他说 “我跟你讲，小白看到cPanel这个单词，直接就关掉页面去看下一篇教程了…”\n\n我仔细一想，还真是。于是我就修改文章，将 cPanel 取名「小丁当」，然后用「人话」解释了一下功能，大家有兴趣可以看看我重写的部分。\n\n为什么改成「小丁当」？因为它是机器猫，他是的口袋里有万能的工具。我希望用户看到这个词，就知道这篇文章会分享的是一个黑科技，一个能提供很多功能的黑科\n技，这样他才会读下去。\n\n举这个例子，是要分享一个概念——「用户认知成本」。\n\n曹大的文章以前也多次说过这个：<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNzOBJ_X-uqgWhrMkYRkh7A\" title=\"%E8%B0%88%E8%B0%88%E7%94%A8%E6%88%B7%E8%AE%A4%E7%9F%A5%E6%88%90%E6%9C%AC\" cache=\"\" />。建议做互联网的人，多看几遍，隔一段时间再看。\n\n因为这个不仅仅是创业做产品需要，如果多思考一下，你会发现，日常工作沟通，写文章，谈恋爱等等，只要是「和人沟通」的事情。\n都和用户认知有关系。\n\n（1）什么是用户认知？\n\n就是用户看到这个产品，会想到什么？\n\n比如：\n看到 cPanel，和下面的一段话，就会想到计算机。\n看到小丁当，就会想到机器猫，一个万能的工具。\n\n（2）什么是用户认知成本？\n\n就是用户\n从\n看到这个产品，\n到\n发生兴趣，\n**所需要花费的成本（时间、精力、知识、思考、动作（搜索、询问、请教）等等）**\n\n（3）什么是降低用户认知成本？\n\n就是要让用户从看到你的产品，到发生兴趣之间，所需要花费的成本尽可能最小。\n\n（4）怎么降低用户认知成本？\n\n我们做产品，无论是APP，小程序、海报、文章等等，第一个进入用户眼睛的，是名字。\n\n如何降低用户对于名字的认知成本？\n\n一句话：把名字和熟悉的事物联系起来。\n\n《超级符号原理》，讲的就是这个，这并不是新理论，我们每个人都用过。\n\n它另一个名字叫类比，或者比喻。\n把 A 比作 B。\nA 叫本体\nB 叫喻体。\n这个大家都熟悉。\n\n超级符号，是一个非常强大的喻体，强大到你看了就会觉得很熟悉，很信任，很想买。\n\ncPanel 叫做小丁当，就是把 cPanel 和 小丁当这个熟悉的事物联系起来，降低用户认知成本。\n\n一个小程序统计平台，叫阿拉丁，就是把平台和阿拉丁神灯联系起来，比喻什么都能做的意思。\n\n知识星球，为什么叫知识星球？把知识社群、和星球联系起来，用户就知道，这个产品里面有好多社群，因为宇宙有很多星球。\n\n现在你知道了，做产品，需要找到一个熟悉的事物，把产品和它联系起来。\n-----------------------------------\n\n我们再来看一个真实案例。\n\n2 生财日历 VS 生财有术日历\n\n生财有术最近有个大航海计划，准备做一个产品，把生财有术星球的精华帖，整理 365 篇，做一个日历，这个产品的名字叫「生财日历」。\n\n这个名字好吗？\n\n很好，读起来大气、简洁、有气势，很酷。\n\n但我们仔细想一下，我们为产品取名，目的是什么？\n\n只有一个目的：降低用户认知成本。\n\n好，我们来分析一下，用户看到「生财日历」会想到什么？\n\n为了方便大家更清晰的思考，我们先把用户划分成 3 类。\n\n1 知道生财有术，已经加入星球。\n2 知道生财有术，没加入星球。\n3 不知道生财有术\n\n这个分类使用了 MECE 法则，意思是 “相互独立，完全穷尽”。这个分类包含了所有的用户。\n\n我们挨个看下。\n\n1 知道生财有术，已经加入星球。\n\n这类用户，也就是你们，正在看帖子的人，你们看到「生财日历」会想到什么？\n\n你会毫不迟疑的想到，这是是生财有术出的日历。\n\n当然。因为名字是我们一起想的。\n\n等会，我们换个场景。\n\n如果你在朋友圈看到「生财日历」这个四个字，你会好不怀疑的想到，这是生财有术出的日历吗？\n\n先不急回答。\n\n我们把它拆开。\n「生财」 + 「日历」。\n「日历」不用说，这是品类词。\n\n就说「生财」，字面意思：生产财富。这是一个大众词，人人见过，人人看到都能理解什么意思。\n\n百度一下，看图1 。\n\n如果让你现在离开这个帖子去朋友圈，看到「生财」，你会联系到「生财有术」。\n\n这里假设了前提，所以结果不可靠。\n\n现在，你闭上眼睛，想想一下，你刚刚看完一场电影，刚写文一篇文章，刚刷完抖音，你在朋友圈看到「生财」2 个字，会联系到「生财有术」吗？\n\n你想象一下，有了答案在往下看。\n\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n--------------------\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n—————先别往下看文字，\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n--------------------\n----------\n\n你的答案是什么？\n\n现在你是否能确定，你在任何时候，做任何事情时，在朋友圈随时看到「生财」，第一瞬间就能想到「生财有术」吗？\n\n你不会。\n\n好，我们退一步，如果你特别敏感，看到「生财」就会想到「生财有术」。\n\n于是，你看到「生财日历」，你会第一瞬间想什么？你会想，这是生财有术出的日历吗？\n\n你会问一下发这个信息的人，这是生财有术出的日历吗？\n\n「你会问一下」，这是什么？\n\n这是在增加用户认知成本。\n\n这还是太理想化了。\n\n我们换一下，如果你在朋友圈看到「生财有术日历」，你会想到这是生财有术出的吗？\n\n会，你会铁板钉钉的知道。\n\n因为「生财有术」虽然是大众词，但经过社群 3 期的发展，现在「生财有术」在互联网圈小范围已经是品牌词了。\n\n百度一下，3000w 的收录。 图2。\n\n2 知道生财有术，没加入星球。\n\n如果一个用户，没有加入生财有术，他只是听说过生财有术。\n\n所以他对于生财有术的印象，没有我们强烈。\n\n他在朋友看到「生财日历」，会想到什么？\n\n还是分 2 块。\n「日历」，品类词，每个人都懂，不用讲。\n「生财」：生产财富。\n\n连起来 = 能够产生财富的日历 = 能够赚钱的日历 = 这个日历，看了就能赚钱。\n\n想想一下，如果你在朋友圈，看到有人转发一个海报，上面印着「生财日历」。\n\n你大脑会想：这个日历看了就能产生财富？就能赚到钱？这 TM 肯定是骗子。\n\n或许，你还会屏蔽，拉黑这个人。\n\n我们换一下，如果他在朋友圈看到「生财有术日历」，他会想到这是生财有术出的吗？\n\n会。\n\n因为他虽然没有加入生财有术，但他知道，他听说过，所以他会有星球，那个讲赚钱，涨价很块，门票 1700 的星球，竟然出了一个日历，这是啥幺蛾子，看看。\n\n咦，才 99 块钱，可以看到 365 个案例，不错啊。买。\n\n3 不知道生财有术\n\n前面 2 点是知道生财有术的用户，我们再来看看不知道生财有术的人。\n\n这就更简单了。\n\n一个不知道生财有术的人，他看到「生财日历」，会想到什么？\n\n还是分 2 块。\n「日历」，每个人都懂，不用讲。\n「生财」：产生财富。\n连起来 = 能够产生财富的日历 = 能够赚钱的日历 = 这个日历，看了就能赚钱。\n\n想想一下，如果你在朋友圈，看到有人转发一个海报，上面印着「生财日历」，你大脑会想：这个日历看了就能产生财富？就能赚到钱？这肯定是骗子。\n\n或许，你还会屏蔽，拉黑这个人。\n\n我们换一下，如果他在朋友圈看到「生财有术日历」，他会想到这是生财有术出的吗？\n\n不会。\n\n因为他不知道「生财有术」是个社群，是个星球。\n\n他会怎么理解？\n\n我们拆一下：「生财有术日历」\n「日历」，每个人都懂，不用讲。\n「生财」：产生财富。\n「有术」：有方法。\n\n产生财富 + 有方法 + 日历  = 产生财富有方法的日历 = 赚钱有方法的日历 =  这个日历，是讲赚钱方法的\n\n赚钱有方法，这个大家都认可吧。\n\n「生财有术日历」= 这个日历，是将赚钱方法的 = 讲赚钱方法，嗯，怎么回事？看看，99 块钱，365 个案例，还不错。咦，生财有术是个社群？我百度一下，嗯，看起来不错，门票 1700 啊，太贵了，这个日历先看看，行的话，再加社群。\n\n-------------------------------\n嗯，我分析完了。\n\n总结一下：\n\n1 知道生财有术，已经加入星球。\n\n看到「生财日历」：询问，买。\n看到「生财有术日历」：买。\n\n2 知道生财有术，没加入星球。\n\n看到「生财日历」：骗子，拉黑。\n看到「生财有术日历」：感兴趣，买，加入。\n\n3 不知道生财有术\n\n看到「生财日历」：骗子，拉黑。\n看到「生财有术日历」：感兴趣，搜索，买，加入。\n\n----------------------\n上面我们从用户认知角度看了一下，现在我们从品牌角度看看。\n\n前几天在群里，听大家讨论，「生财日历」，要再造一个 IP，也就是再造一个品\n牌。\n\n日历不用讲，是品类词。\n\n也就是说，我们要把「生财」打造成一个品牌。\n\n生财：生产财富。\n\n它是一个大众词，是一个人人都知道的词。\n\n要把一个人人都知道的大众词，打造成品牌。\n\n可能吗？\n\n可能，但是需要巨大巨大巨大的成本。\n\n我最近升级新课程，所以也研究了华与华的超级符号。\n\n历史上，从来没有把大众词做成品牌的企业。\n\n大品牌，要么不常见，横冲出世，它从出现的第一次，就是这个品牌，然后花大钱给\n用户宣传，最后成了品牌词。比如：杜蕾斯、加多宝、可口可乐，脑白金。\n\n要么是超级符号，把产品嫁接到这个超级符号上，然后话大钱个用户宣传，最后成了品牌词。\n\n比如：阿里巴巴，天猫，京东，苹果。\n所以，把一个大众词，打造成品牌，成本太大。\n-------------------------------------\n\n为什么「生财有术日历」很好，因为「生财有术」在互联网圈小范围已经是个品牌词了，已经投入了大量时间、精力。\n\n品牌要做好，就一个核心：重复。\n\n怎么重复？\n「生财有术日历」\n「生财有术小册」\n「生财有术案例集」\n「生财有术小讲」\n「生财有术内参」\n\n每做一个产品，都是对「生财有术」品牌的积累，越往后，势能越大，做拓展产品就越容易。\n\n如果按照现在的逻辑，叫「生财日历」，后面会再出一个「生财小册」、「生财案例集」。\n\n以前有过 2 个「生财小讲」，「生财内参」。\n我觉得这属于沉没成本，可以忽略。\n\n还有一点，「生财」是大种词，「生财 XX」，其他每个社群也能用。\n\n「生财有术 XX」，虽然还不是生财有术专属，但重复的多了，就是了。\n\n你可能会说，「生财有术XX」字数太多，太没有新意，太不酷了。\n\n我只想说，产品名字只有一个目的：降低用户认知成本。\n\n降低用户认知成本，就是降低产品传播成本。\n降低产品传播成本，就是提高产品用户数量。\n提高产品用户数量，就是提高产品收入，就是多赚钱。\n---------------------------------\nwx：mingbai62，欢迎交流",
+        "images": [
+            {
+                "image_id": 244122225851281,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FkUoQdO-fYHff0T8Nt7bczrcfEkr?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n4jo3r2SUvKIPfcQjCf35dU_XzE=",
+                    "width": 320,
+                    "height": 426
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FkUoQdO-fYHff0T8Nt7bczrcfEkr?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QjNAL4vNWXFqQ3GfikRt-6vLn1Q=",
+                    "width": 800,
+                    "height": 1064
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FkUoQdO-fYHff0T8Nt7bczrcfEkr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDJr5zc1cap6T-6EuGM_2gpcol0=",
+                    "width": 1140,
+                    "height": 1516,
+                    "size": 803766
+                }
+            },
+            {
+                "image_id": 544855552112484,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FicSho5NIfuzAxIsyfui2wrwXMYL?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ke74z8lS8CYv_an98MihcT8dPpo=",
+                    "width": 320,
+                    "height": 362
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FicSho5NIfuzAxIsyfui2wrwXMYL?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z7GIk9WTCCMID3C4nXu8DQVV8fU=",
+                    "width": 800,
+                    "height": 904
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FicSho5NIfuzAxIsyfui2wrwXMYL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FKgxcWqG_Y4E-fOnGAGIsPoxDLA=",
+                    "width": 1352,
+                    "height": 1528,
+                    "size": 443172
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-10-09T19:23:57.780+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-10-05T12:27:41.804+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-10-03T11:34:09.308+0800",
+            "owner": {
+                "user_id": 488415418,
+                "name": "CaptainAm",
+                "avatar_url": "https://images.zsxq.com/Fq0u13XiT6z_1ggjymjlfB-suZ3G?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GzCZBBJwPql-qYMYbQqAEXRwQtY=",
+                "number": 3506
+            }
+        },
+        {
+            "create_time": "2019-09-28T13:56:40.100+0800",
+            "owner": {
+                "user_id": 15288428211222,
+                "name": "进撃の真野君",
+                "avatar_url": "https://images.zsxq.com/FpdvgiNh6swoGMkGc8kNG_m_kFEP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kVTGzoHYtlFB3MJ_Gz4UIvsysZQ=",
+                "number": 2819
+            }
+        },
+        {
+            "create_time": "2019-09-27T21:05:06.501+0800",
+            "owner": {
+                "user_id": 225158851421,
+                "name": "苏菊",
+                "avatar_url": "https://images.zsxq.com/FufW5AX0co9MoP9AHyuIgALvvips?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ow4FE6dQL-VYwodulIShwZd4ii4=",
+                "number": 3722
+            }
+        },
+        {
+            "create_time": "2019-09-24T21:42:23.526+0800",
+            "owner": {
+                "user_id": 111844584284122,
+                "name": "辛鉴",
+                "avatar_url": "https://images.zsxq.com/Fq4VccCBo1mFii5dDSUqEtw1K6un?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wPzhaNopW3OPNgjv1mFNjdy2oWc=",
+                "number": 4291
+            }
+        },
+        {
+            "create_time": "2019-09-23T16:54:08.779+0800",
+            "owner": {
+                "user_id": 244418181282821,
+                "name": "安宁",
+                "avatar_url": "https://images.zsxq.com/FlLcoKYe5lhml7_m8RBztobYYguc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAgJbEcJ8GcWBEl5eprOpEd9aoE=",
+                "number": 6193
+            }
+        },
+        {
+            "create_time": "2019-09-19T20:29:22.495+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-18T21:39:53.887+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-09-18T18:04:33.093+0800",
+            "owner": {
+                "user_id": 844184512451442,
+                "name": "阿思",
+                "avatar_url": "https://images.zsxq.com/FpRCmvQLgU4P26vaQGYIOZQ-56cF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MFjQa2wd96RvtyH-lkThfb7iRho=",
+                "number": 6151
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-08-31T23:50:36.568+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "amount": 550
+        },
+        {
+            "create_time": "2019-08-31T23:12:00.785+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ="
+            },
+            "amount": 640
+        },
+        {
+            "create_time": "2019-11-21T12:32:41.742+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2019-10-09T19:24:09.284+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2019-09-05T08:50:41.426+0800",
+            "owner": {
+                "user_id": 5454845584,
+                "name": "行者无疆",
+                "avatar_url": "https://images.zsxq.com/Fngyio_ODNWPpncvLa-duQ935ctB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VXouWoC6UPc3QrcL4cjQyPL0Zyc="
+            },
+            "amount": 150
+        },
+        {
+            "create_time": "2019-09-01T17:47:15.308+0800",
+            "owner": {
+                "user_id": 455241418248,
+                "name": "青十五",
+                "avatar_url": "https://images.zsxq.com/FkR21MMUIkRDsA_KEL9LQmJbb6Fz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MRoM7qKXbA7CtxFJnqQBYHrOojY="
+            },
+            "amount": 230
+        },
+        {
+            "create_time": "2019-09-01T08:33:25.490+0800",
+            "owner": {
+                "user_id": 512411884,
+                "name": "Take",
+                "avatar_url": "https://images.zsxq.com/FvasecbYNpoNWiJAsij8nRiVgVHI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pDHTzfMgN70_fT35thCqsDBfuPI="
+            },
+            "amount": 240
+        },
+        {
+            "create_time": "2019-08-31T21:31:15.222+0800",
+            "owner": {
+                "user_id": 48412881288128,
+                "name": "乔里奥",
+                "avatar_url": "https://images.zsxq.com/FikgtoR0KDBmo2F09_VYXoWRuWXU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v6o5BO7CxBgLFY8jFjo-hi3J7UM="
+            },
+            "amount": 338
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548114512841824,
+            "create_time": "2019-08-31T22:37:15.307+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "明白现在写东西真透彻",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241884288542241,
+            "create_time": "2019-08-31T23:12:10.532+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ="
+            },
+            "text": "明白现在写东西真透彻+1",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841884288518512,
+            "create_time": "2019-08-31T23:21:51.143+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "厉害，把想法表达清晰，太棒了",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118551455285422,
+            "create_time": "2019-08-31T23:23:02.010+0800",
+            "owner": {
+                "user_id": 51284811421454,
+                "name": "毒舌叔叔",
+                "avatar_url": "https://images.zsxq.com/FqRTrcUKUTcb4d9wPg2EYrF2fDz4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jqmbsaHx5I8f-qFsVQHtA_oA4Ow="
+            },
+            "text": "明白现在写东西真透彻+3",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241884288851511,
+            "create_time": "2019-08-31T23:43:39.377+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU="
+            },
+            "text": "明白写得真明白",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241884288258221,
+            "create_time": "2019-09-01T00:05:25.950+0800",
+            "owner": {
+                "user_id": 555522285284,
+                "name": "Anna",
+                "avatar_url": "https://images.zsxq.com/Fiehls6BOlCRJE1a_ZB-mOZEZg3Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n6F1GaoKBNTqK2zhvhjz5GWlF8s="
+            },
+            "text": "[强][强]，精辟！！\n产品的名字只有一个目的，降低用户认知成本！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548114511551584,
+            "create_time": "2019-09-01T00:48:40.890+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "让我好好想想，是个好问题",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118551455182282,
+            "create_time": "2019-09-01T07:15:32.280+0800",
+            "owner": {
+                "user_id": 454851512228,
+                "name": "高欣",
+                "avatar_url": "https://images.zsxq.com/FpMj_rYxE1slys1AFO-cet-09Tcn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JgWzx-Lf7PuNweKVhh6QGI9jpFg="
+            },
+            "text": "明白现在写东西真透彻",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 79,
+    "rewards_count": 8,
+    "comments_count": 13,
+    "reading_count": 42743,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-08-31T21:01:35.725+0800",
+    "modify_time": "2019-09-05T17:07:00.551+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

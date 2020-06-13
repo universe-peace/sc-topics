@@ -1,0 +1,268 @@
+{
+    "topic_id": 241858451288811,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "周五来啦，老规矩，生财有术跟你<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n今天给大家带来的是一个小众市场的掘金故事：如何创办一个每月收入4.5K美元的设计师灵感视频网站？\n\n这网站是做什么的？创意是如何产生的？产品是怎么设计的？冷启动如何开始的？怎么进行推广的？现在的收入如何？通过这个业务，创始人有哪些收获、工具或者书籍可以跟我们分享？\n\n带着这些问题，鱼丸从文中总结了几点启发：\n\n1、对于创意来说，天马行空的idea固然重要，但成功的案例更值得参考借鉴。\n\n2、不要重复造轮子，当今创业的的各种辅助工具已经非常全面，最重要的是快速验证需求。\n\n3、SEO仍然是我们获取流量的关键手段，尤其是长尾关键词的优化，抓细分市场，值得每个业务深度布局。\n\n4、只要产品有持续的流量，那么就可以开始商业化验证，而商业化验证也是需要快速迭代的，不能轻易放弃。\n\n5、多交流，多交流，多交流，多与客户交流，多与同行交流，多余小伙伴交流。\n\n以下是正文:\n\nQ1: 您好！您是谁，您从事什么业务？\n\n我是Ramy Khuffash，我经营一家名为Page Flows的小型网站，该网站是一个面向数字产品设计师的灵感视频库。设计师们可以通过这些视频，为他们的产品设计提供灵感创意。\n \n\nQ2：这是个很小众的场景，您是如何提出这个想法的？\n\n先介绍下我的背景：我在大学学习会计和信息系统，但是当我毕业时，我意识到我不想成为一名会计，也不想从事信息系统专业的工作。经过几年的工作，在跟朋友一次失败的创业之后，我开始了自己的网络开发之路。\n\n在整个职业生涯中，我会通过一些业余项目来提高自己的技能。在这些业余项目里，有一个名为UI Movement的网站，这是一个设计灵感网站。这是迄今为止我最成功的业余项目，在Product Hunt上启动后很快吸引了成千上万的订阅者。\n\n大约一年后，我准备开始新的工作。我想开发一种可以直接向客户收费的产品或服务。我给一些UI Movement的订阅者打了电话，了解他们为什么注册，从这个网站中获得什么价值以及他们愿意为什么功能付费等各种信息。\n\n读完《The Mom Test》后，我意识到，我在这些谈话中提出的问题很容易使我误入歧途。值得庆幸的是，他们仍然得出了一些有益的见解。人们喜欢不断更新的UI主题，但是更现实的设计作品或许对灵感会更有帮助。\n\n这就是“pageflows”网站想法诞生的地方。它不是一个仅仅在画纸上的设计库，而是一个正在使用的流行产品的设计视频库。当设计师陷入设计问题时，他们使用Page Flows查看其他公司如何解决它们。\n\n除了与UI Movement订阅者的最初对话外，我没有进行任何验证。我的方法是迅速启动，看看市场如何反应。\n\nQ3: 小步快跑非常棒，那您这个网站是如何搭建的呢？\n\n我使用Django，HTML，CSS和jQuery构建了Page Flows。这是一个超级简单的设置。录制用户流程视频是耗时且繁琐的部分。我使用一个名为Monosnap的应用程序在MacBook上录制基于Web的产品。对于iOS应用程序，我将iPhone连接到MacBook，并使用QuickTime记录屏幕。录制完视频后，我将它们上传到站点，然后使用我构建的简单工具对其进行注释和截屏。该网站最初发布了约100个视频，现在已有1000多个视频。\n\n除了一些细微的调整，我没有改变过录制和添加视频的过程。我曾经短暂地将视频录制和注释外包，但是很快我就发现，如果没有严格的SOP流程，外包质量无法把控。未来，我将在某个时候再次尝试外包。\n\n值得一提的是，我使用Stripe进行付款，一开始设置了每月14美元的价格。\n\n我坚信没有人会花那么多钱，但是当时的普遍建议是要收取比您认为的产品价值稍高的费用。总体而言，那时候我花了大约一个月的时间才准备好启动该网站。\n\nQ4: 网站建好后，您是如何进行冷启动的？\n\n最初，我通过UI Movement网站新闻稿进行宣传。除此之外，我还将PageFlow上架了Product Hunt。\n\nProduct Hunt的帖子给我的产品带来了相当不错的流量，但遗憾的是，没有一个转化为客户。几周后，网站还是只有一位付费客户，我认为是时候放弃了。于是我退还了客户的款项，并免费提供了所有用户流视频供任何人访问。\n\n大约一年后，我在Google Analytics（分析）中注意到这些视频获得了可观的访问量，这足以表明人们感兴趣。于是，我尝试重新引入付费内容来试试运气。这一次我只收取少量的一次性费用，而不是每月订阅。我设计了一个仿真的付款界面，看看人们是否愿意付款。出乎意料的是，确实有少数人尝试付款。\n\n于是，我使用Stripe搭建了真实有效的付款界面，重新开始了将用户流视频添加到网站的过程，然后我开始参加比赛了。我想，如果我不这么快就放弃PageFlow，那我会早点实现盈利。\n\nQ5: 自网站推出以来，您采取了什么措施吸引客户？\n\n从一开始，UI Movement就一直是PageFlow流量的主要来源，毕竟它的用户如此精准。\n\n多次迭代也很有帮助。我在Product Hunt上启动了PageFlow的各种迭代，每次迭代都带来了良好的流量增长，并在设计社区和博客中引起了更多关注。\n\n除此之外，SEO已逐渐变得越来越重要。人们通过搜索非常特定的用户流来发现PageFlow，但是知名品牌（尤其是因其设计精巧而闻名）往往会吸引更多流量。例如：Slack，Dropbox，Spotify、Monzo的Onboarding。最初我并未对SEO进行过多考虑，但现在我先研究哪些产品可能会吸引流量；然后再决定添加哪些产品视频。\n\n最近，我还开始尝试写博客，但目前还没有效果。我还将在今年晚些时候测试Facebook和LinkedIn广告。\n\nQ6: 这个网站目前的收入怎么样，未来您有什么计划？\n\nProfitwell的MRR增长图\n\n整体来说，网站的订阅增长较为缓慢，比较稳定。可能有些人会觉得一般，但总体上我还是挺满意的，因为我本来就不认为这个网站能有多少收入。\n\nPage Flows大部分月份的收入在4,000美元至5500美元之间，利润非常可观。我今后的主要重点是继续将视频添加到库中。这既有助于确保当前客户满意，又可以通过SEO吸引新客户。\n\n尽管PageFlows是我目前的主要收入来源，但我花了相当多的时间来寻找下一个机会，我计划在6个月内开发和发布6款产品。\n\nQ7: 通过这个网站，您学到了什么特别有帮助或有好处的东西吗？\n\n1、在Google中，长尾关键词的排名对于PageFlows非常有价值。这项工作很费时间，但是如果您的业务涉及内容，那么就非常有必要研究哪些长尾关键词具有相关性，高点击和易于排名。\n\n2、在定价模型方面，一次性买断要比订购容易转化得多。与每月5美元的产品相比，人们更愿意冒险购买29美元的产品。即使您打算长期发展订阅业务，以一次性价格开始也要容易得多。\n\nQ8: 在这个业务里，您经常使用什么平台/工具？\n\n<e type=\"web\" href=\"https%3A%2F%2Fdigitalocean.com\" title=\"DigitalOcean%20%E2%80%93%20The%20developer%20cloud\"/>-用于网站托管 \n\n<e type=\"web\" href=\"https%3A%2F%2Fletterfuel.com%2F-\" title=\"https%3A%2F%2Fletterfuel.com%2F-\" />用户策划并发送每周通讯\n\n<e type=\"web\" href=\"https%3A%2F%2Fpostmarkapp.com%2F-\" title=\"https%3A%2F%2Fpostmarkapp.com%2F-\" />用于交易电子邮件\n\n<e type=\"web\" href=\"https%3A%2F%2Fmonosnap.com%2F-\" title=\"Monosnap\" cache=\"\" />用于屏幕录制\n\n<e type=\"web\" href=\"https%3A%2F%2Fmonosnap.com%2F-\" title=\"Monosnap\" cache=\"\" />用于托管代码库\n\n<e type=\"web\" href=\"https%3A%2F%2Fstripe.com%2F-\" title=\"https%3A%2F%2Fstripe.com%2F-\" />用于处理付款\n\n<e type=\"web\" href=\"https%3A%2F%2Fprofitwell.com%2F-\" title=\"https%3A%2F%2Fprofitwell.com%2F-\" />用于订阅分析\n\n<e type=\"web\" href=\"https%3A%2F%2Fapp.neilpatel.com%2Fen%2Fubersuggest%2F-\" title=\"Ubersuggest\" cache=\"\" />用于关键字研究\n\n<e type=\"web\" href=\"https%3A%2F%2Fbuffer.com%2F-\" title=\"https%3A%2F%2Fbuffer.com%2F-\" />用于社交媒体 \n\nQ9：还有什么对你有影响的书籍、博客或其他资源推荐吗？\n\n去年，我读了一本叫做《The Mom Test》的书，这让我大吃一惊。它帮助我意识到了为什么我一直为客户开发而苦苦挣扎。如果您打算拓展客户并且还没有读过这本书，那么您应该读一读。\n\n<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2F\" title=\"Indie+Hackers%3A+Work+Together+to+Build+Profitable+O...\" />非常擅长向正在建立独立技术企业的其他创始人学习，他们的博客是我的最爱之一。\n\n对于我们绝大多数人来说，<e type=\"web\" href=\"https%3A%2F%2Fwww.startupsfortherestofus.com%2F\" title=\"Startups+For+the+Rest+of+Us\" cache=\"\" />也是一个很棒的播客。\n\nQ10：最后，您还有哪些对其他想要入门还是刚刚起步的创业者的建议？\n\n我最近最大的体会是，仔细考虑哪些建议是重要的。我们都有不同的目标，因此仅关注与您的目标相符的建议很重要。例如，如果您尝试引导一家生活方式企业，则遵循为创建VC支持的初创公司的创始人的建议可能会使您误入歧途。\n\n同时，我总是提醒自己从小处着手并快速交付。这虽然是陈词滥调，但是我们太多人犯了一个错误，那就是要花几个月的时间来开发产品，然后才能将其展示在用户面前。\n\n如果您是个人创业者，我还强烈建议您组建或加入一个智囊团。我和另外两个合作伙伴每个星期一都会打电话讨论我们的工作：计划要做的事情以及需要帮助的内容。有一群志同道合的人来督促我，这对我很有帮助。\n\n\n相关网站：\n<e type=\"web\" href=\"https%3A%2F%2Fpageflows.com%2F\" title=\"Page+Flows+-+user+flow+design+inspiration\" cache=\"\" />\n\n原文链接：\n<e type=\"web\" href=\"https%3A%2F%2Fwww.starterstory.com%2Fuser-flow-design-inspiration\" title=\"How+I+Started+A+%244.5K%2FMonth+Website+With+User+Flow...\" />",
+        "images": [
+            {
+                "image_id": 841521425855212,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtUf5rje0Wk3hdPmJwA7LjkFJTMJ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w9nINmvWB3iJZWa8pd-mrrbba3g=",
+                    "width": 320,
+                    "height": 205
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtUf5rje0Wk3hdPmJwA7LjkFJTMJ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4beWLjIruIXVYuMpZtgg_fjiZcs=",
+                    "width": 800,
+                    "height": 513
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FtUf5rje0Wk3hdPmJwA7LjkFJTMJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zEgC9P78URqP_YpwvyBaOOrs4Z4=",
+                    "width": 1080,
+                    "height": 692,
+                    "size": 97434
+                }
+            },
+            {
+                "image_id": 421451254844248,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrDya14w6C_-fbRKMlmmatk7ZkuG?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8M89HvyzSJIB7sSK87D9g6fsAsU=",
+                    "width": 320,
+                    "height": 171
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrDya14w6C_-fbRKMlmmatk7ZkuG?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6C9GOFpYMpOwhJmdLUHGtoILofU=",
+                    "width": 800,
+                    "height": 427
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FrDya14w6C_-fbRKMlmmatk7ZkuG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pMqHuDqbbCnRCRoMB3VlcrC5f4k=",
+                    "width": 1383,
+                    "height": 738,
+                    "size": 284724
+                }
+            },
+            {
+                "image_id": 118248142522122,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FqXqR1e3Zwl5s7mIg9wSNk0qa79Z?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:S15-Ixs4Fzlz_Hwc3DBRQHbgMJI=",
+                    "width": 320,
+                    "height": 201
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FqXqR1e3Zwl5s7mIg9wSNk0qa79Z?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_j-wCicsCggCGQFWpttyFCb3SVs=",
+                    "width": 800,
+                    "height": 502
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FqXqR1e3Zwl5s7mIg9wSNk0qa79Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OTfdLJpegkn1VeuS6ZroNX0bwPI=",
+                    "width": 1080,
+                    "height": 678,
+                    "size": 106949
+                }
+            },
+            {
+                "image_id": 241521425855211,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fhll1YA3_PvoUu8xjo2dzeAWelUP?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bNvpmU8S0Dx5wntPYFGALUEEd5o=",
+                    "width": 320,
+                    "height": 188
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fhll1YA3_PvoUu8xjo2dzeAWelUP?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wEioVZTfRfoB1Z5pRLZhljODY8I=",
+                    "width": 800,
+                    "height": 469
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fhll1YA3_PvoUu8xjo2dzeAWelUP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kRh_ML7l22TXGzI3A3D2zCnj-8g=",
+                    "width": 1080,
+                    "height": 633,
+                    "size": 106273
+                }
+            },
+            {
+                "image_id": 841521425855452,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FtR_vq8SkXhucszxT_iPIgU_rRNP?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7AdWcTYjVajKnxnWjADHbtQgMvc=",
+                    "width": 320,
+                    "height": 113
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FtR_vq8SkXhucszxT_iPIgU_rRNP?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Nqj7cBNFLwWwNUVaFNC91DCqqY8=",
+                    "width": 800,
+                    "height": 282
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FtR_vq8SkXhucszxT_iPIgU_rRNP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5ZUO-Myz7_RUXEt-cReYtyxPuww=",
+                    "width": 1363,
+                    "height": 480,
+                    "size": 85266
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-07T15:58:40.151+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s=",
+                "number": 6034
+            }
+        },
+        {
+            "create_time": "2020-02-23T10:37:56.588+0800",
+            "owner": {
+                "user_id": 145584524252,
+                "name": "Rancho",
+                "avatar_url": "https://images.zsxq.com/Fs03t9lH4OjXLZ1lpmaLynvWukEt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B7ozw8Y_SLjrBNyeEBrAE5oZD0=",
+                "number": 6483
+            }
+        },
+        {
+            "create_time": "2020-02-18T14:58:07.836+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU=",
+                "number": 6315
+            }
+        },
+        {
+            "create_time": "2020-02-11T22:00:16.433+0800",
+            "owner": {
+                "user_id": 458142141228,
+                "name": "林家弘",
+                "avatar_url": "https://images.zsxq.com/FtBWifj0VYlrQTgGKoO_a1UPlnzF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wQyhSuPelkZRXKcbnnJVsBH9iWs=",
+                "number": 2173
+            }
+        },
+        {
+            "create_time": "2020-02-09T23:47:06.081+0800",
+            "owner": {
+                "user_id": 48882248144228,
+                "name": "meek",
+                "avatar_url": "https://images.zsxq.com/FqwQF8BLhyJI-N2iGD_Jv7GkjSwR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rRfqfSnStZgESVnOXbRiItGlyow=",
+                "number": 2827
+            }
+        },
+        {
+            "create_time": "2020-02-09T11:47:05.049+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2020-02-08T14:09:55.134+0800",
+            "owner": {
+                "user_id": 15284848244822,
+                "name": "克里斯说",
+                "avatar_url": "https://images.zsxq.com/FkMPor6OeZSfo-QVrNZ7Tow93HL1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C-_6EGNI7e6l95WxzjrxjKqmrdw=",
+                "number": 3691
+            }
+        },
+        {
+            "create_time": "2020-02-08T13:27:43.975+0800",
+            "owner": {
+                "user_id": 118825522251842,
+                "name": "巴巴",
+                "avatar_url": "https://images.zsxq.com/FjoEHq4xPygxgRfSH4aV68O7v2mZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zze9qM0YHsCIP61TBHj6R5VDZDg=",
+                "number": 6686
+            }
+        },
+        {
+            "create_time": "2020-02-08T11:19:05.564+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic=",
+                "number": 153
+            }
+        },
+        {
+            "create_time": "2020-02-08T09:55:41.600+0800",
+            "owner": {
+                "user_id": 4284555288,
+                "name": "罗强光",
+                "avatar_url": "https://images.zsxq.com/Fr4I-widmITW_KDN3hbPZ28JgOCl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VcMcE8OV9o8oFLNcwpARd4Rtu2I=",
+                "number": 5142
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-02-29T22:46:14.394+0800",
+            "owner": {
+                "user_id": 455485811558,
+                "name": "70x",
+                "avatar_url": "https://images.zsxq.com/Fr_M6f1FmRUZEm3XK6_xiSTv3x6X?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j4wL34frUwTODZ_xElHWtlPv30g="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-18T20:34:26.054+0800",
+            "owner": {
+                "user_id": 155158452,
+                "name": "三秋叶",
+                "avatar_url": "https://images.zsxq.com/FtftxCX5-dMR9vq1WSeS17c4BK_v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NaDo040dc-Nd5tqNOMZFvt04qkc="
+            },
+            "amount": 134
+        },
+        {
+            "create_time": "2020-02-07T22:08:02.655+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 133
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 421125852451828,
+            "create_time": "2020-02-07T21:35:14.078+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": "1、对于创意来说，天马行空的idea固然重要，但成功的案例更值得参考借鉴。\n2、不要重复造轮子，当今创业的的各种辅助工具已经非常全面，最重要的是快速验证需求。\n3、SEO仍然是我们获取流量的关键手段，尤其是长尾关键词的优化，抓细分市场，值得每个业务深度布局。\n4、只要产品有持续的流量，那么就可以开始商业化验证，而商业化验证也是需要快速迭代的，不能轻易放弃。\n5、多交流，多交流，多交流，多与客户交流，多与同行交流，多余小伙伴交流。",
+            "likes_count": 1,
+            "rewards_count": 1
+        }
+    ],
+    "likes_count": 25,
+    "rewards_count": 2,
+    "comments_count": 2,
+    "reading_count": 9856,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-02-07T20:08:45.542+0800",
+    "modify_time": "2020-02-07T20:12:18.631+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

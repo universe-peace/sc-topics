@@ -1,0 +1,335 @@
+{
+    "topic_id": 422124285425548,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8214158152,
+            "name": "明白",
+            "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+        },
+        "text": "《信息整合：一个可复用，低门槛的成熟商业模式》\n\n任何一个行业，发展到某个阶段，一定会出现一种商业模式：信息整合。\n\n一句话总结：将散落在互联网上，杂乱无章，需要花时间才能看到的信息，整理到一起，提供给用户。\n\n这个帖子分享一下这个商业模式，以及我们该如何切入。\n\n1 what？（是什么）\n\n只说信息整合，太抽象，大家看例子。\n\n（1）hao123 \n\n<e type=\"web\" href=\"https%3A%2F%2Fwww.hao123.com%2F\" title=\"hao123_%E4%B8%8A%E7%BD%91%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B\" cache=\"\" />\n\n这个网站，大家应该都用过，中国早期的互联网入口，站长李兴平，后来千万卖给百度。\n\n这是一个信息导航网站，将大家常用、但是记不住的网址，整合记录在一起。\n\n后来创办的 4399：<e type=\"web\" href=\"http%3A%2F%2Fwww.4399.com%2F\" title=\"%E5%B0%8F%E6%B8%B8%E6%88%8F%2C4399%E5%B0%8F%E6%B8%B8%E6%88%8F%2C%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%85%A8%2C%E5%8F%8C%E4%BA%BA%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%85%A8+-+www.4399.com\" cache=\"\" />，也是导航网站，据说年盈利过亿。\n\n（2）菜鸟教程\n\n<e type=\"web\" href=\"https%3A%2F%2Fwww.runoob.com%2F\" title=\"%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B+-+%E5%AD%A6%E7%9A%84%E4%B8%8D%E4%BB%85%E6%98%AF%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%9B%B4%E6%98%AF%E6%A2%A6%E6%83%B3%EF%BC%81\" cache=\"\" />\n\n网站提供计算机编程的基础教程。\n\n全球排名600+，国内排名前100，行业top3，中国500万+程序员，大多数用过他的网站服务，当然都是免费。\n\n更厉害的是，整个网站从0到1到100，从研发到运营，都只有站长一个人。\n\n现在每月也赚不少钱。\n\n-----------------\n\n这 2 个虽然很厉害，但看起来好像离我们比较远，下面看几个比较近的。\n\n（3）新榜\n\n<e type=\"web\" href=\"https%3A%2F%2Fwww.newrank.cn%2F\" title=\"%E6%96%B0%E6%A6%9C%E2%80%94%E2%80%94%E5%86%85%E5%AE%B9%E4%BA%A7%E4%B8%9A%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0\" cache=\"\" />\n\n因为公众号兴起，大家不知道去哪里找这些公众号，所以这时候，出现一个类似排行榜的产品，将这些信息整合，大家需要查找时，直接到新榜就能看到几乎所有内容。\n\n后来也有小程序，排行榜，也做培训，广告资源对接，知识付费服务等。听说很赚钱。\n\n（4）阿拉丁\n\n<e type=\"web\" href=\"https%3A%2F%2Faldwx.com%2Findex\" title=\"%E3%80%90%E9%98%BF%E6%8B%89%E4%B8%81%E3%80%91%E5%85%A8%E7%BD%91%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%99%BA%E8%83%BD%E5%B9%B3%E5%8F%B0\" cache=\"\" />\n\n因为小程序星球，所有也需要有产品，将小程序的信息整合，于是有了阿拉丁。\n\n后来也发展出小程序，阿拉丁指数，广告平台等业务，获得解决一个亿融\n资，俨然是小程序的行业巨头了。\n\n----------------------\n\n上面 2 个公司，已经体量很大，听起来离我们好像还是很远。\n\n再近一点。\n\n（5）短视频\n\n最近 1 年，因为短视频火了，所以基于短视频的信息整合平台，必然会出现。\n\n下面 2 个产品，成立时间都不长，作者也都在星球里。\n\n抖大大：<e type=\"web\" href=\"https%3A%2F%2Fwww.doudada.com%2F\" title=\"%E6%8A%96%E5%A4%A7%E5%A4%A7+%E5%AE%98%E7%BD%91-%E5%8A%A9%E5%8A%9B%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E3%80%81%E8%BF%90%E8%90%A5%E3%80%81%E8%90%A5%E9%94%80%E7%9A%84%E5%86%85%E5%AE%B9%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0\" cache=\"\" />\n\ntoobigdata：<e type=\"web\" href=\"https%3A%2F%2Ftoobigdata.com%2F\" title=\"TooBigData%E5%AE%98%E7%BD%91+-+%E6%8A%96%E9%9F%B3%E5%BF%AB%E6%89%8B%E7%BD%91%E7%BA%A2%E6%8E%92%E8%A1%8C\" cache=\"\" />\n\n毫无疑问，根据历史推演未来，5G 来临，短视频会火，所以短视频的信息整合平台，也必然会出现一个类似新榜、阿拉丁的产品。\n\n到底是谁？还不清楚，这需要产品、运营、营销、以及对行业的判断。\n----------------\n\n还是没有感觉？\n\n继续看。\n\n（6）币乎榜\n\n<e type=\"web\" href=\"http%3A%2F%2Fbihubang.com%2F\" title=\"%E5%B8%81%E4%B9%8E%E6%A6%9C+%E2%80%94%E2%80%94+%E5%B8%81%E4%B9%8E%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0\" cache=\"\" />\n\n币乎：一个区块链内容平台。\n\n写文章就能赚币，听说就是钱。（我也不懂）\n\n因为币乎火了，很多人在上面发文章，这些文章，哪些点赞多，哪些受欢迎，就需要一个直观的信息整合平台。\n\n于是，就有人做了币乎榜，抓取币乎的文章，然后做排名。日 pv 10w。\n\n（7）捷径\n\n因为苹果手机出了新功能捷径，于是有人整理了很多捷径列表，大家需要哪个功能，直接到网站上就能找到。\n\n捷径社区：<e type=\"web\" href=\"https%3A%2F%2Fsharecuts.cn%2F\" title=\"%E5%8F%91%E7%8E%B0%E5%92%8C%E5%88%86%E4%BA%AB+Siri+%E6%8D%B7%E5%BE%84%E3%80%81%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4+%7C+%E6%8D%B7%E5%BE%84%E7%A4%BE%E5%8C%BA\" cache=\"\" />\n捷径盒：<e type=\"web\" href=\"https%3A%2F%2Fjiejinghe.com%2F\" title=\"%E5%AE%9E%E7%94%A8%E6%8D%B7%E5%BE%84%E3%80%81%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4%E5%88%86%E4%BA%AB%E5%8F%91%E7%8E%B0%E7%A4%BE%E5%8C%BA+%7C+%E6%8D%B7%E5%BE%84%E7%9B%92\" cache=\"\" />\n\n（8）   热点榜\n\n每个平台都有热搜榜，那全部整理起来，一起看，是不是更方便一点？\n\n今日热榜：<e type=\"web\" href=\"https%3A%2F%2Ftophub.today\" title=\"%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%E5%AE%98%E7%BD%91\" cache=\"\" />\n热搜榜单：<e type=\"web\" href=\"http%3A%2F%2Fwww.bjsoubang.com\" title=\"http%3A%2F%2Fwww.bjsoubang.com\" />\n\n（9）小程序商店\n\n除了阿拉丁，还有一些关于小程序的产品。\n\n大梦想商店：<e type=\"web\" href=\"https%3A%2F%2Fwww.damengxiang.me%2F\" title=\"%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%8C%E5%A4%A7%E6%A2%A6%E6%83%B3+-+%E5%A4%A7%E6%A2%A6%E6%83%B3%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%95%86%E5%BA%97\" cache=\"\" /> 大梦想小程序商店为你提供热门、实用的微信小程序,帮你发现更多好玩、好看、好用的小程序。\n\n知晓程序：<e type=\"web\" href=\"https%3A%2F%2Fminapp.com%2Fminiapp%2F\" title=\"%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%95%86%E5%BA%97++%7C++%E7%9F%A5%E6%99%93%E7%A8%8B%E5%BA%8F\" cache=\"\" />：知晓程序,让你更知微信小程序。我们提供微信小程序开发资讯,解读微信小程序开发文档,制作微信小程序开发教程\n\n（10）工具网站\n\n新媒体领域有哪些工具，可以提高效率，来个网站整合一下。\n\n考拉新媒体导航：<e type=\"web\" href=\"https%3A%2F%2Fwww.kaolamedia.com%2F\" title=\"%E8%80%83%E6%8B%89%E6%96%B0%E5%AA%92%E4%BD%93%E5%AF%BC%E8%88%AA%E2%80%94%E2%80%94%E6%96%B0%E5%AA%92%E4%BD%93%E4%BA%BA%E7%9A%84%E4%B8%93%E5%B1%9E%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99\" cache=\"\" />\n广告人导航网址：<e type=\"web\" href=\"http%3A%2F%2Fwww.addog.vip%2F\" title=\"%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F%2F%E8%AE%BE%E8%AE%A1%2F%E6%96%87%E6%A1%88%2FPPT%E6%A8%A1%E6%9D%BF%2F%E8%90%A5%E9%94%80%E7%AD%96%E7%95%A5%E5%A4%A7%E5%85%A8%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA+%E3%80%90addog%E3%80%91\" cache=\"\" />\n运营工具：<e type=\"web\" href=\"http%3A%2F%2Fyunyinggo.cn%2F\" title=\"%E8%BF%90%E8%90%A5%E5%B7%A5%E5%85%B7%E7%B2%BE%E9%80%89+-+%E7%B2%BE%E9%80%89%E6%9C%80%E5%A5%BD%E7%9A%84%E8%BF%90%E8%90%A5%E7%AD%96%E5%88%92%E5%B7%A5%E5%85%B7\" cache=\"\" />\n\n（11）跨境电商\n\n跨境电商里有哪些好用的网站、工具，整合一下吧。\n\n<e type=\"web\" href=\"http%3A%2F%2Fwww.amz123.com%2F\" title=\"AMZ123%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%8D%96%E5%AE%B6%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA\" cache=\"\" />\n <e type=\"web\" href=\"https%3A%2F%2Fwww.amz520.com%2F\" title=\"%E4%BA%9A%E9%A9%AC%E9%80%8A%EF%BC%8CShopify%EF%BC%8CSEO%EF%BC%8C%E4%B8%80%E7%AB%99%E5%BC%8F%E8%B7%A8%E5%A2%83%E5%8D%96%E5%AE%B6%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA++%7C+Amz520.com\" cache=\"\" />\n\n（12）知识星球精选站\n\n有哪些优质知识星球，整合一下吧。\n\n<e type=\"web\" href=\"http%3A%2F%2Fwww.zsxq100.com%2F\" title=\"%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%28%E5%B0%8F%E5%AF%86%E5%9C%88%29%E6%8E%A8%E8%8D%90_%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83APP%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E9%80%89%E7%AB%99\" cache=\"\" />\n\n（13）webscraper \n\nwebscraper 里有哪些好用的模板，可以让我直接拿来用，我来做一个吧。\n\n<e type=\"web\" href=\"http%3A%2F%2Fwww.iwebscraper.com%2F\" title=\"webscraper%E4%B8%AD%E6%96%87%E7%BD%91%7C%E5%85%B3%E4%BA%8Ewebscraper%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E5%B0%B1%E5%A4%9F%E4%BA%86\" cache=\"\" />\n\n（14）其他\n\n--------------------\n\n2 why?（为什么这个模式能成立？）\n\n上面列举了一些信息整合的例子。\n\n可能听到之后，你会惊讶：什么？把一堆乱七八糟的信息，堆到一起，这东西竟然有商业价值？还能赚钱？\n\n是。\n\n信息整合，本身就是一件有价值的事情。\n\n因为它节省了用户的时间，节省了时间，用户就愿意用，甚至愿意付费。\n特别是在知识付费时期，就更容易了。\n\n3 how？（我们该如何切入？）\n\n上面的例子，有的离我们比较远，比如 hao123。\n\n有的离我们比较近，知识星球精选站，捷径导航网站。\n\n你可能会说，这些别人都做了，我已经晚了。\n\n不，这类需求很多，只有有信息沉淀的地方，都可能做出一个信息整合的产品。\n\n这个需求可以很小，小到什么程度。\n\n（1）微信群有分享，你把分享内容整理一下，大家是不是会感谢你？群主会不会给你发红包？\n\n（2）生财有术的精华帖，你整理一下，亦仁会不会给你来一个满格赞赏？\n\n（3）前几天有人整理了 50 个公众号文章，朋友圈卖 50 块钱\n\n（4）以前星球有人问，谁有裂变海报？然后大发哥做了一个小程序，将这些海报整理起来，限量查看 XX 张，付费查看更多。\n\n有人抱怨的地方，就可能做出这么一个产品。\n---------------------------\n\n还有哪些方向？\n\n（1）围绕大体量产品\n\n微信：新榜\n小程序：阿拉丁\n还有没有什么需求呢？\n微博：可不可能针对某个领域，将一些大 V 的帖子精华帖整理一下。\n博客：各大平台的头部大 V，整理一下。\n头条：\n抖音：\n快手：\n知乎：\n\n（2）围绕行业\n\n* - 知识付费领域是不是缺个导航\n* - 程序员有没有什么需求，缺个导航\n* - 运营除了工具，还有哪些需求？\n* - 产品\n* - 营销\n* - ……\n\n不同行业的资料包？\n\n围绕自己的工作领域，看看自己平时需求搜集什么信息，这可能就是一个需求。\n\n（3）从知乎找需求\n在知乎搜索“哪”、“哪些”，“哪些XX”，你会看到大量这些问答，然后从里面的高赞回答挖掘需求。\n\n（4）从百度知道找需求\n同上。\n---------------------------------\n一定要做网站，懂技术吗？\n\n不一定，\n\n公众号\n小程序\n知识星球\n甚至个人号\n或者一篇文章\n\n不要局限\n\n-----------------------\n\n如何变现？\n\n参照上面的例子，他们怎么变现，就模仿。\n\n（1）广告\n* 广告联盟\n* 品牌广告\n\n（2）分销\n（3）付费服务\n（4）培训\n-------------\n\n这可能是一个慢活，不一定很快就能赚到钱。\n\n但能让你从 0 到 1，走完一个产品的全流程，如何挖掘需求、验证真伪、如何推广、如何变现，都能大大提高你的能力。\n\n总结一下：\n\n1 任何行业，都需要一个信息整合的产品\n\n2 信息整合，能帮助用户节省时间，提供了价值，用户就愿意付费\n\n3 从身边的需求、大体量产品、知乎、百度知道找类似需求\n---------------------------------\nwx：mingbai62，欢迎交流"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-19T21:46:38.423+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2019-11-10T15:45:17.383+0800",
+            "owner": {
+                "user_id": 51514112245214,
+                "name": "space0o0",
+                "avatar_url": "https://images.zsxq.com/FgUrSaYTPVETz3bCBCc6JBoV3KvF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Kb5nPgvbjhEbPHOfnfO6WHZ3BSM=",
+                "number": 3852
+            }
+        },
+        {
+            "create_time": "2019-09-29T11:38:11.730+0800",
+            "owner": {
+                "user_id": 244418181282821,
+                "name": "安宁",
+                "avatar_url": "https://images.zsxq.com/FlLcoKYe5lhml7_m8RBztobYYguc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oAgJbEcJ8GcWBEl5eprOpEd9aoE=",
+                "number": 6193
+            }
+        },
+        {
+            "create_time": "2019-09-19T15:19:17.607+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-09-10T02:02:07.233+0800",
+            "owner": {
+                "user_id": 48548425212528,
+                "name": "masmacer",
+                "avatar_url": "https://images.zsxq.com/Fi1DohUpxJp40nAmMLj1_CBIa5zN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XMkqtAl40tZEzb-6bpzYfR-USDI=",
+                "number": 3004
+            }
+        },
+        {
+            "create_time": "2019-08-26T11:08:31.538+0800",
+            "owner": {
+                "user_id": 88514115284482,
+                "name": "黑化肥会发灰",
+                "avatar_url": "https://images.zsxq.com/FhzBZy5mF0p-FMuOns3W_qtQA5EY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wOuAx8tAB75-b3gfo2GmqQ1bYmk=",
+                "number": 4742
+            }
+        },
+        {
+            "create_time": "2019-08-24T02:50:14.841+0800",
+            "owner": {
+                "user_id": 8455455222,
+                "name": "谷风一木",
+                "avatar_url": "https://images.zsxq.com/FhnkIACptMQ5gtigOf09H4FMvFGY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OBbOv_GCWgHFm8Gckl0TeHXN54Q=",
+                "number": 4864
+            }
+        },
+        {
+            "create_time": "2019-08-20T22:32:37.816+0800",
+            "owner": {
+                "user_id": 145424452812,
+                "name": "无忌",
+                "avatar_url": "https://images.zsxq.com/FkfoK47mprW3flchsAtt6_4X5Nxc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1KBXF2WJqY6K0rndfJDVaH0l_M=",
+                "number": 6121
+            }
+        },
+        {
+            "create_time": "2019-08-17T20:54:48.008+0800",
+            "owner": {
+                "user_id": 828585222442,
+                "name": "xj0k",
+                "alias": "xj0k",
+                "avatar_url": "https://images.zsxq.com/Ftg7KcndYFYkrgTyBJT3UmpXXR9S?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q_a-7a90diNSf2Ck_GCIjnjYrEM=",
+                "number": 5217
+            }
+        },
+        {
+            "create_time": "2019-08-15T23:26:57.726+0800",
+            "owner": {
+                "user_id": 15584241888542,
+                "name": "璟扬",
+                "avatar_url": "https://images.zsxq.com/FoevK8ZVc1GYO0usDbiX9OfSW6Qh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:64vAuxVXU512sedQ6eMKNuOc7kk=",
+                "number": 3137
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-07-15T19:12:07.120+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 9900
+        },
+        {
+            "create_time": "2019-07-17T08:35:36.375+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s="
+            },
+            "amount": 200
+        },
+        {
+            "create_time": "2019-07-16T16:03:06.384+0800",
+            "owner": {
+                "user_id": 225442111441,
+                "name": "geekfeng",
+                "avatar_url": "https://images.zsxq.com/FggPp9-khKbYR4wCdKKUcqUAOWog?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TMPo2HaAyisjEDrEKr1gYEFEoy4="
+            },
+            "amount": 233
+        },
+        {
+            "create_time": "2019-07-16T11:33:08.345+0800",
+            "owner": {
+                "user_id": 285155251,
+                "name": "肖郎shawlang",
+                "avatar_url": "https://images.zsxq.com/FlANfurgN0ePF0jSDVWQL-ScLs4o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AmoFiW0X4fs9xsSgxkpRth7uNHE="
+            },
+            "amount": 388
+        },
+        {
+            "create_time": "2019-07-16T01:36:51.713+0800",
+            "owner": {
+                "user_id": 48418441251428,
+                "name": "叶叶在觉",
+                "avatar_url": "https://images.zsxq.com/FhY_aDMkJnWO1nURKJIu2jg4QNX4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jdhJHGp_5kGRrYnSOrmxXMeNTGQ="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2019-07-16T01:18:22.278+0800",
+            "owner": {
+                "user_id": 5445811244,
+                "name": "男宾",
+                "avatar_url": "https://images.zsxq.com/FoXGP4wteh7BcliIV36BGmGch20D?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:P6McFqzi9I2O7s4Egam3knnLM9k="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-07-15T23:36:31.645+0800",
+            "owner": {
+                "user_id": 28248511254481,
+                "name": "不过图碎银几两",
+                "avatar_url": "https://images.zsxq.com/FvlQ5PZKgsqmp9zfueTLDxcB1K44?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cAxy9I8EVj_LcLYHLG_k9o-R-f0="
+            },
+            "amount": 388
+        },
+        {
+            "create_time": "2019-07-15T21:41:09.013+0800",
+            "owner": {
+                "user_id": 155158452,
+                "name": "三秋叶",
+                "avatar_url": "https://images.zsxq.com/FtftxCX5-dMR9vq1WSeS17c4BK_v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NaDo040dc-Nd5tqNOMZFvt04qkc="
+            },
+            "amount": 188
+        },
+        {
+            "create_time": "2019-07-15T20:20:13.834+0800",
+            "owner": {
+                "user_id": 1481118242,
+                "name": "fookwood",
+                "avatar_url": "https://images.zsxq.com/Fu4ISg7j1OhWI4a92Nfdl33xdZSq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0nIobW1t0kHeYSlopLJ72VHiSOY="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-07-15T20:19:07.514+0800",
+            "owner": {
+                "user_id": 28248251215511,
+                "name": "疏空",
+                "avatar_url": "https://images.zsxq.com/FunkqNFGVve9sICS586LP5H-V1ae?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MZrZWOtbcViGgborjSTijASIXN8="
+            },
+            "amount": 300
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 421412148122588,
+            "create_time": "2019-07-15T18:55:47.305+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4="
+            },
+            "text": "这个，厉害！",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241514152524221,
+            "create_time": "2019-07-15T19:12:04.381+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            },
+            "text": "明白大佬总结的好！最近在做这一块",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 241514152524121,
+            "parent_comment_id": 241514152524221,
+            "create_time": "2019-07-15T19:13:48.604+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "text": "优秀呀，可以交流一下，我也有研究，或许可以给一点不成熟的建议",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            }
+        },
+        {
+            "comment_id": 241514152541481,
+            "parent_comment_id": 241514152524221,
+            "create_time": "2019-07-15T19:28:28.763+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            },
+            "text": "使劲的点头",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            }
+        },
+        {
+            "comment_id": 118281824285822,
+            "create_time": "2019-07-15T19:32:50.532+0800",
+            "owner": {
+                "user_id": 145824112412,
+                "name": "百科词条@微一",
+                "avatar_url": "https://images.zsxq.com/FqfchQJkDxj9HdiS67a1TsUvVCVB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:68LVBKiZbtDM3KlaAVoxVY0rSYc="
+            },
+            "text": "搜榜top 这个全网热搜榜单聚合平台，五月底立项，六月份开始开发，七月正式发布，服务器目前扩了两次，做这个项目就是一顿饭后，就下定决心一定要做，它来了。 感兴趣的朋友可以拉你进产品讨论群，帮忙改进。感谢明白[爱心]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 9
+        },
+        {
+            "comment_id": 841514152514842,
+            "create_time": "2019-07-15T19:36:07.435+0800",
+            "owner": {
+                "user_id": 422111422442218,
+                "name": "青木",
+                "avatar_url": "https://images.zsxq.com/Fn-OlCrIDOp8EZPe8kvZitXsy92C?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wg5eUNV8ix6F3KfKiiDvZEKG-AQ="
+            },
+            "text": "去年的时候试图做过一个信息整合的平台，起步定在了APP，然后开始商议（团队内部）如何推广、如何吸量、如何变现，结果越考虑问题越多，APP写了个开头最后头脑抽筋一般的听停止了。    看到您这个，又有点冲动，同时也豁然开朗，何不从一篇文章开始呢！  感谢分享。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 841514152514452,
+            "parent_comment_id": 841514152514842,
+            "create_time": "2019-07-15T19:37:35.781+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "text": "优秀！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 422111422442218,
+                "name": "青木",
+                "avatar_url": "https://images.zsxq.com/Fn-OlCrIDOp8EZPe8kvZitXsy92C?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wg5eUNV8ix6F3KfKiiDvZEKG-AQ="
+            }
+        },
+        {
+            "comment_id": 841514152112242,
+            "create_time": "2019-07-15T21:41:33.728+0800",
+            "owner": {
+                "user_id": 4254144218,
+                "name": "布衣",
+                "avatar_url": "https://images.zsxq.com/FlxtbUoFoEVnsFxH_vOfAt4MYIiL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8Z893wQDs19JoW1PDFfJJGJ6y3s="
+            },
+            "text": "这个厉害",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 169,
+    "rewards_count": 17,
+    "comments_count": 25,
+    "reading_count": 35778,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-07-15T18:34:46.151+0800",
+    "modify_time": "2019-09-05T17:09:24.305+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

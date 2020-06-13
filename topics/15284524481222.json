@@ -1,0 +1,237 @@
+{
+    "topic_id": 15284524481222,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8151121242,
+            "name": "杨探长",
+            "avatar_url": "https://images.zsxq.com/Fpe9DtomXbcmPIrI6WUs5suW5JhS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ANdRMDtLnEI5SiQJN-UGhvUU1Zg="
+        },
+        "text": "前情提要：游戏很容易让人着迷，所以类比游戏整理了一套学习方法-游戏学习法\n“学习也能让人着迷”\n请多指教",
+        "images": [
+            {
+                "image_id": 88512522125582,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FlgnmlJRu6zy017P5VDJFjgh3nRG?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GpDQ5yDcbTQ101rRjdI7xW_1tp4=",
+                    "width": 540,
+                    "height": 170
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FlgnmlJRu6zy017P5VDJFjgh3nRG?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xxaz1MsJ-qe6OgS2UpimC8Pwc88=",
+                    "width": 800,
+                    "height": 253
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FlgnmlJRu6zy017P5VDJFjgh3nRG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1rWzvBTbIJN4a_3iwYHhMA_pDCE=",
+                    "width": 1688,
+                    "height": 534,
+                    "size": 102101
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-20T06:56:35.255+0800",
+            "owner": {
+                "user_id": 28484452582151,
+                "name": "男哥",
+                "alias": "男儿国",
+                "avatar_url": "https://images.zsxq.com/Fq77rdWHYUwpS_FMl355ouM45rKN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UkUHKUpUpGYLISKry_XduDbd-NE=",
+                "number": 3394
+            }
+        },
+        {
+            "create_time": "2020-01-04T01:04:43.492+0800",
+            "owner": {
+                "user_id": 88258824412412,
+                "name": "赵子游",
+                "avatar_url": "https://images.zsxq.com/Fnv8JXH6Y4divlMwRsnY5MdNogkU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hcqPEWc5Y8o-GBHxMHOQwXryZ3Q=",
+                "number": 6312
+            }
+        },
+        {
+            "create_time": "2019-07-31T17:31:39.736+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-01T23:20:06.146+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-05-18T12:12:01.179+0800",
+            "owner": {
+                "user_id": 8214414512,
+                "name": "聆木",
+                "avatar_url": "https://images.zsxq.com/Fqf7bKCrYm9XSyuHjTdF7OVnmvSv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1wAMFVxUWESSUulOPEZafblyQtk=",
+                "number": 362
+            }
+        },
+        {
+            "create_time": "2017-05-18T00:03:58.708+0800",
+            "owner": {
+                "user_id": 5585818484,
+                "name": "唔知K",
+                "alias": "唔知",
+                "avatar_url": "https://images.zsxq.com/Ft_NWuU55-HvHQUGpVtOfaeUpkWg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:clQEZfwVnrXRvNSRNTBeBmS7T34=",
+                "number": 301
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 48415884228458,
+            "create_time": "2017-05-18T02:33:56.613+0800",
+            "owner": {
+                "user_id": 481125188848,
+                "name": "洪志雄",
+                "alias": "Reed",
+                "avatar_url": "https://images.zsxq.com/FhLDsAM2X11G6fGNIpkD2ngXoLMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3LRs83UWtQlXW8PBOvXQGWa1fn0="
+            },
+            "text": "学习就是很反人性的，一般都是枯燥，孤独的。要接受这个事实。所以我认识这种类似方法本质是自欺欺人，没啥效果",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 5
+        },
+        {
+            "comment_id": 51285112884154,
+            "parent_comment_id": 48415884228458,
+            "create_time": "2017-05-18T07:41:50.438+0800",
+            "owner": {
+                "user_id": 228241422241,
+                "name": "高大树",
+                "avatar_url": "https://images.zsxq.com/Flu531rdxqU2bbR1CnyeeA4xcHXT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Pe2C_knLZtL2dSjrDjydak2fNHw="
+            },
+            "text": "+1",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481125188848,
+                "name": "洪志雄",
+                "alias": "Reed",
+                "avatar_url": "https://images.zsxq.com/FhLDsAM2X11G6fGNIpkD2ngXoLMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3LRs83UWtQlXW8PBOvXQGWa1fn0="
+            }
+        },
+        {
+            "comment_id": 28512888554141,
+            "parent_comment_id": 48415884228458,
+            "create_time": "2017-05-18T08:05:28.092+0800",
+            "owner": {
+                "user_id": 8151121242,
+                "name": "杨探长",
+                "avatar_url": "https://images.zsxq.com/Fpe9DtomXbcmPIrI6WUs5suW5JhS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ANdRMDtLnEI5SiQJN-UGhvUU1Zg="
+            },
+            "text": "玩游戏不是一个学习的过程么",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481125188848,
+                "name": "洪志雄",
+                "alias": "Reed",
+                "avatar_url": "https://images.zsxq.com/FhLDsAM2X11G6fGNIpkD2ngXoLMW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3LRs83UWtQlXW8PBOvXQGWa1fn0="
+            }
+        },
+        {
+            "comment_id": 15284555525412,
+            "parent_comment_id": 48415884228458,
+            "create_time": "2017-05-18T08:42:58.966+0800",
+            "owner": {
+                "user_id": 225225151281,
+                "name": "韩龙",
+                "alias": "海贼王",
+                "avatar_url": "https://images.zsxq.com/Fs82wyy8wwV7m2v6NGWYkqxnMG6E?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2vgjVPHYn757g7lb8OamJ5ECN6I="
+            },
+            "text": "是学习过程没错，但是学习周期，学习难度，奖励周期，力度是明显不同的，再一个游戏学完了，主要是消费，知识还是要输出，而输出是很费脑力的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8151121242,
+                "name": "杨探长",
+                "avatar_url": "https://images.zsxq.com/Fpe9DtomXbcmPIrI6WUs5suW5JhS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ANdRMDtLnEI5SiQJN-UGhvUU1Zg="
+            }
+        },
+        {
+            "comment_id": 51285111152214,
+            "parent_comment_id": 48415884228458,
+            "create_time": "2017-05-18T09:06:22.620+0800",
+            "owner": {
+                "user_id": 8151121242,
+                "name": "杨探长",
+                "avatar_url": "https://images.zsxq.com/Fpe9DtomXbcmPIrI6WUs5suW5JhS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ANdRMDtLnEI5SiQJN-UGhvUU1Zg="
+            },
+            "text": "首先游戏本身也分难易。其次关于游戏消费导向，学习输出导向，和我们现在讨论的点关系并不大。现在的争议点是：学习类比游戏有没有价值😄",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 225225151281,
+                "name": "韩龙",
+                "alias": "海贼王",
+                "avatar_url": "https://images.zsxq.com/Fs82wyy8wwV7m2v6NGWYkqxnMG6E?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2vgjVPHYn757g7lb8OamJ5ECN6I="
+            }
+        },
+        {
+            "comment_id": 88512888825852,
+            "create_time": "2017-05-18T09:07:07.634+0800",
+            "owner": {
+                "user_id": 8151121242,
+                "name": "杨探长",
+                "avatar_url": "https://images.zsxq.com/Fpe9DtomXbcmPIrI6WUs5suW5JhS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ANdRMDtLnEI5SiQJN-UGhvUU1Zg="
+            },
+            "text": "能和大家交流碰撞，真爽😁",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 88512888285512,
+            "create_time": "2017-05-18T09:26:01.680+0800",
+            "owner": {
+                "user_id": 1152188552,
+                "name": "大虎",
+                "avatar_url": "https://images.zsxq.com/FnYI_024jF-nxOIpZOR-qaLfMTj4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2YpUVHxMsUsEvNY35JS8_VdNggk="
+            },
+            "text": "的确有人用游戏设计的原理，结合认知心理学，设计了学习课程，号称让人一学起来就上瘾，就停不下来，这个人就是@Xdite老师",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88512882522852,
+            "create_time": "2017-05-18T11:46:55.876+0800",
+            "owner": {
+                "user_id": 225881845421,
+                "name": "潘公子",
+                "avatar_url": "https://images.zsxq.com/FmyHpqAZ4nw3dzk20sQkGkspPS9q?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sz-XNNm2_QcOox3rwcEVvUM9FbY="
+            },
+            "text": "游戏化主要是在动机方面对人的影响，同时细分任务基本没什么难度，反馈迅速。现在很多游戏化学习的方向都有点偏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        }
+    ],
+    "likes_count": 6,
+    "rewards_count": 0,
+    "comments_count": 12,
+    "reading_count": 1976,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-17T23:02:43.500+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

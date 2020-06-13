@@ -1,0 +1,263 @@
+{
+    "topic_id": 844418818224412,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8212282852,
+            "name": "阿彪",
+            "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n\n做海外市场的，要赚钱肯定离不开支付这一关。对于企业，对公账号走起，该用的渠道方式啥的看看竞品基本没问题，我没有弄过不懂，所以不多说。\n\n但是对于个人而言，PayPal是必备的。但是这里面又有各种细节：\n\n1. 大陆 PayPal个人账号是可以作为商家收款，不需要企业资质。提现的时候，只可以提现到该户主大陆银行卡，受5万美金的外汇限制。注意不能体现到其他非本人银行卡。美金提现到银行卡，如果金额有1万美金左右，就需要申报，具体也看银行，这个不是非常一定的，第一次需要到你银行卡发卡当地网点申报，告诉工作人员你这个钱是怎么来的，最好给他看一下你PayPal的流水和记录，带上电脑。\n\n后续可以在手机银行进行申报。申报完成后，即可结汇，把美金变成人民币。这里美金是从新加坡PayPal汇过来的。完成这些操作，最好先咨询PayPal客服和银行客服。\n\n2. 当用大陆 PayPal个人账号作为商家收款，用户支付的时候，可以登录PayPal支付，也可以不登录PayPal支付，直接采用信用卡支付。这里需要工程师在技术端实现一下。但是PayPal的信用卡支付成功率和用户体验，并不是最好的。如果是全球市场，用户支付的时候，对于主流语种和地区，PayPal是会自动显示当地语言，采用当地货币支付。\n\n3. 大陆PayPal账号，对于虚拟产品没有卖家保障。但是香港PayPal或者美国PayPal对于虚拟产品商家是有保障的。\n\n比如你是卖软件的，那么用户如果投诉说盗刷，未收到货，那么你很可能不能赢得PayPal争议。如果失败了，你和PayPal客服打电话，他说一句没有卖家保障，然后就不用你说什么后话了。\n\n那么什么叫卖家保障呢？\n\n对于实体产品商家，如果你发货了，对方说没收到货，如果PayPal通过你提供的一些信息发现卖家确实发货了，但是对方确实没有收到货，那么PayPal会赔偿买卖双方。\n\n对于虚拟产品商家，则需要具体问题具体分析。如果你发货了，比如发了注册码给对方邮箱，那么PayPal会审核，如果确实发货了，是会赔偿，或者判定卖家赢得争议。\n\n4. 大陆PayPal账号之前不能互相转账。同样，也不能大陆PayPal账号购买大陆PayPal商家的产品，支付不了。\n\n5. 大陆PayPal账号里面的美金可以提现到香港银行卡。到卡后会强制变成港币，如果想转到国内，则需要再一次结汇，这里会有两次汇率损失。但是可以避开5万美金的限制，因为你可以把香港银行卡里面的钱转到其他朋友卡上，然后转进来。这里具体没有操作过，还不是很懂，待大家补充。也有些说直接人肉带进来。\n\n6. 刚刚说到香港PayPal对于虚拟产品商家是有保障的，那申请香港PayPal需要有港澳通行证或者护照，香港银行卡，手机号。对于手机好，听朋友说可\n\n以淘宝上买一个，或者借用一下香港朋友的收一下验证码，这里暂时没有操作，待核实。暂时还不需要实名认证，后续可能需要可能不需要。我打算去\n\n申请香港PayPal，大家有需要的可以参考：<e type=\"web\" href=\"http%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_e10d67740101n25k.html\" title=\"%E6%95%99%E7%A8%8B%C2%A0-%C2%A0Paypal%E6%B3%A8%E5%86%8C%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89_FD%E5%B0%8F%E5%88%80_%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2\" cache=\"\" />\n\n但是据PayPal客服说，香港PayPal有更多的limitation，可能中途需要提供各种信息资料。这个暂时没经历。\n\n7. 做海外市场，大家除了PayPal支付，其实更多可能都是用信用卡支付。对于个人而言，经多方调查和咨询朋友，Stripe 最合适，支付成功率高，体验流程，支持个人卖家，对全球多个国家和语种货币都支持。具体数目可以去官网看。注册stripe香港账号，提供一下手机号，香港银行卡，护照信息就行。\n\nstripe没有集成PayPal在内，所以如果你网站提供支付方式，需要有两个购买按钮，一个是PayPal，另一个是信用卡支付。\n\n如果是企业，其实有其他支付方式集成了信用卡+PayPal，这样只需要一个购买按钮即可。用户在checkout页面去选他想要的支付方式。\n\n目前打算采用stripe收款，程序员正在对接接口等，后续里面还不知道有哪些坑，希望有大神能补充。\n\n\n8. 对于海外市场虚拟产品，目前自动续费是主流。这也是很大一笔收入来源，因为肯定有一些用户忘了取消续费。如果用PayPal收款，对于登录了\n\nPayPal账号支付的用户，可以实现续费。但是如果用户没有登录PayPal，采用PayPal集成的信用卡方式支付，则不能实现续费。stripe是可以支持续费功能的。\n\n9. 很多做affiliate marketing的采用P卡收款，这个没啥好说的，大家都知道。\n\n10. 如果PayPal月收款超过2万，是可以申请手续费优惠的。\n\n11. 对于5万美金的外汇限制，可以通过直系亲属拓展一下。提供一下亲子关系证明，对方身份证，银行卡。可以把美金转到对方银行卡账户，然后结汇。这个不同银行操作细节略有不同，可以问银行客服。具体还没操作过。\n\n以上信息来源于个人经验和PayPal客服。希望能够对各位做海外淘金的有所帮助。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-25T18:22:18.053+0800",
+            "owner": {
+                "user_id": 158428525822,
+                "name": "hank",
+                "avatar_url": "https://images.zsxq.com/FmSEthxyXDXWiEgz9iLcriv96F9k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:l-7cDHST95SzWUbXSQbxBTunp_s=",
+                "number": 4611
+            }
+        },
+        {
+            "create_time": "2019-05-03T13:49:34.883+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-29T21:52:27.684+0800",
+            "owner": {
+                "user_id": 88258815458552,
+                "name": "Rock",
+                "avatar_url": "https://images.zsxq.com/FhQxsT-SU_6Wyi0vws_LVanwwX4O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VZDKLhxTswPWwRSs69S65DLj7Dw=",
+                "number": 2787
+            }
+        },
+        {
+            "create_time": "2019-04-28T16:53:42.376+0800",
+            "owner": {
+                "user_id": 228821425421,
+                "name": "netseek",
+                "avatar_url": "https://images.zsxq.com/FkS50zPopkhYU5YHEc-eYg_YucIw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6t3_mtSfeg7oE_kcH3sgTM9D7FA=",
+                "number": 5580
+            }
+        },
+        {
+            "create_time": "2019-04-26T18:38:22.971+0800",
+            "owner": {
+                "user_id": 552521184824,
+                "name": "用户增长的自我修养",
+                "avatar_url": "https://images.zsxq.com/Fp2TkSpXnOU4kjo4LLTRwsx9kECY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xZKyN-PEjx4cgBQJqYeWLU4la8E=",
+                "number": 4713
+            }
+        },
+        {
+            "create_time": "2019-04-23T16:55:58.311+0800",
+            "owner": {
+                "user_id": 825818182282,
+                "name": "Derek-欧阳",
+                "avatar_url": "https://images.zsxq.com/Fv6vYdQjXglsU6rMGZsFgl0xKEdO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:biZLEhBGtFZsIlniEq8JInMkv0g=",
+                "number": 229
+            }
+        },
+        {
+            "create_time": "2019-04-23T15:35:43.498+0800",
+            "owner": {
+                "user_id": 28244128551811,
+                "name": "子焱",
+                "avatar_url": "https://images.zsxq.com/Fh2ej0wdvccbDrbffR7pVBDTpv4n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wqP5mwmnq7SxaoB-zy27gX2RKv0=",
+                "number": 2803
+            }
+        },
+        {
+            "create_time": "2019-04-23T07:00:45.079+0800",
+            "owner": {
+                "user_id": 881251881842,
+                "name": "王坏坏",
+                "avatar_url": "https://images.zsxq.com/FuSZXXjmLIh_mmxdAdooRKPwb6u3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:glgbQED-DgTFgIVC3SZ9hT-J__w=",
+                "number": 3740
+            }
+        },
+        {
+            "create_time": "2019-04-22T17:49:19.063+0800",
+            "owner": {
+                "user_id": 244188224518111,
+                "name": "流苏TiAmo",
+                "avatar_url": "https://images.zsxq.com/FmoNiia7fVZJREIfREYJulJaHfMq?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yRB633GwLKQ-ZEzPZ5YdjwZnTGE=",
+                "number": 4752
+            }
+        },
+        {
+            "create_time": "2019-04-21T13:33:52.915+0800",
+            "owner": {
+                "user_id": 28518524855521,
+                "name": "一轻心",
+                "avatar_url": "https://images.zsxq.com/FhcNmAa03wWminte7TGf6TCq59Ci?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GfRFE343Ws-Nw-IFrv7SgW6LCpI=",
+                "number": 5045
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-04-29T14:40:52.480+0800",
+            "owner": {
+                "user_id": 555555518824,
+                "name": "子布",
+                "avatar_url": "https://images.zsxq.com/FkvbpBYvTsNiEG2gVbC4eGAKKfIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxwyj7QQ1SgzG_buXEa0LQTujgM="
+            },
+            "amount": 100
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 244114214545541,
+            "create_time": "2019-03-21T12:33:00.585+0800",
+            "owner": {
+                "user_id": 285155251,
+                "name": "肖郎shawlang",
+                "avatar_url": "https://images.zsxq.com/FlANfurgN0ePF0jSDVWQL-ScLs4o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AmoFiW0X4fs9xsSgxkpRth7uNHE="
+            },
+            "text": "去年新规，PayPal 已经不能直接提现到大陆卡了，但可以提现到香港卡。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 422112512424148,
+            "parent_comment_id": 244114214545541,
+            "create_time": "2019-03-21T12:34:26.253+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "可以的。我今年已经提现两次了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 285155251,
+                "name": "肖郎shawlang",
+                "avatar_url": "https://images.zsxq.com/FlANfurgN0ePF0jSDVWQL-ScLs4o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AmoFiW0X4fs9xsSgxkpRth7uNHE="
+            }
+        },
+        {
+            "comment_id": 844114452248522,
+            "create_time": "2019-03-21T18:18:27.115+0800",
+            "owner": {
+                "user_id": 8182852222,
+                "name": "唐校长",
+                "avatar_url": "https://images.zsxq.com/FnCo6nW9LZDvE7r-UDzQIDR3DWHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q6_Yi8_elZsMnzM_0IOqcbLW6xI="
+            },
+            "text": "5. 大陆PayPal账号里面的美金可以提现到香港银行卡。到卡后会强制变成港币，如果想转到国内，则需要再一次结汇，这里会有两次汇率损失。但是可以避开5万美金的限制，因为你可以把香港银行卡里面的钱转到其他朋友卡上，然后转进来。这个行为大量用在黑产领域。就是说这不仅是普通商家需求，很多钱都有这种需求。稳定的大量的朋友属于稀缺资源。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 544884425815814,
+            "parent_comment_id": 844114452248522,
+            "create_time": "2019-03-21T19:20:15.518+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "不小心碰到那些黑产大佬的资金回笼方式了。[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8182852222,
+                "name": "唐校长",
+                "avatar_url": "https://images.zsxq.com/FnCo6nW9LZDvE7r-UDzQIDR3DWHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q6_Yi8_elZsMnzM_0IOqcbLW6xI="
+            }
+        },
+        {
+            "comment_id": 844114454822282,
+            "parent_comment_id": 844114452248522,
+            "create_time": "2019-03-21T20:17:51.034+0800",
+            "owner": {
+                "user_id": 8182852222,
+                "name": "唐校长",
+                "avatar_url": "https://images.zsxq.com/FnCo6nW9LZDvE7r-UDzQIDR3DWHs?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q6_Yi8_elZsMnzM_0IOqcbLW6xI="
+            },
+            "text": "😂绝大多数时候正规创业者和违规行为避不开的，没办法的事儿，只是很多时候不会被追究。除非有人想追究",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            }
+        },
+        {
+            "comment_id": 844111854242512,
+            "parent_comment_id": 244114214545541,
+            "create_time": "2019-03-26T13:23:49.784+0800",
+            "owner": {
+                "user_id": 142442228812,
+                "name": "镜魇",
+                "avatar_url": "https://images.zsxq.com/FjioSnWHo8ZTnkwk7-HE90Af3u0T?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_-S6JhHicJTHlSuDGOm4JUGvm4E="
+            },
+            "text": "每个月都提，没问题。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 285155251,
+                "name": "肖郎shawlang",
+                "avatar_url": "https://images.zsxq.com/FlANfurgN0ePF0jSDVWQL-ScLs4o?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AmoFiW0X4fs9xsSgxkpRth7uNHE="
+            }
+        },
+        {
+            "comment_id": 118222815218252,
+            "create_time": "2019-04-18T20:12:59.496+0800",
+            "owner": {
+                "user_id": 28258481548881,
+                "name": "Lee",
+                "alias": "Imp",
+                "avatar_url": "https://images.zsxq.com/Fn3AeMMuRgE878s8ySWm3qxBVPv6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HmUqCTIH-ag10raetXyISVWK9_w="
+            },
+            "text": "Paypal提现不需要走大陆账户。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118222818448552,
+            "parent_comment_id": 118222815218252,
+            "create_time": "2019-04-18T23:52:40.496+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "现在改香港PayPal了。提现到香港银行卡",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28258481548881,
+                "name": "Lee",
+                "alias": "Imp",
+                "avatar_url": "https://images.zsxq.com/Fn3AeMMuRgE878s8ySWm3qxBVPv6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HmUqCTIH-ag10raetXyISVWK9_w="
+            }
+        }
+    ],
+    "likes_count": 37,
+    "rewards_count": 1,
+    "comments_count": 13,
+    "reading_count": 46307,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-03-20T20:12:01.161+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

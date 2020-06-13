@@ -1,0 +1,230 @@
+{
+    "topic_id": 145884448512,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 825288825422,
+            "name": "Alexander.*",
+            "avatar_url": "https://images.zsxq.com/Frk84GenLwn4hcEItVn69VPvkO2O?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9OZo0rMdW7LxXBjDeujLq8AkJBU=",
+            "description": "传送门网站创始人"
+        },
+        "text": "这个分享偏技术向。\n\n我两年半前发过一篇简单科普文，介绍了微信公众平台图文消息的链接组成\n\n<e type=\"web\" title=\"%E8%A7%A3%E8%AF%BB%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E6%B6%88%E6%81%AF%E7%9A%84%E9%93%BE%E6%8E%A5%E7%BB%84%E6%88%90\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlaVLXBVG_qNWuCdoDk8AUg\" />\n\n在这篇文章里，我没说的是：__biz这个参数，其实就是base64编码，经过base64解码之后能得到公众平台的原始ID，\n那么这篇文章里还说了当时获取二维码的办法：\n<e type=\"web\" title=\"http%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26s...\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26size%3D102%26__biz%3DMzA5Njg3MjAzOA%3D%3D\" />\n\n改变size即可改变二维码的大小。\n\n这个二维码获取的办法一直到一个月以前都是有效的，但是现在失效了，我认为跟我之前的分享有关系。\n\n在之前，经过分析知道公众号的原始ID实际上就是数字，而微信个人账号的id为uin，经过base64解码之后原始ID也是数字，\n在最开始，微信个人账号和公众账号的原始ID没有分开，那么这个用来获取公众号二维码的办法也可以同样用来获取微信个人账号二维码。\n\n再经过简单的几次尝试(用猜测的原始ID去base64编码得到biz，尝试用这个biz生成的二维码是否可以正常扫码)可以知道：微信的个人账号的ID是从100001开始的，6位数，而qq是5位数，从10001开始。\n\n尝试的结果：\n100002: 张文瑞\n100003: 刘乐君 （估计弃用了）\n100004: Franklin 人在杭州\n100005: 微信团队 ID：weixin\n100006 ～ 1000011 位置都是广州的\n1000011 是张小龙的微信\n下面的就没有再尝试了。\n\n我发现这个推导过程是在一年前，直到上个月的一次分享才顺带介绍了这件事，然后放出了通过这种办法推导出的张小龙的个人微信号二维码，\n现在如果再去扫码会出现下面图片里的提示。\n\n\n而且<e type=\"web\" title=\"http%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26s...\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26size%3D102%26__biz%3DMzA5Njg3MjAzOA%3D%3D\" /> \n这种办法获取微信公众号二维码也获取不到了，返回：\n{\nret: -2,\nerrmsg: \"get qrcode failed\",\ncookie_count: 1\n}\n需要加上公众平台文章参数才可以获取：\n<e type=\"web\" title=\"https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26...\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fqrcode%3Fscene%3D10000004%26size%3D102%26__biz%3DMzA5Njg3MjAzOA%3D%3D%26mid%3D201308885%26idx%3D1%26sn%3Db4509bb0be258a0280a19fdd0b692ed6%26send_time%3D\" />\n\n\n另外如果你用张文瑞去Google搜索，会搜到几篇不错的微信相关架构的分享文章，建议阅读。",
+        "images": [
+            {
+                "image_id": 551544555524,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fg6mf0qw4vDrq5_SmPZZT0AtbFHN?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X0mMINzMlkUIpEgqK343Xxz83Gg=",
+                    "width": 540,
+                    "height": 960
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fg6mf0qw4vDrq5_SmPZZT0AtbFHN?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mP15Ead8kwZ5VOXaD2A2pEL4BGo=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fg6mf0qw4vDrq5_SmPZZT0AtbFHN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cC9sdGEdMS9pDkIUm52s4fCXbDs=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 296792
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-12-05T09:41:43.463+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-25T13:47:53.760+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-27T16:27:05.024+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-17T18:31:05.296+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-05T22:41:41.285+0800",
+            "owner": {
+                "user_id": 481811282258,
+                "name": "shijinzhan",
+                "avatar_url": "https://images.zsxq.com/FliijMsDh3nCImaUJ815PfrN5bzz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWAe7GRFNmdaAFdntK-FR7s_z5s=",
+                "number": 5431
+            }
+        },
+        {
+            "create_time": "2017-06-07T13:11:58.448+0800",
+            "owner": {
+                "user_id": 2425884581,
+                "name": "In家伟",
+                "avatar_url": "https://images.zsxq.com/Fn1mVpG5puvWZqsxmkguMPAhfIhj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Mx1bSB58I70rj0Vr9z_cfkdTIBc=",
+                "number": 1100
+            }
+        },
+        {
+            "create_time": "2017-04-06T00:31:47.839+0800",
+            "owner": {
+                "user_id": 2442151811,
+                "name": "Freemen",
+                "avatar_url": "https://images.zsxq.com/FhbOy6oTJxIVyuI1ynTt7bMP0d4x?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PW9GaFL4luQHcUy-kdqBmow2Rqk=",
+                "number": 538
+            }
+        },
+        {
+            "create_time": "2017-03-29T00:38:51.274+0800",
+            "owner": {
+                "user_id": 458815528828,
+                "name": "EatMelon.S",
+                "avatar_url": "https://images.zsxq.com/FufvokhwkuT6WEc5kvw-ZDEPNarG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1BSfD-G4nQT11tT_0e75zqCAl8c=",
+                "number": 620
+            }
+        },
+        {
+            "create_time": "2017-03-28T08:47:10.853+0800",
+            "owner": {
+                "user_id": 158422118152,
+                "name": "雨果僧",
+                "avatar_url": "https://images.zsxq.com/Fj2FoYI5HYO8lOSdkldoLezc9GwZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B3pkhIYP3vOJzR5FeLSOoD7kd-Q=",
+                "number": 349
+            }
+        },
+        {
+            "create_time": "2017-03-25T00:03:14.717+0800",
+            "owner": {
+                "user_id": 5442518184,
+                "name": "王君",
+                "avatar_url": "https://images.zsxq.com/FrsdWPWXvF8z-hMfRfGtY4cP_pgO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:DX-kRHKE06d7LTAMsoszRz6M53E=",
+                "number": 451
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-03-23T20:10:36.035+0800",
+            "owner": {
+                "user_id": 5458244584,
+                "name": "刘泽君",
+                "avatar_url": "https://images.zsxq.com/Fnq_QWjbAPqpk2c5OwFuShKwO-M7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D5jQsUnLxU79092YeGCMnd0rnrs="
+            },
+            "amount": 500
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 458545428148,
+            "create_time": "2017-03-23T19:35:09.365+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "这是一篇分享如何获取到张小龙微信ID的神帖",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 828252511242,
+            "parent_comment_id": 458545428148,
+            "create_time": "2017-03-23T20:35:34.880+0800",
+            "owner": {
+                "user_id": 5458244584,
+                "name": "刘泽君",
+                "avatar_url": "https://images.zsxq.com/Fnq_QWjbAPqpk2c5OwFuShKwO-M7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D5jQsUnLxU79092YeGCMnd0rnrs="
+            },
+            "text": "请问圈子里的内容可以截图分享到朋友圈么？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 145424288842,
+            "parent_comment_id": 458545428148,
+            "create_time": "2017-03-23T20:39:21.982+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "直接有分享链接功能，不要截图",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458244584,
+                "name": "刘泽君",
+                "avatar_url": "https://images.zsxq.com/Fnq_QWjbAPqpk2c5OwFuShKwO-M7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D5jQsUnLxU79092YeGCMnd0rnrs="
+            }
+        },
+        {
+            "comment_id": 551525122224,
+            "parent_comment_id": 458545428148,
+            "create_time": "2017-03-23T20:40:55.045+0800",
+            "owner": {
+                "user_id": 5458244584,
+                "name": "刘泽君",
+                "avatar_url": "https://images.zsxq.com/Fnq_QWjbAPqpk2c5OwFuShKwO-M7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:D5jQsUnLxU79092YeGCMnd0rnrs="
+            },
+            "text": "OK，明白。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        }
+    ],
+    "likes_count": 37,
+    "rewards_count": 1,
+    "comments_count": 4,
+    "reading_count": 1864,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-23T19:21:52.392+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

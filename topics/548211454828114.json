@@ -1,0 +1,184 @@
+{
+    "topic_id": 548211454828114,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 1124511152,
+            "name": "阿May｜增长女黑客",
+            "avatar_url": "https://images.zsxq.com/FgkylLDGY-UeYnmO51-cw1q0VJkl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eS8l8FqxUfhRSr4a_MeTXLP2wr0="
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> <e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_pDs92fLpabkqbmMJlo46A\" title=\"1.3%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%8B%86%E8%A7%A3%EF%BC%9A%E2%80%9C%E7%BE%A4%E5%8B%BE%E6%90%AD%E5%B0%8F%E7%A8%8B%E5%BA%8F%E2%80%9D%E5%AE%9E%E7%8E%B0%E4%BB%8E0%E5%88%B01%E7%9A%843%E5%A4%A7%E5%A2%9E%E9%95%BF%E6%96%B9%E6%A1%88\" cache=\"\" />\n\n本文内容来自于我7月份在腾讯大厦参加PMtalk“2019深圳产品运营大会”的分享，之前由于一直很忙，没时间整理，此次趁着假期，就把内容整理出来。只是，让我吃惊的是，45分钟的分享逐字稿，竟然有1.3万字那么多，足足整理了2天多才搞出来。\n\n分享内容会涉及到很多做裂变活动的增长小技巧，而且虽然增长方案是来源于小程序的，但是其方法思路也同样适用于其他行业，所以，尽管内容很长，但若看完的话，相信一定会有所收获。\n\n以下是本次分享的内容大纲：\n1、群勾搭小程序来源：一个寻找合伙人的故事\n2、种子用户获取：找到1000个群主用户\n3、第一次裂变活动：建立1800多人超级群\n4、第二次裂变活动：24小时获得1万多付费社员\n5、模式复用：打造自己的行业人脉库\n\n希望大家能够借假修真，从而用到自己的行业中去[呲牙]"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-22T12:43:30.998+0800",
+            "owner": {
+                "user_id": 455588425888,
+                "name": "游乐鱼",
+                "avatar_url": "https://images.zsxq.com/FqIieQIcpixYMTzsMBfO3Nx03T5t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mdc7PFps5QFeNqZi4ThJnNbEirU=",
+                "number": 6264
+            }
+        },
+        {
+            "create_time": "2020-01-30T15:16:57.424+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-11-21T11:52:05.944+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU=",
+                "number": 2802
+            }
+        },
+        {
+            "create_time": "2019-11-18T14:15:31.423+0800",
+            "owner": {
+                "user_id": 758544184,
+                "name": "hz517",
+                "alias": "hz517",
+                "avatar_url": "https://images.zsxq.com/FuaDm27UciYzp9VPSAi5ERFmzSQW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:07n54eCmYValAh9KLHdBveXK4zw=",
+                "number": 1750
+            }
+        },
+        {
+            "create_time": "2019-10-20T23:06:30.805+0800",
+            "owner": {
+                "user_id": 51558215452114,
+                "name": "阿Kai",
+                "avatar_url": "https://images.zsxq.com/Fv-F-jZOeRgTLguXDIUiuvRaUAm6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rUNIzw6V2RsUJx0QdYuTXFYVMJU=",
+                "number": 4526
+            }
+        },
+        {
+            "create_time": "2019-10-18T14:07:20.411+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-10-12T21:43:18.860+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-10-10T22:42:54.534+0800",
+            "owner": {
+                "user_id": 48851158418188,
+                "name": "一粟",
+                "avatar_url": "https://images.zsxq.com/FhSCIgnCUHY8wJGuztL84vMy4aTy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Hktu5PijnIgYwYs6IUJpj6oJFiY=",
+                "number": 3397
+            }
+        },
+        {
+            "create_time": "2019-10-10T13:22:09.744+0800",
+            "owner": {
+                "user_id": 8455412242,
+                "name": "细细的红线",
+                "avatar_url": "https://images.zsxq.com/FqQ81ULIgQWLS0Emlh9xC4hnT3Uw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iHZDNRZudMruiGGJcA6mhKuB7Lc=",
+                "number": 5554
+            }
+        },
+        {
+            "create_time": "2019-10-10T07:40:25.647+0800",
+            "owner": {
+                "user_id": 28511255514411,
+                "name": "艺",
+                "avatar_url": "https://images.zsxq.com/Fu4U7rA-XwZQ_0D-m0vNuN49s7AX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6rZgq24Tugu28zgnW7kn2LwT7lQ=",
+                "number": 3808
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-11-21T11:52:22.605+0800",
+            "owner": {
+                "user_id": 51541512414524,
+                "name": "windle",
+                "avatar_url": "https://images.zsxq.com/FjLbVwgDYQZ8p57h7srz71pTgW0K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:X32nxjwhkBZkVunoPy2qtLjMUHU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2019-11-06T20:57:56.216+0800",
+            "owner": {
+                "user_id": 118554585815152,
+                "name": "@陈1",
+                "avatar_url": "https://images.zsxq.com/Fii6IL_uYDeF-BQupnZ8P7HLCgaR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tF_voeQK2jkOCS32Op83OJTqink="
+            },
+            "amount": 3040
+        },
+        {
+            "create_time": "2019-10-10T13:22:47.172+0800",
+            "owner": {
+                "user_id": 8455412242,
+                "name": "细细的红线",
+                "avatar_url": "https://images.zsxq.com/FqQ81ULIgQWLS0Emlh9xC4hnT3Uw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:iHZDNRZudMruiGGJcA6mhKuB7Lc="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2019-10-09T19:52:20.731+0800",
+            "owner": {
+                "user_id": 822245814882,
+                "name": "啦啦猫",
+                "avatar_url": "https://images.zsxq.com/FidpT7xhVWGGJc4j9HjDoU34s216?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VvEwZ_-zn9YpqsySLR1_hlk9hro="
+            },
+            "amount": 704
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841848525115822,
+            "create_time": "2019-10-09T19:52:46.542+0800",
+            "owner": {
+                "user_id": 822245814882,
+                "name": "啦啦猫",
+                "avatar_url": "https://images.zsxq.com/FidpT7xhVWGGJc4j9HjDoU34s216?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VvEwZ_-zn9YpqsySLR1_hlk9hro="
+            },
+            "text": "必须赏啊，这么好的学习资源",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421211552422428,
+            "create_time": "2019-11-06T20:57:43.485+0800",
+            "owner": {
+                "user_id": 118554585815152,
+                "name": "@陈1",
+                "avatar_url": "https://images.zsxq.com/Fii6IL_uYDeF-BQupnZ8P7HLCgaR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tF_voeQK2jkOCS32Op83OJTqink="
+            },
+            "text": "无奈没有文化，只能一句“卧槽”创天下，年度好文，就是太干了一遍没看懂",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 23,
+    "rewards_count": 4,
+    "comments_count": 2,
+    "reading_count": 6523,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-10-09T19:23:59.385+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

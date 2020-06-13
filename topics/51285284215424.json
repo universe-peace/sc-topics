@@ -1,0 +1,334 @@
+{
+    "topic_id": 51285284215424,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481811525228,
+            "name": "李孝军",
+            "avatar_url": "https://images.zsxq.com/FhZUML34XnKlQkVj-mUpbys4ffUi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TufB9jVUWKLZbby_HKtwdaLT6zI="
+        },
+        "text": "#思路分享#   地图租房\n\n这几天忙着租房，58和豆瓣小组用的很多，点击地区或输入关键词，网站上租房信息通常就会以列表呈现。但刚到一个陌生城市，对在哪租房合适并没有直观的认识，所以经常是地图、58和小组切来切去，再找个本本记录一下，效率很低。\n\n针对这个痛点，百姓网app主页最近在主推“地图租房”功能，但目前貌似仅支持北京和上海。58 app的租房页面也推出了“地图租房”功能，信息很全，我最近用的也很多，浏览租房信息更直观方便，很喜欢，只是电脑网页版链接到了安居客，个人房源有点少。其他如蘑菇，小猪，蚂蚁，途家等长租或短租app，地图找房功能都已是标配。说明地图找房应该有很大的需求市场。\n\n那么对于微信公众号或小程序，是不是也可以做个“租房信息”的聚合类网站，根据房源地点将“户型，价格，简介”直接呈现在地图上。初步设想是抓取58和豆瓣小组租房贴的“地点，价格和户型”这三个关键信息，做成简介卡片，按照地点在地图上呈现出来，用户可在地图上直接查看租房信息。可能的问题是小程序不支持外链，所以可以先做个人站试试水。不知道这个想法实现的难度大不大。\n\n我已注册“地图租房”公众号和小程序，圈里如果有朋友将想法落地，需要的话私信我，免费转让。",
+        "images": [
+            {
+                "image_id": 15285855114512,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhteSMYDHKC1Hsl-ogyqb6_n-XVP?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:x5BiF3Wzk6zX9llfsLewOrgr1-s=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhteSMYDHKC1Hsl-ogyqb6_n-XVP?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Jmos3YJs1JU1g4sfCIGv7MrVwkk=",
+                    "width": 720,
+                    "height": 1280
+                }
+            },
+            {
+                "image_id": 51281811445184,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fu1tSNZk9scugcZIJmkB2ffZV1K9?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FTfONBEf4x4tY_-CoM8ExbWKOzE=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fu1tSNZk9scugcZIJmkB2ffZV1K9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXUmhAXCWkVgMD5L6bcJvp3hQlc=",
+                    "width": 720,
+                    "height": 1280
+                }
+            },
+            {
+                "image_id": 48418188225828,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvZjGpepfMy06ZTyexzqvy2Qreif?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qCzQbSh-Wcx1t8vzw4jIlVNf4II=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvZjGpepfMy06ZTyexzqvy2Qreif?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5vGiRQjERE2vByOkBigkdM0wES4=",
+                    "width": 720,
+                    "height": 1280
+                }
+            },
+            {
+                "image_id": 28518188442811,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnbiepVnf9j7GhAf-Uv8PXJj63Ux?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OP3XWdXsBGEq7xmnrB9na3ij6Rs=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnbiepVnf9j7GhAf-Uv8PXJj63Ux?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hornxKzHCPS3ixVD0vs-ralvcpI=",
+                    "width": 720,
+                    "height": 1280
+                }
+            },
+            {
+                "image_id": 15285855114422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FrzXz1G1aUAp_tzQPB_zlqmjufRW?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aMOOqLkQV-ShJiwnXyjbOrii6tY=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FrzXz1G1aUAp_tzQPB_zlqmjufRW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ovqypfdxdYIQs30eYVq4zHixwnY=",
+                    "width": 720,
+                    "height": 1280
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-28T20:18:40.098+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-07-31T17:28:42.190+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-01T23:12:48.399+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-23T10:29:38.541+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4=",
+                "number": 3116
+            }
+        },
+        {
+            "create_time": "2019-04-29T18:45:16.594+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-06-11T19:51:25.630+0800",
+            "owner": {
+                "user_id": 454125585218,
+                "name": "York",
+                "alias": "姚文杰",
+                "avatar_url": "https://images.zsxq.com/FgFfsH9iHsvv0OOfasxsNPnqsBwV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BURdC0pX5t5OTGvUn5RqqlPdoSs=",
+                "number": 1104
+            }
+        },
+        {
+            "create_time": "2017-05-17T13:01:45.946+0800",
+            "owner": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s=",
+                "number": 238
+            }
+        },
+        {
+            "create_time": "2017-05-17T09:41:07.109+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro",
+                "number": 1
+            }
+        },
+        {
+            "create_time": "2017-05-17T09:20:17.735+0800",
+            "owner": {
+                "user_id": 222211582121,
+                "name": "云天",
+                "avatar_url": "https://images.zsxq.com/FqOHaS_3tpV4UXu8lMZhJuV0ZrMR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:BjUUQ7sXDvmL37Cn2B5Xv1ZvA_o=",
+                "number": 933
+            }
+        },
+        {
+            "create_time": "2017-05-17T08:56:55.295+0800",
+            "owner": {
+                "user_id": 4254218188,
+                "name": "擦擦",
+                "avatar_url": "https://images.zsxq.com/Fi3G5BKH32_tyu8EQcd1HiYduW5v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XnWBwXDATgaX2RWFJF8y0Xgwo04=",
+                "number": 476
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-17T13:08:56.208+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 3333
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 51285284514414,
+            "create_time": "2017-05-17T10:35:28.017+0800",
+            "owner": {
+                "user_id": 828241425452,
+                "name": "🐳阿切",
+                "avatar_url": "https://images.zsxq.com/FqMnpX_872UYs-DQqkFhVpxlcY5s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WbuwgAqBxyFQTo-P6Cux3rDCsLc="
+            },
+            "text": "可以借鉴一下 107room",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 28512855448821,
+            "create_time": "2017-05-17T13:03:49.149+0800",
+            "owner": {
+                "user_id": 4254218188,
+                "name": "擦擦",
+                "avatar_url": "https://images.zsxq.com/Fi3G5BKH32_tyu8EQcd1HiYduW5v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XnWBwXDATgaX2RWFJF8y0Xgwo04="
+            },
+            "text": "来杭州在豆瓣上找租房的时候，就被困扰过，然后想搞一个类似小程序，抽空在做着玩😅",
+            "likes_count": 0,
+            "rewards_count": 1,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15284522824142,
+            "parent_comment_id": 51285284514414,
+            "create_time": "2017-05-17T13:31:18.844+0800",
+            "owner": {
+                "user_id": 481811525228,
+                "name": "李孝军",
+                "avatar_url": "https://images.zsxq.com/FhZUML34XnKlQkVj-mUpbys4ffUi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TufB9jVUWKLZbby_HKtwdaLT6zI="
+            },
+            "text": "头一次听说这个网站，学习一下👌",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828241425452,
+                "name": "🐳阿切",
+                "avatar_url": "https://images.zsxq.com/FqMnpX_872UYs-DQqkFhVpxlcY5s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WbuwgAqBxyFQTo-P6Cux3rDCsLc="
+            }
+        },
+        {
+            "comment_id": 51285122824444,
+            "parent_comment_id": 28512855448821,
+            "create_time": "2017-05-17T13:36:09.494+0800",
+            "owner": {
+                "user_id": 481811525228,
+                "name": "李孝军",
+                "avatar_url": "https://images.zsxq.com/FhZUML34XnKlQkVj-mUpbys4ffUi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TufB9jVUWKLZbby_HKtwdaLT6zI="
+            },
+            "text": "好啊，加油！做好来圈里和大家分享一下👏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 4254218188,
+                "name": "擦擦",
+                "avatar_url": "https://images.zsxq.com/Fi3G5BKH32_tyu8EQcd1HiYduW5v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XnWBwXDATgaX2RWFJF8y0Xgwo04="
+            }
+        },
+        {
+            "comment_id": 51285121224184,
+            "create_time": "2017-05-17T14:10:20.833+0800",
+            "owner": {
+                "user_id": 2428822521,
+                "name": "阿豆",
+                "avatar_url": "https://images.zsxq.com/FkVy78pV2x_LtwkiK6nhMGS0gA_p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7phzUxnsHOuSp-x4yYNicgyQths="
+            },
+            "text": "现在在做租房产品，地图使用率大概在30%\n租房行业的痛点在于房源数量和质量。交互和功能只能锦上添花。慎入",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88512858551842,
+            "parent_comment_id": 51285284514414,
+            "create_time": "2017-05-17T14:11:03.909+0800",
+            "owner": {
+                "user_id": 2428822521,
+                "name": "阿豆",
+                "avatar_url": "https://images.zsxq.com/FkVy78pV2x_LtwkiK6nhMGS0gA_p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7phzUxnsHOuSp-x4yYNicgyQths="
+            },
+            "text": "107间快倒闭了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 828241425452,
+                "name": "🐳阿切",
+                "avatar_url": "https://images.zsxq.com/FqMnpX_872UYs-DQqkFhVpxlcY5s?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WbuwgAqBxyFQTo-P6Cux3rDCsLc="
+            }
+        },
+        {
+            "comment_id": 51285121144444,
+            "parent_comment_id": 51285121224184,
+            "create_time": "2017-05-17T15:26:38.289+0800",
+            "owner": {
+                "user_id": 481811525228,
+                "name": "李孝军",
+                "avatar_url": "https://images.zsxq.com/FhZUML34XnKlQkVj-mUpbys4ffUi?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TufB9jVUWKLZbby_HKtwdaLT6zI="
+            },
+            "text": "谢谢分享!👍👍👍，这几天租房挺磨人的，期待更优秀的租房产品",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 2428822521,
+                "name": "阿豆",
+                "avatar_url": "https://images.zsxq.com/FkVy78pV2x_LtwkiK6nhMGS0gA_p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7phzUxnsHOuSp-x4yYNicgyQths="
+            }
+        },
+        {
+            "comment_id": 48415884581128,
+            "create_time": "2017-05-18T00:07:02.892+0800",
+            "owner": {
+                "user_id": 455458522858,
+                "name": "嘉识数据-Josep*",
+                "alias": "四爷(Joseph)",
+                "avatar_url": "https://images.zsxq.com/FgZFsStigKsH8ZxOC8x4rmCEmMTv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:heivQooqgMYZscwTTw5hJ4tVa5U="
+            },
+            "text": "这个我们在大概15年做过个和你所列需求基本一模一样的网站，网站叫’和你住‘，不知你听说过没有。唯一的区别是我们只做合租客户。当时就是抓取豆瓣等社群的合租贴，然后语意识别区域信息后标记在地图上。当年还谈了几个风投。但后来觉得市场做不大赢利点也不明确等原因就放弃了。唉，可惜了那么好的域名，忘了续费了。。。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        }
+    ],
+    "likes_count": 14,
+    "rewards_count": 1,
+    "comments_count": 13,
+    "reading_count": 2016,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-17T07:30:54.671+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

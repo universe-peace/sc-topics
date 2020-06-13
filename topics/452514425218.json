@@ -1,0 +1,269 @@
+{
+    "topic_id": 452514425218,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 455542515288,
+            "name": "大白",
+            "alias": "WJ",
+            "avatar_url": "https://images.zsxq.com/FlDC1V6tw0ku-PdNnDcAStDZxgt5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lWk5F_EA_Jzbakub19XV3Bp-d6Y="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> 继续分享个项目思路。这是一个如何把一个想法或者一个小需求小工具，做成能快速引流变现的思路和操作流程。之前做的一个站wifiwlan.com（项目有点老，不需要在意项目本身，这种需求现已过时，请看思路和操作流程即可），09年那会儿还在学校，那时候电信运营商在一些商圈或者学校之类的会有一些热点或者开放免费热点，我因为有需求，所以经常去网上查什么地方有免费热点，或者运营商的热点，那时候淘宝还有1元移动wifi上网帐号买，1块钱可以上一天网。我查到的一些网站包括电信移动的官网，虽然每个省份有提供热点查询工具，但是感觉体验并不好不容易被搜到，主要是我觉得它们那种展现方式对搜索引擎很不友好。于是我调研了一下，各地都有这种查询wifi的流量词。于是说干就干：\n第一步,找到这个需求，分析现有工具的优缺点。\n\n第二步，获取相关数据，导出wifi数据（那时候电信的查找工具可以导出数据），再就是移动和联通有xls形式的数据，在找找网上的免费wifi列表（文库里找）\n\n第三步，把这些数据整理汇总好，做成搜索引擎容易索引的页面，每个热点一个页面，然后按各地方名来分类，做诸如“北京xx区wifi热点”的词，覆盖这些几乎没有人做的冷门词。\n\n第四步，做好站内优化，这种冷门长尾词，不需要任何外链，基本上都算是原创内容，而且是有搜索需求的内容，搜索引擎爬虫特别喜欢，给的排名也不错，做好了就挂着，一直都会有流量，你剩下要做的就是上广告了，也是一种自动赚钱机器。\n\n总结一下，就是找到一个小需求或者小工具，你发现他的展现方式不好，搜索引擎根本无法直接查到它的数据，但是它的数据又有搜索量，那么你就可以把数据弄出来做文章，把每项数据直接做成页面，这样你就把搜索引擎当作了搜索框，搜索相关大量长尾词的用户就可以直接进入你的页面。然后有了流量就去做你该做的事了，什么行业该放什么广告，我当时这个wifi站就直接卖淘宝的wifi账号和wifi信号放大器淘客再加上GGAD。 之后有做APP的要来买我的数据，二话不说打包卖了。又赚一笔。",
+        "images": [
+            {
+                "image_id": 452455282128,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ftuyu8x1GcoE0Y9gam44PVK45yg2?imageMogr2/auto-orient/thumbnail/540x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JO-sgCufiW42Iz4wI1ImEnYtLeQ=",
+                    "width": 540,
+                    "height": 323
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ftuyu8x1GcoE0Y9gam44PVK45yg2?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FOneUfkng0czXJwcE5b527E_vkQ=",
+                    "width": 800,
+                    "height": 479
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Ftuyu8x1GcoE0Y9gam44PVK45yg2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CBGH48UabFo-NaVdW_n_R_yFghU=",
+                    "width": 996,
+                    "height": 597,
+                    "size": 184644
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-08T23:50:27.337+0800",
+            "owner": {
+                "user_id": 28211822512551,
+                "name": "辣条",
+                "avatar_url": "https://images.zsxq.com/Fn-fZETOj4da42qnT1qGrGvbb__n?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k3jzf7muJuNSchWMi3AUElmCm84=",
+                "number": 6431
+            }
+        },
+        {
+            "create_time": "2020-03-26T21:46:34.475+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-11T20:18:30.773+0800",
+            "owner": {
+                "user_id": 51515458158584,
+                "name": "奇思",
+                "avatar_url": "https://images.zsxq.com/FnPpvVuowXTXTUDwMLr668rM_rt7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J2kXyQoboLbv1Bla8Q2nNxHvOpw=",
+                "number": 4729
+            }
+        },
+        {
+            "create_time": "2019-08-10T17:49:42.961+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-07-29T11:26:44.129+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-30T12:46:18.749+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-17T10:55:31.807+0800",
+            "owner": {
+                "user_id": 88885412282252,
+                "name": "扇扇",
+                "avatar_url": "https://images.zsxq.com/FhiChtUV3LlmPRUPz1Qcz4Ryq8Su?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ozDMv-VNM_dM4UIrX7kqIGU_xuY=",
+                "number": 3289
+            }
+        },
+        {
+            "create_time": "2019-05-01T00:56:41.555+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-04-29T22:37:54.734+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU=",
+                "number": 348
+            }
+        },
+        {
+            "create_time": "2017-04-26T23:21:27.060+0800",
+            "owner": {
+                "user_id": 458521228448,
+                "name": "佑",
+                "avatar_url": "https://images.zsxq.com/FmoynSqe0_6WqWxlIpKGL20M52Pn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yVW8CjYdw27Rm20N9DvLHUaCxUU=",
+                "number": 101
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-04-25T01:41:29.205+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 999
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 224522251251,
+            "create_time": "2017-04-24T17:02:29.275+0800",
+            "owner": {
+                "user_id": 455542515288,
+                "name": "大白",
+                "alias": "WJ",
+                "avatar_url": "https://images.zsxq.com/FlDC1V6tw0ku-PdNnDcAStDZxgt5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lWk5F_EA_Jzbakub19XV3Bp-d6Y="
+            },
+            "text": "当时这个站，做好之后就一直挂着，后来查统计发现几个省份的电信营业厅首页直接把wifi热点查询的小工具链接指向我的站😄 也有不少被推荐的自然外链。呵呵，也许这就是一个站的价值所在，搜索引擎也喜欢这种自然的外链，这也是靠外链排名的一个初衷把。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 224522281551,
+            "parent_comment_id": 224522251251,
+            "create_time": "2017-04-24T17:18:23.680+0800",
+            "owner": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            },
+            "text": "你要贴点盈利的数据才打动人 😁",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 455542515288,
+                "name": "大白",
+                "alias": "WJ",
+                "avatar_url": "https://images.zsxq.com/FlDC1V6tw0ku-PdNnDcAStDZxgt5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lWk5F_EA_Jzbakub19XV3Bp-d6Y="
+            }
+        },
+        {
+            "comment_id": 141244442182,
+            "parent_comment_id": 224522251251,
+            "create_time": "2017-04-24T17:23:01.747+0800",
+            "owner": {
+                "user_id": 455542515288,
+                "name": "大白",
+                "alias": "WJ",
+                "avatar_url": "https://images.zsxq.com/FlDC1V6tw0ku-PdNnDcAStDZxgt5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lWk5F_EA_Jzbakub19XV3Bp-d6Y="
+            },
+            "text": "😄重要的是思路，不需要盈利数据，当然它对不同的人有不同的价值。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454151148288,
+                "name": "定投哥@区块链定投",
+                "alias": "头号玩家",
+                "avatar_url": "https://images.zsxq.com/Frz_-HDVtcUgz5Hhwud9kA85oQAk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:L_VCFrLxEV7dV2HkhxbrnJWnm7A="
+            }
+        },
+        {
+            "comment_id": 554255555524,
+            "create_time": "2017-04-24T17:28:00.625+0800",
+            "owner": {
+                "user_id": 825288545282,
+                "name": "梁文斌",
+                "alias": "梁文斌",
+                "avatar_url": "https://images.zsxq.com/FvD31roPvniy4SZjZQnHimLVO-ky?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:epgiPUlXgymuKZGZIUza83u8P1I="
+            },
+            "text": "很好的思路！个人认为，现在搜索的需求，可以拓展到多种形式，比方说微信搜索，头条搜索，app搜索，淘宝搜索等，那些百度搜索不了的领域。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 554255854584,
+            "create_time": "2017-04-24T19:18:22.797+0800",
+            "owner": {
+                "user_id": 518114558244,
+                "name": "watson",
+                "avatar_url": "https://images.zsxq.com/FkWgjX-t95O5Kjxm6UdVdMigMn-B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I2NaYez4UeGwzsDDpRxtz-oX1aE="
+            },
+            "text": "这就是后来的wifi万能钥匙？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 824545555412,
+            "parent_comment_id": 554255854584,
+            "create_time": "2017-04-24T21:57:33.316+0800",
+            "owner": {
+                "user_id": 455542515288,
+                "name": "大白",
+                "alias": "WJ",
+                "avatar_url": "https://images.zsxq.com/FlDC1V6tw0ku-PdNnDcAStDZxgt5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lWk5F_EA_Jzbakub19XV3Bp-d6Y="
+            },
+            "text": "那时候还没有wifi万能钥匙这类app，是后来wifi热点位置加上内置的运营商帐号和免费热点信息做出来的app，通过下载推荐app盈利 ，随后发展到后面的网友共享wifi",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 518114558244,
+                "name": "watson",
+                "avatar_url": "https://images.zsxq.com/FkWgjX-t95O5Kjxm6UdVdMigMn-B?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:I2NaYez4UeGwzsDDpRxtz-oX1aE="
+            }
+        },
+        {
+            "comment_id": 224242255451,
+            "create_time": "2017-04-29T22:38:12.531+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU="
+            },
+            "text": "这个思路很赞",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 1,
+    "comments_count": 7,
+    "reading_count": 2013,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-04-24T16:59:04.411+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "topic_id": 48222854528448,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> \n一个帮助用户提升营销业绩和影响力的工具，每月躺赚5万美元。\n\n主人公是一个哈佛应用数学专业毕业的小哥哥，厌倦了金融行业朝九晚五的打工仔生活，毅然辞职，跟女友一起环球旅游。\n\n之后开始创业，做了这款，能帮助中小企业老板、创业者，快速找到Instagram、Twitter上的网红资源，并且能方便地进行邮件营销、品牌推广的一站式营销平台。\n\n 2015年，也就是这款产品发布的第一年末，每个月的营收达到了1万美元，2016年后，达到了3万美元，上个月，突破了5w美元。\n\n建立MVP：\n通过注册测试竞品的工具，结合大量的电话访谈，将收集到产品建议全部反馈给开发人员。\n\n他们做了很多工具，并整合成一个工具箱，比如\n1. 建立线索库，抓取了众多网红和商业线索资源，只需要在他们的数据库中搜索相关的关键词，就可以找到有价值的关键人物和信息，比如聚合了几百万个邮箱，同时建立了自动邮件推广系统，可以一键发送广告；\n\n2. 抓取整合了众多Instagram上面的网红信息，并做结构化整理，如果你有品牌希望推广，可以在他们的系统中搜索并设置要联系谁，同时设置好预算，他们可以主动出击，利用人脉上面的优势，帮你迅速找到想要找的人；\n\n3. 类似的， 他们抓取了众多twitter用户的信息，可以检索任意关键词和国家的数据，需要联系谁，通过他们的软件可以一键保存并请求连接，同时有自定义的crm管理功能；\n\n4. 比如提供整合营销服务，可以帮你做外链建设、内容营销、广告投放、博客营销等多种方式的推广服务；\n\n5. 外链建设的软件，根据需求和预算自动发布有价值的外链；\n\n6. 开发出一个关系管理系统，方便用户搜索、保存、追踪用户和线索；\n\n推广手段：\n\n1.Twitter，邮件，和Linkedin，短期起量特别快！\n2.慢慢来，持续做：SEO，以及与KOL，大V绑定关系\n3.在Warrior Forum 和 AppSumo上引流，获取了很多外链和流量\n4.利用主人公原有的博客发布文章进行引流，注册数和流量突飞猛进。\n\n收入模式：\n\n2015年6月到7月，月收入从0增长到3000美元，当时只有100个订阅用户，12月份他们正式提价，达成了月收入1万美元的目标。\n收费套餐：\n69美元/月 ，新手版适合单个用户\n99美元/月，适合小企业主，综合推广服务\n249美元/月，适合专业数字营销从业者，高阶版推广服务\n599美元/月，适合大客户，需求海量客户源\n\n未来的目标：多样化收入来源\n建立了在线学院，做线上营销培训，为客户提供量身定制服务：潜在客户开发、外链建设、软文写作等。\n\n踩过的坑：\nMVP第一版做了电脑端 app，而不是网页版；\n把paypal作为支付处理器，而不是Stripe；\n（上线了以后才知道，这两个都是逆用户习惯的，导致后期重构非常痛苦、代价巨大）\n界面丑且反人性的设计；\n雇了价格便宜，做的活很粗糙的开发；\n没能跟更多的用户去交谈；\n\n总结最大的坑就是没有做足够多的调研，没有跟足够多的用户去交流。",
+        "images": [
+            {
+                "image_id": 28484252288211,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhQIVEgZOCtwrX51wSOlnRe-pLF7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GO4nUWcRoJ1UtdoiI81CASWjSaI=",
+                    "width": 320,
+                    "height": 183
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhQIVEgZOCtwrX51wSOlnRe-pLF7?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ypRZMhVcFlg-yXe7hYEyQb4ETtk=",
+                    "width": 800,
+                    "height": 457
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhQIVEgZOCtwrX51wSOlnRe-pLF7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yiHAzvrEypKUzT0YRjXao03aJLY=",
+                    "width": 1800,
+                    "height": 1028,
+                    "size": 777523
+                }
+            },
+            {
+                "image_id": 51414525511584,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FiVMos4kEB3rYtBmYqEU_Oi9Rkq9?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UdIkurCAsWN-yPck2l7Plg6pXxA=",
+                    "width": 320,
+                    "height": 184
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FiVMos4kEB3rYtBmYqEU_Oi9Rkq9?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s2EQLE2ku9cL78rLlTQipW4DBwo=",
+                    "width": 800,
+                    "height": 460
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FiVMos4kEB3rYtBmYqEU_Oi9Rkq9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RYpOYVuMfOplvIfxvB7ErMdaP6Y=",
+                    "width": 1800,
+                    "height": 1034,
+                    "size": 728885
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-23T16:32:37.491+0800",
+            "owner": {
+                "user_id": 844415442188822,
+                "name": "槐香城",
+                "avatar_url": "https://images.zsxq.com/FqciCQkFCoyF6ZU9wKWS7TKD99R8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bqWD6Zx03X8y04QdLf5bid98idE=",
+                "number": 6180
+            }
+        },
+        {
+            "create_time": "2019-06-05T07:02:46.578+0800",
+            "owner": {
+                "user_id": 118228155811852,
+                "name": "亚光",
+                "avatar_url": "https://images.zsxq.com/FkrRZHKkUYMQbY8ft_OYTwpYHmKz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HFeVw4W0EN5i-VYS3VkrfP6_tXM=",
+                "number": 5705
+            }
+        },
+        {
+            "create_time": "2019-05-12T03:39:48.005+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-05-11T23:36:12.707+0800",
+            "owner": {
+                "user_id": 48841158411428,
+                "name": "咚",
+                "avatar_url": "https://images.zsxq.com/Fs8D2JsYSU48cniLH2__SJiMv0Uk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:k1E6qJz0oaqDc05XT7b-w2QUiCk=",
+                "number": 3548
+            }
+        },
+        {
+            "create_time": "2019-05-04T18:04:25.641+0800",
+            "owner": {
+                "user_id": 88288511245242,
+                "name": "千寻软件🔥达人",
+                "avatar_url": "https://images.zsxq.com/FqL91f3Kgmuo483kNnoS_He_zoFC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NKo7UnwNqxBfyO_oWC-_dXqtMbI=",
+                "number": 4649
+            }
+        },
+        {
+            "create_time": "2019-04-28T13:45:20.203+0800",
+            "owner": {
+                "user_id": 111184551858442,
+                "name": "JASON",
+                "avatar_url": "https://images.zsxq.com/Fvy5pbIgqUgmxhQfj0Pxj7D9emsZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mkRLx4PLqdxWggcrbBF2TWZhX7k=",
+                "number": 4378
+            }
+        },
+        {
+            "create_time": "2019-04-25T13:04:26.430+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-25T00:14:31.261+0800",
+            "owner": {
+                "user_id": 51111145851124,
+                "name": "五折",
+                "avatar_url": "https://images.zsxq.com/Fi-7SxBa6WCWENlTUV_yvt7op_R7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bd2_cXI1UcYIi6qJtslJMqecO2s=",
+                "number": 3312
+            }
+        },
+        {
+            "create_time": "2019-04-23T01:09:07.325+0800",
+            "owner": {
+                "user_id": 51284484148224,
+                "name": "书豪",
+                "avatar_url": "https://images.zsxq.com/FgAZVn9iXl9xBAJIIG9pXF-v1iWV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Wb0JDuMUCSrE-Ue7sN9jSEvWoMk=",
+                "number": 2955
+            }
+        },
+        {
+            "create_time": "2019-04-21T16:07:32.594+0800",
+            "owner": {
+                "user_id": 881118555152,
+                "name": "多多",
+                "avatar_url": "https://images.zsxq.com/Fj9rYc5ScqrwdfS0JTvt8gKECXQ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:toTNKvCHaru-5XvfTFZTZMJa2X4=",
+                "number": 2756
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 244188118428221,
+            "create_time": "2018-12-28T21:45:18.030+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "这个工具能帮助中小企业老板、创业者，快速找到Instagram、Twitter上的网红资源，并且能方便地进行邮件营销，品牌推广。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 111854225515522,
+            "create_time": "2018-12-29T12:56:16.805+0800",
+            "owner": {
+                "user_id": 822525555242,
+                "name": "Amazing海子",
+                "avatar_url": "https://images.zsxq.com/FnGUTVnZqcaEFbJj5lzXw4uiUozv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDDDmI-MVOLcaaoBgUXW5qOe-oo="
+            },
+            "text": "这个网站打不开？刚试了一下。翻了也进不了。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 244182558848441,
+            "parent_comment_id": 244188118428221,
+            "create_time": "2018-12-29T12:58:38.931+0800",
+            "owner": {
+                "user_id": 822525555242,
+                "name": "Amazing海子",
+                "avatar_url": "https://images.zsxq.com/FnGUTVnZqcaEFbJj5lzXw4uiUozv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDDDmI-MVOLcaaoBgUXW5qOe-oo="
+            },
+            "text": "拒绝访问😂😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            }
+        },
+        {
+            "comment_id": 244182584844541,
+            "parent_comment_id": 244188118428221,
+            "create_time": "2018-12-30T00:48:40.464+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic="
+            },
+            "text": "我翻后可以打开",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 822525555242,
+                "name": "Amazing海子",
+                "avatar_url": "https://images.zsxq.com/FnGUTVnZqcaEFbJj5lzXw4uiUozv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RDDDmI-MVOLcaaoBgUXW5qOe-oo="
+            }
+        },
+        {
+            "comment_id": 118255288215442,
+            "parent_comment_id": 244188118428221,
+            "create_time": "2019-05-03T14:32:05.397+0800",
+            "owner": {
+                "user_id": 28885848414541,
+                "name": "WTB",
+                "avatar_url": "https://images.zsxq.com/FnPSN3u5T3GbFpoTWkXukelTJTer?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o7Qf2pFWQTxPRBSvdyOaKUJMOBA="
+            },
+            "text": "有类似的做抖音网红的平台吗？在广告主和抖音网红之间建立桥梁。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            }
+        },
+        {
+            "comment_id": 421488411428228,
+            "parent_comment_id": 244188118428221,
+            "create_time": "2019-05-03T14:33:29.858+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "抖音的星图",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28885848414541,
+                "name": "WTB",
+                "avatar_url": "https://images.zsxq.com/FnPSN3u5T3GbFpoTWkXukelTJTer?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:o7Qf2pFWQTxPRBSvdyOaKUJMOBA="
+            }
+        }
+    ],
+    "likes_count": 31,
+    "rewards_count": 0,
+    "comments_count": 6,
+    "reading_count": 10543,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-28T21:43:19.930+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

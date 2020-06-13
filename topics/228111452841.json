@@ -1,0 +1,257 @@
+{
+    "topic_id": 228111452841,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8414815522,
+            "name": "niege",
+            "alias": "niege",
+            "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+        },
+        "text": "关于内容付费的甄别，<e type=\"mention\" uid=\"1152188552\" title=\"%40%E4%B8%89%E5%B8%88%E5%8F%94\" /> 的思路是做个平台每周出一个知识学习主题的分析报告，受启发我有另外个思路，不知道现在有没有人在做。\n\n出知识学习主题的分析报告这个事如果要有说服力的话，我觉得kol来做都不够，需要有大量具体的数据，这些数据需要那些花钱付费订阅内容了的用户来提供，因为他们才是活生生的受众。（他们能够反过来在别的平台给予打分和评价，对于内容提供者也是个照妖镜）\n\n所以我的思路是，做的产品应该可以像豆瓣那样给书籍和电影评分一样，由内容订阅者给那些各种专栏作者评分和评价，里面有个重点是给予评分的用户是否订阅了那些专栏，如果可行的话这个需要好好设计，可以对审核过了的订阅者给予的评分权重高些，没有被抓取到订阅信息的用户的评分权重低些，如果采集到的数据够大，分权合理，淘汰了水军的话，得出的数据应该是有说服力的。\n\n发展一下，可以对微信公众号们也可以有个具体评分，并不同于新榜。\n\n这样的数据有价值，如果运营的好流量够大，是不是个小豆瓣？"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-22T20:37:21.847+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-12-05T23:10:47.929+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-08-23T18:05:25.179+0800",
+            "owner": {
+                "user_id": 222125484411,
+                "name": "hean",
+                "avatar_url": "https://images.zsxq.com/FsjG-j8qJ5docPYMsTgfS6P31iUS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tjifU0-elb8U8QI0PPJvwKN0a8M=",
+                "number": 2737
+            }
+        },
+        {
+            "create_time": "2019-07-28T13:42:57.120+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-27T21:31:36.977+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-05-20T12:35:33.792+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-30T10:01:12.842+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2017-03-26T14:52:50.967+0800",
+            "owner": {
+                "user_id": 225125884841,
+                "name": "次元",
+                "avatar_url": "https://images.zsxq.com/Ft2PljXpXNnY9E6-J2D_11ZnSn3k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T3CIoKeGpyVfn9nycCF6MHlxH94=",
+                "number": 39
+            }
+        },
+        {
+            "create_time": "2017-03-25T08:49:27.313+0800",
+            "owner": {
+                "user_id": 551582125214,
+                "name": "Lebron @小孟*",
+                "avatar_url": "https://images.zsxq.com/FvVSk-KT5HvTxhm4QAxwbzW_ODax?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fSxi9OZpc2ERffFCyoYMS4Hla_E=",
+                "number": 311
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 551511242844,
+            "create_time": "2017-03-24T21:58:20.422+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "一个是什么值得买，一个是大众点评。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 8
+        },
+        {
+            "comment_id": 551511241524,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:02:03.451+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "对，但是什么值得买谁说了算呢？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 228288548211,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:05:03.937+0800",
+            "owner": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s="
+            },
+            "text": "什么值得买，貌似是个海陶软件，你下载了解下就知道了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            }
+        },
+        {
+            "comment_id": 458588428148,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:07:21.234+0800",
+            "owner": {
+                "user_id": 228282422451,
+                "name": "zhang",
+                "avatar_url": "https://images.zsxq.com/FoNBCq0jNFDF5rwBWYKRKsT9tQV1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zqnBhpNNzzuzH2wgTHQDWu6wM9U="
+            },
+            "text": "这个不是貌似呢……“什么值得买”是国内最大的电商导购网站了。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s="
+            }
+        },
+        {
+            "comment_id": 551511241854,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:07:51.409+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "嗯嗯，了解了，之前不知道这个😅",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s="
+            }
+        },
+        {
+            "comment_id": 458588428128,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:08:42.161+0800",
+            "owner": {
+                "user_id": 458521142588,
+                "name": "宁",
+                "avatar_url": "https://images.zsxq.com/FupG77j1AbBfxmwN5w29VDP6J_7c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1R2qKX9Y-h64yiK-DjSJnSqM9s="
+            },
+            "text": "哈，我怕说错了，亦仁应该说得就是这个",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228282422451,
+                "name": "zhang",
+                "avatar_url": "https://images.zsxq.com/FoNBCq0jNFDF5rwBWYKRKsT9tQV1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zqnBhpNNzzuzH2wgTHQDWu6wM9U="
+            }
+        },
+        {
+            "comment_id": 828288542152,
+            "parent_comment_id": 551511242844,
+            "create_time": "2017-03-24T22:09:22.064+0800",
+            "owner": {
+                "user_id": 8414815522,
+                "name": "niege",
+                "alias": "niege",
+                "avatar_url": "https://images.zsxq.com/Fl7mpUdfN6iS8EYQh7lJqU5pnXzI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YB17ai-Kjrn6Km0zdM4CccXkteQ="
+            },
+            "text": "学习了😂刚看了看什么值得买",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 458588812528,
+            "create_time": "2017-03-24T23:40:15.388+0800",
+            "owner": {
+                "user_id": 825145822152,
+                "name": "liang",
+                "avatar_url": "https://images.zsxq.com/FtgZphZttnyRqPrbCjHv8KGJRVI2?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uu9P6_KURiRPuWHeoPSOptQ-GJo="
+            },
+            "text": "什么值得听",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        }
+    ],
+    "likes_count": 9,
+    "rewards_count": 0,
+    "comments_count": 17,
+    "reading_count": 1942,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-03-24T21:57:09.843+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

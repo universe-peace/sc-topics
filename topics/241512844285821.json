@@ -1,0 +1,263 @@
+{
+    "topic_id": 241512844285821,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 48412881288128,
+            "name": "乔里奥",
+            "avatar_url": "https://images.zsxq.com/FikgtoR0KDBmo2F09_VYXoWRuWXU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v6o5BO7CxBgLFY8jFjo-hi3J7UM="
+        },
+        "text": "《用了这两个小技巧，我在淘宝上抓数据月入过万》\n\n<e type=\"hashtag\" hid=\"455521525118\" title=\"%23%E8%B5%9A%E9%92%B1%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB%23\" /> <e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> \n\n前段时间有新朋友通过微信加我，聊天的过程中了解到这位朋友最初看到我分享的淘宝开店卖爬虫服务的帖子之后也开了一家淘宝店。\n\n我当时的分享可以看这个链接：<e type=\"web\" href=\"https%3A%2F%2Ft.zsxq.com%2FnaAeEmi\" title=\"https%3A%2F%2Ft.zsxq.com%2FnaAeEmi\" />\n\n于是我很感兴趣问他做的怎么样，他说做了一段时间开了一单，但是没怎么上心，后来荒废了。因为他当时觉得爬一下就几十块，但是却耽误了自己好多时间，慢慢就没有做了。\n\n在得知我月入过万之后他问我怎么做到的，能不能传授他一下。\n\n其实我做的第一个月不仅月入过万，淘宝上直接拍的有7k+的订单，微信上成交的就更多了，其中有多个大单。\n\n那么我自己做淘宝的方法也分享了，别人也按照我的方法去做了，为什么我能月入过万，其他人却不行呢？我思考了一下然后把我的“诀窍”分享给了这位朋友。\n\n在这里也给大家分享一下：\n\n概括一下我的经验有两方面：\n\n1、挖掘用户真实需求，这一点的秘诀是：秒回+耐心\n\n用过淘宝的朋友应该都知道，在淘宝里跟商家聊天，商家回复的时候自己基本上不会看到，因为淘宝设计的聊天提醒非常不明显。所以如果我们在淘宝上卖东西不秒回，晚一点回复客户就大概率不会去看我们的回复了。\n\n而我们做代抓数据这个服务，其实属于一个技术服务，只要是技术服务就涉及到用户无法准确描述需求的问题。甚至有的客户描述问题相差甚远，比如我遇到过多个客户提出这样的要求：给你一个手机号，采集这个手机号的所有通话录音。我告诉他们采集不到之后基本上都会反问：那你能采集什么？\n\n这个时候如果没耐心就很容易烦躁。\n\n我们要耐着性子把客户当成朋友，一点点去询问出他真实的需求，这样我们就能利用我们的技术去帮助对方想办法解决问题。\n\n比如曾经有个客户找我问能不能把他们城市所有的要出租毛皮房的房东的电话给他找出来，那么通过询问我发现他是一个二房东，想要租了毛坯房装修好了然后再出租。那么其实他不需要全部的房东电话，然后我们随便去一个租房平台上筛选出来个人房源就很容易看到一些房东的联系方式。于是我就去赶集网上找到个人房源的频道，然后筛选出毛坯房，把那些房东的电话都给他采集下来给他，最终解决了他的问题。\n那么这么做有什么好处呢？\n\n一方面这样做可以获得灵活定价权，客户真正想解决的问题一般对他来说比较复杂，我们帮他们解决掉核心问题他们很乐意多付钱。\n\n另一方面可以获得回头客以及客户转介绍客户，因为我们解决了客户的问题，客户满意度高，更愿意再次光临，也乐于介绍我们给他们的朋友。\n\n2、灵活地使用技术\n\n比如我除了使用webscraper还使用了后羿采集器，因为确实有的情况后羿采集器能比webscraper更快的配置好，那么我们有一定经验之后就可以穿插使用，根据任务不同选择不同的工具，以获得更高的采集效率。\n\n同时除了这两个工具我还用到过ocr工具、excel里的筛选过滤数据的工具、pdf转word的工具等各种工具。\n\n因为我们表面上看是替别人采集数据，但是本质上我们是替客户解决问题，所以我们的业务范围其实也不仅仅只是采集数据那么简单，比如我们采集了图片然后从图片上识别出信息来，这种需求确实存在。再比如采集了数据之后需要用excel去简单清洗数据，这是经常要用到的。还有pdf转word这种也是做单过程中经常要用到的，客户想采集的数据是pdf，但是他想要文字，我们采集了pdf之后给他专成word，这样的需求也很多。\n\n总之就是使用技术要灵活，我们的目的不是使用自己学到的技术，而是替客户解决问题，这过程中需要逢山开路、遇水搭桥。\n\n最忌讳的就是学会了技术就非要接完全用到这个技术的订单，这就是手里有把锤子看什么都是钉子了。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-31T10:36:18.673+0800",
+            "owner": {
+                "user_id": 455445112228,
+                "name": "康大鹏",
+                "avatar_url": "https://images.zsxq.com/Fhnl1463ABRiWEgCdAKBoSg2LbUR?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5jIF1FqaiaBQLyv0aVJeEB2Gt5Y=",
+                "number": 6885
+            }
+        },
+        {
+            "create_time": "2020-03-29T08:24:48.669+0800",
+            "owner": {
+                "user_id": 1481418412,
+                "name": "忠忠",
+                "avatar_url": "https://images.zsxq.com/Fs_AeINd9WZwdkcWqIFcJRjCrDrJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Dh3okmhNkFwjkK7IaGtzQcffw0=",
+                "number": 3953
+            }
+        },
+        {
+            "create_time": "2020-03-24T19:46:29.709+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2020-03-03T13:58:16.332+0800",
+            "owner": {
+                "user_id": 5821115124,
+                "name": "陈磊",
+                "avatar_url": "https://images.zsxq.com/FsR4orrL8l5y2eWGK82sriyxCDDF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sETO57Yuqu7LiL69NUln6nnnL9I=",
+                "number": 6793
+            }
+        },
+        {
+            "create_time": "2020-02-21T12:59:31.315+0800",
+            "owner": {
+                "user_id": 145511258412,
+                "name": "Lucky万",
+                "avatar_url": "https://images.zsxq.com/FjEQU80P0_sOGYTBBUcNM8TlfZzH?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:33IwY3mZ8WeiWWsgVV0zSkAiXwI=",
+                "number": 3362
+            }
+        },
+        {
+            "create_time": "2020-02-15T22:02:19.973+0800",
+            "owner": {
+                "user_id": 824548811152,
+                "name": "超人不会飞",
+                "avatar_url": "https://images.zsxq.com/FpW47cLdwitkEfudYzlneYlOlzhD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:50igOuG29zIuLX8t6UE_zFtoSwI=",
+                "number": 6728
+            }
+        },
+        {
+            "create_time": "2020-02-08T02:51:32.499+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2020-02-07T15:51:48.912+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2020-01-19T10:32:17.818+0800",
+            "owner": {
+                "user_id": 28882551258821,
+                "name": "🌰yuan",
+                "avatar_url": "https://images.zsxq.com/FiOPkvbTBJYQAjNXspZ9LEMzjig8?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IZ4KQqJi_Wc0Z3sKfcJR0OEIAGw=",
+                "number": 1224
+            }
+        },
+        {
+            "create_time": "2020-01-15T23:39:44.400+0800",
+            "owner": {
+                "user_id": 88824245141452,
+                "name": "Avalon",
+                "avatar_url": "https://images.zsxq.com/FtwePR8hC3pulTjMyjM7m4L0tUcC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_SRQ4ea_JLh6C7f4saWusoi-ygY=",
+                "number": 6567
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-12-31T09:29:06.113+0800",
+            "owner": {
+                "user_id": 552552814554,
+                "name": "Blanke",
+                "avatar_url": "https://images.zsxq.com/FtQ4eLN6UKoMrNIGBgz0s0j_N_-Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HsfQ4HDPZkai0msnYipsBHfrJfo="
+            },
+            "amount": 533
+        },
+        {
+            "create_time": "2019-12-30T22:28:26.046+0800",
+            "owner": {
+                "user_id": 454218544518,
+                "name": "Bluekou",
+                "alias": "Bluekou-温虾米",
+                "avatar_url": "https://images.zsxq.com/FoDXBpsrCgE7yn77Yd40E8lqqul1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z4sURrvi8iaGNT3lMItHCvvQiFo="
+            },
+            "amount": 230
+        },
+        {
+            "create_time": "2019-12-27T21:15:49.960+0800",
+            "owner": {
+                "user_id": 5581144214,
+                "name": "1/0 二事",
+                "avatar_url": "https://images.zsxq.com/Fpz6Vv35TuDuqoyqYcuE0Wed4JXh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oDr8c2PNXSB-TYhug9EVkMu6jUU="
+            },
+            "amount": 120
+        },
+        {
+            "create_time": "2019-12-27T19:28:30.560+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "amount": 666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841181542118412,
+            "create_time": "2019-12-27T19:07:27.828+0800",
+            "owner": {
+                "user_id": 51145241844554,
+                "name": "苏笙爱摸鱼🐶",
+                "avatar_url": "https://images.zsxq.com/Ftggi1mirHXQVzh0SQ8Z0EE0zwgA?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wUTVJH_uGfuYMrIzFFP4vGZSwA0="
+            },
+            "text": "沙发",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118858211252242,
+            "create_time": "2019-12-27T19:28:35.741+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "text": "666",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241181544215451,
+            "create_time": "2019-12-27T21:14:53.498+0800",
+            "owner": {
+                "user_id": 554555114124,
+                "name": "王文波",
+                "avatar_url": "https://images.zsxq.com/Fnz2CP84s4WnO9e6UCmpZhtnp2OC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:882Of_26rlTI3JMpUYTiW_fw9l8="
+            },
+            "text": "优秀",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118858285285412,
+            "create_time": "2019-12-28T01:01:41.517+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk="
+            },
+            "text": "赞~~",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421181418845828,
+            "create_time": "2019-12-28T02:15:19.359+0800",
+            "owner": {
+                "user_id": 28482822224211,
+                "name": "沈小善",
+                "avatar_url": "https://images.zsxq.com/Fsmuz-CvC1byWqrD9Hc0qirzxmIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xqKBYdsKKVvJI--mRFFt_WY57S0="
+            },
+            "text": "采集数据是服务行业啊",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421181845444428,
+            "create_time": "2019-12-28T23:47:23.253+0800",
+            "owner": {
+                "user_id": 28512424112111,
+                "name": "龙眼",
+                "avatar_url": "https://images.zsxq.com/FqttQ8PSS6hr4BAqmOesAj8p9QhK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0diAm_Uv4ihbOKhXbYP_LCD21D8="
+            },
+            "text": "[色][色][色]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421181815284518,
+            "create_time": "2019-12-31T09:24:57.733+0800",
+            "owner": {
+                "user_id": 552552814554,
+                "name": "Blanke",
+                "avatar_url": "https://images.zsxq.com/FtQ4eLN6UKoMrNIGBgz0s0j_N_-Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HsfQ4HDPZkai0msnYipsBHfrJfo="
+            },
+            "text": "卖爬虫服务，没有风险吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 421181815288248,
+            "parent_comment_id": 421181815284518,
+            "create_time": "2019-12-31T09:27:24.105+0800",
+            "owner": {
+                "user_id": 48412881288128,
+                "name": "乔里奥",
+                "avatar_url": "https://images.zsxq.com/FikgtoR0KDBmo2F09_VYXoWRuWXU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v6o5BO7CxBgLFY8jFjo-hi3J7UM="
+            },
+            "text": "有的，理论上淘宝不允许卖，我的商品链接就被删除了，如果只是依托于淘宝，这个项目不容易做长久。\n\n不过可以把客户加到微信上长期做，有抓数据需求的客户很多都会成为回头客。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552552814554,
+                "name": "Blanke",
+                "avatar_url": "https://images.zsxq.com/FtQ4eLN6UKoMrNIGBgz0s0j_N_-Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HsfQ4HDPZkai0msnYipsBHfrJfo="
+            }
+        }
+    ],
+    "likes_count": 63,
+    "rewards_count": 4,
+    "comments_count": 10,
+    "reading_count": 12465,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-12-27T18:58:28.967+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

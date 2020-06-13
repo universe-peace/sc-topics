@@ -1,0 +1,355 @@
+{
+    "topic_id": 28288481452841,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 8212282852,
+            "name": "阿彪",
+            "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+        },
+        "text": "<e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" /> <e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" /> 聊一聊从一个优惠券开始的一些发现，都留了一道口子，没有深入研究了。\n无意中进了一个优惠券的Telegram的channel, 相当于公众号。专门发优惠券，带有aff链接。（图一）然后谷歌搜一下，是专门的技术型博客，同时做各种VPS的affiliate.（见图二）。留下疑惑1，是不是可以专门做个优惠券的telegram channel呢？\n继续深入一下:\n在91yun.co看到加电报的入口，进入telegram.me。稍微等等，由于职业习惯，那些网站给电报导流最多呢？（见图三）第一个是俄罗斯的一个telegram channel导航站。第二三四是伊朗站点，没太清楚，和卖货有一定关系。第五个网站有意思，token空投提醒网站。留下两个口子: 第一，做区块链相关产品，telegram是主要推广阵地，怎么玩，太深了，我也还不知道。第二，telegram.me流量来源第一是俄罗斯站点，接下来几个是伊朗站点。这个和telegram发源地是俄罗斯有关。另外查了16年的资料，伊朗的telegram用户2000万，总人口也就8000多万。这是telegram的主要阵地之二，做推广，需要考虑一下伊朗和俄罗斯。\n再继续，\n我们进入tgstat.ru, tgstat.com看看telegram channel导航站，看看sales分类，加了一些，发现都是导流到各个电商网站，aliexpress比较多。这个就和国内淘宝客一样。（见图四五六)\n再看看数据，\n一般，观看数/订阅数=50%左右，reach率比较高。远高于facebook和微信公众号。再看看每个链接的点击数，因为谷歌短链是每个人都可以看到该链接的点击数，选了四五条，算了一下点击率大概0.5%-2%左右。也就是20K粉丝，一条post大约10K观看，100个点击。一天好像可以发四五条post, 也就是400-500个点击。好，这里留个口子，给做淘宝客的深入研究了。\n另外，telegram还有很多bot可以开发，比如youtube downloader，自动发美女图片，自动搞笑图片等等。我觉得和微信小程序类似，所以可以把微信小程序的东西搬过去。但是要注意使用场景和面对的市场。比如我觉得做coupon的bot就不合适，用户使用习惯和场景不对。\n@汉宽 对此文也有贡献。\n简单介绍一下，我是阿彪，生财有术的老用户了，在深圳做海外SEO推广和Affiliate marketing.欢迎各位互相碰撞思想。我的微信zcbjack",
+        "images": [
+            {
+                "image_id": 88811222454182,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FuWmj5NFtKuaYfkOtS2l0kYsdcWJ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7cZFfo8Uojyx1seQT3JAANZvhkc=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FuWmj5NFtKuaYfkOtS2l0kYsdcWJ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EPe1kgmShr9wkUCF6V-02PDvrL4=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FuWmj5NFtKuaYfkOtS2l0kYsdcWJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:xEvxO6aaan6clTJwExZRiXpSo20=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 880058
+                }
+            },
+            {
+                "image_id": 28811222454181,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgL5Mm2aNnF9_3b7oooRnWW_yeST?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WbFTvUV0R2iWphBPOSyXTB6fgjs=",
+                    "width": 320,
+                    "height": 277
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgL5Mm2aNnF9_3b7oooRnWW_yeST?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4MrNcyB4YhffwGaewddMMjRxkhw=",
+                    "width": 680,
+                    "height": 588
+                }
+            },
+            {
+                "image_id": 15588444121842,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FitClA4AsKK8m0_ZJAH7xkGWto9L?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ADuBQJpyM4PW7ZZQYidOOZSzDCg=",
+                    "width": 320,
+                    "height": 278
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FitClA4AsKK8m0_ZJAH7xkGWto9L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ClYZ73Y8k2HQkP70oh87QcTpg5s=",
+                    "width": 683,
+                    "height": 593
+                }
+            },
+            {
+                "image_id": 51188555424814,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FifuFBwih17UqSQL_j8SLAcVKIpQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:UakjhhtF9ynyMn9mW3NZt8NL0H4=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FifuFBwih17UqSQL_j8SLAcVKIpQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NDoTUSbt3-MnXePGmLHqJULIHHE=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FifuFBwih17UqSQL_j8SLAcVKIpQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kgoK_ai8sB51u07_TTcWRCFV-g8=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 743363
+                }
+            },
+            {
+                "image_id": 48811555242158,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fh3eJ5IDiW-AHjItVPm4nGMkAX8_?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ul8RCOYNGwflUIn_rWXZ_EcVlnM=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fh3eJ5IDiW-AHjItVPm4nGMkAX8_?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7IfzR_mPZJu_lVp46vwtEmkYunY=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fh3eJ5IDiW-AHjItVPm4nGMkAX8_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WReH2Yl8pu8rLzw0Sehbhx4D8wY=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 836098
+                }
+            },
+            {
+                "image_id": 28811222454141,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpzSQ9g711S6sG4e-1LvCwtxfBxY?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qQzWX9lt98TBJsxsUk-UcJlm-RM=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpzSQ9g711S6sG4e-1LvCwtxfBxY?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9NfMNyp1bikZoJ9MeWcTOFV4hQ0=",
+                    "width": 800,
+                    "height": 1422
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpzSQ9g711S6sG4e-1LvCwtxfBxY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:29HCsv0Kijdqf8O88uQjcplZ9RI=",
+                    "width": 1080,
+                    "height": 1920,
+                    "size": 921360
+                }
+            },
+            {
+                "image_id": 51188555424844,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fn_KUvSjC-M_jWFKIVMNCgimvhJo?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Bq2EN4jzUklYVJDN-HEbbi2IQn8=",
+                    "width": 320,
+                    "height": 279
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fn_KUvSjC-M_jWFKIVMNCgimvhJo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FzK1vHdLxGEeQ-sBTON5J1PlMFg=",
+                    "width": 681,
+                    "height": 594
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-15T17:14:06.174+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-06-22T10:16:07.720+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T08:16:27.042+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-27T12:19:26.438+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-06-25T13:00:33.898+0800",
+            "owner": {
+                "user_id": 881858841812,
+                "name": "大相",
+                "avatar_url": "https://images.zsxq.com/FrxxMiYm4WwlY88_lH9QXPuMRAb7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:2UuYGo90vGJboXx6-fLB4fCULm4=",
+                "number": 1301
+            }
+        },
+        {
+            "create_time": "2018-05-07T01:55:49.231+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-24T05:42:16.930+0800",
+            "owner": {
+                "user_id": 5418451184,
+                "name": "Kevin",
+                "avatar_url": "https://images.zsxq.com/Fqt-vriLjQdF1rDsBuj3Mddk05e3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zDlNOES1auuSs0Xnn0McelAz4P8=",
+                "number": 1743
+            }
+        },
+        {
+            "create_time": "2018-04-23T13:08:39.333+0800",
+            "owner": {
+                "user_id": 28514415212411,
+                "name": "田土土",
+                "avatar_url": "https://images.zsxq.com/FlQqlUVJAYX8bw4LcvHIIgN5Acgj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CAQgjGicjBf--NvekmkiKCQHBAo=",
+                "number": 1138
+            }
+        },
+        {
+            "create_time": "2018-04-23T12:57:36.244+0800",
+            "owner": {
+                "user_id": 825818422152,
+                "name": "John Zhou",
+                "avatar_url": "https://images.zsxq.com/FjifUvGIXVDf2VkCyw5yffRTMBSo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lDiwhfgIrji6Y-WDl93Lj0eHKG0=",
+                "number": 1801
+            }
+        },
+        {
+            "create_time": "2018-04-23T12:15:46.295+0800",
+            "owner": {
+                "user_id": 551548485854,
+                "name": "谢伟岳",
+                "avatar_url": "https://images.zsxq.com/FmziUzEJzYQBH3-5ZjOniT__uGvB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:anLMIy_nCgE9p6tV4DsbMIBAIG8=",
+                "number": 209
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88244125214412,
+            "create_time": "2018-04-22T16:35:34.842+0800",
+            "owner": {
+                "user_id": 158422118152,
+                "name": "雨果僧",
+                "avatar_url": "https://images.zsxq.com/Fj2FoYI5HYO8lOSdkldoLezc9GwZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B3pkhIYP3vOJzR5FeLSOoD7kd-Q="
+            },
+            "text": "谢谢阿彪总结分享，超级好人[得意]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15411842181812,
+            "parent_comment_id": 88244125214412,
+            "create_time": "2018-04-22T17:14:07.768+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "哈哈，也有你的数据提供。感谢[抱拳][抱拳]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 158422118152,
+                "name": "雨果僧",
+                "avatar_url": "https://images.zsxq.com/Fj2FoYI5HYO8lOSdkldoLezc9GwZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:B3pkhIYP3vOJzR5FeLSOoD7kd-Q="
+            }
+        },
+        {
+            "comment_id": 15418254825512,
+            "create_time": "2018-04-24T16:54:01.835+0800",
+            "owner": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            },
+            "text": "简单加了几个bot, 体验比微信差不少，而且很多色情的bot, 订阅人数超多。[流汗]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15418258858842,
+            "parent_comment_id": 15418254825512,
+            "create_time": "2018-04-24T18:07:53.255+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "很正常，当年QQ微信也都是从约炮软件开始的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454841852428,
+                "name": "壹树",
+                "alias": "壹树",
+                "avatar_url": "https://images.zsxq.com/Fsq9FGqr0sJ_wXToibsA8GVJ47u_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:T6psMRO0HZX3j0qAb-fNIw2j2wQ="
+            }
+        },
+        {
+            "comment_id": 88241522858182,
+            "create_time": "2018-04-24T23:15:35.405+0800",
+            "owner": {
+                "user_id": 88855485448512,
+                "name": "aether",
+                "alias": "aether",
+                "avatar_url": "https://images.zsxq.com/Fpkvo3txZd9f7-8coMjXgxolI3C9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0ecSCFTkmugQ98ssxIbh1-RTy7o="
+            },
+            "text": "电报里很多色群人数都能达到好几万，但是里面也没有人发广告那他们是怎么在里面变现呢",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 28241521255521,
+            "parent_comment_id": 88241522858182,
+            "create_time": "2018-04-25T01:13:36.483+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ="
+            },
+            "text": "你都看了所有聊天记录了吗？[奸笑][奸笑]我不是很清楚，可能后期会发广告？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88855485448512,
+                "name": "aether",
+                "alias": "aether",
+                "avatar_url": "https://images.zsxq.com/Fpkvo3txZd9f7-8coMjXgxolI3C9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0ecSCFTkmugQ98ssxIbh1-RTy7o="
+            }
+        },
+        {
+            "comment_id": 548212545188414,
+            "create_time": "2019-04-27T12:32:46.222+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY="
+            },
+            "text": "telegram channel 了解了个新事物",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 27,
+    "rewards_count": 0,
+    "comments_count": 7,
+    "reading_count": 3524,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-22T16:18:52.397+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

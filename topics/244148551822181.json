@@ -1,0 +1,267 @@
+{
+    "topic_id": 244148551822181,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 141421411482,
+            "name": "瓜神",
+            "alias": "瓜神",
+            "avatar_url": "https://images.zsxq.com/Fs5yhH2v_4o21PcHLek_mQvwSB7d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zpahbv_FnCTP4AADXmha5MdkDrw="
+        },
+        "text": "今晚看到 @知行合一 对 @亦仁 提问了一个关于《日产10万的面包厂如何拓开销路》的问题，本人恰好有些线下运营的经历，也来谈谈我的看法，希望与大家一起讨论。另亦仁老师和大佬的问答以图片的形式附上。\n\n详细内容请见链接：\n<e type=\"web\" href=\"https%3A%2F%2Farticles.zsxq.com%2Fid_wdmjxmkrbqx8.html\" title=\"%E5%85%B3%E4%BA%8E%E3%80%8A%E6%97%A5%E4%BA%A710%E4%B8%87%E7%9A%84%E9%9D%A2%E5%8C%85%E5%8E%82%E5%A6%82%E4%BD%95%E6%8B%93%E5%BC%80%E9%94%80%E8%B7%AF%E3%80%8B%E7%9B%B8%E5%85%B3%E6%80%9D%E8%80%83\" cache=\"\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-08T19:44:16.821+0800",
+            "owner": {
+                "user_id": 228818141121,
+                "name": "乔礼",
+                "avatar_url": "https://images.zsxq.com/FgtcQFW3h1gwmVtFO6tyJdvav3Nz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gfHvOvAXNjEcTDrK-euHZ9ypgUY=",
+                "number": 6902
+            }
+        },
+        {
+            "create_time": "2020-02-04T12:49:13.409+0800",
+            "owner": {
+                "user_id": 88488844851822,
+                "name": "两根头发又中分",
+                "avatar_url": "https://images.zsxq.com/Fs584LMcSmlhTHUGK99xd2Z1SyR5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OtBshYn_3cNk_DcqyzpbPhw8qyk=",
+                "number": 6150
+            }
+        },
+        {
+            "create_time": "2020-02-02T11:11:51.015+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-11-22T14:22:45.148+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc=",
+                "number": 4659
+            }
+        },
+        {
+            "create_time": "2019-11-18T19:29:36.594+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro",
+                "number": 1
+            }
+        },
+        {
+            "create_time": "2019-07-19T20:54:37.394+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-07-19T08:34:40.425+0800",
+            "owner": {
+                "user_id": 51558215452114,
+                "name": "阿Kai",
+                "avatar_url": "https://images.zsxq.com/Fv-F-jZOeRgTLguXDIUiuvRaUAm6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rUNIzw6V2RsUJx0QdYuTXFYVMJU=",
+                "number": 4526
+            }
+        },
+        {
+            "create_time": "2019-07-18T20:46:21.735+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4=",
+                "number": 6019
+            }
+        },
+        {
+            "create_time": "2019-07-18T15:06:06.071+0800",
+            "owner": {
+                "user_id": 222554144521,
+                "name": "ray",
+                "avatar_url": "https://images.zsxq.com/Fp2VzuRvNdqe77Day5GbqRyWQPe5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CUvXcr33G6sLrY_32wN2QCSRVQY=",
+                "number": 667
+            }
+        },
+        {
+            "create_time": "2019-07-18T13:31:26.559+0800",
+            "owner": {
+                "user_id": 48851118242488,
+                "name": "镌刻时光",
+                "avatar_url": "https://images.zsxq.com/FmGd8TY11sEfK7Cfnbto9afi5fLl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vY-jeZobLLQLqxwDOg6BJReUoXE=",
+                "number": 2555
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-11-18T19:29:49.345+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1520
+        },
+        {
+            "create_time": "2019-11-22T14:26:55.235+0800",
+            "owner": {
+                "user_id": 28514154282841,
+                "name": "我的私人医生",
+                "avatar_url": "https://images.zsxq.com/Fts18jZmhzaNGuFM8xLwfD72Cw3g?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FLDiS80tLTOniWlNsoXj-JlhxWc="
+            },
+            "amount": 550
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548288225181414,
+            "create_time": "2019-07-17T22:02:31.186+0800",
+            "owner": {
+                "user_id": 141421411482,
+                "name": "瓜神",
+                "alias": "瓜神",
+                "avatar_url": "https://images.zsxq.com/Fs5yhH2v_4o21PcHLek_mQvwSB7d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zpahbv_FnCTP4AADXmha5MdkDrw="
+            },
+            "text": "<e type=\"mention\" uid=\"48544142554428\" title=\"@%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80\" /> <e type=\"mention\" uid=\"552158581144\" title=\"@%E4%BA%A6%E4%BB%81\" /> 诚邀两位大佬点评[囧]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118288224852482,
+            "create_time": "2019-07-17T22:55:05.635+0800",
+            "owner": {
+                "user_id": 28821582244521,
+                "name": "邦比",
+                "avatar_url": "https://images.zsxq.com/FvjHgDxfCvg-YGYRB1CJbDFCec2M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E1iW4hpwcfWwh_AU_6V3EHlocIE="
+            },
+            "text": "1.营销策略：老人小孩孕妇免费吃（面包做小一些，不要一个就吃饱了，试吃为主）\n2.产品组合：面包做引流款，低价吸引。组合套餐可以买面包送饮品（咖啡/奶茶）\n3.模式：充99元送99面包劵返100元（整合周边商家：水果店、餐饮店等），引流到微信个人号私域流量锁客，会员模式，其实我不是卖面包的。。。[偷笑]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 118288252218882,
+            "create_time": "2019-07-18T02:42:17.176+0800",
+            "owner": {
+                "user_id": 28511844114821,
+                "name": "良叔",
+                "avatar_url": "https://images.zsxq.com/FhIIYkR3YYcl941sYKQaIqgVFHvb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_B4xBcuT_IwttR5adIu6i7n-c6g="
+            },
+            "text": "<e type=\"mention\" uid=\"48544142554428\" title=\"@%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80\" /> 勤工俭学 （每一栋或者几栋宿舍一个人负责送上门）\n营养早餐（面包+鸡蛋，面包+牛奶，面包+豆浆）没有的可整合一些供应商\n减肥早餐（面包+苹果等等）\n高校的学生很懒的，甚至懒到出门吃早餐，更别说想去搭配营养早餐。\n大力宣传不吃早餐的不好，让校内的男女朋友相互订早餐。\n线上下单，第二天送！\n如果可行把整套输出给其他高校的校内超市，给方案，供应产品，给优惠政策。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 548288212455224,
+            "parent_comment_id": 118288224852482,
+            "create_time": "2019-07-18T08:32:24.397+0800",
+            "owner": {
+                "user_id": 141421411482,
+                "name": "瓜神",
+                "alias": "瓜神",
+                "avatar_url": "https://images.zsxq.com/Fs5yhH2v_4o21PcHLek_mQvwSB7d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zpahbv_FnCTP4AADXmha5MdkDrw="
+            },
+            "text": "[偷笑][偷笑][偷笑]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28821582244521,
+                "name": "邦比",
+                "avatar_url": "https://images.zsxq.com/FvjHgDxfCvg-YGYRB1CJbDFCec2M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E1iW4hpwcfWwh_AU_6V3EHlocIE="
+            }
+        },
+        {
+            "comment_id": 118288252111812,
+            "parent_comment_id": 118288252218882,
+            "create_time": "2019-07-18T08:45:54.104+0800",
+            "owner": {
+                "user_id": 141421411482,
+                "name": "瓜神",
+                "alias": "瓜神",
+                "avatar_url": "https://images.zsxq.com/Fs5yhH2v_4o21PcHLek_mQvwSB7d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zpahbv_FnCTP4AADXmha5MdkDrw="
+            },
+            "text": "类似的方法很多，要因地制宜，一套方案打天下很难的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28511844114821,
+                "name": "良叔",
+                "avatar_url": "https://images.zsxq.com/FhIIYkR3YYcl941sYKQaIqgVFHvb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_B4xBcuT_IwttR5adIu6i7n-c6g="
+            }
+        },
+        {
+            "comment_id": 841511588114142,
+            "create_time": "2019-07-18T10:56:48.731+0800",
+            "owner": {
+                "user_id": 544824484515824,
+                "name": "狗哥 敏文",
+                "avatar_url": "https://images.zsxq.com/FnJDM24wG8fGyloTlLtIgxyyd2bn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPUC19RzQpZx_J1iznptEpGC0wM="
+            },
+            "text": "相当详细，落地干货[强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548288158152824,
+            "create_time": "2019-07-18T20:50:01.528+0800",
+            "owner": {
+                "user_id": 88425555815482,
+                "name": "两点儿水一个马",
+                "avatar_url": "https://images.zsxq.com/FrG24Mf_A42iJa8zQNExn8XAAX0_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_gexohsUD_3GnWB3VHnAX1xFkh4="
+            },
+            "text": "欣赏您解决问题的思路，受益匪浅[强][强][强]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 421411821845558,
+            "parent_comment_id": 118288224852482,
+            "create_time": "2019-07-19T10:31:01.938+0800",
+            "owner": {
+                "user_id": 544888488542484,
+                "name": "黄龙",
+                "alias": "黄龙",
+                "avatar_url": "https://images.zsxq.com/FklufN_13fH-0E_rWa2jfbeX8EP4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YViaXwSYYkWSyD2q6MFl1dARPps="
+            },
+            "text": "优秀，每天1~3款特价产品做爆品，做完全年促销，完美",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 28821582244521,
+                "name": "邦比",
+                "avatar_url": "https://images.zsxq.com/FvjHgDxfCvg-YGYRB1CJbDFCec2M?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:E1iW4hpwcfWwh_AU_6V3EHlocIE="
+            }
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 2,
+    "comments_count": 8,
+    "reading_count": 8812,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-07-17T21:50:28.157+0800",
+    "modify_time": "2019-07-17T22:04:13.751+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

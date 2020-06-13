@@ -1,0 +1,391 @@
+{
+    "topic_id": 548114554822524,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 5412812124,
+            "name": "陈俊强",
+            "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+        },
+        "text": "如何从数千个群内，找到超级节点，超级代理人\n\n\n有个朋友邀请我给他们的企业做下远程视频分享。下面的是视频分享内的精华部分。\n\n\n在《引爆点》这本书里面，提及到一个产品有三个角色的人会讲述，\n\n一个是联系员(超级节点)\n\n一个是内行\n\n一个是推销员。\n\n联系员是事物加速扩散的关键人物。\n\n我这里讲的是一种微信群内的人，可能并不是大家都知道在明显上的KOL。而是那种隐藏在背后，默默赚钱的那种联系员。\n\n故事背景是这样的：\n\n我们想发展一些代理商，帮我们卖点有的没的。\n\n我们从我们手头的数千个群内挖掘。\n\n刚开始的非常傻逼的一种做法，一个一个加，一个一个聊，纯粹到看运气，\n可以想象到是非常lowB，并且非常慢，非常的不可控。\n\n实在有点我觉得我忍受不住了。半夜上厕所的时候，想到一个解决方案。提取共有人群。\n\n简单的我们把每个微信里面的人的昵称，wxid，导出来。导出来后，然后合并下，然后我们就会发现一个美丽的新世界。\n\n数据是那么美丽的。\n\n合并后，我们发现好多个人在我们的群内出现，我们根据wxid在多个群内出现的次数，然后去添加联系，我们的成功率大大的翻了N倍。\n\n下面将详细的步骤写出来\n\n1.导出微信群内信息\n\n首先用wetool，导出每个微信群内的群员信息。\n\n看图一。\n\n2.将导出来的json文件，复制到格式化网页内。网页：\n<e type=\"web\" href=\"http%3A%2F%2Fwww.pcjson.com%2Fjson2excel%2F\" title=\"Json%E8%BD%ACExcel%2FCsv%2Fxls%E5%B7%A5%E5%85%B7_pcjson\" cache=\"\" />\n并且间隔符是英文逗号，\n点击“转化为excel/csv”，下载csv文件\n\n看图二。\n\n3.下载csv文件，如果你有几百个群，就导出来几百次，然后将csv的结果给合并下。记得使用wps，wps比office好用。\n\n4.结果如下：\n\n直接看图三。\n\n上述是简单的找了300个群，导出来的数据。\n\n发现了没有，这个就是带着明灯去找超级节点。\n\n是不是硬邦邦。\n\n这个主要的用途是：发展代理商，或者是发展分销商。或者是其他可以让这个人卖力干活的关键点。",
+        "images": [
+            {
+                "image_id": 241544521228851,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Ft1qI5LF3MwicCB4_XaE8cc-bfgp?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WErxz8jUor7WF8nxhGgehwjylPI=",
+                    "width": 320,
+                    "height": 262
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Ft1qI5LF3MwicCB4_XaE8cc-bfgp?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QRX45pxqNwe21bXVjf7y3C-37AQ=",
+                    "width": 800,
+                    "height": 655
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Ft1qI5LF3MwicCB4_XaE8cc-bfgp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PBC3rgCXXSn0lSBtkfl3_Jqb8Ss=",
+                    "width": 1762,
+                    "height": 1442,
+                    "size": 660290
+                }
+            },
+            {
+                "image_id": 118211248445582,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvEuHdb6vX3wC1udbLL6WuMU8ddX?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zYbWHlS8uYQQAyzRh8gbqchcGBs=",
+                    "width": 320,
+                    "height": 183
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvEuHdb6vX3wC1udbLL6WuMU8ddX?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7qZdNUfhK3Z87FQRXXszfiGZ7Mw=",
+                    "width": 800,
+                    "height": 458
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvEuHdb6vX3wC1udbLL6WuMU8ddX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZncRsvYDMGqOoAJGlgFP5SI-clc=",
+                    "width": 1024,
+                    "height": 586,
+                    "size": 181078
+                }
+            },
+            {
+                "image_id": 118211248488852,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FgAW18H403bUF_YszMrpqvN8KefT?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:66Nh35dntaAs2yTuJHMxhElj2-w=",
+                    "width": 320,
+                    "height": 405
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FgAW18H403bUF_YszMrpqvN8KefT?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oLgjE8Ox3pp32Y2eK2Z8pscgVJc=",
+                    "width": 800,
+                    "height": 1014
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FgAW18H403bUF_YszMrpqvN8KefT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:RUDVPo1t7NOUlJWh6cCxYOwkTuA=",
+                    "width": 1078,
+                    "height": 1366,
+                    "size": 1093668
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-04-06T01:39:25.331+0800",
+            "owner": {
+                "user_id": 28882188128121,
+                "name": "海贼007",
+                "avatar_url": "https://images.zsxq.com/Fj7bxEGazbRyVUULAufC_xYVH7Pc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:c7oUWBwo6WTi39Hk5DhpEEQY5i8=",
+                "number": 6776
+            }
+        },
+        {
+            "create_time": "2020-04-02T20:32:00.311+0800",
+            "owner": {
+                "user_id": 555541452844,
+                "name": "瓜叔",
+                "alias": "瓜叔",
+                "avatar_url": "https://images.zsxq.com/FrzuX0d7nIgjA9JBwx9Bpiycg3F5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fN1nGfPFW3hs4Xl6qz3Ok6E-fM0=",
+                "number": 2529
+            }
+        },
+        {
+            "create_time": "2020-03-23T21:26:58.333+0800",
+            "owner": {
+                "user_id": 422218151245418,
+                "name": "似水流年",
+                "avatar_url": "https://images.zsxq.com/Ft3OXpWywEWs-ZkXzajUzsJ5tLOG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:1SiB41sdj13sCU9Z06JJaxDokw4=",
+                "number": 6356
+            }
+        },
+        {
+            "create_time": "2020-03-21T23:26:18.760+0800",
+            "owner": {
+                "user_id": 548821851544854,
+                "name": "清欢",
+                "avatar_url": "https://images.zsxq.com/FimQH20-HdgOxEaQzX3eLv2ugAlZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eD6ZnJQawjue-CGwR3p1eG6drq8=",
+                "number": 6900
+            }
+        },
+        {
+            "create_time": "2020-03-15T12:44:28.907+0800",
+            "owner": {
+                "user_id": 825844448222,
+                "name": "乔",
+                "avatar_url": "https://images.zsxq.com/FgIm1OyygJ1YLIEpuaLN2UghF7xK?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:TlbHs0SfuLMukCMl53wY_gRi52c=",
+                "number": 380
+            }
+        },
+        {
+            "create_time": "2020-03-11T17:04:42.029+0800",
+            "owner": {
+                "user_id": 15158128222482,
+                "name": "大头",
+                "avatar_url": "https://images.zsxq.com/FtGnlPzGsznZF1QzquIwJrcTuhd5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zut23eJGfJOuyvsXXIAm9SeqqLI=",
+                "number": 3385
+            }
+        },
+        {
+            "create_time": "2020-03-09T22:28:29.470+0800",
+            "owner": {
+                "user_id": 452285122158,
+                "name": "susun",
+                "avatar_url": "https://images.zsxq.com/FjMBx4etk7IOyHWyWCiOS-mLyxF4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QnfS4klNs2AB6KmNVD6XXcorzng=",
+                "number": 6852
+            }
+        },
+        {
+            "create_time": "2020-03-09T15:10:01.124+0800",
+            "owner": {
+                "user_id": 28518824848411,
+                "name": "Ray",
+                "avatar_url": "https://images.zsxq.com/Fp2ZyxCqJRAjOJS3dg-doHv9xXfy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t-add1GcppuIyW0mDN8xV1P_xFw=",
+                "number": 4940
+            }
+        },
+        {
+            "create_time": "2020-03-09T10:19:05.847+0800",
+            "owner": {
+                "user_id": 4241121218,
+                "name": "Ah",
+                "avatar_url": "https://images.zsxq.com/FjOCken3CYuA1vblK8hh5JnKyWb_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:INmQSkeXIgf8ayVLKlRq46GtArw=",
+                "number": 4957
+            }
+        },
+        {
+            "create_time": "2020-03-08T14:04:38.372+0800",
+            "owner": {
+                "user_id": 422211814221858,
+                "name": "九尾喵",
+                "alias": "星儿",
+                "avatar_url": "https://images.zsxq.com/FlRcVPsz2V5lPECfDblgVYkoLqe-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GWOukhRam3e3cPh4fA4xo2YA4R4=",
+                "number": 4023
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-03-02T22:39:39.639+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 16000
+        },
+        {
+            "create_time": "2020-03-30T21:10:17.526+0800",
+            "owner": {
+                "user_id": 15552854145582,
+                "name": "冰之泪",
+                "avatar_url": "https://images.zsxq.com/Fhk6ASlRfKGhkUhxNJrGH3eABDfj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:CLYlJavxyY-9cdunhEqHa8DfiXI="
+            },
+            "amount": 89
+        },
+        {
+            "create_time": "2020-03-29T21:50:16.073+0800",
+            "owner": {
+                "user_id": 825855545242,
+                "name": "小来",
+                "avatar_url": "https://images.zsxq.com/FmRNA7dce9STNzhgsX3n8-s2LLmJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zUVjBwqGF8qTaC8p_Z5tM0vQNHw="
+            },
+            "amount": 83
+        },
+        {
+            "create_time": "2020-03-15T20:42:14.410+0800",
+            "owner": {
+                "user_id": 454855218288,
+                "name": "三树",
+                "avatar_url": "https://images.zsxq.com/FkXYjflaTYGjW6tMR-Rhpi6I0ewm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Zj0rATegn2WaAhscvz9lgGDTBiw="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-03-08T08:57:08.295+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 160
+        },
+        {
+            "create_time": "2020-03-04T22:40:02.304+0800",
+            "owner": {
+                "user_id": 28514445448211,
+                "name": "伊迭",
+                "avatar_url": "https://images.zsxq.com/FpND2B0L-xp28OUssH3Z6CHy4PZb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VZPQ75tnkJdbWg_hhqdWhzrTjrc="
+            },
+            "amount": 89
+        },
+        {
+            "create_time": "2020-03-04T20:15:42.789+0800",
+            "owner": {
+                "user_id": 142425544852,
+                "name": "阿澜",
+                "avatar_url": "https://images.zsxq.com/Fn2vfWnerXuiNOaJK4-1rAXohbxJ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FfYBo12Ly9LJ3GpqeXQI3Er6zXc="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-03-03T13:41:51.455+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-03-03T09:04:51.473+0800",
+            "owner": {
+                "user_id": 454554528888,
+                "name": "Fork",
+                "avatar_url": "https://images.zsxq.com/Fl3Lygug1FY-Ei-WCmV3iDUusQor?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mMTTFiWWsq7c486qGn3MjNX3q2k="
+            },
+            "amount": 533
+        },
+        {
+            "create_time": "2020-03-02T23:27:39.593+0800",
+            "owner": {
+                "user_id": 5425285114,
+                "name": "张秋兴",
+                "alias": "张秋兴",
+                "avatar_url": "https://images.zsxq.com/Fuc52gHR07NTNS-m8W8TLXceQtjU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rnNE8sLKRlZvloPOIDgJglSzB34="
+            },
+            "amount": 160
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 215555881224281,
+            "create_time": "2020-03-02T22:38:44.767+0800",
+            "owner": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            },
+            "text": "这个太厉害了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 582222118542544,
+            "create_time": "2020-03-02T22:41:03.089+0800",
+            "owner": {
+                "user_id": 1124511152,
+                "name": "阿May｜增长女黑客",
+                "avatar_url": "https://images.zsxq.com/FgkylLDGY-UeYnmO51-cw1q0VJkl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:eS8l8FqxUfhRSr4a_MeTXLP2wr0="
+            },
+            "text": "这个方案厉害了！好的人才都是筛选出来的！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 182222558154222,
+            "create_time": "2020-03-02T22:45:22.688+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "最近做了个类似的事情，用wetool把几个号的好友都导了出来作了备份，另外仔细分析了下，好友重合，是否圈友等。",
+            "likes_count": 4,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 582222118452514,
+            "create_time": "2020-03-02T22:48:25.449+0800",
+            "owner": {
+                "user_id": 224222851581,
+                "name": "白一喵·超级个体",
+                "avatar_url": "https://images.zsxq.com/FrhfOUekGDKoZb1ahsi1SyZ_2Sb6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C7sBILrdfJQd5kG85JKTUn_sj2o="
+            },
+            "text": "有技术思维的人真阔怕(*/ω＼*)",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 582222118458444,
+            "create_time": "2020-03-02T22:53:11.011+0800",
+            "owner": {
+                "user_id": 15515111515442,
+                "name": "旺小哥",
+                "avatar_url": "https://images.zsxq.com/Fq8kDhJE4op8WLPhukPrvTpBBPE5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:czU6BAFh5BuuPrJFW6Kbch5MDF8="
+            },
+            "text": "get到了新技能！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 815555825824112,
+            "create_time": "2020-03-02T23:50:14.226+0800",
+            "owner": {
+                "user_id": 28824858112251,
+                "name": "唐葫芦",
+                "avatar_url": "https://images.zsxq.com/FlkS_rOyPrqiHVUpgYpGEzmK9K9t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j0RGGUPmGrB31SoLnEp5YrreHDA="
+            },
+            "text": "思路值得收藏",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 815555825222442,
+            "create_time": "2020-03-03T00:07:20.223+0800",
+            "owner": {
+                "user_id": 241881544888521,
+                "name": "洪帮主",
+                "avatar_url": "https://images.zsxq.com/FkEdQpwF9mJRwI-snPyjAXMSvPDx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:faTttcwSRakp2g8DoYWRBqcrdlE="
+            },
+            "text": "牛逼！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 182222545541112,
+            "parent_comment_id": 215555881224281,
+            "create_time": "2020-03-03T07:29:13.120+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4="
+            },
+            "text": "多交流，也是刹那间想到的， qq群数据也可以这样搞。只要有圈子的数据都可以这样搞",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 8214158152,
+                "name": "明白",
+                "avatar_url": "https://images.zsxq.com/FjQmHspasTB6fS9i4Psn1Vi_tfMe?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:G1ott7_PptRi18eZpfiMpU6xbzw="
+            }
+        }
+    ],
+    "likes_count": 105,
+    "rewards_count": 10,
+    "comments_count": 32,
+    "reading_count": 17027,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-03-02T22:09:00.028+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

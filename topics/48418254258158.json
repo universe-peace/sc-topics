@@ -1,0 +1,145 @@
+{
+    "topic_id": 48418254258158,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 281515818451,
+            "name": "萧遥",
+            "avatar_url": "https://images.zsxq.com/FsurLbkQq-G5zJLVU_S_SdwHVTGO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GJqgfNiwftE-_9zwPTPFtbImT2s="
+        },
+        "text": "11 位网赚联盟大牛谈初学者的错误。看起来很多亚洲人，尤其是发言都带自己Blog 网址，可以深入看看。",
+        "files": [
+            {
+                "file_id": 88518842445452,
+                "name": "AC5EBE14-9EF1-4904-B681-22D8D9D3586C.pdf",
+                "hash": "fce5a7b616b998419e217bfceca57fcf51b64fceb2005fc068218bda17bbb36c",
+                "size": 936538,
+                "download_count": 453,
+                "create_time": "2017-05-10T20:33:57.035+0800"
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-07-31T16:15:37.826+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-06-01T18:52:46.017+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2017-05-12T06:57:18.761+0800",
+            "owner": {
+                "user_id": 2485182551,
+                "name": "韩俊杰",
+                "alias": "Mmos",
+                "avatar_url": "https://images.zsxq.com/FvxFxEbsIOezTjwDmFmUh0ZVhJ1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f8MmfcoqxtqKUx6AZtfzKtzoCF8=",
+                "number": 11
+            }
+        },
+        {
+            "create_time": "2017-05-11T14:10:04.350+0800",
+            "owner": {
+                "user_id": 748544487,
+                "name": "风笛",
+                "avatar_url": "https://images.zsxq.com/Fqxv2faRz5_Vel8f5PXUOTTusYX9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MfE6_IOU_My1-aLO0WD5G9SXOYI=",
+                "number": 888
+            }
+        },
+        {
+            "create_time": "2017-05-11T11:17:30.072+0800",
+            "owner": {
+                "user_id": 458521228218,
+                "name": "angryalan *",
+                "avatar_url": "https://images.zsxq.com/Fk-vj6-nTg15M1rjr1hgQpBt-RGG?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:lf4rtgZQZGArLVDxRWhzvfPW1vA=",
+                "number": 119
+            }
+        },
+        {
+            "create_time": "2017-05-11T08:11:06.722+0800",
+            "owner": {
+                "user_id": 512155454,
+                "name": "锋度",
+                "avatar_url": "https://images.zsxq.com/FpBm3I9cPVn9OGK9x22S3md6Eahb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Q_L06td0hO1yaIJS9Jsg5kPN0IU=",
+                "number": 192
+            }
+        },
+        {
+            "create_time": "2017-05-11T07:20:10.030+0800",
+            "owner": {
+                "user_id": 827828127,
+                "name": "wulujia",
+                "avatar_url": "https://images.zsxq.com/FvMs_TiGOIa6-0xoJet3wAXslVqD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jXyHUfNUOvC5TFfiCbUhbxUarXM=",
+                "description": "知识星球创始人",
+                "number": 56
+            }
+        },
+        {
+            "create_time": "2017-05-11T01:26:28.385+0800",
+            "owner": {
+                "user_id": 142584522822,
+                "name": "TeaBoss",
+                "alias": "TeaBoss.me",
+                "avatar_url": "https://images.zsxq.com/FhL5ucj5xQb4AA9qQAwkCUY6k3wY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ycWa_nnXeokgtd5X2og-Hi0KAQI=",
+                "number": 738
+            }
+        },
+        {
+            "create_time": "2017-05-10T22:03:20.892+0800",
+            "owner": {
+                "user_id": 8212282852,
+                "name": "阿彪",
+                "avatar_url": "https://images.zsxq.com/Fua4BzMEn_S347UckJEd7Es5gK6w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0j7Bgd_W1um-k0tOJYl6nykAOhQ=",
+                "number": 347
+            }
+        },
+        {
+            "create_time": "2017-05-10T20:57:31.712+0800",
+            "owner": {
+                "user_id": 144412488182,
+                "name": "大林",
+                "avatar_url": "https://images.zsxq.com/FjnlO7pZ92eyyaT3HzArekOcywHt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:0IbgaDeF_XhGWCw4yD1BZ7OQo0s=",
+                "number": 823
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2017-05-10T23:40:58.920+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 1999
+        }
+    ],
+    "likes_count": 10,
+    "rewards_count": 1,
+    "comments_count": 0,
+    "reading_count": 1970,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-05-10T20:33:57.169+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

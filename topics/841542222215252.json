@@ -1,0 +1,168 @@
+{
+    "topic_id": 841542222215252,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" />\r\n\r\n大家好，又到周五啦！每周五，鱼丸给大家带来一篇海外生财之术，带你一起赚美元~[爱心]\r\n\r\n今天分享的是一个自由职业者求职网站案例，作者通过汇总优质工作名录，提供会员服务给求职者，总收入超过5万美元，月收入稳定在4000+。\r\n\r\n链接优质资源，搭建端对端的桥梁，一直是个强需求。抖音，淘客，流量主，广告主，供货商，每个方面都可以做这样的产品。那么如何启动，有哪些思路呢？\r\n\r\n以下便是作者经验的分享。\r\n\r\n一、简单介绍下你的业务?\r\n\r\n大家好，我是Preston，我负责一个名为SolidGigs的自由职业者会员项目。\r\n\r\n每周，我们都会在网上搜索成千上万的自由职业工作列表，根据质量剔除其中的98%的工作，并通过电子邮件将前1% -2%的自由职业工作发送给我们的会员。此外，我们有一个不断增长的资源库，包括课程、面试、脚本和模板，以帮助自由职业者提升他们的业务水平。\r\n\r\n二、是什么促使你创立SolidGigs的?\r\n\r\n这一切都始于我上大学的时候。我是一名自由职业者，从事平面设计工作，以帮助维持收支平衡。作为一项试验，我也开始写关于平面设计的博客，最终变成了一个面向各种自由职业者的博客——写作、营销、开发、设计、指导等等。\r\n\r\n从那时起，我们开始为自由职业者建立许多不同的资源，包括播客、Facebook群组、每周时事通讯、每周专家文章等等。但是，即使多年来我们制作了很多非常棒的内容，每次我们发送读者调查，都注意到80%或更多的读者仍然在一个关键问题上挣扎：到哪里去找高质量的自由职业。\r\n\r\n我们在博客上分享了一些最好的自由职业网站，并与专家深入探讨了如何通过艺术家/创意赚钱。还推出了许多播客节目，包括一个全新的自由职业者和他建立自由职业的旅程后的整整一年。\r\n\r\n不幸的是，这些都没有奏效。自由职业者仍然被困住了，仍然感到沮丧。\r\n\r\n因此，我们决定创建一个基础产品，而不是开设一门课程或创建更多的免费内容，这些内容显然对真正的问题不够深入。我们推出了SolidGigs的MVP。\r\n\r\n开始只收取今天第一轮会员费用的一小部分。想要获得我们每周自由职业工作列表并节省每周找工作时间的自由职业者可以成为我们的会员，每月只需支付8美元。很快，就有大量自由职业者订阅了。\r\n\r\n三、最初的产品是由什么组成的?\r\n\r\n最初的产品非常简陋。从开始到结束，构建登录页面(目前使用基本HTML编码)、设置支付网关和连接Mailchimp花费了大约一周的时间。我们雇佣了一个PSD-to-HTML编辑器来快速创建我们的着陆页面，这样我们就可以专注于其他任务。我想这花费了20美元。然后我们将Stripe连接到Mailchimp，在那里我们可以向用户收取月费，并每周向他们发送一封电子邮件。\r\n\r\n我们有一个宏伟的愿景，但在模型被验证前，刻意保持了小规模。一次只允许50个成员加入(通常间隔一两个月)，只服务设计师、开发人员、市场营销人员和作者。\r\n\r\n为了得到我们每周交付的产品，我和我的小团队梳理了几十个自由职业网站，寻找最好的自由职业机会。然后我们手动将它们放入Mailchimp电子邮件中，并将其发送给我们所有的成员。\r\n\r\n因为这个产品和生产它的方法都很简单，所以很容易自筹资金，在最初的几个客户之后，我们在域名注册/托管和连接Stripe到Mailchimp所需的技术上实现了收支平衡。我们基本上从第一天就开始盈利。\r\n\r\n四、你是如何吸引用户并成长为SolidGigs的?\r\n\r\n正如我所提到的，在一开始，我们一次只允许50个用户。我们不想发展得太快，这样就可以确保我们为会员提供高质量的体验。我们意识到这种限制对我们有利，因为它造成了一种稀缺性，促使人们等待，并在我们开放更多名额时注册。另外，因为过去几年我们的博客用户一直在增长，我们有足够多的自由职业者可以联系，以获得一个初始的会员基础。\r\n\r\n所有这一切意味着我们在几个月内就有了第一批100名用户(每月向50名用户开放一次，为期两个月)。\r\n\r\n之后继续推销我们自己的名单，也利用了推广合作。一些合作伙伴有与我们的产品提供的解决方案相匹配的关键词的高Rank文章，这带来了稳定的新成员，以及稳定的合作伙伴收入。我们还尝试了赞助(表现不是很好)，今年计划通过谷歌广告和Facebook广告增加付费收购。\r\n\r\n五、你的商业模式是什么?你是如何增加收入的?\r\n\r\n这种产品的商业模式极其简单:会员每月支付费用，就可以访问我们的每周自由职业列表和其他优质内容，比如课程和访谈。\r\n\r\n我们这个月的最高收入是通过价格上涨达成的。宣布涨价后，让很多观望用户下定决心，在它还是13美元/月的时候注册(很快就会涨到19美元/月)。\r\n\r\n成本比我希望的要高得多，但是自从引进了一些在线资源库，已经看到了它的下降。我们的目标现在从单纯拉新付费会员转变为提高续费率，以稳定和增加收入。\r\n\r\n六、你未来的目标是什么?\r\n\r\n今年的目标是把现有的400名会员增加到1000多名。在拥有1000名会员的情况下，我们认为我们将在服务质量方面达到一个临界点，随后需要思考为会员提供更有价值的服务。我们的计划是继续利用现有的受众来建立网络和增加会员，同时关注一些积极的SEO和付费收购策略。\r\n\r\n最大的障碍是会员流失。产品有一个很自然的问题：自由职业者通过我们找到一个非常好的客户后，就不会再访问网站，最后取消订阅。今年我们的目标是增加价值，以鼓励我们的会员在找到新的优质客户后继续留下来。\r\n\r\n以上以上就是今天一起赚美元的分享啦，觉得不错记得给鱼丸一个赞哦~\r\n\r\n原文链接：<e type=\"web\" href=\"https%3A%2F%2Fwww.indiehackers.com%2Finterview%2Fhow-i-ve-grown-a-no-frills-service-to-4-000-mo-in-revenue-9069441940\" title=\"How+I%E2%80%99ve+Grown+a+No-frills+Service+to+%244%2C000%2FMo+in...\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-01-14T03:30:48.903+0800",
+            "owner": {
+                "user_id": 8455455222,
+                "name": "谷风一木",
+                "avatar_url": "https://images.zsxq.com/FhnkIACptMQ5gtigOf09H4FMvFGY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OBbOv_GCWgHFm8Gckl0TeHXN54Q=",
+                "number": 4864
+            }
+        },
+        {
+            "create_time": "2019-12-27T09:18:49.378+0800",
+            "owner": {
+                "user_id": 142455125122,
+                "name": "stark.wang",
+                "avatar_url": "https://images.zsxq.com/FnZp5l4KbwqtWTcky_VstxpPlPJZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Z3D_26sK6lCHGYtVGaKL993hOXY=",
+                "number": 4831
+            }
+        },
+        {
+            "create_time": "2019-12-20T19:51:12.320+0800",
+            "owner": {
+                "user_id": 544814211425824,
+                "name": "三ミ彡",
+                "avatar_url": "https://images.zsxq.com/FjWKDJ25kXoJPoUtHc-yl_N_q09-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-n68NH8ZqAfxzVoJO2bZUAhdUfk=",
+                "number": 6346
+            }
+        },
+        {
+            "create_time": "2019-12-19T13:19:10.161+0800",
+            "owner": {
+                "user_id": 8488548442,
+                "name": "PengPeng",
+                "avatar_url": "https://images.zsxq.com/FrOJVRVBhWxnu68iLChtezBeJ5yL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IhetccuC0bjsIn0B5Pqcn1XcRAc=",
+                "number": 2574
+            }
+        },
+        {
+            "create_time": "2019-12-17T13:17:28.416+0800",
+            "owner": {
+                "user_id": 5585184514,
+                "name": "小书童",
+                "avatar_url": "https://images.zsxq.com/Fr7U3KXFEX5r7qziPkpwcGSxstpr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6BSFaNOTMpmJOkzQji3-1K4hWMk=",
+                "number": 1768
+            }
+        },
+        {
+            "create_time": "2019-12-16T14:24:34.503+0800",
+            "owner": {
+                "user_id": 241555814288251,
+                "name": "A·王星凯",
+                "avatar_url": "https://images.zsxq.com/Fnq_PdI3qOJ4b68SfpQQA-0qXEHF?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uwSNZdVJ5d8VZEJ2mxyFJpxLQ_4=",
+                "number": 5624
+            }
+        },
+        {
+            "create_time": "2019-12-15T18:24:24.487+0800",
+            "owner": {
+                "user_id": 48415415181228,
+                "name": "西蒙陈",
+                "avatar_url": "https://images.zsxq.com/FhQdKICrcZQz31BBCHZMcHt0ze3Y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f2IWp3jDcrOJ6xinruywb4J3rwc=",
+                "number": 1016
+            }
+        },
+        {
+            "create_time": "2019-12-15T18:15:24.295+0800",
+            "owner": {
+                "user_id": 5422411484,
+                "name": "王家威",
+                "avatar_url": "https://images.zsxq.com/Fm5WxhbsQ9xVIRRE9UKM-sddcjWp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:mMCMjA--EmLk0ZI-wihYoQjvBAI=",
+                "number": 1209
+            }
+        },
+        {
+            "create_time": "2019-12-15T12:43:26.045+0800",
+            "owner": {
+                "user_id": 28855118828441,
+                "name": "火星人30号",
+                "avatar_url": "https://images.zsxq.com/FsaCZd3-joGZN_aFVWbH1LKKr_LL?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ycjbklYV3WooIGW_K_319bSxriw=",
+                "number": 1846
+            }
+        },
+        {
+            "create_time": "2019-12-15T10:59:23.235+0800",
+            "owner": {
+                "user_id": 48512854141518,
+                "name": "描声🍃",
+                "avatar_url": "https://images.zsxq.com/FvWyzbcdlp1vticVAaDSTmSyTD8X?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:EH4r-u0bdgbALinlga12Y5U1IlE=",
+                "number": 5742
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-12-30T23:37:44.873+0800",
+            "owner": {
+                "user_id": 454218544518,
+                "name": "Bluekou",
+                "alias": "Bluekou-温虾米",
+                "avatar_url": "https://images.zsxq.com/FoDXBpsrCgE7yn77Yd40E8lqqul1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:z4sURrvi8iaGNT3lMItHCvvQiFo="
+            },
+            "amount": 533
+        },
+        {
+            "create_time": "2019-12-14T09:35:55.841+0800",
+            "owner": {
+                "user_id": 5581144214,
+                "name": "1/0 二事",
+                "avatar_url": "https://images.zsxq.com/Fpz6Vv35TuDuqoyqYcuE0Wed4JXh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oDr8c2PNXSB-TYhug9EVkMu6jUU="
+            },
+            "amount": 80
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 241154144258451,
+            "create_time": "2019-12-13T21:55:36.371+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "太棒了，非常感谢",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118821811112852,
+            "create_time": "2019-12-13T22:44:57.273+0800",
+            "owner": {
+                "user_id": 1141841152,
+                "name": "洪谦",
+                "avatar_url": "https://images.zsxq.com/FpnS4gY65l_Fgm4_DMwagHS7MwP6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gvg8ptQAYWSt_FX6pNuq2v762us="
+            },
+            "text": "感谢分享。建议能看英文的朋友读一下原文评论区的读者互动，会有收获的。",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 32,
+    "rewards_count": 2,
+    "comments_count": 2,
+    "reading_count": 8549,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-12-13T21:24:25.997+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

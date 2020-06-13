@@ -1,0 +1,248 @@
+{
+    "topic_id": 15454855851142,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 454852448228,
+            "name": "大周|流量玩法",
+            "avatar_url": "https://images.zsxq.com/FjYtugUoKUOds0Co6p-8f9PBGAGT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:tXb0FGAV3kS_siRpkN0QupJWgRc="
+        },
+        "text": "<e type=\"hashtag\" hid=\"518144111484\" title=\"%23%E8%BF%90%E8%90%A5%E6%A1%88%E4%BE%8B%23\" /> \n拼多多出了一个“邀请好友砍价免费拿商品”的活动\n我有好几个女性朋友（上至大妈，下至大学生），都很热衷于邀请好友帮忙砍价。\n这些支持砍价的商品大多都是标价数百元的，价格太高的估计会给用户难度很高的感觉，太低的又难以产生足够多的二次传播。\n受邀参加了一些商品的砍价，发现拼多多的砍价机制还是十分能调动参与者积极性的，一般前面几十次砍价，每刀都能看至少几块钱，越到后面，砍价的幅度越低，有一次一个朋友砍到只剩十块钱了，结果后面每刀都是0.04元这样的幅度，足足又找了两百多个好友来帮忙，根据我向朋友们的询问，一件标价两百元的商品，如果想通过这样的砍价活动免费获得，运气最好的时候，也需要找差不多两百个好友帮忙，也就是平均每个UV就要花费近一块钱。\n砍价页面引导两个方向，一是下载APP后能帮助好友砍更多，二是挑选其他商品自己发起砍价活动，目的都是为了拉新。\n，虽然不知道具体的拉新转化率，但是我想如果一个人的朋友热衷于免费抢商品，那这个人也打概率会喜欢这样的活动。\n曾经思考说如果把下载APP这个动作换成关注公众号或者引流到小程序，会不会转化率提高很多，但是一想这两者的通知推送能力以及用户桌面的入口位置都不及app，如果引流到小程序，送这么多免费商品可能就很亏了。",
+        "images": [
+            {
+                "image_id": 88255215142152,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FsHTttnSNnLMZAro4MaTjMvidvoU?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LFxzMqd-D5jklLMsDkkmwQaZnRo=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FsHTttnSNnLMZAro4MaTjMvidvoU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J8mdNxOUdqVckLUTS9AX8cyKxhY=",
+                    "width": 750,
+                    "height": 1334
+                }
+            },
+            {
+                "image_id": 15422482814842,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhhsiQWuPxP6ZlYgR1ISH3Xk-iSb?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:U95SddnFDLGOTw59Uj3PF1CM_b4=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhhsiQWuPxP6ZlYgR1ISH3Xk-iSb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F1ojUjMaNIgYvNcXKHHnfktWLD0=",
+                    "width": 750,
+                    "height": 1334
+                }
+            },
+            {
+                "image_id": 48544514125158,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fgr_X5QidWsYUdyq35ZBfW3yPqyU?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PKyydrQtAxl9d0bUpWDUXYSZq00=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fgr_X5QidWsYUdyq35ZBfW3yPqyU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fVo5tLv3J7zaNFYlv4TdBGyU3v4=",
+                    "width": 750,
+                    "height": 1334
+                }
+            },
+            {
+                "image_id": 88255215142122,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fgk4f2cq0YIW7Vb1CyfEZISHKj3l?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PELqizrYymqbg0vDU_TJdhkqzXc=",
+                    "width": 320,
+                    "height": 569
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fgk4f2cq0YIW7Vb1CyfEZISHKj3l?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:rBS2KKVM2xGgEzN9YP013mm3f8Q=",
+                    "width": 750,
+                    "height": 1334
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-09-15T13:55:36.288+0800",
+            "owner": {
+                "user_id": 28842545558451,
+                "name": "武布栗",
+                "avatar_url": "https://images.zsxq.com/FngPeyYQf8zdCDIJP0-jQVXf51E7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:F_Q7uSUlCogiR8Z2XvM4VHPCmGE=",
+                "number": 6128
+            }
+        },
+        {
+            "create_time": "2019-06-22T15:08:30.041+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-31T13:32:33.459+0800",
+            "owner": {
+                "user_id": 551841515154,
+                "name": "李泊",
+                "avatar_url": "https://images.zsxq.com/FkmaGLKP5GVRFsWsYBrDXAt_eH6p?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FKT_jJSlQAFOCvM3ucc541x_Wg0=",
+                "number": 5771
+            }
+        },
+        {
+            "create_time": "2019-05-15T23:22:10.009+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-05-01T10:34:03.993+0800",
+            "owner": {
+                "user_id": 481811282258,
+                "name": "shijinzhan",
+                "avatar_url": "https://images.zsxq.com/FliijMsDh3nCImaUJ815PfrN5bzz?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gWAe7GRFNmdaAFdntK-FR7s_z5s=",
+                "number": 5431
+            }
+        },
+        {
+            "create_time": "2019-04-26T15:17:34.600+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-05-07T17:00:50.917+0800",
+            "owner": {
+                "user_id": 828215554252,
+                "name": "Jing",
+                "avatar_url": "https://images.zsxq.com/FlBhiPauk9MJybe6Do0BCdWXFOTm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:9touQt0AnjlWeWbUW7AoIENeXuA=",
+                "number": 1629
+            }
+        },
+        {
+            "create_time": "2018-05-07T02:17:15.660+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-05-06T19:43:02.434+0800",
+            "owner": {
+                "user_id": 142584288282,
+                "name": "边城浪子",
+                "avatar_url": "https://images.zsxq.com/Fv75C0ErsqJoVkdC3_FDCG-MswM6?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_k-78DMDolc7vQou50YXVpAjo2w=",
+                "number": 676
+            }
+        },
+        {
+            "create_time": "2018-05-05T21:56:14.636+0800",
+            "owner": {
+                "user_id": 5822841114,
+                "name": "企鹅哥哥",
+                "avatar_url": "https://images.zsxq.com/FiThBBg9d_CXLVQpvDQtPI3GLuh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cklGEexNGqCJ3fDSgFV2JO3yC9o=",
+                "number": 1634
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88214188184142,
+            "create_time": "2018-05-05T15:06:14.264+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "加过上次渣渣辉提的砍价群，群非常活跃，因为符合社群的“三近一反”原则，而且这些人都是精准的电商粉，值得去琢磨。 \n\n本文已加精，感谢分享！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 15481842185512,
+            "parent_comment_id": 88214188184142,
+            "create_time": "2018-05-05T21:56:54.702+0800",
+            "owner": {
+                "user_id": 5822841114,
+                "name": "企鹅哥哥",
+                "avatar_url": "https://images.zsxq.com/FiThBBg9d_CXLVQpvDQtPI3GLuh3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cklGEexNGqCJ3fDSgFV2JO3yC9o="
+            },
+            "text": "我也进了几个砍价群，不知道怎么变成自己的粉丝",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 15488421284812,
+            "create_time": "2018-05-09T14:37:34.041+0800",
+            "owner": {
+                "user_id": 825818428142,
+                "name": "小草",
+                "alias": "絮",
+                "avatar_url": "https://images.zsxq.com/FnadGbzosAsG_WeN7ZlyEtTvQX5w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uycjDltIURgosSShz68a9KNFigQ="
+            },
+            "text": "请问三近一反是什么意思",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421452418228418,
+            "parent_comment_id": 15488421284812,
+            "create_time": "2019-05-27T22:31:19.502+0800",
+            "owner": {
+                "user_id": 51111145851124,
+                "name": "五折",
+                "avatar_url": "https://images.zsxq.com/Fi-7SxBa6WCWENlTUV_yvt7op_R7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bd2_cXI1UcYIi6qJtslJMqecO2s="
+            },
+            "text": "地域相近，兴趣相近，年龄相近，性别相反",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 825818428142,
+                "name": "小草",
+                "alias": "絮",
+                "avatar_url": "https://images.zsxq.com/FnadGbzosAsG_WeN7ZlyEtTvQX5w?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uycjDltIURgosSShz68a9KNFigQ="
+            }
+        }
+    ],
+    "likes_count": 16,
+    "rewards_count": 0,
+    "comments_count": 4,
+    "reading_count": 7180,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-05-04T19:26:39.158+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

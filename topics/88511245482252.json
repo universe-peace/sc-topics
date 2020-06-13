@@ -1,0 +1,347 @@
+{
+    "topic_id": 88511245482252,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "<e type=\"hashtag\" hid=\"8212448112\" title=\"%23%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB%23\" />  <e type=\"hashtag\" hid=\"4515151888\" title=\"%23%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB%23\" />  \n\n中午下载apple store美国区的app，发现需要美国的Apple ID，注册过程中需要填写美国身份信息，而且美国地址和邮编要匹配上才能通过验证。 \n\n通过一番搜索\n\n1）Google搜索 “ us name generator”，发现网站<e type=\"web\" href=\"http%3A%2F%2Ffakenamegenerator.com\" title=\"Generate+a+Random+Name+-+Fake+Name+Generator\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F79e20137d407f129816cf0f469ded2b8f4251e68ee2da31291f7e2dd08dabd2f\" />，可以产生随机若干国家的身份信息（虚拟），地址、邮编、电话可以匹配。  网站日均流量10w，盈利模式为批量导出功能收费，每个月几千美元应该很轻松。 \n\n2）填写了匹配的信息后，发现注册美区AppleID还是不成功，最后还是在万能的淘宝购买账号解决了问题，发现这个店铺已经卖掉好几万件这样的账号。 \n\n所以这里面，可能的三个机会：\n\n1）整理清晰各个国家的姓名、地址、邮编、电话等特征，生成随机数据库，然后开放数据库，产品上大致模仿上面提到的那个网站，把对方的付费功能免费开放出去吸引更多的用户。 \n\n2）在similarweb 上找<e type=\"web\" href=\"http%3A%2F%2Ffakenamegenerator.com\" title=\"Generate+a+Random+Name+-+Fake+Name+Generator\" cache=\"http%3A%2F%2Fcache.xiaomiquan.com%2F201706%2F79e20137d407f129816cf0f469ded2b8f4251e68ee2da31291f7e2dd08dabd2f\" />的相似站点，举一反三，可以发现很多可能的机会和市场，比如phone number carrier lookup 。 \n\n3）学习模仿那家淘宝店。",
+        "images": [
+            {
+                "image_id": 88511848418452,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FheDF-xZTzXj153Y5z41UwrE3uin?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fy3VUXHGjH70k0k89nHwbCStN6s=",
+                    "width": 320,
+                    "height": 568
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FheDF-xZTzXj153Y5z41UwrE3uin?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NfLU6nH9wGFaV9M99e22KnO9Dxk=",
+                    "width": 640,
+                    "height": 1136
+                }
+            },
+            {
+                "image_id": 51288141481424,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FlIb_VDNCzYuAOMhhMbePuEFDS3v?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zsuTLaldlyTxAQAM4g4BKi27kNI=",
+                    "width": 320,
+                    "height": 252
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FlIb_VDNCzYuAOMhhMbePuEFDS3v?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:vWd46FDesGpGXyp1z3euw3CrUz4=",
+                    "width": 800,
+                    "height": 630
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FlIb_VDNCzYuAOMhhMbePuEFDS3v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GBubM4tTVCUnlMyVHfbnt2pAUiA=",
+                    "width": 1600,
+                    "height": 1261,
+                    "size": 191579
+                }
+            },
+            {
+                "image_id": 48411828218258,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FjkF_l3lbfz6XTS1Q_THb-9daXoD?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KNOEnsz6tqbxlWAUiJXjLAB4p88=",
+                    "width": 320,
+                    "height": 283
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FjkF_l3lbfz6XTS1Q_THb-9daXoD?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:H_5Ss6NRt0i0YhBcNWgGKACrrLk=",
+                    "width": 800,
+                    "height": 707
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FjkF_l3lbfz6XTS1Q_THb-9daXoD?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:MYO8zU5Th-vD2kUMalekjwmK4Z4=",
+                    "width": 1600,
+                    "height": 1414,
+                    "size": 210029
+                }
+            },
+            {
+                "image_id": 88511848418422,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FvKoi_oIzFXdfHmbctbIVjpQP1Fy?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OIvUlcXbzVkwEHPpsvFkBdSjisg=",
+                    "width": 320,
+                    "height": 283
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FvKoi_oIzFXdfHmbctbIVjpQP1Fy?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XhGfb1l2RbqDy-DZXzNf7Rjo07E=",
+                    "width": 800,
+                    "height": 707
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FvKoi_oIzFXdfHmbctbIVjpQP1Fy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5FRTDHKdGt625APMKjib15n1350=",
+                    "width": 1600,
+                    "height": 1414,
+                    "size": 243228
+                }
+            },
+            {
+                "image_id": 51288141481454,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FpOP1IA8dGQyJfGBj1Z-jekAvWS7?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7oscOrofnShcntAxeLCJYvgo1zY=",
+                    "width": 320,
+                    "height": 241
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FpOP1IA8dGQyJfGBj1Z-jekAvWS7?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zVUGVhq3HbHvon-541TY-W-Q6vw=",
+                    "width": 800,
+                    "height": 603
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FpOP1IA8dGQyJfGBj1Z-jekAvWS7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:cC-btbbcYl9XS6RQn-U533KCeXc=",
+                    "width": 1600,
+                    "height": 1207,
+                    "size": 228865
+                }
+            },
+            {
+                "image_id": 28511848418421,
+                "type": "jpg",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FhWy2IktHi6aKjuXEn2qkC5GrBQQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pHZ4mfVeu2MZRdPM4UfZ-0YvLpo=",
+                    "width": 320,
+                    "height": 234
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FhWy2IktHi6aKjuXEn2qkC5GrBQQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WSDpmTSYL9WfVwK8lz82kMart2g=",
+                    "width": 800,
+                    "height": 586
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FhWy2IktHi6aKjuXEn2qkC5GrBQQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h9gvzA-yQm7_nT6zwqcpL8kBIE8=",
+                    "width": 988,
+                    "height": 724,
+                    "size": 95285
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-08-08T17:50:52.288+0800",
+            "owner": {
+                "user_id": 552514451124,
+                "name": "于洋",
+                "avatar_url": "https://images.zsxq.com/Frjqth-Vh5fOTjLrBhibEraLffou?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ze9GN5FClP6ArhmXeFK86HSS5tk=",
+                "number": 2877
+            }
+        },
+        {
+            "create_time": "2019-08-04T12:14:30.783+0800",
+            "owner": {
+                "user_id": 88248484888842,
+                "name": "__.ying",
+                "alias": "_.ying",
+                "avatar_url": "https://images.zsxq.com/FkkN3u2ILI9RzcR-YsxWThehpcG7?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SrKVyVR-JZZDbSCRvXb0o0Movfw=",
+                "number": 6021
+            }
+        },
+        {
+            "create_time": "2019-06-06T13:49:02.182+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-04-28T22:48:16.290+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2019-03-23T03:12:14.597+0800",
+            "owner": {
+                "user_id": 4252414118,
+                "name": "mxclover",
+                "avatar_url": "https://images.zsxq.com/FqR1KIC1lE2qc64eeumQP9nbfktB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dr7dRn0oeaUZoPM_oTjjRNbpVkI=",
+                "number": 1694
+            }
+        },
+        {
+            "create_time": "2018-05-12T15:13:14.732+0800",
+            "owner": {
+                "user_id": 4212422558,
+                "name": "Hmy",
+                "avatar_url": "https://images.zsxq.com/FsiEdXCqDtNzh9xB5D_I5N7jIZUO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:OqA5dxrVuMZ6eU13-AOXqyP_lsc=",
+                "number": 1993
+            }
+        },
+        {
+            "create_time": "2017-06-24T09:21:35.496+0800",
+            "owner": {
+                "user_id": 222815448141,
+                "name": "小鱼",
+                "avatar_url": "https://images.zsxq.com/Fgid33qXhx_gBVNtvkM5xVYjCfMY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:JlhkVLoO3thpBpw8T2aHCwi5Q9I=",
+                "number": 754
+            }
+        },
+        {
+            "create_time": "2017-06-22T07:22:05.982+0800",
+            "owner": {
+                "user_id": 828214481252,
+                "name": "中雨",
+                "avatar_url": "https://images.zsxq.com/FoY3OFZp9ZcP2Lm2ndcwIYFClsG5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:t2dZsf_zeIsx2k3a_AN42EyGCg8=",
+                "number": 832
+            }
+        },
+        {
+            "create_time": "2017-06-22T07:08:11.454+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I=",
+                "number": 662
+            }
+        },
+        {
+            "create_time": "2017-06-21T20:13:34.995+0800",
+            "owner": {
+                "user_id": 4515545258,
+                "name": "套鹿",
+                "avatar_url": "https://images.zsxq.com/FjoH2iN0dg8u2Cshth3ufLlInsKE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:kwL5JMO8nsaWa81EfR6-Ml7S-MI=",
+                "number": 827
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 28855245448121,
+            "create_time": "2017-06-21T17:26:53.753+0800",
+            "owner": {
+                "user_id": 551858824484,
+                "name": "单申甲",
+                "avatar_url": "https://images.zsxq.com/FkczeaGnnKPHRgomtFuo7752V94Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:jHfShT2b1knq1NOE4aVfK9VEQhU="
+            },
+            "text": "ios10申请美国的appid需要信用卡绑定验证了，现在还有澳大利亚、加拿大少数国家注册不需要银行卡认证！另外我上次注册一个花了差不多2小时😅，淘宝卖这个还是有前途的",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15522415111152,
+            "create_time": "2017-06-21T20:33:57.340+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk="
+            },
+            "text": "这样买回来的账号有风险吗",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 88855215818852,
+            "parent_comment_id": 15522415111152,
+            "create_time": "2017-06-22T07:08:04.979+0800",
+            "owner": {
+                "user_id": 481182282258,
+                "name": "老读悟",
+                "avatar_url": "https://images.zsxq.com/FgoqT90lvOjrtXqRdrtIx-oXkBDm?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ehx6pJfFI-vmVUCd-rBh_YAML8I="
+            },
+            "text": "里面别充太多钱还好吧",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk="
+            }
+        },
+        {
+            "comment_id": 51184252188254,
+            "create_time": "2017-12-02T18:04:20.440+0800",
+            "owner": {
+                "user_id": 5585522524,
+                "name": "Key",
+                "avatar_url": "https://images.zsxq.com/Fm_QWYfRIpsJn2VeepnZwiW6lTWB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:qk8KBKMVmN_0qooq2Nw2g7vW4Ic="
+            },
+            "text": "这个在国内到是挺有可能的",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 15155848515122,
+            "create_time": "2018-06-08T13:11:48.080+0800",
+            "owner": {
+                "user_id": 51158225544154,
+                "name": "富布斯",
+                "alias": "Forbes",
+                "avatar_url": "https://images.zsxq.com/FvOjJC4c6Nrlbzhlqa4l2AH-l0TO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n6M1xK9xXxTLDj-RsAZTeNOCbm0="
+            },
+            "text": "说明你不会用AppStore.其实几步就可以切换到美国下载任意app.全程不到一分钟.哪来后面那么多事.那些批量生产用户信息的网站一直都有，国内中文版的就有几个.不是什么新鲜事了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 88482884418452,
+            "parent_comment_id": 15155848515122,
+            "create_time": "2018-06-10T09:23:08.731+0800",
+            "owner": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk="
+            },
+            "text": "求教如何操作？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 51158225544154,
+                "name": "富布斯",
+                "alias": "Forbes",
+                "avatar_url": "https://images.zsxq.com/FvOjJC4c6Nrlbzhlqa4l2AH-l0TO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n6M1xK9xXxTLDj-RsAZTeNOCbm0="
+            }
+        },
+        {
+            "comment_id": 48285882215258,
+            "parent_comment_id": 15155848515122,
+            "create_time": "2018-06-10T09:26:53.508+0800",
+            "owner": {
+                "user_id": 51158225544154,
+                "name": "富布斯",
+                "alias": "Forbes",
+                "avatar_url": "https://images.zsxq.com/FvOjJC4c6Nrlbzhlqa4l2AH-l0TO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n6M1xK9xXxTLDj-RsAZTeNOCbm0="
+            },
+            "text": "百度一下",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 454815544558,
+                "name": "静",
+                "avatar_url": "https://images.zsxq.com/FtKrs1Sr7GUmTgv5fUo_Nx_0iR4c?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f_bj5SQXLA27jblaVgu-ioI9WDk="
+            }
+        }
+    ],
+    "likes_count": 26,
+    "rewards_count": 0,
+    "comments_count": 7,
+    "reading_count": 2389,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2017-06-21T17:14:17.303+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

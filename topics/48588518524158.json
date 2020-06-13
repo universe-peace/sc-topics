@@ -1,0 +1,209 @@
+{
+    "topic_id": 48588518524158,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 481884815128,
+            "name": "Lin",
+            "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+        },
+        "text": "<e type=\"hashtag\" hid=\"881842188122\" title=\"%23%E6%BF%80%E5%8A%B1%E8%A7%86%E9%A2%91%23\" /> \n广告可以粗分为两部分：\n1.广告主，追求转化率和ROI；\n2.开发者，追求eCPM和点击率。\n\n移动端激励视频对于用户视觉冲击和吸引力较大，同时又有奖励属性，转化率较其他广告较高，ROI也会较高；\n\n广告总体转化率达到3%属于非常牛逼，举个例子我个人搞了几个app，日活在700到900，点击率在1%，放了原生广告、插页广告(插页也有视频模式)以及激励视频，以ecpm来说，最高的是激励其次插页，三者并存情况下，每日收益很低，没想到后来关掉了原生，收益居然提高了，以独立开发角度我会选admob只放入插页和激励；\n\neCPM越高点击收益也就越高，而如何提高，那就靠日活新增留存app属性等相关数据的增长，所以这个地方也是很多刷广告的会去着重做的;\n\niOS用户价值高于Android，相信大家都知道，一般来说eCPM上也是iOS高出很多，不过以我用admob观察到，日活差3倍以上，eCPM在激励视频有可能持平，这是我自己的数据不能代表大众；再以admob来说，有google play的点击收益大于没有的，原因我预测是因为app install以及ip，美国ip点击收益高于国内；\n\n激励视频拆解：\n1.看视频，点击下载；\n2.安装并打开在返回应用获取相应奖励。\n这里说下admob只需点击既有收益，而其他大部分平台是需要下载并安装，甚至打开，同样的eCPM也是由低到高依次排列；\n\n对于刷广告的来说，国外如admob、inmobi这种大平台的是不会去做的，一来他们技术成熟破解难度大，二来eCPM较国内平台低；\n所以大部分是刷国内，之前在嵌入国内广告平台时候发现，测试阶段完成整个流程就能够有收益，而他们有漏洞(没逆向看，目前只观察是接入阶段)，比如iOS无法判断是否下载安装，同时Android和iOS都无法验证是否打开，不止是广告主无法得到真实数据，就连接入方也无法确定，这造成了接入方给的激励也可能被刷；而这对于广告主来说是灾难，我所嵌入的那个平台(国内某上市公司子公司)eCPM达到100+，完成一次流程收益20+，这里面我就不多计算了；\n\n以刷广告来说，iOS比Android的难度小eCPM高，但是投入大，依我所知，龙岩有做群控的也有弄这个；\n\n以技术角度来说，也希望国内广告平台能够继续完善，能够减少一些广告主的损失；\n需要把该收集的数据都收集了，就可以通过数据分析得出很多结果，比如用户行为，大部分刷广告去做用户行为其实就是几个操作随机(有可能一段时间更新下或者加入新的脚本)，很容易发现规律，当然如果是破解了api直接上传数据的难度就大了；\n\n这里我再说两个猜想：\n1.技术不成熟的公司其实知道有人在刷，同时他们的数据分析不出来，所以呢不多言；\n2.技术成熟的公司其实也是知道的，但是设置了底线，不越线可能就相安无事，他们会相对的保护广告主的利益。\n\n建议投放广告的各位也要做点相关的数据反馈不要完全依赖广告平台的数据，当然如果最终的ROI是正数，能接受也是可以；\n\n最后说一个案例，有些国外游戏工作室，做枪战类单机游戏接入激励视频广告，然后在AdWords投放激励视频广告，再加上aso排名做得好，一个月产生的流水很滋润的，至于我怎么知道的，每天中午我会看下点击收益，高的话会打开app看，会发现每次都是那几个游戏，现在还在买量，可以想想他们现在还在赚钱，我们这边的渠道也说这种单机游戏搞法流水是很爽的。\n\n以上是个人使用过程中的一些见解，圈内高手看看是否有不对的地方。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-06-21T13:41:24.948+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-05-16T23:30:36.556+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2019-04-27T14:48:39.864+0800",
+            "owner": {
+                "user_id": 1181452442,
+                "name": "雨亭之东",
+                "avatar_url": "https://images.zsxq.com/Flp1-fvYdYb8NjmFl4oHO3zEpNHc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aPPmufuaj34jvqwD0H5DFUM2-fY=",
+                "number": 2683
+            }
+        },
+        {
+            "create_time": "2018-05-07T01:49:03.381+0800",
+            "owner": {
+                "user_id": 454212518548,
+                "name": "蜗壳",
+                "avatar_url": "https://images.zsxq.com/FkX6Uo5miumA_6SvHcG03tPOytTV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6_Ma0gGRGAqylD8vVO0muKtO2eg=",
+                "number": 1524
+            }
+        },
+        {
+            "create_time": "2018-04-21T09:29:59.304+0800",
+            "owner": {
+                "user_id": 145884814482,
+                "name": "pscj",
+                "avatar_url": "https://images.zsxq.com/FjxkwlFrJOJAsluYa658QaSDNNEu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dRA0Ht_DiXeW3h8N1VcsbJXtzgk=",
+                "number": 1995
+            }
+        },
+        {
+            "create_time": "2018-04-21T01:25:03.310+0800",
+            "owner": {
+                "user_id": 2488541581,
+                "name": "hunter",
+                "alias": "天天",
+                "avatar_url": "https://images.zsxq.com/FqSlr1RmNVCcWxo7V3kl6esZhIHf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:p-HkccMMDHDa8oLps-elVjduP3A=",
+                "number": 1763
+            }
+        },
+        {
+            "create_time": "2018-04-21T01:03:13.863+0800",
+            "owner": {
+                "user_id": 142848251512,
+                "name": "Nonecy",
+                "avatar_url": "https://images.zsxq.com/Fn-xanXndbcOUjL5_GBmQqFewtQ-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n7x-VjxIiO4h5p0lw_R_Cz3NmDk=",
+                "number": 695
+            }
+        },
+        {
+            "create_time": "2018-04-20T22:58:43.317+0800",
+            "owner": {
+                "user_id": 881542511142,
+                "name": "大西vince",
+                "avatar_url": "https://images.zsxq.com/Fmj72xbIJg75ZARCp6UYOegwdnyg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:43qdv8zaUP6Csu3oxZdcJQUL4yM=",
+                "number": 1805
+            }
+        },
+        {
+            "create_time": "2018-04-20T22:35:06.782+0800",
+            "owner": {
+                "user_id": 51184285214524,
+                "name": "笑定千秋",
+                "avatar_url": "https://images.zsxq.com/FtgMsI4DzZJla4rKnIhEE3E47gJZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fQpj5gfflpNbNHqIew8bCdJ5b3A=",
+                "number": 1570
+            }
+        },
+        {
+            "create_time": "2018-04-20T22:32:27.028+0800",
+            "owner": {
+                "user_id": 1141125822,
+                "name": "侃爷",
+                "avatar_url": "https://images.zsxq.com/FscuGcyWHzZg0-IHsdGln6YN9De3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J5esAayzX4gdKFiRJBZqGCArgek=",
+                "number": 1656
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 88244245425152,
+            "create_time": "2018-04-20T17:07:40.546+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "已加精，还差三条精华即可全额返还。\n\n有没有激励视频的案例？ 发几个学习下怎么玩的。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 15411412141582,
+            "parent_comment_id": 88244245425152,
+            "create_time": "2018-04-20T17:13:05.737+0800",
+            "owner": {
+                "user_id": 481884815128,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+            },
+            "text": "晚上找几个出来",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 28244244152521,
+            "parent_comment_id": 88244245425152,
+            "create_time": "2018-04-20T21:19:36.789+0800",
+            "owner": {
+                "user_id": 15414841424452,
+                "name": "渣渣辉在路上",
+                "avatar_url": "https://images.zsxq.com/Fp0G74TvWkaAzkkTWBAH6YhlsMqy?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:oyWk3nDMh8r7wkozERPE3kskYho="
+            },
+            "text": "期待",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 481884815128,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+            }
+        },
+        {
+            "comment_id": 88244154411442,
+            "create_time": "2018-04-21T22:55:49.905+0800",
+            "owner": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            },
+            "text": "我也做出海，Google play玩得还可以，请加我微信18621019415",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 51544811588854,
+            "parent_comment_id": 88244154411442,
+            "create_time": "2018-04-22T08:24:58.944+0800",
+            "owner": {
+                "user_id": 481884815128,
+                "name": "Lin",
+                "avatar_url": "https://images.zsxq.com/FpGou15k1TzIyJPklbs63mKio_ub?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:s3H09W0Zwp5fVyIXQrtw02CW3Yg="
+            },
+            "text": "已加，还在学习中，希望能学到更多，目前基本上都是基于自己接触到的数据做出的判断[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 5458545854,
+                "name": "Tom叔聊运营增长",
+                "alias": "Tom叔聊运营增长",
+                "avatar_url": "https://images.zsxq.com/Frq1eeFsr8tjMxfCEEOAzmhvV640?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XKx3pWnQxShhXTdSfhTy5x8Jlu4="
+            }
+        }
+    ],
+    "likes_count": 23,
+    "rewards_count": 0,
+    "comments_count": 5,
+    "reading_count": 2784,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-04-20T16:44:56.443+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

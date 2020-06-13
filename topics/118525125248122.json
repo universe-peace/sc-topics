@@ -1,0 +1,305 @@
+{
+    "topic_id": 118525125248122,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 51281212212444,
+            "name": "范继福",
+            "avatar_url": "https://images.zsxq.com/Fr0TMyIvogEzrEPB1jh3sOIWwCOh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NB41SjczH82TKTA-c_MjCOReSM="
+        },
+        "text": "我的财富故事（6）\n易图软件十年之   发展\n\n2004年起步，用delphi开发，桌面型管理软件，一开始做单机版，后来出了网络版（主要用在局域网内）。\n\n2005年，找了广州的一个程序员，用asp.net，开发web系统（主要用于互联网）。\n\n第二个程序员怎么找的？\n当时有一个delphi的论坛，叫大富翁。\n里边有很多的delphi开发者。\n\n我发过两三个帖。\n大意，程序员也可以自己做项目当老板。\n\n引起了激烈的讨论。\n多数的人对我的说法，不认同。\n\n也有少数认同的。\n2005年的10月黄金周。\n有一个广州的程序员联系我。\n想来云南丽江大理玩。\n\n我们约好，我在昆明机场见。\n之后的黄金周，我们从昆明出发去了大理丽江，一路上我们聊了很多，之后又有半年左右的时间，一直在聊，并初步用兼职开始做系统。2016年，他最终辞去了广州的工作，专心和我一起做软件。\n\n一晃15年过去了，他从25岁到了40岁，有自己的房，有自己的车。现在定居在佛山，是两个孩子的爹，主要的收入，还是当年做的软件，等有空我让他也来分享一次。\n\n我详述这个过程。\n想说我的一个经验。\n软件开发，小团队，小项目。\n从社会上，开工资招人，成功的概率并不高（有规模的公司，定向开发不适用）。\n\n道理很简单，创业小团队，办公环境，技术积累，能给的待遇，非常有限。\n不是所有的人都适合从0~1。我甚至觉得只有不足10%的人适合做这种事。90%以上的人只适合去相对成型的公司。\n\n所以，想搞软件小项目，找到一个好的技术搭档，非常重要。\n技术人员想创业，找到一个精通市场的搭档。\n同样非常重要。\n\n我的经验是大约需要半年的相处。\n才有可能找到一个合适的人。\n\n当时间拉长之后，\n人生观，性格，做事习惯，是否真正的合适？是巨大的考验。\n\n下面说\n\n产品开发\n（在我们搞软件的时候，从来没想过找类似于产品经理这样的书看，我所说的都是感受）\n\n（1）要有硬需求\n     产品到目前为止依然能够有收入，最关键的一条就是他有真实的社会需求。\n\n   数不清的小软件，到各种APP。\n\n    百分之七八十的东西都是昙花一现。\n   不能变成超越10年的稳定项目。\n\n    因为百分之七八十的需求。\n    都是伪需求。\n    困难在于到底是伪需求还是真需求？\n    分不清。\n\n    技术类人才创业难成功的最主要原因。\n    在鉴别是否是真需求硬需求，这点上，并非所长，技术。很难转化为满足硬需求的产品。\n\n   我为什么对这一点体会非常深？\n\n  因为我们拥有过几千家客户，数万软件的使用者。\n 我大量的时间，用来跟客户交流。\n无论多聪明的人，想不出客户真正的需要。\n你只能靠大量的接触，\n世界的丰富，多元，绝不是一个人的脑能够应对的，人是浸泡出来的。\n\n（2）快速迭代\n  开发软件，我认为有两种大的方向。\n1：高质量的\n       开发规范，技术先进，成本高，速度慢。\n2：低质量的\n       速度快，成本低，不太规范，技术不太成熟。（大家都知道圆珠笔的故事，类似这个道理）\n      \n    我两种方法都尝试过，小项目小团队。\n    真正行得通的，挣钱的。是第2种模式。\n\n    客户有需求，尽量用最低的成本，最快的速度，做出一个有感觉的东西。\n\n    因为客户在变，市场在变。\n\n    我们刚做软件的时候。\n    主要是单机版，\n    很快发现网络版也需要。\n    之后发现互联网能用重要。\n    最后我们都知道，手机上用更重要。\n\n   世界变化得如此之快。\n   尤其是小团队，你来不及做的那么认真。基本能用，勉强能用，就可以了。\n\n     比如我们的软件没有启用账套这个功能。\n     因为一当账套启用就不能对库存期初进行任何的修改。\n    我们的软件不用结算，随时可看资产负债表。这些做法其实都是不规范的。但是很实用。\n    \n\n（3）人无我有\n\n  一个软件，一定要有几个其他软件没有的功能。\n\n如果你这个系统能干的事情，换个软件100%都能做。人家为什么买你的？\n\n软件本质上是对事物的系统理解。\n尤其是小的项目。\n在那么窄的领域。\n很难出现，有系统理解的人，并有合适的技术，让这些理解，软件化。\n\n从这个角度讲，创业的机会非常之多（一年的盈利在200万附近的）\n\n比如我们的软件的打印功能中。\n有非常多的系统模板。\n这些系统模板，是客户中做得比较好的。\n\n我们的出库单，就有很多款式可选。\n在当时同类软件中没有一家有。\n\n（4）降低门槛\n\n有很多的软件，你从网上下载之后，弄半天也运行不起来。\n\n好不容易打开软件，进入系统了，里面空空如也，没有大量的数据，很多统计功能没法看。\n\n我们做软件的时候，所有大软件都是这样的。\n而我们的软件中自带大量数据。\n\n各种报表，图表，形象生动。\n\n客户永远比你想象的要懒。\n客户的习惯永远比你想象的要糟糕。\n\n让客户用你的产品，代价低一点更低一点。\n\n则你的产品被客户接受的可能就会高一点，再高一点。\n\n\n下面说一说宣传培训\n\n（1）讨厌官网\n  不知道为什么，我特别讨厌那种标准官网，类似联想，苹果，戴尔那样的官网。\n\n我到今天依然坚定的认为。\n小公司，小软件，不要搞那种，看上去伟大光荣正确的官网。\n\n如果用今天的例子。\n我非常欣赏类似于逻辑思维这样的表达。\n有血有肉，有情绪，有极强个性，才是好的初创产品的网站。\n\n在我的软件里，我写了大量的文章。\n\n比如有段时间我们的软件被破解。\n我就在软件里边专门写了一篇文章给破解的人。\n\n人们很难在一两个月的时间深入了解一个软件，尤其这个软件已经写了10年。\n\n但是大多数人几秒钟就可以对一个活人。\n做出判断。\n\n他是个靠谱的人吗？如果他认为你是个靠谱的人。他就会默认，你的产品，可能靠谱。\n\n（2）展示与沟通\n互联网的产品，有多少种？\n可能无法统计。\n\n尘埃落尽。\n\n我发现，我体会最深，用的最多的两个服务成了最大的赢家。\n\n第一就是内容网站\n我们把所有想到的东西都，收集整理在网站上。\n软件的各种版本，每一个版本改动了什么？软件怎么用？软件使用过程里会碰到一些什么样的问题？\n\n现在回头看我们的官网，就是提供了内容。\n\n第二点：沟通\n\n很多事情今天已经习以为常。当年并不如此。\n我刚做软件的时候，软件的标准形态是光盘盒。\n我们做了10多年软件，没有做过一个软件包装盒。\n\n但我们是国内较早做系统视频教程的公司。\n\n我们的网站上，是较早挂出QQ的公司。\n像管家婆，速达这样的软件公司。\n是从来不会在官网上挂个QQ跟你聊天。\n\n我到今天都觉得这些大公司真的很蠢。\n\n当人们从网络里边看到信息之后。\n首先就是找到你的官网，查看更多信息。\n\n然后它会有很多的问题。\n怎么办呢？\n没有沟通是很难产生交易的。\n（这一规律在微商中，引为圣经）\n\n我的QQ至少有上万人加过。\n都是客户与我们的互动。\n\n为什么能用微信做生意？\n在我做软件的过程中，在QQ上深有体会。\n当时电话费还很贵，讨论软件也有很大的困难，所以我们很早就用了QQ的远程协助功能。\n\n只有通过交流才能解答客户的疑问。\n其实更为重要的是。\n他才能感觉你是活的，你是不是可靠？\n\n他才会给你打款购买软件。\n\n有很多软件和产品难于在全国卖开。\n\n第1条就是官网做得不好。\n客户很难感觉到你的价值。\n难以理解你的产品功能。\n\n第2条\n没有一个恰当的方式，让客户觉你是活的，是可靠的。\n\n我认为宣传的本质。\n你确有点干货，用合适的方法表达出来。\n想尽办法让人看到。\n\n优质的内容并不多见。\n一个软件有思想，有优秀的内容。\n不多见。\n\n大多数的软件的是一个程序，没有思想，没有内容。\n\n今天先到这里，间隔时间有点长，一下找不着感觉了。\n更多总结，请听下回分解。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-07T15:59:17.190+0800",
+            "owner": {
+                "user_id": 88824282115452,
+                "name": "Sepp",
+                "avatar_url": "https://images.zsxq.com/FvFjUoTffT87bUQeWI_DRZTuJdKO?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Lwf0AsqZiCYYXYGj02cokyDAg6s=",
+                "number": 6034
+            }
+        },
+        {
+            "create_time": "2020-02-23T10:46:20.733+0800",
+            "owner": {
+                "user_id": 145584524252,
+                "name": "Rancho",
+                "avatar_url": "https://images.zsxq.com/Fs03t9lH4OjXLZ1lpmaLynvWukEt?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4B7ozw8Y_SLjrBNyeEBrAE5oZD0=",
+                "number": 6483
+            }
+        },
+        {
+            "create_time": "2020-02-18T14:58:16.055+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU=",
+                "number": 6315
+            }
+        },
+        {
+            "create_time": "2020-02-17T23:25:38.019+0800",
+            "owner": {
+                "user_id": 421881224188428,
+                "name": "然目同学",
+                "avatar_url": "https://images.zsxq.com/Fm0C4qJqXUKP8RIPMoPXLz3qE3SI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PXkxXtXox224CCpyh6cIQtksuQE=",
+                "number": 6419
+            }
+        },
+        {
+            "create_time": "2020-02-17T23:04:35.272+0800",
+            "owner": {
+                "user_id": 28445254528141,
+                "name": "你的名字是",
+                "avatar_url": "https://images.zsxq.com/FqJuxn-GGyduWIey6Uw3LGQxX4IZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:GZTmDsuYYgkZ-yKJisv2lhUIYFo=",
+                "number": 5980
+            }
+        },
+        {
+            "create_time": "2020-02-12T11:47:42.487+0800",
+            "owner": {
+                "user_id": 544888158545444,
+                "name": "Jeff～杰",
+                "avatar_url": "https://images.zsxq.com/Fr74LKKlWnr2jTf6tqa3o1KjapeE?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:LkAuLSY0BWY6_D_yvgFmsggyxao=",
+                "number": 5756
+            }
+        },
+        {
+            "create_time": "2020-02-10T16:45:14.203+0800",
+            "owner": {
+                "user_id": 5412812124,
+                "name": "陈俊强",
+                "avatar_url": "https://images.zsxq.com/FmZytD6Ubz56EUy1aIdFL9BC7Qs3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:uoZfe_ZWG12X-r2iYnDkFZEdRJ4=",
+                "number": 421
+            }
+        },
+        {
+            "create_time": "2020-02-10T14:48:55.746+0800",
+            "owner": {
+                "user_id": 48884828555828,
+                "name": "北风",
+                "avatar_url": "https://images.zsxq.com/FlFG7WHTlKyOJWK6FLi-IYLaSCmn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:KLjxpSYx9zqhLwSf4dWoRv7mn7I=",
+                "number": 3871
+            }
+        },
+        {
+            "create_time": "2020-02-10T10:37:29.889+0800",
+            "owner": {
+                "user_id": 142581214452,
+                "name": "Yukun",
+                "alias": "garfield",
+                "avatar_url": "https://images.zsxq.com/FjnazYj40dB6VJBBgJfcVajQBLHI?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gJs7k7jjRHIoOeHWoiWEL8r9tjc=",
+                "number": 26
+            }
+        },
+        {
+            "create_time": "2020-02-10T09:18:09.550+0800",
+            "owner": {
+                "user_id": 422118152458158,
+                "name": "风界",
+                "avatar_url": "https://images.zsxq.com/FrZvPtNHgQKCApRYS9KO0tp1YDKg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ybrnJKT8OrWH97NvTyeYBuP9hmk=",
+                "number": 3323
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2020-02-07T15:47:45.294+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 5280
+        },
+        {
+            "create_time": "2020-03-31T10:07:06.323+0800",
+            "owner": {
+                "user_id": 118525158425882,
+                "name": "潘多拉的书单",
+                "avatar_url": "https://images.zsxq.com/FpdWxQFckCefp6a5ROAQ7cfZvb1k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bSZN5RWVDrWDxoXeiZeqN3_qxcU="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-29T22:46:46.614+0800",
+            "owner": {
+                "user_id": 455485811558,
+                "name": "70x",
+                "avatar_url": "https://images.zsxq.com/Fr_M6f1FmRUZEm3XK6_xiSTv3x6X?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j4wL34frUwTODZ_xElHWtlPv30g="
+            },
+            "amount": 80
+        },
+        {
+            "create_time": "2020-02-18T20:33:08.248+0800",
+            "owner": {
+                "user_id": 155158452,
+                "name": "三秋叶",
+                "avatar_url": "https://images.zsxq.com/FtftxCX5-dMR9vq1WSeS17c4BK_v?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NaDo040dc-Nd5tqNOMZFvt04qkc="
+            },
+            "amount": 120
+        },
+        {
+            "create_time": "2020-02-08T14:27:07.115+0800",
+            "owner": {
+                "user_id": 15284848244822,
+                "name": "克里斯说",
+                "avatar_url": "https://images.zsxq.com/FkMPor6OeZSfo-QVrNZ7Tow93HL1?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C-_6EGNI7e6l95WxzjrxjKqmrdw="
+            },
+            "amount": 230
+        },
+        {
+            "create_time": "2020-02-07T19:24:28.353+0800",
+            "owner": {
+                "user_id": 15554852824512,
+                "name": "Richard.颜过",
+                "avatar_url": "https://images.zsxq.com/FvCMBDYrVBFHPYFzpRDDXsg223KX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:173yjKqD6VOQ_LSTfzd_Z6lEXtI="
+            },
+            "amount": 533
+        },
+        {
+            "create_time": "2020-02-07T15:48:23.481+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "amount": 160
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 841142881848512,
+            "create_time": "2020-02-07T15:26:47.117+0800",
+            "owner": {
+                "user_id": 544455118481514,
+                "name": "强哥",
+                "avatar_url": "https://images.zsxq.com/Fh0OySFyQSGcZlfEdUZfGCbfOOUV?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:C-RzZrrWSABT6Hcj5pIQUhshyxk="
+            },
+            "text": "真他妈都是干货。性需求，哦不，硬需求，内容，沟通。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548845151241284,
+            "create_time": "2020-02-07T15:54:22.713+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "确实是，我以前有个Skype，上面差不多加了5000多个客户，都是从网站过来找我来解决问题的，我花了大量时间跟他们聊，不用想新的需求是啥，帮他们解决问题，更新产品，不断的有新的问题出现，聊，解决问题，聊，解决问题，聊，解决问题。最后通过这种方式赚了不少钱。",
+            "likes_count": 5,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 118814545421282,
+            "create_time": "2020-02-07T16:39:22.529+0800",
+            "owner": {
+                "user_id": 28824858112251,
+                "name": "唐葫芦",
+                "avatar_url": "https://images.zsxq.com/FlkS_rOyPrqiHVUpgYpGEzmK9K9t?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j0RGGUPmGrB31SoLnEp5YrreHDA="
+            },
+            "text": "客户永远比你想象的要懒。\n客户的习惯永远比你想象的要糟糕。\n\n让客户用你的产品，代价低一点更低一点。",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 548845151451244,
+            "parent_comment_id": 548845151241284,
+            "create_time": "2020-02-07T17:13:48.024+0800",
+            "owner": {
+                "user_id": 51281212212444,
+                "name": "范继福",
+                "avatar_url": "https://images.zsxq.com/Fr0TMyIvogEzrEPB1jh3sOIWwCOh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NB41SjczH82TKTA-c_MjCOReSM="
+            },
+            "text": "老大亲自点评，非常荣幸。",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            }
+        },
+        {
+            "comment_id": 421125855588148,
+            "create_time": "2020-02-07T19:24:06.438+0800",
+            "owner": {
+                "user_id": 15554852824512,
+                "name": "Richard.颜过",
+                "avatar_url": "https://images.zsxq.com/FvCMBDYrVBFHPYFzpRDDXsg223KX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:173yjKqD6VOQ_LSTfzd_Z6lEXtI="
+            },
+            "text": "范老板实诚[机智][机智][机智]\n看到delphi，有点亲切，大学那会还无厘头学过[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 241142822448811,
+            "create_time": "2020-02-07T20:17:24.969+0800",
+            "owner": {
+                "user_id": 51281212212444,
+                "name": "范继福",
+                "avatar_url": "https://images.zsxq.com/Fr0TMyIvogEzrEPB1jh3sOIWwCOh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NB41SjczH82TKTA-c_MjCOReSM="
+            },
+            "text": "今天这个帖写的不是太好，没有进入工作状态。\n过程说的多了一些，旨在，增加场景和细节。\n\n小的软件项目，小的团队。\n一手要抓产品，另一手要抓市场。\n对于小产品，或者软件项目的初级阶段，\n个人观点，市场要大于产品。\n\n成形后之后，则产品大于市场。\n\n产品方面，到底满足什么需求？解决什么痛点？非常关键。\n\n一个产品有几百个功能点，客户最需要的，也就百分之10-20%。\n\n我们软件有客户功能使用反馈。\n某一个菜单，图标被点开过多少次？后台可以看得很清楚，七八十的功能用的很少。\n\n当年\n一般的公司采用的是管家婆。\n核心的功能是商品的进销存。\n\n我们发现\n客户对维修的有需求。\n\n后来发现，对办公，对系统工程，有需求。\n\n软件只是增加了一个图标，一个功能，而从客户的角度来讲，业务已经发生了变化。\n\n新机会？\n正是由于这种变化。\n\n\n当然倾听也是一个学问。\n有的客户是不说。\n有的客户偏要说。\n\n有的客户，说完就过了。\n有的客户是说了以后，你不按他的要求改，就会跟你闹。\n\n所以，客户说的，不听，是死路一条。\n客户一说，你就改，也是死路一条。\n\n对于营销宣传来说\n你主动去找客户，不如让客户来找你。\n\n我们在玉溪当地，做过一两次宣传。\n电脑公司不多，就几十家，但是效果并不好。\n\n我们公司旁边有一家。\n是他的上家，昆明的，用我们的系统，然后跟他讲，才来找我们。\n\n有些事，没经历过，是很难理解。\n\n有一次我上昆明，一个广西的公司要买软件，在电话中聊到，他们在昆明有分公司，让我到分公司拿钱。结果没拿到钱。\n\n之后又说我们门口那家公司，也是他们的客户，让我们出门右转拿钱。\n\n我们没过去，让隔壁的直接送钱过来。\n我们才卖。\n\n总之从我的经历来讲\n主动去找客户，主动提供好服务。\n生意会做得非常累。\n\n我们该说的说，该讲的讲，该表现的表现。\n把价值呈现好，该试用的给你试用。\n\n让你充分了解\n真，有兴趣的再来找我们。\n这种生意就会做得很轻松很愉快。\n\n以前没有认真想过\n这几年总结\n我总结为，中关糸的生意最好做。\n\n而弱关系或强关系的生意最难做。\n\n弱关系就是你主动上门去推广，他根本不了解你，对你所说的总是防备，怀疑质疑，还香近臭，外来的和尚会念经。\n\n强关系，行业客户，他可以找别人做，你没了这两单生意公司就关门。\n\n罗胖的生意。\n就是典型的中关系生意，做的是比较舒服的。",
+            "likes_count": 4,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 241142822114111,
+            "parent_comment_id": 241142822448811,
+            "create_time": "2020-02-07T21:00:17.631+0800",
+            "owner": {
+                "user_id": 15515111515442,
+                "name": "旺小哥",
+                "avatar_url": "https://images.zsxq.com/Fq8kDhJE4op8WLPhukPrvTpBBPE5?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:czU6BAFh5BuuPrJFW6Kbch5MDF8="
+            },
+            "text": "[强][强]",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 51281212212444,
+                "name": "范继福",
+                "avatar_url": "https://images.zsxq.com/Fr0TMyIvogEzrEPB1jh3sOIWwCOh?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:7NB41SjczH82TKTA-c_MjCOReSM="
+            }
+        },
+        {
+            "comment_id": 841142845425222,
+            "create_time": "2020-02-08T00:07:17.541+0800",
+            "owner": {
+                "user_id": 8212415112,
+                "name": "Jimi",
+                "alias": "Jimi",
+                "avatar_url": "https://images.zsxq.com/FiWv5yIogjugrkjGNdMOpLbJJQQg?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3hf7dVV6u5P9ulK0iGgaBqJE7yo="
+            },
+            "text": " 客户有需求，尽量用最低的成本，最快的速度，做出一个有感觉的东西。",
+            "likes_count": 0,
+            "rewards_count": 0
+        }
+    ],
+    "likes_count": 82,
+    "rewards_count": 6,
+    "comments_count": 11,
+    "reading_count": 12459,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2020-02-07T14:07:42.838+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

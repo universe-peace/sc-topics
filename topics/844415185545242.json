@@ -1,0 +1,288 @@
+{
+    "topic_id": 844415185545242,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 152228222,
+            "name": "穷查理",
+            "avatar_url": "https://images.zsxq.com/FjgmnIfYaV7My_9gsCtMHF3GbGYj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bfGYjWhq4uJMoOZr4WqCIAN5-HY="
+        },
+        "text": "有感于昨天曹大圈子里一个程序员打算创业的咨询，说说我对技术人创业的一些想法：\n\n我曾经在腾讯做技术，拿着不错的收入，数年前一时没想开就跑去创业了，这些年多次被社会无情地教育和打脸：\n\n废寝忘食地把网站做到日百万PV，以为有了流量就能赚到钱，却穷到连续一日三餐啃了一个星期的包子（菜包）。\n自认为带着互联网的光环去改造某个传统行业（宠物活体交易），没想到公司连续大半年没有一毛钱的进账，连狗贩子都鄙视我们。\n。。。。。。\n\n职场里面的技术人想创业，大多有这两个原因：\n1）怀才不遇导致的不安分\n     其实大部分人的怀才不遇只是自我高估罢了\n2）对产品和市场前景的想当然 \n     有些技术能力—>产品能顺利上线—>高效率找到目标用户—>用户愿意用、喜欢用—>通过用户赚到钱\n     这里的每一步都是非常地艰难，连罗永浩都步步维艰，更何况是我们呢？\n\n我觉得，技术人创业至少需要以下这些突破：\n\n1）产品思维\n     程序员大多是直男，这方面普遍欠缺。咱们自己做的东西，往往体验和文案都不忍直视。\n     代码写得再漂亮，可能用户看了半天都不知道是干啥的，也搞不明白怎么用。\n2）运营思维\n      获客成本是很容易被人忽略的东西，包括怎么做留存 ，这些方面做不好的话，上线第一天就是焦虑的开始。\n3）商业化   \n      技术出身的人往往有些书生气，不愿意深入思考怎么赚钱，经常做一些离钱太远的事情。特别是现在融资越来越难的情况下，项目的商业化能力就更重要了。\n4）领导力\n      创业不再是单打独斗，怎么样让小伙伴们信任你，你带着他们全心投入，不断打硬仗、打胜仗。这一点也是习惯了跟机器打交道的人面临的巨大挑战。\n\n\n很多技术人员习惯了代码提交了，工作就结束了。我们应该留意和学习一下其他团队和角色是怎么工作的，不要觉得他们的工作没什么技术含量。\n你们的产品到底是哪些人在用？他们的使用场景是什么？ 用户的增长模型是什么？获客成本怎么样？公司的收入结构又是怎么样？这些环节有哪些问题，你又能在哪些方面帮他们解决问题？\n\n不要接手一个项目就马上想着重构别人的代码，而是多思考上面这些问题，这样才能创造更大的价值。而你的代码很有可能也会被下一个程序员重构。\n\n写这些，是希望将来少几个啃包子的程序员兄弟[偷笑]\n\n我的公众号原文链接：<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkVZgV2vIdx7mFdvk8LaOpw\" title=\"%E7%A8%8B%E5%BA%8F%E5%91%98%E5%88%9B%E4%B8%9A%EF%BC%8C%E4%BD%A0%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97%EF%BC%9F\" cache=\"\" />"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-02-11T11:56:00.062+0800",
+            "owner": {
+                "user_id": 28441414244581,
+                "name": "supersadie",
+                "avatar_url": "https://images.zsxq.com/FjA_JcnCtbhtbu9Dc5rlganiGr-Z?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5t-83osc2_0WTOHVgELJaoIJgVo=",
+                "number": 6653
+            }
+        },
+        {
+            "create_time": "2019-12-09T13:49:33.473+0800",
+            "owner": {
+                "user_id": 555558448544,
+                "name": "徐骁",
+                "avatar_url": "https://images.zsxq.com/Fp1UfuazGLJltuioIT4zs_E2wag-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:YQvKWqU7wYEcyN0ypPRgijRh2f8=",
+                "number": 5721
+            }
+        },
+        {
+            "create_time": "2019-11-30T09:00:30.928+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-10-01T18:15:49.095+0800",
+            "owner": {
+                "user_id": 144845522882,
+                "name": "Amy大米",
+                "avatar_url": "https://images.zsxq.com/FuNzxVhkpp6OSFEkpeOpXHg-MoOx?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FO_IXySOzDtEMnb6p20Q7nlr4UI=",
+                "number": 6173
+            }
+        },
+        {
+            "create_time": "2019-09-30T21:40:25.524+0800",
+            "owner": {
+                "user_id": 544455221515424,
+                "name": "JM",
+                "avatar_url": "https://images.zsxq.com/Fk-s3kWIugL6st9VqAec49qzv2hY?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:h668XhXQ23lLUlv7qS77B6oXwWw=",
+                "number": 6035
+            }
+        },
+        {
+            "create_time": "2019-09-26T13:46:17.685+0800",
+            "owner": {
+                "user_id": 881515511222,
+                "name": "ada",
+                "avatar_url": "https://images.zsxq.com/FkZGznUU9pwqB4-P85URTFg2r-Ud?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:QpjjwjnfuLeyUDa3vB5XtlKVu6M=",
+                "number": 4698
+            }
+        },
+        {
+            "create_time": "2019-09-11T21:50:40.471+0800",
+            "owner": {
+                "user_id": 48812588225218,
+                "name": "傅超人",
+                "avatar_url": "https://images.zsxq.com/Fsj8n5BCabzlDRXyFu1MmjMJ4nlk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:XHuYQZhhXQsSDuvRx25zvl1PklY=",
+                "number": 2824
+            }
+        },
+        {
+            "create_time": "2019-08-23T23:46:42.069+0800",
+            "owner": {
+                "user_id": 145424452812,
+                "name": "无忌",
+                "avatar_url": "https://images.zsxq.com/FkfoK47mprW3flchsAtt6_4X5Nxc?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:b1KBXF2WJqY6K0rndfJDVaH0l_M=",
+                "number": 6121
+            }
+        },
+        {
+            "create_time": "2019-06-23T19:31:35.410+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-06-04T14:38:23.648+0800",
+            "owner": {
+                "user_id": 458552218828,
+                "name": "應",
+                "avatar_url": "https://images.zsxq.com/Fg3oGRKmlkjOGyAfhicYVTWE_Awu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:SNQSbZ7VoiF8WFxM99LB_ZwdOhM=",
+                "number": 1864
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-03-16T22:58:02.176+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "amount": 999
+        },
+        {
+            "create_time": "2019-04-29T14:43:20.891+0800",
+            "owner": {
+                "user_id": 555555518824,
+                "name": "子布",
+                "avatar_url": "https://images.zsxq.com/FkvbpBYvTsNiEG2gVbC4eGAKKfIU?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:gxwyj7QQ1SgzG_buXEa0LQTujgM="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-03-17T06:32:53.109+0800",
+            "owner": {
+                "user_id": 48412558115118,
+                "name": "📖加油丫头💝",
+                "alias": "爱拆快递的小白兔",
+                "avatar_url": "https://images.zsxq.com/Fkt817D8nJ1cz4MReKULRDhDL0Ol?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:g4_wyA5LoBHjGXpUuP2GMocSbUw="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2019-03-16T21:28:18.856+0800",
+            "owner": {
+                "user_id": 8485225152,
+                "name": "卡卡龙",
+                "avatar_url": "https://images.zsxq.com/FpgoztRWRGOnRcfxQwr0OEIZF3f_?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5n7tQCtUU_LjY5bK5dbn0nbNF9w="
+            },
+            "amount": 666
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 111884114858242,
+            "create_time": "2019-03-16T22:23:49.753+0800",
+            "owner": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            },
+            "text": "为什么不继续腾讯做着当兼职，然后一边搞自己的事业。等搞成功了再走也不迟（就算搞成功了也不要辞腾讯那份工，做着当养老也行）",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 844112442181282,
+            "parent_comment_id": 111884114858242,
+            "create_time": "2019-03-16T22:24:37.839+0800",
+            "owner": {
+                "user_id": 152228222,
+                "name": "穷查理",
+                "avatar_url": "https://images.zsxq.com/FjgmnIfYaV7My_9gsCtMHF3GbGYj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bfGYjWhq4uJMoOZr4WqCIAN5-HY="
+            },
+            "text": "那样估计一样都做不好吧[偷笑]",
+            "likes_count": 2,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            }
+        },
+        {
+            "comment_id": 111884114812412,
+            "create_time": "2019-03-16T22:35:07.463+0800",
+            "owner": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            },
+            "text": "那倒未必，其实很多人都这么搞。一，这样不用承担太大风险，算一个对自己的小试验，成了更好，不成没损失这月工资照拿不啃面包。时间的复利折腾久了总会成功一次。二，很多人都说没精力时间，其实下班时间就可以搞起来，总可以腾出几个小时，上班也可以搞啊趁不注意开个小差刷刷手机想想自己项目反正不会有人一直盯着你，刘慈欣不就这样趁上班写写小说。哈哈",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 544885445841444,
+            "parent_comment_id": 111884114812412,
+            "create_time": "2019-03-16T22:36:02.763+0800",
+            "owner": {
+                "user_id": 152228222,
+                "name": "穷查理",
+                "avatar_url": "https://images.zsxq.com/FjgmnIfYaV7My_9gsCtMHF3GbGYj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bfGYjWhq4uJMoOZr4WqCIAN5-HY="
+            },
+            "text": "有道理   所以那时候还是太年轻了[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            }
+        },
+        {
+            "comment_id": 844112442111182,
+            "create_time": "2019-03-16T22:48:04.052+0800",
+            "owner": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            },
+            "text": "年轻总有一种自我良好的感觉动不动就想创业，幻想搞出个改变世界的牛逼产品，只有啃过面包才知道生活的现实，职场中的沉淀才是最好的炼丹炉",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 4
+        },
+        {
+            "comment_id": 544885444222284,
+            "parent_comment_id": 844112442111182,
+            "create_time": "2019-03-16T22:48:44.358+0800",
+            "owner": {
+                "user_id": 152228222,
+                "name": "穷查理",
+                "avatar_url": "https://images.zsxq.com/FjgmnIfYaV7My_9gsCtMHF3GbGYj?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:bfGYjWhq4uJMoOZr4WqCIAN5-HY="
+            },
+            "text": "是的是的",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            }
+        },
+        {
+            "comment_id": 844112444825552,
+            "parent_comment_id": 844112442111182,
+            "create_time": "2019-03-16T23:27:35.167+0800",
+            "owner": {
+                "user_id": 454812841248,
+                "name": "黑少爷",
+                "avatar_url": "https://images.zsxq.com/Fkf54q_SIjYeTeg-WNx3zmNQO7R4?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:i2oMTUQDfFZNx_TkvNBwpZIqJQ8=",
+                "description": "创业者，其创业公司 4 个亿被收购"
+            },
+            "text": "把副业做成主业的人不少[呲牙]",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 88511414142252,
+                "name": "sunny",
+                "avatar_url": "https://images.zsxq.com/FiyukGO6GIxoPTWXduxdPiyo1Uaf?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:j3NEf7iTRvQADGwOGKWq6j9BfXo="
+            }
+        },
+        {
+            "comment_id": 244112444481821,
+            "create_time": "2019-03-17T00:30:13.662+0800",
+            "owner": {
+                "user_id": 152822252,
+                "name": "奥菲欧",
+                "avatar_url": "https://images.zsxq.com/FnwWf9jOlX_T3g0vLqozeHwoaJO9?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:fnN9EFyEKQKWjsv3eHxbxczYqw4="
+            },
+            "text": "那你现在是不是已经渡过了这样的艰难时刻，开始盈利了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        }
+    ],
+    "likes_count": 84,
+    "rewards_count": 4,
+    "comments_count": 33,
+    "reading_count": 30074,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-03-16T21:09:33.933+0800",
+    "modify_time": "2019-06-28T09:39:34.431+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

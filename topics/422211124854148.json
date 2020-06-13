@@ -1,0 +1,302 @@
+{
+    "topic_id": 422211124854148,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 552158581144,
+            "name": "亦仁",
+            "alias": "亦仁",
+            "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+            "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+        },
+        "text": "今天邀请一位圈友来我的公司，给团队做了场闭门分享，学习到很多，以后应该也有很多合作机会。\n\n很多时候，分享是相互的，“越分享越有价值”的前提是对方也是个愿意分享的人。大家都是聪明人，主动的人先迈出第一步，分享一些有价值的东西出来，对方没有相应的有价值的东西反馈出来，甚至没有回应，那么这次互相分享基本就停掉了。\n\n相反，当一个主动愿意分享的人踏出第一步，对方踏出更大的一步，这时候，双方的分享会越来越有料，越来越有价值，几个这样的人，聚集在一起，就是一个价值非常大的小圈子。\n\n不愿意分享的人，是进不了这个小圈子的，越没有新的输入，格局认知升级越慢，新的东西少，越不愿意分享，最终就只能自己的一亩三分地转来转去。"
+    },
+    "latest_likes": [
+        {
+            "create_time": "2020-03-09T15:53:39.487+0800",
+            "owner": {
+                "user_id": 422255418541218,
+                "name": "百里登风",
+                "avatar_url": "https://images.zsxq.com/FnbBOoWkT0qqlnnr9P7hAeXxqZVu?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:hMRULgl0tn3pp7uxshHm0R-hjFM=",
+                "number": 5690
+            }
+        },
+        {
+            "create_time": "2019-12-01T20:46:36.135+0800",
+            "owner": {
+                "user_id": 518122858144,
+                "name": "hehe",
+                "avatar_url": "https://images.zsxq.com/FnX5BdbMSRSXKcoqOrA_YvGFecdr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:HOALW3w90PlKBUY1ekYYc-EtBMw=",
+                "number": 6263
+            }
+        },
+        {
+            "create_time": "2019-09-29T13:08:01.183+0800",
+            "owner": {
+                "user_id": 241545852525411,
+                "name": "印",
+                "avatar_url": "https://images.zsxq.com/Fqlzrr1TOs0oOFxTm9H4udrYTmJn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:sxYGOjWjjXnWjXREuEpVRMU5ruI=",
+                "number": 6192
+            }
+        },
+        {
+            "create_time": "2019-08-19T08:46:57.497+0800",
+            "owner": {
+                "user_id": 48882151221228,
+                "name": "东向",
+                "alias": "东向",
+                "avatar_url": "https://images.zsxq.com/FhUG87jnSXLBcj8SxZHX1RjwKodN?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:3yWRj1aI2dbFIle9Fd8_gzrX_RQ=",
+                "number": 5953
+            }
+        },
+        {
+            "create_time": "2019-05-12T09:14:50.016+0800",
+            "owner": {
+                "user_id": 158428525822,
+                "name": "hank",
+                "avatar_url": "https://images.zsxq.com/FmSEthxyXDXWiEgz9iLcriv96F9k?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:l-7cDHST95SzWUbXSQbxBTunp_s=",
+                "number": 4611
+            }
+        },
+        {
+            "create_time": "2019-05-09T10:02:40.371+0800",
+            "owner": {
+                "user_id": 88284125511442,
+                "name": "勇敢的心❤5566",
+                "alias": "实习生",
+                "avatar_url": "https://images.zsxq.com/FhYEbzx-3QYb00KT1vzsEAgP-981?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:213GQLTeX1A6vtFhL5-gI4ZcxEw=",
+                "number": 3843
+            }
+        },
+        {
+            "create_time": "2019-05-06T16:30:03.148+0800",
+            "owner": {
+                "user_id": 422255881884518,
+                "name": "君洛惜",
+                "avatar_url": "https://images.zsxq.com/FhPVi3NgahRkjCRhjEubEIij9Ybo?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FledXmk5gMklc7ssOujUOazR068=",
+                "number": 3695
+            }
+        },
+        {
+            "create_time": "2019-05-05T23:40:25.906+0800",
+            "owner": {
+                "user_id": 51544821414554,
+                "name": "飞",
+                "avatar_url": "https://images.zsxq.com/FhnvgD4kQNsdAtZkvKECiyy8SMsW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J-540TGjanjmx_S21sHs3O43weA=",
+                "number": 3350
+            }
+        },
+        {
+            "create_time": "2019-05-03T17:31:12.683+0800",
+            "owner": {
+                "user_id": 15558254512282,
+                "name": "社会耶",
+                "avatar_url": "https://images.zsxq.com/FggsjUQ1gBqs7_uJvRNg8OyZJOxB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:nunQ1QFyr5P61WRnPWNMeO3ZUxI=",
+                "number": 5303
+            }
+        },
+        {
+            "create_time": "2019-05-01T14:43:17.245+0800",
+            "owner": {
+                "user_id": 5411211814,
+                "name": "Tang",
+                "avatar_url": "https://images.zsxq.com/FqI9zhBDzLcsRdyDMg0f-RBEElXS?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:4PDVzv5eNoFqFahfGZa770nDex4=",
+                "number": 3942
+            }
+        }
+    ],
+    "rewards": [
+        {
+            "create_time": "2019-04-28T12:56:43.998+0800",
+            "owner": {
+                "user_id": 481425225528,
+                "name": "馋嘴猫",
+                "alias": "馋嘴猫",
+                "avatar_url": "https://images.zsxq.com/FsNew7I0B4dsVoepDMZ8mYbnl27K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:u4CXXb_lrM-wji7WBtH-OXqR_o4=",
+                "description": "白话区块链创始人"
+            },
+            "amount": 3200
+        },
+        {
+            "create_time": "2019-04-28T01:00:06.568+0800",
+            "owner": {
+                "user_id": 4141152558,
+                "name": "V先生",
+                "avatar_url": "https://images.zsxq.com/FjZ6UHBywsXfjFf-7tlSVEq4uEn-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:r763oWH0xkbmId4peREzEIAOnFQ="
+            },
+            "amount": 1880
+        },
+        {
+            "create_time": "2019-04-28T08:24:07.261+0800",
+            "owner": {
+                "user_id": 458524481218,
+                "name": "端木澄源",
+                "avatar_url": "https://images.zsxq.com/FpZiv-DXKEhxisQi47HFPX0MqV4a?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aNfmt87Ca_vilezkQGHXVLgFMXE="
+            },
+            "amount": 100
+        },
+        {
+            "create_time": "2019-04-28T07:16:23.833+0800",
+            "owner": {
+                "user_id": 825185842552,
+                "name": "吴陆柒",
+                "avatar_url": "https://images.zsxq.com/Fg6A2FLq3CyJ-dE_nOjqruvjwc9K?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pgLm8rCatpqcaWRAzysDwfXsOYE="
+            },
+            "amount": 666
+        },
+        {
+            "create_time": "2019-04-28T02:08:53.723+0800",
+            "owner": {
+                "user_id": 48512822812288,
+                "name": "七里香",
+                "avatar_url": "https://images.zsxq.com/FgnRSl4GC4tOX3EwpKsOYdkT4Acw?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:NVEw-BwPfMAXLGGICbRM5rGGfVk="
+            },
+            "amount": 1888
+        },
+        {
+            "create_time": "2019-04-28T00:37:02.670+0800",
+            "owner": {
+                "user_id": 225855818511,
+                "name": "琚致远",
+                "avatar_url": "https://images.zsxq.com/Fmv2MFkEFBltWbCS-in-p5qivX8d?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:PAo1Su5M3d0XAL_btiuRGeQaHLo="
+            },
+            "amount": 318
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 548212584855154,
+            "create_time": "2019-04-28T00:27:31.037+0800",
+            "owner": {
+                "user_id": 51112454844884,
+                "name": "Auroraaa",
+                "avatar_url": "https://images.zsxq.com/FlP6PWSghuLFkj6EQbd8sdfnKJQ0?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:87GyLX0xxBaeczHhKbzZ6m9J3O4="
+            },
+            "text": "划重点：分享是相互的，越分享越有价值",
+            "likes_count": 2,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118252481844112,
+            "create_time": "2019-04-28T00:31:13.777+0800",
+            "owner": {
+                "user_id": 228121155541,
+                "name": "蓝土豆",
+                "avatar_url": "https://images.zsxq.com/Fml4TFzEV_QpS5-BF1224N9rifWl?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ivWJcWaQMvNTdzGL-EtdAKXt2dM="
+            },
+            "text": "可以也分享一下圈友的今分享的内容吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 421484512155228,
+            "create_time": "2019-04-28T00:31:17.527+0800",
+            "owner": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            },
+            "text": "闷声发大财还是信息共享这个辩题我仔细思考过，一般情况是各有各的理的，但如果加入时间这个维度，绝对是分享者共享者们占优，能笑到最后。\n（这个问题一直躺在我的草稿库里[捂脸]）",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "replies_count": 3
+        },
+        {
+            "comment_id": 841585214148212,
+            "create_time": "2019-04-28T00:53:33.130+0800",
+            "owner": {
+                "user_id": 1181151452,
+                "name": "三林",
+                "avatar_url": "https://images.zsxq.com/FiaOJge0BO8LcAxyEk0nfMe2A0WW?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:v3QSGUtuS6nREZbS5ImAtaQMEs0="
+            },
+            "text": "@邀请进来的盆友 记得写自我介绍哦",
+            "likes_count": 0,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 118252481818842,
+            "create_time": "2019-04-28T01:19:34.782+0800",
+            "owner": {
+                "user_id": 48412558115118,
+                "name": "📖加油丫头💝",
+                "alias": "爱拆快递的小白兔",
+                "avatar_url": "https://images.zsxq.com/Fkt817D8nJ1cz4MReKULRDhDL0Ol?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:g4_wyA5LoBHjGXpUuP2GMocSbUw="
+            },
+            "text": "划重点：亦仁大大语重心长的教育我们该把手头里私藏的idea统统上缴一下啦…",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 841585211525882,
+            "parent_comment_id": 421484512155228,
+            "create_time": "2019-04-28T02:27:34.966+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "值得思考的好主题",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            }
+        },
+        {
+            "comment_id": 548212588252114,
+            "create_time": "2019-04-28T02:29:18.679+0800",
+            "owner": {
+                "user_id": 244111422884281,
+                "name": "田宝【私人号】",
+                "alias": "田宝 ₁₈₅ ₀₃₀₉ ₈₉₀₉",
+                "avatar_url": "https://images.zsxq.com/FoFb9hZBr9BdPuUxtU0B9GoDkP6L?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ztk5TPEojNHym_tkxqON8ZGA0W8="
+            },
+            "text": "越分享越有价值\n\n但是有的商业机密，仅仅是小圈子知道……\n\n甚至最核心的东西，不愿意和人分享，特别是害怕竞争对手知道\n\n如果是互相同频，没有直接竞争，敞开心扉，彻底沟通，未尝不是好事",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 548212588245844,
+            "parent_comment_id": 421484512155228,
+            "create_time": "2019-04-28T06:34:41.756+0800",
+            "owner": {
+                "user_id": 2212441511,
+                "name": "张五哥",
+                "alias": "张五哥",
+                "avatar_url": "https://images.zsxq.com/FgG0X9EnxRQVlX6M5uH1Ftrc3KNv?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W5htuLUMsu-oyJkDnSBmlG6Sdd0="
+            },
+            "text": "分享首先是态度问题，其次是实力问题，最后是技巧问题，加上这三个维度其实结论很清楚了",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 281158145821,
+                "name": "千羽",
+                "avatar_url": "https://images.zsxq.com/FpSSnm58VY7feLZLbg6vSs2JyZbk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pAC3Pf_XK7kK5TXb6q1ol0fmdZ4=",
+                "description": "生财有术运营"
+            }
+        }
+    ],
+    "likes_count": 120,
+    "rewards_count": 6,
+    "comments_count": 20,
+    "reading_count": 10429,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2019-04-28T00:26:00.079+0800",
+    "modify_time": "2019-04-28T00:28:32.663+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}

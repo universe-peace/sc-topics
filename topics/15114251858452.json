@@ -1,0 +1,336 @@
+{
+    "topic_id": 15114251858452,
+    "group": {
+        "group_id": 1824528822,
+        "name": "生财有术"
+    },
+    "type": "talk",
+    "talk": {
+        "owner": {
+            "user_id": 111144828821182,
+            "name": "鱼丸|亦仁助理",
+            "alias": "鱼丸 | 亦仁助理",
+            "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+        },
+        "text": "<e type=\"hashtag\" hid=\"2455128841\" title=\"%23%E4%B8%80%E8%B5%B7%E8%B5%9A%E7%BE%8E%E5%85%83%23\" /> 一对生活在悉尼的已婚夫妇，通过建立在线创建表单的小工具，实现了一个月24000美元的收入。\n男方负责技术开发（专业是音乐和哲学，后期自学编程）、女方负责运营、财务和法律。\n\n上线时间：2016年8月\n截止现在每月收入：24000美元，环比增长率：10-15%；\n6000名付费用户；\n2000+活跃用户；\n20000+注册用户；\n\nPaperform，帮助业务人员在线创建表单的一个工具，比如产品的支付账单、活动注册表、或者健身课表，都可以快速在线生成，一大亮点是可以最大程度匹配用户所在公司的品牌调性，自主选择字体、颜色和图片。\n\n鱼丸体验了一下，有点类似于Wordpress创建的网页、Shopify的店铺模板，生成类似于网页一样的图文模板，参考图1，图2\n\n\n一、需求产生\n\n有一些朋友和同事需要为产品来定制表格，而市面上找不到合适的产品来满足需求。\n\n二、MVP\n\n16年5月开始，老公早上5点起床，对产品进行架构，之后再去上班，3个月后MVP正式上线了。之后有300个人过来测试，给了一些积极的反馈以及一些建设性批评建议。\n\n三、冷启动\n\n跟AppSumo合作，带了第一波流量。\n\n四、花费时间：\n\n从构思到推出，总计花了5个月，直到17年2月，产品持续在增长，两人结束了朝九晚五的工作，全职投入创业。\n\n五、收入模式：\n\n1.SaaS订阅，前14天可以免费使用，有三挡套餐：\n基础版：15美元/月\n专业版：39美元/月\n代理商：99美元/月\n\n\n六、产品推广：\n\n1.BetaList和AppSumo带来了第一波用户；\n2.口口相传和媒体的自然关注和曝光；\n3.博客上写文章，搜索引擎排到了第二位；\n4.分销：新用户和老用户都能获得10%的返现，推荐10位用户就能全免费；\n5.建立合作伙伴关系，赞助大学竞赛、与eCoach合作，获得了大量潜在用户。",
+        "images": [
+            {
+                "image_id": 15154548228852,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/FnKSv0Qsph5M_B5Q5NqouoyHhhLb?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VtM59fW8JcEHzM4EYIOQyw8f4as=",
+                    "width": 320,
+                    "height": 167
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/FnKSv0Qsph5M_B5Q5NqouoyHhhLb?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:WdQnuLE0-E5vl0udlu9NmAtC88o=",
+                    "width": 800,
+                    "height": 417
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/FnKSv0Qsph5M_B5Q5NqouoyHhhLb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:f1rt_0isyZjCbaprhX1xhljo2rw=",
+                    "width": 1200,
+                    "height": 625,
+                    "size": 594218
+                }
+            },
+            {
+                "image_id": 48285851441188,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fs9CxF5ZJ-yyl9ujiDbp082qZwpk?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:styKJtKkrXzfUoNQY0N3vu6ewu0=",
+                    "width": 320,
+                    "height": 163
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fs9CxF5ZJ-yyl9ujiDbp082qZwpk?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Ls2omu0zm_oN55u5DsdcQuLdpSg=",
+                    "width": 800,
+                    "height": 408
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fs9CxF5ZJ-yyl9ujiDbp082qZwpk?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:Of8bTbTYBldBe7cWfQGWRxdwF6w=",
+                    "width": 1597,
+                    "height": 815,
+                    "size": 408637
+                }
+            },
+            {
+                "image_id": 88482821551182,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/ltTg9sS2VzEsV28mV62E4juDPAyp?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:J5KUdMzsJm9tQcwBT6V4BxM7Ut0=",
+                    "width": 320,
+                    "height": 217
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/ltTg9sS2VzEsV28mV62E4juDPAyp?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:FNaW_UxKq_dDWbbkbeKoBRRm36o=",
+                    "width": 800,
+                    "height": 542
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/ltTg9sS2VzEsV28mV62E4juDPAyp?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-Wg926QqZDxcK9Has6AJxQzKD1M=",
+                    "width": 2054,
+                    "height": 1391,
+                    "size": 4642792
+                }
+            },
+            {
+                "image_id": 28482821551121,
+                "type": "png",
+                "thumbnail": {
+                    "url": "https://images.zsxq.com/Fv_r0-BnV0EaaUw_mRt99wk_mmPQ?imageMogr2/auto-orient/thumbnail/320x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ht8cx_a7cUp0T6y5of15FWs-yPQ=",
+                    "width": 320,
+                    "height": 123
+                },
+                "large": {
+                    "url": "https://images.zsxq.com/Fv_r0-BnV0EaaUw_mRt99wk_mmPQ?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:aWT0ST1shXCjnQR7Sjq0X5WWqtY=",
+                    "width": 800,
+                    "height": 309
+                },
+                "original": {
+                    "url": "https://images.zsxq.com/Fv_r0-BnV0EaaUw_mRt99wk_mmPQ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:50jrlWFQn2QDNLXyydKcJI_rLxs=",
+                    "width": 1200,
+                    "height": 463,
+                    "size": 62817
+                }
+            }
+        ]
+    },
+    "latest_likes": [
+        {
+            "create_time": "2019-06-03T11:58:23.876+0800",
+            "owner": {
+                "user_id": 15484485511442,
+                "name": "沐文",
+                "alias": "沐文",
+                "avatar_url": "https://images.zsxq.com/FtXjMTW_v0RoXGB7sDvSQvWG--F-?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_9QK4qYZpDXzer8za-2ImZ-cNwU=",
+                "number": 2959
+            }
+        },
+        {
+            "create_time": "2019-05-12T14:01:07.621+0800",
+            "owner": {
+                "user_id": 88482824284512,
+                "name": "Mars",
+                "avatar_url": "https://images.zsxq.com/FtNxECamMm2awMM38T62EjAstFfr?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:W4_16j7o5tQkBXIuNyvOVa9QKNQ=",
+                "number": 4811
+            }
+        },
+        {
+            "create_time": "2019-04-25T21:51:42.974+0800",
+            "owner": {
+                "user_id": 544454112441554,
+                "name": "贾董.JALL",
+                "alias": "贾董.JALL",
+                "avatar_url": "https://images.zsxq.com/FgVYotN3A5IQla3YKy5ecXGj9-rT?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:w-w_hOKNqcfctaj8PELSJ0x0X2s=",
+                "number": 4847
+            }
+        },
+        {
+            "create_time": "2018-12-17T23:54:21.312+0800",
+            "owner": {
+                "user_id": 142548485442,
+                "name": "不许变懒的猫",
+                "alias": "柚子（别摸我头会长不大）",
+                "avatar_url": "https://images.zsxq.com/FifUgrwrlRjBklYMlIEHu1P4TYxb?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:wBt0z7mEvMjrHLyQxIrucWWf9ic=",
+                "number": 153
+            }
+        },
+        {
+            "create_time": "2018-12-17T17:05:22.467+0800",
+            "owner": {
+                "user_id": 152845512,
+                "name": "苏",
+                "avatar_url": "https://images.zsxq.com/Fj8ntRD_r4p8TOv-kAaVFkDgY0EZ?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ZL86jQGAFyFF-A70trmQdjbCkNI=",
+                "number": 1520
+            }
+        },
+        {
+            "create_time": "2018-12-17T07:35:50.850+0800",
+            "owner": {
+                "user_id": 158885212212,
+                "name": "Kevin",
+                "avatar_url": "https://images.zsxq.com/Fr6Yh1_cHJXObrZejVXuOrIf8ryX?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:IYF1hGNe6ci5Kk0BHquRuYqpg4Q=",
+                "number": 2067
+            }
+        },
+        {
+            "create_time": "2018-12-16T20:33:25.372+0800",
+            "owner": {
+                "user_id": 481115485428,
+                "name": "Larus",
+                "avatar_url": "https://images.zsxq.com/FgfnQN28KOftqnU3pzmLtWSxBX0m?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dDxyotJuSeOsJ7vGv0HF904HQTw=",
+                "number": 1544
+            }
+        },
+        {
+            "create_time": "2018-12-16T13:00:36.298+0800",
+            "owner": {
+                "user_id": 4252414118,
+                "name": "mxclover",
+                "avatar_url": "https://images.zsxq.com/FqR1KIC1lE2qc64eeumQP9nbfktB?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:dr7dRn0oeaUZoPM_oTjjRNbpVkI=",
+                "number": 1694
+            }
+        },
+        {
+            "create_time": "2018-12-16T11:25:54.264+0800",
+            "owner": {
+                "user_id": 458444145528,
+                "name": "超然",
+                "avatar_url": "https://images.zsxq.com/FqnSNJrWQKDpehHRiuOfu0UrAc3y?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n-3dFhVxOA-awznBnN_A6q1bK4M=",
+                "number": 269
+            }
+        },
+        {
+            "create_time": "2018-12-16T01:27:14.713+0800",
+            "owner": {
+                "user_id": 828212541222,
+                "name": "Nommy",
+                "avatar_url": "https://images.zsxq.com/FkBSr1iwEE8KiqlDV73y7-QFsY8U?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:6jsMb03kJPjZKmLbyiXzmRDAKmU=",
+                "number": 348
+            }
+        }
+    ],
+    "show_comments": [
+        {
+            "comment_id": 422184828155518,
+            "create_time": "2018-12-15T18:17:04.316+0800",
+            "owner": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            },
+            "text": "自学编程！自学能力有点强大啊！",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 2
+        },
+        {
+            "comment_id": 844185815525122,
+            "create_time": "2018-12-15T23:20:01.121+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "夫妻天然适合做合伙人：\n价值观一致减少沟通成本\n利益一致，没有分配不均的困扰\n有多少合伙人是因为这两个分道扬镳的！！",
+            "likes_count": 1,
+            "rewards_count": 0
+        },
+        {
+            "comment_id": 111852582245582,
+            "parent_comment_id": 422184828155518,
+            "create_time": "2018-12-15T23:20:47.630+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "身边也有这样的大神😂",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            }
+        },
+        {
+            "comment_id": 844185815154112,
+            "create_time": "2018-12-16T08:09:54.138+0800",
+            "owner": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            },
+            "text": "是金数据、mikecrm这类网站吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 544812181544524,
+            "parent_comment_id": 422184828155518,
+            "create_time": "2018-12-16T11:14:52.999+0800",
+            "owner": {
+                "user_id": 145482258412,
+                "name": "hoolaa",
+                "avatar_url": "https://images.zsxq.com/Fmy1JZj0l-AT-VKfmFNQIZEgNJXC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n5xdGh4dqaps5aTN7wGUILKF3iY="
+            },
+            "text": "是亦仁吗？",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            }
+        },
+        {
+            "comment_id": 844185818244242,
+            "create_time": "2018-12-16T11:15:09.208+0800",
+            "owner": {
+                "user_id": 15554441125412,
+                "name": "自动机",
+                "avatar_url": "https://images.zsxq.com/FusjSa4T4HswdZ2lHjsGJVh5PGzn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n-KfkdSJ9v-95OgkwKzEXVEzgu8="
+            },
+            "text": "类似于金数据吧",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "replies_count": 1
+        },
+        {
+            "comment_id": 244185811281421,
+            "parent_comment_id": 844185815154112,
+            "create_time": "2018-12-16T16:40:57.131+0800",
+            "owner": {
+                "user_id": 552158581144,
+                "name": "亦仁",
+                "alias": "亦仁",
+                "avatar_url": "https://images.zsxq.com/Fn3NQqCN8nuGF86yZPXSbEsl0mb3?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:pfbNc8W3hS0oYG_hyXXh_rHMHuc=",
+                "description": "一直在路上的创业者，「生财有术」星主，公众号「亦无所知」，个人微信号：yirenpro"
+            },
+            "text": "不是我，尝试学过一段时间编程，没坚持下去。",
+            "likes_count": 1,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 228558124111,
+                "name": "kk",
+                "avatar_url": "https://images.zsxq.com/Frjr6Wz_A24r2ckoi_K8qkZq_euC?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:VFKwL5c8cR7Bu84hApWw6f4vGWc="
+            }
+        },
+        {
+            "comment_id": 844185288155822,
+            "parent_comment_id": 844185818244242,
+            "create_time": "2018-12-17T11:53:23.121+0800",
+            "owner": {
+                "user_id": 111144828821182,
+                "name": "鱼丸|亦仁助理",
+                "alias": "鱼丸 | 亦仁助理",
+                "avatar_url": "https://images.zsxq.com/FtTHJfWYtR2To4jzwGiUQdhHaRRa?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:AMY_BShrw-7TP6Fmqq7D-Deyytw="
+            },
+            "text": "有点像",
+            "likes_count": 0,
+            "rewards_count": 0,
+            "repliee": {
+                "user_id": 15554441125412,
+                "name": "自动机",
+                "avatar_url": "https://images.zsxq.com/FusjSa4T4HswdZ2lHjsGJVh5PGzn?e=1590940799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:n-KfkdSJ9v-95OgkwKzEXVEzgu8="
+            }
+        }
+    ],
+    "likes_count": 22,
+    "rewards_count": 0,
+    "comments_count": 9,
+    "reading_count": 10780,
+    "digested": true,
+    "sticky": false,
+    "create_time": "2018-12-15T13:22:38.371+0800",
+    "user_specific": {
+        "liked": false,
+        "subscribed": false
+    }
+}
