@@ -9,6 +9,8 @@ const main = () => {
 
   const { HashRouter, Switch, Route, Link, useParams } = ReactRouterDOM
 
+  const raw = id => 'https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=' + id
+
   const Index = memo(() => {
     const [data, setData] = useState([])
 
@@ -18,7 +20,10 @@ const main = () => {
 
     const list = data.map(i => {
       return h('li', {}, [
-        h(Link, { to: '/topic/' + i.i }, '[' + i.m + '] ' + i.t)
+        h(Link, {
+          to: i.l ? raw(i.i) : '/topic/' + i.i,
+        }, '[' + i.m + '] ' + i.t),
+        ( i.l ? ' (raw link)' : '' )
       ])
     })
     return h('ul', {}, list)
